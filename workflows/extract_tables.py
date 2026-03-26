@@ -56,6 +56,42 @@ AREA_PAT = re.compile(
     re.IGNORECASE,
 )
 
+# ISO 3166-2:LK district codes
+DISTRICT_ISO = {
+    "Colombo": "LK-11",
+    "Gampaha": "LK-12",
+    "Kalutara": "LK-13",
+    "Kandy": "LK-21",
+    "Matale": "LK-22",
+    "Nuwara Eliya": "LK-23",
+    "Galle": "LK-31",
+    "Matara": "LK-32",
+    "Hambantota": "LK-33",
+    "Jaffna": "LK-41",
+    "Mannar": "LK-42",
+    "Vavuniya": "LK-43",
+    "Mullaitivu": "LK-44",
+    "Kilinochchi": "LK-45",
+    "Trincomalee": "LK-51",
+    "Batticaloa": "LK-52",
+    "Ampara": "LK-53",
+    "Kurunegala": "LK-61",
+    "Puttalam": "LK-62",
+    "Anuradhapura": "LK-71",
+    "Polonnaruwa": "LK-72",
+    "Badulla": "LK-81",
+    "Moneragala": "LK-82",
+    "Monaragala": "LK-82",
+    "Ratnapura": "LK-91",
+    "Kegalle": "LK-92",
+    "Sri Lanka": "LK",
+}
+
+
+def to_region_id(label):
+    """Map a district name to its ISO 3166-2 region ID. Aggregates kept as-is."""
+    return DISTRICT_ISO.get(label, label)
+
 
 # ── helpers ──────────────────────────────────────────────────────────────────
 
@@ -270,7 +306,7 @@ def extract_simple(pdf_path, csv_stem=None):
             parsed = parse_data_line(ln)
             if parsed:
                 label, values = parsed
-                data.append([label] + values)
+                data.append([to_region_id(label)] + values)
 
     if not data:
         return None
@@ -299,7 +335,7 @@ def extract_simple(pdf_path, csv_stem=None):
                 f"col_{i+1}" for i in range(len(col_names), n_val_cols)
             ]
 
-    cols = ["district"] + val_cols
+    cols = ["region_id"] + val_cols
     df = pd.DataFrame(data, columns=cols)
     df = df.replace("-", pd.NA)
     return df
@@ -336,7 +372,7 @@ def extract_p11d1(pdf_path, csv_stem=None):
             nums = re.findall(r"-?[\d,]+\.?\d*", rest)
             if not nums:
                 # Standalone district heading — next lines are sex sub-rows
-                current_district = label
+                current_district = to_region_id(label)
             continue  # always skip AREA_PAT lines (data comes from sub-rows)
 
         # Check for sex sub-row
@@ -370,7 +406,7 @@ def extract_p11d1(pdf_path, csv_stem=None):
                 f"col_{i+1}" for i in range(len(col_names), n_val_cols)
             ]
 
-    cols = ["district", "sex"] + val_cols
+    cols = ["region_id", "sex"] + val_cols
     df = pd.DataFrame(rows, columns=cols)
     df = df.replace("-", pd.NA)
     return df
@@ -438,11 +474,11 @@ def extract_p9p4(pdf_path, csv_stem=None):
             nums = re.findall(r"-?[\d,]+\.?\d*", rest)
             if nums:
                 values = [n.replace(",", "") for n in nums]
-                rows.append([label, current_sex] + values)
+                rows.append([to_region_id(label), current_sex] + values)
                 pending_label = None
             else:
                 # District name alone — next numeric line is the data
-                pending_label = label
+                pending_label = to_region_id(label)
             continue
 
         # Continuation / data line for a split district
@@ -469,7 +505,7 @@ def extract_p9p4(pdf_path, csv_stem=None):
     else:
         val_cols = val_cols[:n_val_cols]
 
-    cols = ["district", "sex"] + val_cols
+    cols = ["region_id", "sex"] + val_cols
     df = pd.DataFrame(rows, columns=cols)
     df = df.replace("-", pd.NA)
     return df
