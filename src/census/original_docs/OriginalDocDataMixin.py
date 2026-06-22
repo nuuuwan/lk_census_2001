@@ -1,36 +1,15 @@
 import os
 import re
 
+from census.original_docs.OriginalDocDataConstanstsMixin import \
+    OriginalDocDataConstanstsMixin
 from census.original_docs.RegionUtils import RegionUtils
 from utils_future import JSONFile, Log
 
 log = Log("OriginalDocDataMixin")
 
 
-class OriginalDocDataMixin:
-    # flake8: noqa: C901
-    CUSTOM_HEADER_MAP = {
-        "percentage-of-employed-population-by-district-and-major-groups-of-industry": [
-            "District",
-            "Total employed population",
-            "Agriculture and Forestry",
-            "Fishing",
-            "Mining and Quarrying",
-            "Manufacturing",
-            "Electricity, Gas and Water Supply",
-            "Construction",
-            "Wholesale and Retail Trade",
-            "Hotels and Restaurants",
-            "Transport, Storage and Communication",
-            "Financial Intermediation",
-            "Real Estate, Renting and Business Activities",
-            "Public Administration and Defence; Compulsory Social Security",
-            "Education",
-            "Health and Social Work",
-            "Other Community, Social and Personal Service Activities",
-            "Private Households with Employed Persons",
-        ]
-    }
+class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
 
     def data_file_path(self):
         return os.path.join(self.dir_data, "data.json")
@@ -103,12 +82,6 @@ class OriginalDocDataMixin:
             return data
 
         return None
-
-    def get_custom_headers(self):
-        header_items = self.CUSTOM_HEADER_MAP.get(self.doc_id, None)
-        if not header_items:
-            return None
-        return [self.clean_header_item(item) for item in header_items]
 
     def parse_raw_data_by_district(self):
         raw_rows = JSONFile(self.raw_data_file_path()).read()

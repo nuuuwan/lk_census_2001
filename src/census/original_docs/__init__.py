@@ -3,6 +3,8 @@
 
 from census.original_docs.OriginalDoc import OriginalDoc
 from census.original_docs.OriginalDocBase import OriginalDocBase
+from census.original_docs.OriginalDocDataConstanstsMixin import \
+    OriginalDocDataConstanstsMixin
 from census.original_docs.OriginalDocDataMixin import OriginalDocDataMixin
 from census.original_docs.OriginalDocLoaderMixin import OriginalDocLoaderMixin
 from census.original_docs.OriginalDocPDFMixin import OriginalDocPDFMixin
