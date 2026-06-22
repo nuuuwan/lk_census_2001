@@ -10,17 +10,13 @@ from census.original_docs.OriginalDocRawDataMixin import (
 )
 from census.original_docs.OriginalDocReadmeMixin import OriginalDocReadmeMixin
 from census.original_docs.OriginalDocScrapeMixin import OriginalDocScrapeMixin
+from census.original_docs.OriginalDocTSVMixin import OriginalDocTSVMixin
 from census.original_docs.OriginalDocValidateMixin import (
     OriginalDocValidateMixin,
 )
 from utils_future import Log
 
 log = Log("OriginalDoc")
-
-
-class OriginalDocTSVMixin:
-    def build_tsv(self):
-        pass
 
 
 class OriginalDoc(
