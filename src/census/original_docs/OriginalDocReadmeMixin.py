@@ -112,6 +112,12 @@ class OriginalDocReadmeMixin:
         for i_doc, doc in enumerate(docs, start=1):
             lines.append(f"{i_doc:02d}. [{doc.short_name}]({doc.dir_data})")
 
+        url = (
+            "https://www.statistics.gov.lk"
+            + "/Population/StaticalInformation/CPH2001"
+        )
+        lines.append("")
+        lines.append(f"*[{url}]({url})*")
         lines.append("")
         lines.extend(cls.lines_for_footer())
 
