@@ -1,0 +1,1 @@
+# Disabled persons by type of disability, sex, rate per 10000 population and district

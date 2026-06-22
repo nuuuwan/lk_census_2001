@@ -1,0 +1,1 @@
+# Percentage of not economically active population by district

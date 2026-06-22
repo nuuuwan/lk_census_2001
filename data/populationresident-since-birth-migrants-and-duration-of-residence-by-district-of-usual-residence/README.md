@@ -1,0 +1,1 @@
+# Population,resident since birth, migrants and duration of residence by district of usual residence

@@ -1,0 +1,1 @@
+# Number and percentage of agricultural and fishery workers and non-agricultural and fishery workers by district

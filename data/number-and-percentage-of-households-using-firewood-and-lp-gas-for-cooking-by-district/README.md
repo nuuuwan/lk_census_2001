@@ -1,0 +1,1 @@
+# Number and percentage of households using firewood and L.P. gas for cooking by district

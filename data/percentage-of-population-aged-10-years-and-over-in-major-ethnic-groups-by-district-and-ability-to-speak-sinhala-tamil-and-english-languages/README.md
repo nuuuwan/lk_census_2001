@@ -1,0 +1,1 @@
+# Percentage of population aged 10 years and over in major ethnic groups by district and ability to speak, Sinhala, Tamil and English languages

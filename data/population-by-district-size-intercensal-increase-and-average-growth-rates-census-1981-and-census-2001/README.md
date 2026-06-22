@@ -1,0 +1,1 @@
+# Population by district, size, intercensal increase and average growth rates, Census 1981 and Census 2001

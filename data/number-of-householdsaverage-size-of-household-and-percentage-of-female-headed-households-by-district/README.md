@@ -1,0 +1,1 @@
+# Number of households,average size of household and percentage of female headed households by district

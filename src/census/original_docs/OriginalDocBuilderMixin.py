@@ -4,3 +4,4 @@ class OriginalDocBuilderMixin:
         self.download_pdf()
         self.parse_pdf()
         self.parse_raw_data()
+        self.readme_build()

@@ -1,0 +1,1 @@
+# Number and percentage of occupied housing units by district and permanent materials of construction outer walls floor, roof
