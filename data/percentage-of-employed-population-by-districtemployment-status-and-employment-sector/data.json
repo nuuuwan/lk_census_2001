@@ -1,0 +1,211 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "and-over": 5941574.0,
+      "": 13.0,
+      "employees": 5.1,
+      "employers": 47.1,
+      "workers": 7.5
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "and-over": 855142.0,
+      "": 14.5,
+      "employees": 5.3,
+      "employers": 63.1,
+      "workers": 1.7
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "and-over": 756186.0,
+      "": 11.9,
+      "employees": 5.2,
+      "employers": 63.1,
+      "workers": 2.0
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "and-over": 356837.0,
+      "": 13.7,
+      "employees": 5.7,
+      "employers": 55.5,
+      "workers": 3.6
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "and-over": 407554.0,
+      "": 16.2,
+      "employees": 7.4,
+      "employers": 46.7,
+      "workers": 5.4
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "and-over": 156179.0,
+      "": 12.2,
+      "employees": 4.9,
+      "employers": 33.9,
+      "workers": 13.1
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "and-over": 281546.0,
+      "": 7.9,
+      "employees": 12.7,
+      "employers": 55.3,
+      "workers": 6.2
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "and-over": 318680.0,
+      "": 14.0,
+      "employees": 3.6,
+      "employers": 49.8,
+      "workers": 7.6
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "and-over": 242175.0,
+      "": 12.9,
+      "employees": 5.6,
+      "employers": 43.4,
+      "workers": 8.3
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "and-over": 164923.0,
+      "": 12.6,
+      "employees": 2.9,
+      "employers": 25.5,
+      "workers": 10.3
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "and-over": 162322.0,
+      "": 17.6,
+      "employees": 2.6,
+      "employers": 31.3,
+      "workers": 8.6
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "and-over": 514553.0,
+      "": 13.0,
+      "employees": 3.1,
+      "employers": 36.4,
+      "workers": 10.6
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "and-over": 229425.0,
+      "": 9.0,
+      "employees": 2.6,
+      "employers": 55.8,
+      "workers": 4.7
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "and-over": 285806.0,
+      "": 16.8,
+      "employees": 2.5,
+      "employers": 17.6,
+      "workers": 20.0
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "and-over": 137078.0,
+      "": 15.0,
+      "employees": 2.1,
+      "employers": 20.3,
+      "workers": 17.1
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "and-over": 294223.0,
+      "": 12.4,
+      "employees": 6.3,
+      "employers": 35.1,
+      "workers": 15.0
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "and-over": 144600.0,
+      "": 10.7,
+      "employees": 3.4,
+      "employers": 16.1,
+      "workers": 22.7
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "and-over": 375365.0,
+      "": 8.7,
+      "employees": 4.9,
+      "employers": 45.5,
+      "workers": 9.3
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "and-over": 258980.0,
+      "": 13.2,
+      "employees": 5.6,
+      "employers": 53.0,
+      "workers": 3.9
+    }
+  }
+]

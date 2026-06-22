@@ -1,0 +1,230 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "aged-10-years-and-over": 7413175.0,
+      "students": 34.2,
+      "to-work": 8.2,
+      "recipients-and-pensioners": 3.7,
+      "work": 44.7,
+      "others": 9.3
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "aged-10-years-and-over": 974012.0,
+      "students": 29.1,
+      "to-work": 6.5,
+      "recipients-and-pensioners": 5.8,
+      "work": 47.8,
+      "others": 10.7
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "aged-10-years-and-over": 903634.0,
+      "students": 29.1,
+      "to-work": 7.2,
+      "recipients-and-pensioners": 5.2,
+      "work": 49.2,
+      "others": 9.3
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "aged-10-years-and-over": 485711.0,
+      "students": 30.4,
+      "to-work": 8.8,
+      "recipients-and-pensioners": 4.2,
+      "work": 46.7,
+      "others": 9.9
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "aged-10-years-and-over": 598478.0,
+      "students": 35.6,
+      "to-work": 7.6,
+      "recipients-and-pensioners": 4.1,
+      "work": 43.7,
+      "others": 9.0
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "aged-10-years-and-over": 192017.0,
+      "students": 35.7,
+      "to-work": 8.6,
+      "recipients-and-pensioners": 3.1,
+      "work": 44.7,
+      "others": 7.9
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "aged-10-years-and-over": 265316.0,
+      "students": 40.1,
+      "to-work": 12.0,
+      "recipients-and-pensioners": 3.8,
+      "work": 32.2,
+      "others": 11.8
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "aged-10-years-and-over": 454606.0,
+      "students": 34.0,
+      "to-work": 9.2,
+      "recipients-and-pensioners": 3.6,
+      "work": 43.7,
+      "others": 9.4
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "aged-10-years-and-over": 350275.0,
+      "students": 37.0,
+      "to-work": 9.7,
+      "recipients-and-pensioners": 3.0,
+      "work": 42.9,
+      "others": 7.4
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "aged-10-years-and-over": 240681.0,
+      "students": 38.3,
+      "to-work": 8.8,
+      "recipients-and-pensioners": 1.8,
+      "work": 43.1,
+      "others": 8.1
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "aged-10-years-and-over": 279542.0,
+      "students": 35.7,
+      "to-work": 7.1,
+      "recipients-and-pensioners": 1.3,
+      "work": 46.9,
+      "others": 9.0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "aged-10-years-and-over": 651584.0,
+      "students": 34.7,
+      "to-work": 8.7,
+      "recipients-and-pensioners": 2.9,
+      "work": 45.8,
+      "others": 7.8
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "aged-10-years-and-over": 317413.0,
+      "students": 31.2,
+      "to-work": 7.7,
+      "recipients-and-pensioners": 2.4,
+      "work": 49.3,
+      "others": 9.4
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "aged-10-years-and-over": 298176.0,
+      "students": 39.6,
+      "to-work": 7.4,
+      "recipients-and-pensioners": 2.5,
+      "work": 41.7,
+      "others": 8.8
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "aged-10-years-and-over": 145059.0,
+      "students": 36.9,
+      "to-work": 6.2,
+      "recipients-and-pensioners": 2.0,
+      "work": 45.9,
+      "others": 9.1
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "aged-10-years-and-over": 307311.0,
+      "students": 41.8,
+      "to-work": 9.3,
+      "recipients-and-pensioners": 3.4,
+      "work": 35.7,
+      "others": 9.8
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "aged-10-years-and-over": 159918.0,
+      "students": 44.2,
+      "to-work": 7.9,
+      "recipients-and-pensioners": 1.5,
+      "work": 37.7,
+      "others": 8.7
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "aged-10-years-and-over": 427657.0,
+      "students": 37.1,
+      "to-work": 9.0,
+      "recipients-and-pensioners": 2.2,
+      "work": 41.5,
+      "others": 10.1
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "aged-10-years-and-over": 361785.0,
+      "students": 32.7,
+      "to-work": 9.4,
+      "recipients-and-pensioners": 3.3,
+      "work": 45.2,
+      "others": 9.4
+    }
+  }
+]

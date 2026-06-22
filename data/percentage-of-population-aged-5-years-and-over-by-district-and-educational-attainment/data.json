@@ -1,0 +1,211 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "": 18.6,
+      "passed-year-15": null,
+      "68": null,
+      "911": 39.8,
+      "al-above": 10.6
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "": 15.3,
+      "passed-year-15": null,
+      "68": null,
+      "911": 44.3,
+      "al-above": 17.7
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "": 16.9,
+      "passed-year-15": null,
+      "68": null,
+      "911": 48.6,
+      "al-above": 13.3
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "": 18.3,
+      "passed-year-15": null,
+      "68": null,
+      "911": 43.6,
+      "al-above": 11.4
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "": 17.9,
+      "passed-year-15": null,
+      "68": null,
+      "911": 39.4,
+      "al-above": 12.1
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "": 19.7,
+      "passed-year-15": null,
+      "68": null,
+      "911": 37.8,
+      "al-above": 8.4
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "": 19.6,
+      "passed-year-15": null,
+      "68": null,
+      "911": 27.9,
+      "al-above": 5.0
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "": 19.3,
+      "passed-year-15": null,
+      "68": null,
+      "911": 40.5,
+      "al-above": 10.4
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "": 18.8,
+      "passed-year-15": null,
+      "68": null,
+      "911": 38.5,
+      "al-above": 10.2
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "": 19.6,
+      "passed-year-15": null,
+      "68": null,
+      "911": 36.9,
+      "al-above": 7.6
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "": 19.8,
+      "passed-year-15": null,
+      "68": null,
+      "911": 29.6,
+      "al-above": 7.3
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "": 19.8,
+      "passed-year-15": null,
+      "68": null,
+      "911": 40.4,
+      "al-above": 10.1
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "": 23.6,
+      "passed-year-15": null,
+      "68": null,
+      "911": 34.1,
+      "al-above": 6.8
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "": 20.5,
+      "passed-year-15": null,
+      "68": null,
+      "911": 39.0,
+      "al-above": 7.2
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "": 20.5,
+      "passed-year-15": null,
+      "68": null,
+      "911": 36.8,
+      "al-above": 6.5
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "": 18.9,
+      "passed-year-15": null,
+      "68": null,
+      "911": 33.5,
+      "al-above": 7.7
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "": 20.2,
+      "passed-year-15": null,
+      "68": null,
+      "911": 34.7,
+      "al-above": 5.9
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "": 19.6,
+      "passed-year-15": null,
+      "68": null,
+      "911": 36.0,
+      "al-above": 7.6
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "": 18.4,
+      "passed-year-15": null,
+      "68": null,
+      "911": 41.0,
+      "al-above": 10.1
+    }
+  }
+]

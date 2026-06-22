@@ -1,0 +1,211 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-occupied-housing-units": 3969027.0,
+      "permanent-no": 2771860.0,
+      "": 0.9,
+      "type-of-housing-unit-semi-permanent-no": 1123003.0,
+      "improvised-no": 33799.0
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-occupied-housing-units": 473045.0,
+      "permanent-no": 408473.0,
+      "": 0.3,
+      "type-of-housing-unit-semi-permanent-no": 54234.0,
+      "improvised-no": 1293.0
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-occupied-housing-units": 475847.0,
+      "permanent-no": 380985.0,
+      "": 1.1,
+      "type-of-housing-unit-semi-permanent-no": 83351.0,
+      "improvised-no": 5251.0
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-occupied-housing-units": 245784.0,
+      "permanent-no": 193973.0,
+      "": 0.4,
+      "type-of-housing-unit-semi-permanent-no": 48347.0,
+      "improvised-no": 1094.0
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-occupied-housing-units": 291454.0,
+      "permanent-no": 211576.0,
+      "": 0.1,
+      "type-of-housing-unit-semi-permanent-no": 76634.0,
+      "improvised-no": 430.0
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-occupied-housing-units": 108566.0,
+      "permanent-no": 61990.0,
+      "": 0.4,
+      "type-of-housing-unit-semi-permanent-no": 45588.0,
+      "improvised-no": 461.0
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-occupied-housing-units": 164886.0,
+      "permanent-no": 106766.0,
+      "": 0.2,
+      "type-of-housing-unit-semi-permanent-no": 54618.0,
+      "improvised-no": 300.0
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-occupied-housing-units": 229521.0,
+      "permanent-no": 166119.0,
+      "": 0.8,
+      "type-of-housing-unit-semi-permanent-no": 60304.0,
+      "improvised-no": 1722.0
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-occupied-housing-units": 174712.0,
+      "permanent-no": 126683.0,
+      "": 0.6,
+      "type-of-housing-unit-semi-permanent-no": 46118.0,
+      "improvised-no": 1096.0
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-occupied-housing-units": 126362.0,
+      "permanent-no": 75720.0,
+      "": 0.5,
+      "type-of-housing-unit-semi-permanent-no": 49367.0,
+      "improvised-no": 590.0
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-occupied-housing-units": 132371.0,
+      "permanent-no": 87347.0,
+      "": 3.0,
+      "type-of-housing-unit-semi-permanent-no": 39806.0,
+      "improvised-no": 3917.0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-occupied-housing-units": 376352.0,
+      "permanent-no": 241602.0,
+      "": 1.2,
+      "type-of-housing-unit-semi-permanent-no": 127978.0,
+      "improvised-no": 4493.0
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-occupied-housing-units": 174737.0,
+      "permanent-no": 107965.0,
+      "": 5.7,
+      "type-of-housing-unit-semi-permanent-no": 55263.0,
+      "improvised-no": 9908.0
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-occupied-housing-units": 186697.0,
+      "permanent-no": 99710.0,
+      "": 0.5,
+      "type-of-housing-unit-semi-permanent-no": 84703.0,
+      "improvised-no": 853.0
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-occupied-housing-units": 90999.0,
+      "permanent-no": 54193.0,
+      "": 0.5,
+      "type-of-housing-unit-semi-permanent-no": 35566.0,
+      "improvised-no": 431.0
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-occupied-housing-units": 185268.0,
+      "permanent-no": 120557.0,
+      "": 0.1,
+      "type-of-housing-unit-semi-permanent-no": 62426.0,
+      "improvised-no": 194.0
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-occupied-housing-units": 95966.0,
+      "permanent-no": 46691.0,
+      "": 0.4,
+      "type-of-housing-unit-semi-permanent-no": 48327.0,
+      "improvised-no": 380.0
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-occupied-housing-units": 242882.0,
+      "permanent-no": 148266.0,
+      "": 0.2,
+      "type-of-housing-unit-semi-permanent-no": 92413.0,
+      "improvised-no": 406.0
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-occupied-housing-units": 193578.0,
+      "permanent-no": 133244.0,
+      "": 0.5,
+      "type-of-housing-unit-semi-permanent-no": 57960.0,
+      "improvised-no": 980.0
+    }
+  }
+]

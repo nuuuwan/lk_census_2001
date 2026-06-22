@@ -1,0 +1,211 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "aged-69-years": 94.4,
+      "aged-1014-years": 92.2,
+      "aged-1519-years": 52.6,
+      "aged-614-years": 93.2,
+      "aged-619-years": 77.9
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "aged-69-years": 93.2,
+      "aged-1014-years": 90.3,
+      "aged-1519-years": 46.3,
+      "aged-614-years": 91.6,
+      "aged-619-years": 72.9
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "aged-69-years": 95.6,
+      "aged-1014-years": 93.3,
+      "aged-1519-years": 46.0,
+      "aged-614-years": 94.3,
+      "aged-619-years": 74.5
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "aged-69-years": 93.8,
+      "aged-1014-years": 91.2,
+      "aged-1519-years": 51.5,
+      "aged-614-years": 92.3,
+      "aged-619-years": 76.6
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "aged-69-years": 94.8,
+      "aged-1014-years": 93.2,
+      "aged-1519-years": 60.0,
+      "aged-614-years": 93.9,
+      "aged-619-years": 81.3
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "aged-69-years": 95.4,
+      "aged-1014-years": 93.7,
+      "aged-1519-years": 54.2,
+      "aged-614-years": 94.5,
+      "aged-619-years": 79.3
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "aged-69-years": 91.0,
+      "aged-1014-years": 88.7,
+      "aged-1519-years": 50.9,
+      "aged-614-years": 89.7,
+      "aged-619-years": 75.8
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "aged-69-years": 95.0,
+      "aged-1014-years": 93.4,
+      "aged-1519-years": 55.8,
+      "aged-614-years": 94.1,
+      "aged-619-years": 80.2
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "aged-69-years": 94.8,
+      "aged-1014-years": 93.6,
+      "aged-1519-years": 60.5,
+      "aged-614-years": 94.1,
+      "aged-619-years": 82.0
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "aged-69-years": 96.0,
+      "aged-1014-years": 95.1,
+      "aged-1519-years": 59.3,
+      "aged-614-years": 95.5,
+      "aged-619-years": 82.7
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "aged-69-years": 92.8,
+      "aged-1014-years": 90.0,
+      "aged-1519-years": 50.8,
+      "aged-614-years": 91.3,
+      "aged-619-years": 76.5
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "aged-69-years": 95.3,
+      "aged-1014-years": 93.6,
+      "aged-1519-years": 57.6,
+      "aged-614-years": 94.4,
+      "aged-619-years": 80.3
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "aged-69-years": 93.5,
+      "aged-1014-years": 88.9,
+      "aged-1519-years": 41.9,
+      "aged-614-years": 91.0,
+      "aged-619-years": 72.5
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "aged-69-years": 95.6,
+      "aged-1014-years": 93.9,
+      "aged-1519-years": 53.1,
+      "aged-614-years": 94.7,
+      "aged-619-years": 79.7
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "aged-69-years": 94.5,
+      "aged-1014-years": 92.1,
+      "aged-1519-years": 47.4,
+      "aged-614-years": 93.1,
+      "aged-619-years": 76.4
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "aged-69-years": 93.9,
+      "aged-1014-years": 92.1,
+      "aged-1519-years": 57.6,
+      "aged-614-years": 92.9,
+      "aged-619-years": 80.5
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "aged-69-years": 95.6,
+      "aged-1014-years": 94.1,
+      "aged-1519-years": 56.2,
+      "aged-614-years": 94.7,
+      "aged-619-years": 81.5
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "aged-69-years": 93.3,
+      "aged-1014-years": 90.8,
+      "aged-1519-years": 51.8,
+      "aged-614-years": 91.9,
+      "aged-619-years": 77.2
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "aged-69-years": 94.7,
+      "aged-1014-years": 93.2,
+      "aged-1519-years": 58.4,
+      "aged-614-years": 93.9,
+      "aged-619-years": 80.7
+    }
+  }
+]

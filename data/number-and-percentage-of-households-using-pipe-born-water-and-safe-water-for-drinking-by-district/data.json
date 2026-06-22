@@ -1,0 +1,173 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "housing-units": 4054186.0,
+      "no": 3316815.0,
+      "": 81.8
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "housing-units": 493085.0,
+      "no": 470952.0,
+      "": 95.5
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "housing-units": 487184.0,
+      "no": 445432.0,
+      "": 91.4
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "housing-units": 250939.0,
+      "no": 210772.0,
+      "": 84.0
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "housing-units": 299870.0,
+      "no": 244357.0,
+      "": 81.5
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "housing-units": 110886.0,
+      "no": 89249.0,
+      "": 80.5
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "housing-units": 169540.0,
+      "no": 115079.0,
+      "": 67.9
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "housing-units": 233027.0,
+      "no": 189283.0,
+      "": 81.2
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "housing-units": 177613.0,
+      "no": 137502.0,
+      "": 77.4
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "housing-units": 128008.0,
+      "no": 106758.0,
+      "": 83.4
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "housing-units": 137741.0,
+      "no": 117669.0,
+      "": 85.4
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "housing-units": 380213.0,
+      "no": 323114.0,
+      "": 85.0
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "housing-units": 176544.0,
+      "no": 159325.0,
+      "": 90.2
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "housing-units": 189699.0,
+      "no": 157565.0,
+      "": 83.1
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "housing-units": 91718.0,
+      "no": 69041.0,
+      "": 75.3
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "housing-units": 189925.0,
+      "no": 133391.0,
+      "": 70.2
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "housing-units": 96598.0,
+      "no": 61278.0,
+      "": 63.4
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "housing-units": 245743.0,
+      "no": 150709.0,
+      "": 61.3
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "housing-units": 195853.0,
+      "no": 135339.0,
+      "": 69.1
+    }
+  }
+]

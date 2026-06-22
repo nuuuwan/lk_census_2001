@@ -1,0 +1,173 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "aged-10-years-and-over": 5941574.0,
+      "no": 4268609.0,
+      "": 71.8
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "aged-10-years-and-over": 855142.0,
+      "no": 836672.0,
+      "": 97.8
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "aged-10-years-and-over": 756186.0,
+      "no": 719044.0,
+      "": 95.1
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "aged-10-years-and-over": 356837.0,
+      "no": 302088.0,
+      "": 84.7
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "aged-10-years-and-over": 407554.0,
+      "no": 319048.0,
+      "": 78.3
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "aged-10-years-and-over": 156179.0,
+      "no": 94468.0,
+      "": 60.5
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "aged-10-years-and-over": 281546.0,
+      "no": 110363.0,
+      "": 39.2
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "aged-10-years-and-over": 318680.0,
+      "no": 225115.0,
+      "": 70.6
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "aged-10-years-and-over": 242175.0,
+      "no": 153726.0,
+      "": 63.5
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "aged-10-years-and-over": 164923.0,
+      "no": 96828.0,
+      "": 58.7
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "aged-10-years-and-over": 162322.0,
+      "no": 90817.0,
+      "": 55.9
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "aged-10-years-and-over": 514553.0,
+      "no": 347917.0,
+      "": 67.6
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "aged-10-years-and-over": 229425.0,
+      "no": 170628.0,
+      "": 74.4
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "aged-10-years-and-over": 285806.0,
+      "no": 136268.0,
+      "": 47.7
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "aged-10-years-and-over": 137078.0,
+      "no": 67309.0,
+      "": 49.1
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "aged-10-years-and-over": 294223.0,
+      "no": 132064.0,
+      "": 44.9
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "aged-10-years-and-over": 144600.0,
+      "no": 56614.0,
+      "": 39.2
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "aged-10-years-and-over": 375365.0,
+      "no": 213031.0,
+      "": 56.8
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "aged-10-years-and-over": 258980.0,
+      "no": 196609.0,
+      "": 75.9
+    }
+  }
+]
