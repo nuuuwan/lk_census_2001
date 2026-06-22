@@ -17,6 +17,7 @@ class OriginalDocReadmeMixin:
         lines = ["## File Formats", ""]
         for label, file_name in [
             ("📄 JSON Data", self.data_file_path),
+            ("📄 TSV Data", self.tsv_file_path),
             ("📄 Raw JSON Data from Original", self.raw_data_file_path),
             ("📜 Original PDF", self.pdf_file_path),
         ]:
