@@ -2,45 +2,15 @@ import re
 
 from bs4 import BeautifulSoup
 
+from census.original_docs.OriginalDocScrapeConstantsMixin import (
+    OriginalDocScrapeConstantsMixin,
+)
 from utils_future import WWW, Log
 
 log = Log("OriginalDocScrapeMixin")
 
 
-class OriginalDocScrapeMixin:
-    URL_BASE = (
-        "https://www.statistics.gov.lk" + "/Population/StaticalInformation/"
-    )
-
-    INITIAL_URL_INFO_QUEUE = [
-        (
-            "https://www.statistics.gov.lk"
-            + "/Population/PopHouStat_Population",
-            "cph2001_population",
-        ),
-        (
-            "https://www.statistics.gov.lk" + "/Population/PopHouStat_Housing",
-            "cph2001_housing",
-        ),
-        (
-            "https://www.statistics.gov.lk"
-            + "/Population/PopHouStat_Disability",
-            "cph2001_disability",
-        ),
-    ]
-
-    @staticmethod
-    def is_valid_url(url: str) -> bool:
-        for prefix in [
-            "https://www.statistics.gov.lk"
-            + "/Population/StaticalInformation/CPH2001/",
-            "https://www.statistics.gov.lk"
-            + "/Population/PopHouStat_Population",
-            "https://www.statistics.gov.lk" + "/Population",
-        ]:
-            if url.startswith(prefix):
-                return True
-        return False
+class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
 
     @classmethod
     def parse_iframe(cls, i_frame, label):
@@ -61,27 +31,8 @@ class OriginalDocScrapeMixin:
         return label
 
     @classmethod
-    def scrape_remote_url(
-        cls,
-        label,
-        url,
-        url_info_queue,
-        visited_urls,
-        original_docs,
-        i_original_doc,
-    ):
-        www = WWW(url)
-        html = www.read_html()
-        soup = BeautifulSoup(html, "html.parser")
-
-        i_frame = soup.find("iframe")
-        original_doc = cls.parse_iframe(i_frame, label)
-        if original_doc:
-            i_original_doc += 1
-            original_docs.append(original_doc)
-            log.info(f"Found {i_original_doc}) {original_doc}")
-            log.debug("-" * 20)
-
+    def get_valid_url_infos(cls, soup, visited_urls):
+        url_info_queue = []
         for a in soup.find_all("a", href=True):
             label_a = cls.clean_label(a.text)
             url_a = a["href"].strip()
@@ -91,8 +42,28 @@ class OriginalDocScrapeMixin:
             if (cls.is_valid_url(url_a)) and url_a not in visited_urls:
                 log.debug(f"\tQueued {url_a}")
                 url_info_queue.append((url_a, label_a))
+        return url_info_queue
 
-        return i_original_doc, original_docs, url_info_queue, visited_urls
+    @classmethod
+    def scrape_remote_url(
+        cls,
+        label,
+        url,
+        visited_urls,
+    ):
+        www = WWW(url)
+        html = www.read_html()
+        soup = BeautifulSoup(html, "html.parser")
+
+        i_frame = soup.find("iframe")
+        original_doc = cls.parse_iframe(i_frame, label)
+        new_url_infos = cls.get_valid_url_infos(soup, visited_urls)
+
+        return (
+            visited_urls,
+            original_doc,
+            new_url_infos,
+        )
 
     @classmethod
     def scrape_remote(cls, max_docs, max_urls):
@@ -100,29 +71,35 @@ class OriginalDocScrapeMixin:
         url_info_queue = cls.INITIAL_URL_INFO_QUEUE
         visited_urls = set()
         original_docs = []
-        i_original_doc = 0
         while url_info_queue:
             url, label = url_info_queue.pop(0)
             if url in visited_urls:
                 continue
             visited_urls.add(url)
-            if len(visited_urls) > max_urls:
-                log.warning(f"🛑 max_urls={max_urls} reached, stopping scrape")
-                break
 
-            i_original_doc, original_docs, url_info_queue, visited_urls = (
-                cls.scrape_remote_url(
-                    label,
-                    url,
-                    url_info_queue,
-                    visited_urls,
-                    original_docs,
-                    i_original_doc,
-                )
+            (
+                visited_urls,
+                original_doc,
+                new_url_infos,
+            ) = cls.scrape_remote_url(
+                label,
+                url,
+                visited_urls,
             )
 
-            if i_original_doc >= max_docs:
+            if original_doc:
+                original_docs.append(original_doc)
+                i_original_doc = len(original_docs)
+                log.info(f"Found {i_original_doc}) {original_doc}")
+                log.debug("-" * 20)
+
+            url_info_queue.extend(new_url_infos)
+
+            if len(original_docs) >= max_docs:
                 log.warning(f"🛑 max_docs={max_docs} reached, stopping scrape")
+                break
+            if len(visited_urls) > max_urls:
+                log.warning(f"🛑 max_urls={max_urls} reached, stopping scrape")
                 break
 
         cls.write_metadata(original_docs)
