@@ -11,9 +11,9 @@ class OriginalDocValidateMixin:
         docs = cls.list()
         group_to_doc_id = {}
         for doc in docs:
-            if os.path.exists(doc.data_file_path()):
+            if os.path.exists(doc.data_file_path):
                 status = "🟢 data"
-            elif os.path.exists(doc.raw_data_file_path()):
+            elif os.path.exists(doc.raw_data_file_path):
                 status = "🟠 raw_data"
             elif os.path.exists(doc.pdf_file_path()):
                 status = "🟡 pdf"

@@ -1,8 +1,10 @@
 import os
 import re
+from functools import cached_property
 
-from census.original_docs.OriginalDocDataConstanstsMixin import \
-    OriginalDocDataConstanstsMixin
+from census.original_docs.OriginalDocDataConstanstsMixin import (
+    OriginalDocDataConstanstsMixin,
+)
 from census.original_docs.RegionUtils import RegionUtils
 from utils_future import JSONFile, Log
 
@@ -11,6 +13,7 @@ log = Log("OriginalDocDataMixin")
 
 class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
 
+    @cached_property
     def data_file_path(self):
         return os.path.join(self.dir_data, "data.json")
 
@@ -90,7 +93,7 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
         return None
 
     def parse_raw_data_by_district(self):
-        raw_rows = JSONFile(self.raw_data_file_path()).read()
+        raw_rows = JSONFile(self.raw_data_file_path).read()
         raw_header_rows, raw_data_rows = (
             self.split_raw_header_and_raw_data_rows(raw_rows)
         )
@@ -114,12 +117,12 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
             log.warning(f"No data rows parsed for {self.doc_id}")
             return
 
-        data_file = JSONFile(self.data_file_path())
+        data_file = JSONFile(self.data_file_path)
         data_file.write(data_list)
         log.info(f"Wrote {len(data_list)} rows to {data_file}")
 
     def parse_raw_data(self):
-        data_file = JSONFile(self.data_file_path())
+        data_file = JSONFile(self.data_file_path)
         if data_file.exists:
             log.debug(f"{data_file} exists")
             return data_file.read()
