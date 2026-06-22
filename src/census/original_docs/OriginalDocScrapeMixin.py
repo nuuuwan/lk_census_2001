@@ -20,6 +20,7 @@ class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
                 url_pdf = src if src.startswith("http") else cls.URL_BASE + src
                 original_doc = cls(name=label, url=url_pdf)
                 original_doc.download_pdf()
+                original_doc.parse_pdf()
                 return original_doc
         return None
 

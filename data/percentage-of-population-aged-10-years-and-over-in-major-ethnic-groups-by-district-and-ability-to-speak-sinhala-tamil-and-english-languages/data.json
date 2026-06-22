@@ -1,0 +1,211 @@
+[
+  {
+    "Tamil Language": "4.0",
+    "English Language": "13.2",
+    "Sinhala Language": "64.6",
+    "English Language_2": "24.1",
+    "Sinhala Language_2": "50.8",
+    "English Language_3": "8.7",
+    "Sinhala Language_3": "60.9",
+    "English Language_4": "20.6",
+    "row_label": "Total (18 districts)"
+  },
+  {
+    "Tamil Language": "5.1",
+    "English Language": "28.8",
+    "Sinhala Language": "74.0",
+    "English Language_2": "38.9",
+    "Sinhala Language_2": "82.3",
+    "English Language_3": "28.9",
+    "Sinhala Language_3": "86.1",
+    "English Language_4": "44.7",
+    "row_label": "Colombo"
+  },
+  {
+    "Tamil Language": "3.2",
+    "English Language": "17.1",
+    "Sinhala Language": "84.0",
+    "English Language_2": "32.4",
+    "Sinhala Language_2": "85.6",
+    "English Language_3": "25.4",
+    "Sinhala Language_3": "80.8",
+    "English Language_4": "24.3",
+    "row_label": "Gampaha"
+  },
+  {
+    "Tamil Language": "2.6",
+    "English Language": "14.1",
+    "Sinhala Language": "82.6",
+    "English Language_2": "11.7",
+    "Sinhala Language_2": "81.9",
+    "English Language_3": "6.2",
+    "Sinhala Language_3": "77.2",
+    "English Language_4": "18.2",
+    "row_label": "Kalutara"
+  },
+  {
+    "Tamil Language": "7.3",
+    "English Language": "17.1",
+    "Sinhala Language": "74.9",
+    "English Language_2": "25.9",
+    "Sinhala Language_2": "57.0",
+    "English Language_3": "10.1",
+    "Sinhala Language_3": "70.7",
+    "English Language_4": "26.2",
+    "row_label": "Kandy"
+  },
+  {
+    "Tamil Language": "5.2",
+    "English Language": "9.4",
+    "Sinhala Language": "76.3",
+    "English Language_2": "19.6",
+    "Sinhala Language_2": "65.1",
+    "English Language_3": "7.4",
+    "Sinhala Language_3": "71.5",
+    "English Language_4": "25.9",
+    "row_label": "Matale"
+  },
+  {
+    "Tamil Language": "16.8",
+    "English Language": "10.9",
+    "Sinhala Language": "52.6",
+    "English Language_2": "18.7",
+    "Sinhala Language_2": "35.0",
+    "English Language_3": "8.6",
+    "Sinhala Language_3": "72.1",
+    "English Language_4": "22.2",
+    "row_label": "Nuwara Eliya"
+  },
+  {
+    "Tamil Language": "1.4",
+    "English Language": "12.3",
+    "Sinhala Language": "87.0",
+    "English Language_2": "6.0",
+    "Sinhala Language_2": "88.0",
+    "English Language_3": "3.2",
+    "Sinhala Language_3": "86.3",
+    "English Language_4": "23.2",
+    "row_label": "Galle"
+  },
+  {
+    "Tamil Language": "1.5",
+    "English Language": "8.9",
+    "Sinhala Language": "85.4",
+    "English Language_2": "4.3",
+    "Sinhala Language_2": "74.6",
+    "English Language_3": "1.9",
+    "Sinhala Language_3": "84.4",
+    "English Language_4": "19.7",
+    "row_label": "Matara"
+  },
+  {
+    "Tamil Language": "1.0",
+    "English Language": "6.1",
+    "Sinhala Language": "89.3",
+    "English Language_2": "6.7",
+    "Sinhala Language_2": "84.7",
+    "English Language_3": "7.1",
+    "Sinhala Language_3": "94.9",
+    "English Language_4": "27.9",
+    "row_label": "Hambantota"
+  },
+  {
+    "Tamil Language": "5.3",
+    "English Language": "4.9",
+    "Sinhala Language": "9.7",
+    "English Language_2": "7.6",
+    "Sinhala Language_2": "32.8",
+    "English Language_3": "8.9",
+    "Sinhala Language_3": "10.6",
+    "English Language_4": "8.1",
+    "row_label": "Ampara"
+  },
+  {
+    "Tamil Language": "1.7",
+    "English Language": "8.4",
+    "Sinhala Language": "88.7",
+    "English Language_2": "11.9",
+    "Sinhala Language_2": "86.4",
+    "English Language_3": "13.5",
+    "Sinhala Language_3": "80.7",
+    "English Language_4": "15.0",
+    "row_label": "Kurunegala"
+  },
+  {
+    "Tamil Language": "6.0",
+    "English Language": "8.2",
+    "Sinhala Language": "67.1",
+    "English Language_2": "9.6",
+    "Sinhala Language_2": "67.0",
+    "English Language_3": "6.2",
+    "Sinhala Language_3": "33.3",
+    "English Language_4": "7.0",
+    "row_label": "Puttalam"
+  },
+  {
+    "Tamil Language": "2.3",
+    "English Language": "6.5",
+    "Sinhala Language": "80.4",
+    "English Language_2": "11.8",
+    "Sinhala Language_2": "82.2",
+    "English Language_3": "14.9",
+    "Sinhala Language_3": "60.8",
+    "English Language_4": "10.6",
+    "row_label": "Anuradhapura"
+  },
+  {
+    "Tamil Language": "2.8",
+    "English Language": "6.7",
+    "Sinhala Language": "43.6",
+    "English Language_2": "3.3",
+    "Sinhala Language_2": "53.7",
+    "English Language_3": "7.9",
+    "Sinhala Language_3": "41.6",
+    "English Language_4": "5.3",
+    "row_label": "Polonnaruwa"
+  },
+  {
+    "Tamil Language": "10.1",
+    "English Language": "9.8",
+    "Sinhala Language": "67.6",
+    "English Language_2": "19.6",
+    "Sinhala Language_2": "46.1",
+    "English Language_3": "8.2",
+    "Sinhala Language_3": "80.2",
+    "English Language_4": "17.8",
+    "row_label": "Badulla"
+  },
+  {
+    "Tamil Language": "2.9",
+    "English Language": "5.1",
+    "Sinhala Language": "68.3",
+    "English Language_2": "7.0",
+    "Sinhala Language_2": "56.1",
+    "English Language_3": "4.5",
+    "Sinhala Language_3": "78.1",
+    "English Language_4": "8.3",
+    "row_label": "Moneragala"
+  },
+  {
+    "Tamil Language": "4.0",
+    "English Language": "7.3",
+    "Sinhala Language": "77.3",
+    "English Language_2": "10.2",
+    "Sinhala Language_2": "68.4",
+    "English Language_3": "4.9",
+    "Sinhala Language_3": "90.4",
+    "English Language_4": "21.7",
+    "row_label": "Ratnapura"
+  },
+  {
+    "Tamil Language": "3.4",
+    "English Language": "9.4",
+    "Sinhala Language": "80.4",
+    "English Language_2": "10.5",
+    "Sinhala Language_2": "71.7",
+    "English Language_3": "5.6",
+    "Sinhala Language_3": "79.5",
+    "English Language_4": "23.9",
+    "row_label": "Kegalle"
+  }
+]

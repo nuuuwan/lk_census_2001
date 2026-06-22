@@ -1,0 +1,116 @@
+[
+  {
+    "Housing Units": "3,969,027",
+    "and Shanties": "33,188",
+    "shanties": "0.8",
+    "row_label": "Total (18 districts)"
+  },
+  {
+    "Housing Units": "473,045",
+    "and Shanties": "7,278",
+    "shanties": "1.5",
+    "row_label": "Colombo"
+  },
+  {
+    "Housing Units": "475,847",
+    "and Shanties": "3,012",
+    "shanties": "0.6",
+    "row_label": "Gampaha"
+  },
+  {
+    "Housing Units": "245,784",
+    "and Shanties": "1,013",
+    "shanties": "0.4",
+    "row_label": "Kalutara"
+  },
+  {
+    "Housing Units": "291,454",
+    "and Shanties": "996",
+    "shanties": "0.3",
+    "row_label": "Kandy"
+  },
+  {
+    "Housing Units": "108,566",
+    "and Shanties": "449",
+    "shanties": "0.4",
+    "row_label": "Matale"
+  },
+  {
+    "Housing Units": "164,886",
+    "and Shanties": "1,549",
+    "shanties": "0.9",
+    "row_label": "Nuwara Eliya"
+  },
+  {
+    "Housing Units": "229,521",
+    "and Shanties": "991",
+    "shanties": "0.4",
+    "row_label": "Galle"
+  },
+  {
+    "Housing Units": "174,712",
+    "and Shanties": "741",
+    "shanties": "0.4",
+    "row_label": "Matara"
+  },
+  {
+    "Housing Units": "126,362",
+    "and Shanties": "877",
+    "shanties": "0.7",
+    "row_label": "Hambantota"
+  },
+  {
+    "Housing Units": "132,371",
+    "and Shanties": "4,513",
+    "shanties": "3.4",
+    "row_label": "Ampara"
+  },
+  {
+    "Housing Units": "376,352",
+    "and Shanties": "2,388",
+    "shanties": "0.6",
+    "row_label": "Kurunegala"
+  },
+  {
+    "Housing Units": "174,737",
+    "and Shanties": "4,919",
+    "shanties": "2.8",
+    "row_label": "Puttalam"
+  },
+  {
+    "Housing Units": "186,697",
+    "and Shanties": "852",
+    "shanties": "0.5",
+    "row_label": "Anuradhapura"
+  },
+  {
+    "Housing Units": "90,999",
+    "and Shanties": "503",
+    "shanties": "0.6",
+    "row_label": "Polonnaruwa"
+  },
+  {
+    "Housing Units": "185,268",
+    "and Shanties": "783",
+    "shanties": "0.4",
+    "row_label": "Badulla"
+  },
+  {
+    "Housing Units": "95,966",
+    "and Shanties": "743",
+    "shanties": "0.8",
+    "row_label": "Moneragala"
+  },
+  {
+    "Housing Units": "242,882",
+    "and Shanties": "745",
+    "shanties": "0.3",
+    "row_label": "Ratnapura"
+  },
+  {
+    "Housing Units": "193,578",
+    "and Shanties": "836",
+    "shanties": "0.4",
+    "row_label": "Kegalle"
+  }
+]

@@ -1,166 +1,248 @@
 [
   {
     "name": "Population by district, size, intercensal increase and average growth rates, Census 1981 and Census 2001",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p1Growth.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p1Growth.pdf",
+    "doc_id": "population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001",
+    "dir_data": "data/population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001"
   },
   {
     "name": "Population by district, sex, sex ratio and population density",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p2Populationbydistrictsexsexratioandpopulationdensity.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p2Populationbydistrictsexsexratioandpopulationdensity.pdf",
+    "doc_id": "population-by-district-sex-sex-ratio-and-population-density",
+    "dir_data": "data/population-by-district-sex-sex-ratio-and-population-density"
   },
   {
     "name": "Population by 5 year age groups and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p3PopulationbyFiveyearagegroupsandsex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p3PopulationbyFiveyearagegroupsandsex.pdf",
+    "doc_id": "population-by-5-year-age-groups-and-sex",
+    "dir_data": "data/population-by-5-year-age-groups-and-sex"
   },
   {
     "name": "Population by district, 5 year age groups and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p4Populationbydistrict5yearagegroupsandsex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p4Populationbydistrict5yearagegroupsandsex.pdf",
+    "doc_id": "population-by-district-5-year-age-groups-and-sex",
+    "dir_data": "data/population-by-district-5-year-age-groups-and-sex"
   },
   {
     "name": "Number and percentage of population by district and sector",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p5Numberandpercentageofpopulationbydistrictandsector.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p5Numberandpercentageofpopulationbydistrictandsector.pdf",
+    "doc_id": "number-and-percentage-of-population-by-district-and-sector",
+    "dir_data": "data/number-and-percentage-of-population-by-district-and-sector"
   },
   {
     "name": "Total,young and old dependency ratios by district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p6Dependancy.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p6Dependancy.pdf",
+    "doc_id": "totalyoung-and-old-dependency-ratios-by-district",
+    "dir_data": "data/totalyoung-and-old-dependency-ratios-by-district"
   },
   {
     "name": "Number and percentage of population by district and religion",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p9Religion.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p9Religion.pdf",
+    "doc_id": "number-and-percentage-of-population-by-district-and-religion",
+    "dir_data": "data/number-and-percentage-of-population-by-district-and-religion"
   },
   {
     "name": "literacy rates by district, sex and sector",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p10Literacyratesbydistrictsexandsector.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p10Literacyratesbydistrictsexandsector.pdf",
+    "doc_id": "literacy-rates-by-district-sex-and-sector",
+    "dir_data": "data/literacy-rates-by-district-sex-and-sector"
   },
   {
     "name": "Percentage of population aged 10 years and over in major ethnic groups by district and ability to speak, Sinhala, Tamil and English languages",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p11Speaking.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p11Speaking.pdf",
+    "doc_id": "percentage-of-population-aged-10-years-and-over-in-major-ethnic-groups-by-district-and-ability-to-speak-sinhala-tamil-and-english-languages",
+    "dir_data": "data/percentage-of-population-aged-10-years-and-over-in-major-ethnic-groups-by-district-and-ability-to-speak-sinhala-tamil-and-english-languages"
   },
   {
     "name": "Percentage of population aged 5-34 years attending by district and educational institution",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p12Attendance5-34.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p12Attendance5-34.pdf",
+    "doc_id": "percentage-of-population-aged-534-years-attending-by-district-and-educational-institution",
+    "dir_data": "data/percentage-of-population-aged-534-years-attending-by-district-and-educational-institution"
   },
   {
     "name": "Percentage of school attending population aged 6-19 years by district and age",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p13Attendance6-19.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p13Attendance6-19.pdf",
+    "doc_id": "percentage-of-school-attending-population-aged-619-years-by-district-and-age",
+    "dir_data": "data/percentage-of-school-attending-population-aged-619-years-by-district-and-age"
   },
   {
     "name": "Percentage of children aged 6-14 years not attending school by district and sector",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p14Notattending6-14.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p14Notattending6-14.pdf",
+    "doc_id": "percentage-of-children-aged-614-years-not-attending-school-by-district-and-sector",
+    "dir_data": "data/percentage-of-children-aged-614-years-not-attending-school-by-district-and-sector"
   },
   {
     "name": "Percentage of population aged 5 years and over by district and educational attainment",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p15Attainment.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p15Attainment.pdf",
+    "doc_id": "percentage-of-population-aged-5-years-and-over-by-district-and-educational-attainment",
+    "dir_data": "data/percentage-of-population-aged-5-years-and-over-by-district-and-educational-attainment"
   },
   {
     "name": "Labour force participation rates by district and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p16Labourforceparticipationratesbydistrictandsex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p16Labourforceparticipationratesbydistrictandsex.pdf",
+    "doc_id": "labour-force-participation-rates-by-district-and-sex",
+    "dir_data": "data/labour-force-participation-rates-by-district-and-sex"
   },
   {
     "name": "Percentage of not economically active population by district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p18Percentageofnoteconomicallyactivepopulationbydistrict.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p18Percentageofnoteconomicallyactivepopulationbydistrict.pdf",
+    "doc_id": "percentage-of-not-economically-active-population-by-district",
+    "dir_data": "data/percentage-of-not-economically-active-population-by-district"
   },
   {
     "name": "Percentage of employed population by district,employment status and employment sector",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p19employmentstatus.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p19employmentstatus.pdf",
+    "doc_id": "percentage-of-employed-population-by-districtemployment-status-and-employment-sector",
+    "dir_data": "data/percentage-of-employed-population-by-districtemployment-status-and-employment-sector"
   },
   {
     "name": "Percentage of employed population by district and major groups of occupation",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p20Percentageofemployedpopulationbydistrictandmajorgroupsofoccupation.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p20Percentageofemployedpopulationbydistrictandmajorgroupsofoccupation.pdf",
+    "doc_id": "percentage-of-employed-population-by-district-and-major-groups-of-occupation",
+    "dir_data": "data/percentage-of-employed-population-by-district-and-major-groups-of-occupation"
   },
   {
     "name": "Percentage of employed population by district and major groups of industry",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p21Percentageofemployedpopulationbydistrictandmajorgroupsofindustry.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p21Percentageofemployedpopulationbydistrictandmajorgroupsofindustry.pdf",
+    "doc_id": "percentage-of-employed-population-by-district-and-major-groups-of-industry",
+    "dir_data": "data/percentage-of-employed-population-by-district-and-major-groups-of-industry"
   },
   {
     "name": "Number and percentage of agricultural and fishery workers and non-agricultural and fishery workers by district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p22Numberandpercentageofagriculturalandfisheryworkersandnonagricultural.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p22Numberandpercentageofagriculturalandfisheryworkersandnonagricultural.pdf",
+    "doc_id": "number-and-percentage-of-agricultural-and-fishery-workers-and-nonagricultural-and-fishery-workers-by-district",
+    "dir_data": "data/number-and-percentage-of-agricultural-and-fishery-workers-and-nonagricultural-and-fishery-workers-by-district"
   },
   {
     "name": "Percentage of employed population in agricultural and fishery sector by district and sub groups of occupation",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p23Percentageofemployedpopulationinagriculturalfisherysectorbydistrictandsubgroup.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p23Percentageofemployedpopulationinagriculturalfisherysectorbydistrictandsubgroup.pdf",
+    "doc_id": "percentage-of-employed-population-in-agricultural-and-fishery-sector-by-district-and-sub-groups-of-occupation",
+    "dir_data": "data/percentage-of-employed-population-in-agricultural-and-fishery-sector-by-district-and-sub-groups-of-occupation"
   },
   {
     "name": "Percentage of employed population in non-agricultural and fishery sector by district and sector of occupation",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p24non-agriculture.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p24non-agriculture.pdf",
+    "doc_id": "percentage-of-employed-population-in-nonagricultural-and-fishery-sector-by-district-and-sector-of-occupation",
+    "dir_data": "data/percentage-of-employed-population-in-nonagricultural-and-fishery-sector-by-district-and-sector-of-occupation"
   },
   {
     "name": "Population,resident since birth, migrants and duration of residence by district of usual residence",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p25Migration.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p25Migration.pdf",
+    "doc_id": "populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence",
+    "dir_data": "data/populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence"
   },
   {
     "name": "Average children born alive per ever married woman aged 15 years and over by district and sector",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p26Childrenborn.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p26Childrenborn.pdf",
+    "doc_id": "average-children-born-alive-per-ever-married-woman-aged-15-years-and-over-by-district-and-sector",
+    "dir_data": "data/average-children-born-alive-per-ever-married-woman-aged-15-years-and-over-by-district-and-sector"
   },
   {
     "name": "Number of occupied housing units by district and sector",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h1Numberofoccupiedhousingunitsbydistrictandsector.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h1Numberofoccupiedhousingunitsbydistrictandsector.pdf",
+    "doc_id": "number-of-occupied-housing-units-by-district-and-sector",
+    "dir_data": "data/number-of-occupied-housing-units-by-district-and-sector"
   },
   {
     "name": "Number and percentage of occupied housing units by district and type of housing unit",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h2NumberandpercentageofoccupiedhousingunitsbydistrictandtypeofHousingUnit.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h2NumberandpercentageofoccupiedhousingunitsbydistrictandtypeofHousingUnit.pdf",
+    "doc_id": "number-and-percentage-of-occupied-housing-units-by-district-and-type-of-housing-unit",
+    "dir_data": "data/number-and-percentage-of-occupied-housing-units-by-district-and-type-of-housing-unit"
   },
   {
     "name": "Number and percentage of occupied housing units by district and permanent materials of construction outer walls floor, roof",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h3ConsMaterials.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h3ConsMaterials.pdf",
+    "doc_id": "number-and-percentage-of-occupied-housing-units-by-district-and-permanent-materials-of-construction-outer-walls-floor-roof",
+    "dir_data": "data/number-and-percentage-of-occupied-housing-units-by-district-and-permanent-materials-of-construction-outer-walls-floor-roof"
   },
   {
     "name": "Number and percentage of huts and shanties by district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h4HutsandShanties.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h4HutsandShanties.pdf",
+    "doc_id": "number-and-percentage-of-huts-and-shanties-by-district",
+    "dir_data": "data/number-and-percentage-of-huts-and-shanties-by-district"
   },
   {
     "name": "Average rooms per occupied housing unit by district and type of housing unit",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h5Averageroomsperoccupiedhousingunitbydistrict.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h5Averageroomsperoccupiedhousingunitbydistrict.pdf",
+    "doc_id": "average-rooms-per-occupied-housing-unit-by-district-and-type-of-housing-unit",
+    "dir_data": "data/average-rooms-per-occupied-housing-unit-by-district-and-type-of-housing-unit"
   },
   {
     "name": "Number of households,average size of household and percentage of female headed households by district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h6NoofHH.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h6NoofHH.pdf",
+    "doc_id": "number-of-householdsaverage-size-of-household-and-percentage-of-female-headed-households-by-district",
+    "dir_data": "data/number-of-householdsaverage-size-of-household-and-percentage-of-female-headed-households-by-district"
   },
   {
     "name": "Number and percentage of households using toilets exclusively, using hygienic toilets and households not using a toilet by district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h7Toilets.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h7Toilets.pdf",
+    "doc_id": "number-and-percentage-of-households-using-toilets-exclusively-using-hygienic-toilets-and-households-not-using-a-toilet-by-district",
+    "dir_data": "data/number-and-percentage-of-households-using-toilets-exclusively-using-hygienic-toilets-and-households-not-using-a-toilet-by-district"
   },
   {
     "name": "Number and percentage of households using pipe born water and safe water for drinking by district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h8drinkingwater.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h8drinkingwater.pdf",
+    "doc_id": "number-and-percentage-of-households-using-pipe-born-water-and-safe-water-for-drinking-by-district",
+    "dir_data": "data/number-and-percentage-of-households-using-pipe-born-water-and-safe-water-for-drinking-by-district"
   },
   {
     "name": "Number and percentage of households using electricity for lighting by district and sector",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h9lighting.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h9lighting.pdf",
+    "doc_id": "number-and-percentage-of-households-using-electricity-for-lighting-by-district-and-sector",
+    "dir_data": "data/number-and-percentage-of-households-using-electricity-for-lighting-by-district-and-sector"
   },
   {
     "name": "Number and percentage of households using firewood and L.P. gas for cooking by district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h10Cooking.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h10Cooking.pdf",
+    "doc_id": "number-and-percentage-of-households-using-firewood-and-lp-gas-for-cooking-by-district",
+    "dir_data": "data/number-and-percentage-of-households-using-firewood-and-lp-gas-for-cooking-by-district"
   },
   {
     "name": "Percentage of households by district and tenure",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h11Percentageofhouseholdsbydistrictandtenure.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h11Percentageofhouseholdsbydistrictandtenure.pdf",
+    "doc_id": "percentage-of-households-by-district-and-tenure",
+    "dir_data": "data/percentage-of-households-by-district-and-tenure"
   },
   {
     "name": "Disabled persons by type of disability, sex, rate per 10000 population and district",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d1DisabledpersonsbySexandDistrict.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d1DisabledpersonsbySexandDistrict.pdf",
+    "doc_id": "disabled-persons-by-type-of-disability-sex-rate-per-10000-population-and-district",
+    "dir_data": "data/disabled-persons-by-type-of-disability-sex-rate-per-10000-population-and-district"
   },
   {
     "name": "Disabled persons by type of disability, age and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d2DisabledpersonsbyAgeandSex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d2DisabledpersonsbyAgeandSex.pdf",
+    "doc_id": "disabled-persons-by-type-of-disability-age-and-sex",
+    "dir_data": "data/disabled-persons-by-type-of-disability-age-and-sex"
   },
   {
     "name": "Persons with disability in seeing by cause of disability and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d3PersonswithDisabilityinSeeingbyCauseofDisabilityandSex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d3PersonswithDisabilityinSeeingbyCauseofDisabilityandSex.pdf",
+    "doc_id": "persons-with-disability-in-seeing-by-cause-of-disability-and-sex",
+    "dir_data": "data/persons-with-disability-in-seeing-by-cause-of-disability-and-sex"
   },
   {
     "name": "Persons with disability in hearing/speaking by cause of disability and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d4PersonswithDisabilityinHearingSpeakingbyCauseofDisabilityandSex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d4PersonswithDisabilityinHearingSpeakingbyCauseofDisabilityandSex.pdf",
+    "doc_id": "persons-with-disability-in-hearingspeaking-by-cause-of-disability-and-sex",
+    "dir_data": "data/persons-with-disability-in-hearingspeaking-by-cause-of-disability-and-sex"
   },
   {
     "name": "Persons with disability in hands by cause of disability and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d5PersonswithDisabilityinHandsbyCauseofDisabilityandSex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d5PersonswithDisabilityinHandsbyCauseofDisabilityandSex.pdf",
+    "doc_id": "persons-with-disability-in-hands-by-cause-of-disability-and-sex",
+    "dir_data": "data/persons-with-disability-in-hands-by-cause-of-disability-and-sex"
   },
   {
     "name": "Persons with disability in legs by cause of disability and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d6PersonswithDisabilityinLegsbyCauseofDisabilityandSex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d6PersonswithDisabilityinLegsbyCauseofDisabilityandSex.pdf",
+    "doc_id": "persons-with-disability-in-legs-by-cause-of-disability-and-sex",
+    "dir_data": "data/persons-with-disability-in-legs-by-cause-of-disability-and-sex"
   },
   {
     "name": "Persons with mental disability by cause of disability and sex",
-    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d7PersonswithMentalDisabilitybyCauseofDisabilityandSex.pdf"
+    "url": "https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Disability/p11d7PersonswithMentalDisabilitybyCauseofDisabilityandSex.pdf",
+    "doc_id": "persons-with-mental-disability-by-cause-of-disability-and-sex",
+    "dir_data": "data/persons-with-mental-disability-by-cause-of-disability-and-sex"
   }
 ]
