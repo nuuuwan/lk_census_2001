@@ -80,6 +80,9 @@ class OriginalDocDataMixin:
 
         return None
 
+    def get_custom_headers(self):
+        return {}.get(self.doc_id, None)
+
     def parse_raw_data_by_district(self):
         raw_rows = JSONFile(self.raw_data_file_path()).read()
         raw_header_rows, raw_data_rows = (
@@ -89,7 +92,9 @@ class OriginalDocDataMixin:
             log.warning(f"No header rows found in raw data for {self.doc_id}")
             return
 
-        headers = self.build_headers(raw_header_rows)
+        headers = self.get_custom_headers() or self.build_headers(
+            raw_header_rows
+        )
         log.debug(f"{headers=}")
 
         data_list = []
