@@ -31,7 +31,7 @@ class OriginalDocBase:
     def doc_id(self) -> str:
         short_name_map = self.short_name_map
         if self.long_doc_id not in short_name_map:
-            raise ValueError(f"Missing short name for {self.doc_id}")
+            raise ValueError(f"Missing short name for {self.long_doc_id}")
         return short_name_map[self.long_doc_id]
 
     @cached_property

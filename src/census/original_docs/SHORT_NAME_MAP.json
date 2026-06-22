@@ -39,5 +39,6 @@
   "population-by-district-sex-sex-ratio-and-population-density": "population-density",
   "population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001": "population-growth",
   "populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence": "migration-patterns",
-  "totalyoung-and-old-dependency-ratios-by-district": "dependency-ratios"
+  "totalyoung-and-old-dependency-ratios-by-district": "dependency-ratios",
+  "persons-with-other-physical-disability-by-sector-cause-of-disability-and-sex": "disability-sector"
 }
