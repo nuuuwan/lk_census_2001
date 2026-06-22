@@ -3,7 +3,6 @@
 
 from census.original_docs import (OriginalDoc, OriginalDocBase,
                                   OriginalDocLoaderMixin,
-                                  OriginalDocMetadataMixin,
                                   OriginalDocParserMixin, OriginalDocPDFMixin,
                                   OriginalDocScrapeConstantsMixin,
                                   OriginalDocScrapeMixin)

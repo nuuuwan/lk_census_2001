@@ -20,6 +20,7 @@ class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
                     src if src.startswith("http") else cls.URL_BASE + src
                 )
                 original_doc = cls(name=label, url=url_pdf)
+                original_doc.write_metadata()
                 original_doc.download_pdf()
                 original_doc.parse_pdf()
                 original_doc.parse_raw_data()
@@ -108,6 +109,3 @@ class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
                     f"🛑 max_urls={max_urls} reached, stopping scrape"
                 )
                 break
-
-        cls.write_metadata(original_docs)
-        return original_docs
