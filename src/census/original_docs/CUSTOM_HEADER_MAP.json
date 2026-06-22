@@ -1,19 +1,13 @@
 {
-  "average-children-born-alive-per-ever-married-woman-aged-15-years-and-over-by-district-and-sector": [
-    "district",
-    "total",
-    "urban",
-    "rural",
-    "estate"
-  ],
-  "average-rooms-per-occupied-housing-unit-by-district-and-type-of-housing-unit": [
+  "fertility-rates": ["district", "total", "urban", "rural", "estate"],
+  "housing-density": [
     "district",
     "occupied-housing-units",
     "permanent",
     "semi-permanent",
     "improvised"
   ],
-  "disabled-persons-by-type-of-disability-age-and-sex": [
+  "disability-demographics": [
     "age-group-and-sex",
     "sex",
     "total-number-of-disabled",
@@ -24,7 +18,7 @@
     "other-physical-disability",
     "mental-disability"
   ],
-  "disabled-persons-by-type-of-disability-sex-rate-per-10000-population-and-district": [
+  "disability-prevalence": [
     "district",
     "total-no",
     "total-rate",
@@ -41,14 +35,14 @@
     "mental-disability-no",
     "mental-disability-rate"
   ],
-  "labour-force-participation-rates-by-district-and-sex": [
+  "labor-participation": [
     "district",
     "aged-10-years-and-over",
     "total",
     "male",
     "female"
   ],
-  "literacy-rates-by-district-sex-and-sector": [
+  "literacy-rates": [
     "district",
     "total",
     "male",
@@ -58,7 +52,7 @@
     "rural",
     "estate"
   ],
-  "number-and-percentage-of-agricultural-and-fishery-workers-and-nonagricultural-and-fishery-workers-by-district": [
+  "employment-sectors": [
     "district",
     "total-employed-population-aged-10-years-and-over",
     "agricultural-and-fishery-workers-including-unskilled-labourers-no",
@@ -68,7 +62,7 @@
     "na-2",
     "non-agricultural-and-fishery-workers"
   ],
-  "number-and-percentage-of-households-using-electricity-for-lighting-by-district-and-sector": [
+  "electricity-access": [
     "district",
     "total-housing-units",
     "total-electricity-no",
@@ -80,7 +74,7 @@
     "estate-electricity-no",
     "estate-electricity-pct"
   ],
-  "number-and-percentage-of-households-using-firewood-and-lp-gas-for-cooking-by-district": [
+  "cooking-fuel": [
     "district",
     "total-housing-units",
     "firewood-no",
@@ -90,7 +84,7 @@
     "kerosene-no",
     "kerosene-pct"
   ],
-  "number-and-percentage-of-households-using-pipe-born-water-and-safe-water-for-drinking-by-district": [
+  "water-access": [
     "district",
     "total-housing-units",
     "pipe-borne-water-no",
@@ -98,7 +92,7 @@
     "safe-water-no",
     "safe-water-pct"
   ],
-  "number-and-percentage-of-households-using-toilets-exclusively-using-hygienic-toilets-and-households-not-using-a-toilet-by-district": [
+  "sanitation-access": [
     "district",
     "total-housing-units",
     "using-toilets-no",
@@ -108,13 +102,13 @@
     "not-using-toilet-no",
     "not-using-toilet-pct"
   ],
-  "number-and-percentage-of-huts-and-shanties-by-district": [
+  "informal-housing": [
     "district",
     "total-housing-units",
     "huts-and-shanties-no",
     "huts-and-shanties-pct"
   ],
-  "number-and-percentage-of-occupied-housing-units-by-district-and-permanent-materials-of-construction-outer-walls-floor-roof": [
+  "construction-materials": [
     "district",
     "total-occupied-housing-units",
     "permanent-outer-walls-no",
@@ -124,7 +118,7 @@
     "permanent-roof-no",
     "permanent-roof-pct"
   ],
-  "number-and-percentage-of-occupied-housing-units-by-district-and-type-of-housing-unit": [
+  "housing-types": [
     "district",
     "total-occupied-housing-units",
     "permanent-no",
@@ -134,7 +128,7 @@
     "improvised-no",
     "improvised"
   ],
-  "number-and-percentage-of-population-by-district-and-religion": [
+  "religious-composition": [
     "district",
     "total-population-no",
     "total-population-pct",
@@ -151,7 +145,7 @@
     "other-no",
     "other"
   ],
-  "number-and-percentage-of-population-by-district-and-sector": [
+  "sectoral-distribution": [
     "district",
     "total-population",
     "population-in-urban-sector-no",
@@ -161,7 +155,7 @@
     "population-in-estate-sector-no",
     "population-in-estate-sector"
   ],
-  "number-of-householdsaverage-size-of-household-and-percentage-of-female-headed-households-by-district": [
+  "household-structure": [
     "district",
     "total-households",
     "urban-households",
@@ -171,14 +165,14 @@
     "female-headed-households-no",
     "female-headed-households-pct"
   ],
-  "number-of-occupied-housing-units-by-district-and-sector": [
+  "housing-units": [
     "district",
     "total-occupied-housing-units",
     "urban",
     "rural",
     "estate"
   ],
-  "percentage-of-children-aged-614-years-not-attending-school-by-district-and-sector": [
+  "school-enrollment": [
     "district",
     "na",
     "total",
@@ -187,7 +181,7 @@
     "rural",
     "estate"
   ],
-  "percentage-of-employed-population-by-district-and-major-groups-of-industry": [
+  "industry-employment": [
     "district",
     "total-employed-population",
     "agriculture-and-forestry",
@@ -210,7 +204,7 @@
     "not-classified",
     "not-stated"
   ],
-  "percentage-of-employed-population-by-district-and-major-groups-of-occupation": [
+  "occupational-distribution": [
     "district",
     "aged-10-years-and-over",
     "officials-and-managers",
@@ -225,7 +219,7 @@
     "private-business-owners",
     "occupations-unidentifiable-or-inadequate"
   ],
-  "percentage-of-employed-population-by-districtemployment-status-and-employment-sector": [
+  "employment-status": [
     "district",
     "total-employed-population-aged-10-years-and-over",
     "government-employees",
@@ -234,7 +228,7 @@
     "own-account-workers",
     "unpaid-family-workers"
   ],
-  "percentage-of-employed-population-in-agricultural-and-fishery-sector-by-district-and-sub-groups-of-occupation": [
+  "agricultural-occupations": [
     "district",
     "total-agricultural-and-fishery-workers",
     "market-gardeners-and-crop-growers",
@@ -246,7 +240,7 @@
     "subsistence-dairy-livestock-and-related-workers",
     "activities-not-elsewhere-classified"
   ],
-  "percentage-of-employed-population-in-nonagricultural-and-fishery-sector-by-district-and-sector-of-occupation": [
+  "non-agricultural-employment": [
     "district",
     "aged-10-years-and-over",
     "technicians-and-clerks",
@@ -254,7 +248,7 @@
     "workers",
     "occupations-unidentifiable-or-inadequate"
   ],
-  "percentage-of-households-by-district-and-tenure": [
+  "housing-tenure": [
     "district",
     "total-households-in-occupied-housing-units",
     "owned-by-member-of-household-no",
@@ -266,7 +260,7 @@
     "encroached-no",
     "encroached-pct"
   ],
-  "percentage-of-not-economically-active-population-by-district": [
+  "inactive-population": [
     "district",
     "aged-10-years-and-over",
     "students",
@@ -275,7 +269,7 @@
     "household-work",
     "others"
   ],
-  "percentage-of-population-aged-10-years-and-over-in-major-ethnic-groups-by-district-and-ability-to-speak-sinhala-tamil-and-english-languages": [
+  "linguistic-capacity": [
     "district",
     "sinhalese-population-sinhala-language",
     "sinhalese-population-english-language",
@@ -286,7 +280,7 @@
     "indian-tamil-population-sinhala-language",
     "sri-lanka-moor-population-english-language"
   ],
-  "percentage-of-population-aged-5-years-and-over-by-district-and-educational-attainment": [
+  "educational-attainment": [
     "district",
     "population-aged-5-years-and-over",
     "na",
@@ -296,14 +290,14 @@
     "percentage-completed-upper-secondary-passed-year-9-11",
     "percentage-completed-tertiary-education-passed-gce-al-above"
   ],
-  "percentage-of-population-aged-534-years-attending-by-district-and-educational-institution": [
+  "educational-enrollment": [
     "district",
     "population-aged-5-34-years",
     "attending-school",
     "attending-university",
     "attending-vocational-or-technical-institution"
   ],
-  "percentage-of-school-attending-population-aged-619-years-by-district-and-age": [
+  "school-attendance": [
     "district",
     "aged-6-9-years",
     "aged-10-14-years",
@@ -311,7 +305,7 @@
     "aged-6-14-years",
     "aged-6-19-years"
   ],
-  "persons-with-disability-in-hands-by-cause-of-disability-and-sex": [
+  "hand-disability-causes": [
     "district",
     "sex",
     "total-no",
@@ -335,7 +329,7 @@
     "not-specified-no",
     "not-specified-pct"
   ],
-  "persons-with-disability-in-hearingspeaking-by-cause-of-disability-and-sex": [
+  "hearing-disability-causes": [
     "district",
     "sex",
     "total-no",
@@ -359,7 +353,7 @@
     "not-specified-no",
     "not-specified-pct"
   ],
-  "persons-with-disability-in-legs-by-cause-of-disability-and-sex": [
+  "leg-disability-causes": [
     "district",
     "total-no",
     "total-pct",
@@ -385,7 +379,7 @@
     "na-3",
     "not-specified-pct"
   ],
-  "persons-with-disability-in-seeing-by-cause-of-disability-and-sex": [
+  "vision-disability-causes": [
     "district",
     "sex",
     "total-no",
@@ -409,7 +403,7 @@
     "not-specified-no",
     "not-specified-pct"
   ],
-  "persons-with-mental-disability-by-cause-of-disability-and-sex": [
+  "mental-disability-causes": [
     "district",
     "sex",
     "total-no",
@@ -433,13 +427,8 @@
     "not-specified-no",
     "not-specified-pct"
   ],
-  "population-by-5-year-age-groups-and-sex": [
-    "age-in-years",
-    "total",
-    "male",
-    "female"
-  ],
-  "population-by-district-5-year-age-groups-and-sex": [
+  "age-structure": ["age-in-years", "total", "male", "female"],
+  "district-age-distribution": [
     "district",
     "total-population",
     "0-4",
@@ -459,7 +448,7 @@
     "70-74",
     "75-and-over"
   ],
-  "population-by-district-sex-sex-ratio-and-population-density": [
+  "population-density": [
     "district",
     "total",
     "male",
@@ -467,7 +456,7 @@
     "sex-ratio",
     "population-density-persons-per-sqkm"
   ],
-  "population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001": [
+  "population-growth": [
     "district",
     "census-1981-population",
     "census-2001-population",
@@ -475,7 +464,7 @@
     "intercensal-increase-pct",
     "annual-growth-rate"
   ],
-  "populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence": [
+  "migration-patterns": [
     "district",
     "total-population",
     "resident-since-birth",
@@ -486,7 +475,7 @@
     "migrants-10-years-and-more",
     "migrants-not-stated"
   ],
-  "totalyoung-and-old-dependency-ratios-by-district": [
+  "dependency-ratios": [
     "district",
     "total-population",
     "aged-0-14",
