@@ -8,6 +8,30 @@ log = Log("OriginalDocDataMixin")
 
 
 class OriginalDocDataMixin:
+    # flake8: noqa: C901
+    CUSTOM_HEADER_MAP = {
+        "percentage-of-employed-population-by-district-and-major-groups-of-industry": [
+            "District",
+            "Total employed population",
+            "Agriculture and Forestry",
+            "Fishing",
+            "Mining and Quarrying",
+            "Manufacturing",
+            "Electricity, Gas and Water Supply",
+            "Construction",
+            "Wholesale and Retail Trade",
+            "Hotels and Restaurants",
+            "Transport, Storage and Communication",
+            "Financial Intermediation",
+            "Real Estate, Renting and Business Activities",
+            "Public Administration and Defence; Compulsory Social Security",
+            "Education",
+            "Health and Social Work",
+            "Other Community, Social and Personal Service Activities",
+            "Private Households with Employed Persons",
+        ]
+    }
+
     def data_file_path(self):
         return os.path.join(self.dir_data, "data.json")
 
@@ -81,21 +105,25 @@ class OriginalDocDataMixin:
         return None
 
     def get_custom_headers(self):
-        return {}.get(self.doc_id, None)
+        header_items = self.CUSTOM_HEADER_MAP.get(self.doc_id, None)
+        if not header_items:
+            return None
+        return [self.clean_header_item(item) for item in header_items]
 
     def parse_raw_data_by_district(self):
         raw_rows = JSONFile(self.raw_data_file_path()).read()
         raw_header_rows, raw_data_rows = (
             self.split_raw_header_and_raw_data_rows(raw_rows)
         )
-        if len(raw_header_rows) == 0:
-            log.warning(f"No header rows found in raw data for {self.doc_id}")
-            return
 
         headers = self.get_custom_headers() or self.build_headers(
             raw_header_rows
         )
         log.debug(f"{headers=}")
+
+        if len(headers) == 0:
+            log.warning(f"No header rows found in raw data for {self.doc_id}")
+            return
 
         data_list = []
         for raw_data_row in raw_data_rows:
