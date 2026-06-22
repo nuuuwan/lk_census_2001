@@ -6,12 +6,12 @@ import camelot
 
 from utils_future import JSONFile, Log
 
-log = Log("OriginalDocParserMixin")
+log = Log("OriginalDocRawDataMixin")
 
 DIR_DATA = "data"
 
 
-class OriginalDocParserMixin:
+class OriginalDocRawDataMixin:
     @cached_property
     def dir_data(self):
         dir_data = os.path.join(DIR_DATA, f"{self.doc_id}")

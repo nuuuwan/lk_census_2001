@@ -2,7 +2,7 @@
 # flake8: noqa: F408
 
 from census.original_docs import (OriginalDoc, OriginalDocBase,
-                                  OriginalDocLoaderMixin,
-                                  OriginalDocParserMixin, OriginalDocPDFMixin,
+                                  OriginalDocLoaderMixin, OriginalDocPDFMixin,
+                                  OriginalDocRawDataMixin,
                                   OriginalDocScrapeConstantsMixin,
                                   OriginalDocScrapeMixin)
