@@ -2,9 +2,8 @@ import os
 import re
 from functools import cached_property
 
-from census.original_docs.OriginalDocDataConstanstsMixin import (
-    OriginalDocDataConstanstsMixin,
-)
+from census.original_docs.OriginalDocDataConstanstsMixin import \
+    OriginalDocDataConstanstsMixin
 from census.original_docs.RegionUtils import RegionUtils
 from utils_future import JSONFile, Log
 

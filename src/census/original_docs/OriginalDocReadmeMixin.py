@@ -2,12 +2,14 @@ import json
 import os
 import random
 
-from utils_future import File, JSONFile, Log
+from utils_future import File, JSONFile, Log, Time, TimeFormat
 
 log = Log("OriginalDocReadmeMixin")
 
 
 class OriginalDocReadmeMixin:
+    GLOBAL_README_PATH = "README.md"
+
     def readme_file_path(self) -> list[str]:
         return os.path.join(self.dir_data, "README.md")
 
@@ -51,5 +53,31 @@ class OriginalDocReadmeMixin:
             + self.lines_for_example()
         )
         readme_file = File(self.readme_file_path())
+        readme_file.write("\n".join(lines))
+        log.info(f"Wrote {readme_file}")
+
+    @classmethod
+    def build_global_readme(cls):
+        docs = cls.list()
+        time_str = TimeFormat.TIME.format(Time.now())
+        time_str = time_str.replace(" ", "_").replace("-", "--")
+        n_datasets = len(docs)
+        lines = [
+            "# Sri Lanka 🇱🇰  - Census of Population and Housing 2001",
+            "",
+            "![CPH](https://img.shields.io/badge/CPH-2001-blue)",
+            f"![LastUpdated](https://img.shields.io/badge/last_updated-{time_str}-green)",
+            "",
+            f"**{n_datasets}** Datasets on"
+            + " Population and Housing by Country and District.",
+            "",
+        ]
+
+        for i_doc, doc in enumerate(docs, start=1):
+            lines.append(f"{i_doc:02d}. [{doc.name}]({doc.dir_data})")
+
+        lines.append("")
+
+        readme_file = File(cls.GLOBAL_README_PATH)
         readme_file.write("\n".join(lines))
         log.info(f"Wrote {readme_file}")
