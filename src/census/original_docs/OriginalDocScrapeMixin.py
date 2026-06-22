@@ -2,8 +2,9 @@ import re
 
 from bs4 import BeautifulSoup
 
-from census.original_docs.OriginalDocScrapeConstantsMixin import \
-    OriginalDocScrapeConstantsMixin
+from census.original_docs.OriginalDocScrapeConstantsMixin import (
+    OriginalDocScrapeConstantsMixin,
+)
 from utils_future import WWW, Log
 
 log = Log("OriginalDocScrapeMixin")
@@ -16,14 +17,9 @@ class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
         if i_frame:
             src = i_frame.get("src")
             if src and src.endswith(".pdf"):
-                url_pdf = (
-                    src if src.startswith("http") else cls.URL_BASE + src
-                )
+                url_pdf = src if src.startswith("http") else cls.URL_BASE + src
                 original_doc = cls(name=label, url=url_pdf)
-                original_doc.write_metadata()
-                original_doc.download_pdf()
-                original_doc.parse_pdf()
-                original_doc.parse_raw_data()
+                original_doc.build()
                 return original_doc
         return None
 
@@ -100,12 +96,8 @@ class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
             url_info_queue.extend(new_url_infos)
 
             if len(original_docs) >= max_docs:
-                log.warning(
-                    f"🛑 max_docs={max_docs} reached, stopping scrape"
-                )
+                log.warning(f"🛑 max_docs={max_docs} reached, stopping scrape")
                 break
             if len(visited_urls) > max_urls:
-                log.warning(
-                    f"🛑 max_urls={max_urls} reached, stopping scrape"
-                )
+                log.warning(f"🛑 max_urls={max_urls} reached, stopping scrape")
                 break

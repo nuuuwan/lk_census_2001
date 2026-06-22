@@ -1,4 +1,7 @@
 from census.original_docs.OriginalDocBase import OriginalDocBase
+from census.original_docs.OriginalDocBuilderMixin import (
+    OriginalDocBuilderMixin,
+)
 from census.original_docs.OriginalDocDataMixin import OriginalDocDataMixin
 from census.original_docs.OriginalDocLoaderMixin import OriginalDocLoaderMixin
 from census.original_docs.OriginalDocPDFMixin import OriginalDocPDFMixin
@@ -20,6 +23,7 @@ class OriginalDoc(
     OriginalDocLoaderMixin,
     #
     OriginalDocScrapeMixin,
+    OriginalDocBuilderMixin,
     OriginalDocPDFMixin,
     OriginalDocRawDataMixin,
     OriginalDocDataMixin,
