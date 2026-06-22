@@ -59,21 +59,32 @@ class OriginalDocDataMixin:
             log.warning(f"Could not parse float from {value}")
             return None
 
-    def parse_raw_data(self) -> list:
-        if "by-district" not in self.doc_id:
-            log.warning(f"Unknown doc_id format for parsing: {self.doc_id}")
-            return
+    def parse_raw_data_row(self, data, headers) -> dict:
+        values = {}
+        region_id, region_name = None, None
+        for i_header, header in enumerate(headers):
+            if header == "district":
+                region_id, region_name = RegionUtils.parse(data[i_header])
+                continue
 
-        data_file = JSONFile(self.data_file_path())
-        if data_file.exists:
-            log.debug(f"{data_file} exists")
-            return data_file.read()
+            value = data[i_header]
+            values[header] = self.parse_float(value)
 
+        if region_id:
+            data = dict(
+                region_id=region_id,
+                region_name=region_name,
+                values=values,
+            )
+            return data
+
+        return None
+
+    def parse_raw_data_by_district(self):
         raw_rows = JSONFile(self.raw_data_file_path()).read()
         raw_header_rows, raw_data_rows = (
             self.split_raw_header_and_raw_data_rows(raw_rows)
         )
-
         if len(raw_header_rows) == 0:
             log.warning(f"No header rows found in raw data for {self.doc_id}")
             return
@@ -82,28 +93,25 @@ class OriginalDocDataMixin:
         log.debug(f"{headers=}")
 
         data_list = []
-        for data in raw_data_rows:
-            values = {}
-            region_id, region_name = None, None
-            for i_header, header in enumerate(headers):
-                if header == "district":
-                    region_id, region_name = RegionUtils.parse(data[i_header])
-                    continue
-
-                value = data[i_header]
-                values[header] = self.parse_float(value)
-
-            if region_id:
-                data = dict(
-                    region_id=region_id,
-                    region_name=region_name,
-                    values=values,
-                )
+        for raw_data_row in raw_data_rows:
+            data = self.parse_raw_data_row(raw_data_row, headers)
+            if data:
                 data_list.append(data)
 
         if len(data_list) == 0:
             log.warning(f"No data rows parsed for {self.doc_id}")
             return
 
+        data_file = JSONFile(self.data_file_path())
         data_file.write(data_list)
         log.info(f"Wrote {len(data_list)} rows to {data_file}")
+
+    def parse_raw_data(self):
+        data_file = JSONFile(self.data_file_path())
+        if data_file.exists:
+            log.debug(f"{data_file} exists")
+            return data_file.read()
+
+        if "by-district" in self.doc_id:
+            return self.parse_raw_data_by_district()
+        log.warning(f"Unknown doc_id format for parsing: {self.doc_id}")
