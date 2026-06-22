@@ -13,3 +13,4 @@ from census.original_docs.OriginalDocScrapeConstantsMixin import \
 from census.original_docs.OriginalDocScrapeMixin import OriginalDocScrapeMixin
 from census.original_docs.OriginalDocValidateMixin import \
     OriginalDocValidateMixin
+from census.original_docs.RegionUtils import RegionUtils

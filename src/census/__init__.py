@@ -6,4 +6,4 @@ from census.original_docs import (OriginalDoc, OriginalDocBase,
                                   OriginalDocPDFMixin, OriginalDocRawDataMixin,
                                   OriginalDocScrapeConstantsMixin,
                                   OriginalDocScrapeMixin,
-                                  OriginalDocValidateMixin)
+                                  OriginalDocValidateMixin, RegionUtils)

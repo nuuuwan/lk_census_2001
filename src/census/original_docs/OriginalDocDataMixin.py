@@ -1,6 +1,7 @@
 import os
 import re
 
+from census.original_docs.RegionUtils import RegionUtils
 from utils_future import JSONFile, Log
 
 log = Log("OriginalDocDataMixin")
@@ -47,54 +48,6 @@ class OriginalDocDataMixin:
             headers[0] = "district"
         return headers
 
-    def parse_region(self, region_str):
-        if "Sri Lanka" in region_str:
-            return "LK", "Sri Lanka"
-        if "Total" in region_str:
-            return "total", "District-Total"
-
-        district_name_to_id = {
-            "Colombo": "LK-11",
-            "Gampaha": "LK-12",
-            "Kalutara": "LK-13",
-            #
-            "Kandy": "LK-21",
-            "Matale": "LK-22",
-            "Nuwara Eliya": "LK-23",
-            #
-            "Galle": "LK-31",
-            "Matara": "LK-32",
-            "Hambantota": "LK-33",
-            #
-            "Jaffna": "LK-41",
-            "Kilinochchi": "LK-42",
-            "Mannar": "LK-43",
-            "Vavuniya": "LK-44",
-            "Mullaitivu": "LK-45",
-            #
-            "Batticaloa": "LK-51",
-            "Ampara": "LK-52",
-            "Trincomalee": "LK-53",
-            #
-            "Kurunegala": "LK-61",
-            "Puttalam": "LK-62",
-            #
-            "Anuradhapura": "LK-71",
-            "Polonnaruwa": "LK-72",
-            #
-            "Badulla": "LK-81",
-            "Moneragala": "LK-82",
-            #
-            "Ratnapura": "LK-91",
-            "Kegalle": "LK-92",
-        }
-        for district_name, district_id in district_name_to_id.items():
-            if district_name in region_str:
-                return district_id, district_name
-
-        log.warning(f"Could not parse region from {region_str}")
-        return None, None
-
     def parse_float(self, value):
         value = str(value).strip()
         if value == "-":
@@ -134,7 +87,7 @@ class OriginalDocDataMixin:
             region_id, region_name = None, None
             for i_header, header in enumerate(headers):
                 if header == "district":
-                    region_id, region_name = self.parse_region(data[i_header])
+                    region_id, region_name = RegionUtils.parse(data[i_header])
                     continue
 
                 value = data[i_header]
