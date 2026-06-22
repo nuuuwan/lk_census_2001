@@ -1,7 +1,7 @@
 # Sri Lanka 🇱🇰  - Census of Population and Housing 2001
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_19:24:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22-green)
 
 **41** Datasets on Population and Housing by Country and District.
 
@@ -46,3 +46,7 @@
 39. [Persons with disability in hearing/speaking by cause of disability and sex](data/persons-with-disability-in-hearingspeaking-by-cause-of-disability-and-sex)
 40. [Population by 5 year age groups and sex](data/population-by-5-year-age-groups-and-sex)
 41. [Percentage of children aged 6-14 years not attending school by district and sector](data/percentage-of-children-aged-614-years-not-attending-school-by-district-and-sector)
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

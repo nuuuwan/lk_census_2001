@@ -1,5 +1,8 @@
 # Percentage of employed population in non-agricultural and fishery sector by district and sector of occupation
 
+![CPH](https://img.shields.io/badge/CPH-2001-blue)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22-green)
+
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-employed-population-in-nonagricultural-and-fishery-sector-by-district-and-sector-of-occupation/data.json)
@@ -21,3 +24,11 @@
     }
 }
 ```
+
+## Source
+
+- *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p24non-agriculture.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p24non-agriculture.pdf)*
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
