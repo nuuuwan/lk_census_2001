@@ -5,8 +5,6 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/hearing-disability-causes/data.json)
-- [📄 TSV Data](../../data/hearing-disability-causes/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/hearing-disability-causes/raw_data.json)
 - [📜 Original PDF](../../data/hearing-disability-causes/original.pdf)
 

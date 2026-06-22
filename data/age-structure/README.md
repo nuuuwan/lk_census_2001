@@ -5,8 +5,6 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/age-structure/data.json)
-- [📄 TSV Data](../../data/age-structure/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/age-structure/raw_data.json)
 - [📜 Original PDF](../../data/age-structure/original.pdf)
 

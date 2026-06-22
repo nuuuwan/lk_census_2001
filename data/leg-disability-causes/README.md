@@ -5,8 +5,6 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/leg-disability-causes/data.json)
-- [📄 TSV Data](../../data/leg-disability-causes/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/leg-disability-causes/raw_data.json)
 - [📜 Original PDF](../../data/leg-disability-causes/original.pdf)
 

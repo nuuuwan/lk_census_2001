@@ -5,8 +5,6 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/disability-demographics/data.json)
-- [📄 TSV Data](../../data/disability-demographics/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/disability-demographics/raw_data.json)
 - [📜 Original PDF](../../data/disability-demographics/original.pdf)
 

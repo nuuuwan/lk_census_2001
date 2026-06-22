@@ -5,8 +5,6 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/vision-disability-causes/data.json)
-- [📄 TSV Data](../../data/vision-disability-causes/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/vision-disability-causes/raw_data.json)
 - [📜 Original PDF](../../data/vision-disability-causes/original.pdf)
 

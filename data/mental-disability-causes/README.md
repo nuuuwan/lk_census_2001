@@ -5,8 +5,6 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/mental-disability-causes/data.json)
-- [📄 TSV Data](../../data/mental-disability-causes/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/mental-disability-causes/raw_data.json)
 - [📜 Original PDF](../../data/mental-disability-causes/original.pdf)
 

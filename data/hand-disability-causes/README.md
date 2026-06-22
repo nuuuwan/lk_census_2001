@@ -5,8 +5,6 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/hand-disability-causes/data.json)
-- [📄 TSV Data](../../data/hand-disability-causes/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/hand-disability-causes/raw_data.json)
 - [📜 Original PDF](../../data/hand-disability-causes/original.pdf)
 

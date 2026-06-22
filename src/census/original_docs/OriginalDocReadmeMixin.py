@@ -15,17 +15,18 @@ class OriginalDocReadmeMixin:
 
     def lines_for_data_types(self) -> list[str]:
         lines = ["## File Formats", ""]
-        for label, file_name in [
+        for label, file_path in [
             ("📄 JSON Data", self.data_file_path),
             ("📄 TSV Data", self.tsv_file_path),
             ("📄 Raw JSON Data from Original", self.raw_data_file_path),
             ("📜 Original PDF", self.pdf_file_path),
         ]:
-            lines.extend(
-                [
-                    f"- [{label}](../../{file_name})",
-                ]
-            )
+            if os.path.exists(file_path):
+                lines.extend(
+                    [
+                        f"- [{label}](../../{file_path})",
+                    ]
+                )
         lines.append("")
         return lines
 
