@@ -117,7 +117,7 @@ class OriginalDocReadmeMixin:
             + "/Population/StaticalInformation/CPH2001"
         )
         lines.append("")
-        lines.append(f"*[{url}]({url})*")
+        lines.append(f"*Source: [{url}]({url})*")
         lines.append("")
         lines.extend(cls.lines_for_footer())
 
