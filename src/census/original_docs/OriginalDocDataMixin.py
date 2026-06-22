@@ -73,6 +73,12 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
             value = data[i_header]
             values[header] = self.parse_float(value)
 
+        if len(headers) != len(values.keys()) + 1:
+            raise ValueError(
+                f"Header/data length mismatch: {len(headers)} headers vs "
+                + f"{len(values.keys())} values"
+            )
+
         if region_id:
             data = dict(
                 region_id=region_id,
