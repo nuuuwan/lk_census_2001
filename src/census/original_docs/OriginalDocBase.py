@@ -12,7 +12,6 @@ class OriginalDocBase:
 
     @cached_property
     def doc_id(self) -> str:
-        # remove all non alpha numeric and spaces
         doc_id = "".join(c for c in self.name if c.isalnum() or c.isspace())
         doc_id = doc_id.strip().replace(" ", "-").lower()
         return doc_id
