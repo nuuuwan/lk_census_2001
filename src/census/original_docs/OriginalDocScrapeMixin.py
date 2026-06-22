@@ -22,6 +22,7 @@ class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
                 original_doc = cls(name=label, url=url_pdf)
                 original_doc.download_pdf()
                 original_doc.parse_pdf()
+                original_doc.parse_raw_data()
                 return original_doc
         return None
 
