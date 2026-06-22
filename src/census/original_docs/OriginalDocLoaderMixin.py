@@ -37,5 +37,6 @@ class OriginalDocLoaderMixin:
             metadata = metadata_file.read()
             doc = cls(name=metadata["name"], url=metadata["url"])
             docs.append(doc)
+        docs.sort(key=lambda doc: doc.doc_id)
         log.debug(f"Loaded {len(docs)} docs")
         return docs
