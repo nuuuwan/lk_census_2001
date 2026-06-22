@@ -44,7 +44,7 @@ class OriginalDocReadmeMixin:
             ]
         return []
 
-    def readme_build(self):
+    def build_readme(self):
         lines = (
             [f"# {self.name}", ""]
             + self.lines_for_data_types()

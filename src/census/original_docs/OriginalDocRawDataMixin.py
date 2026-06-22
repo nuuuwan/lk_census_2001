@@ -21,7 +21,7 @@ class OriginalDocRawDataMixin:
     def raw_data_file_path(self):
         return os.path.join(self.dir_data, "raw_data.json")
 
-    def parse_pdf(self) -> list:
+    def build_raw_data(self) -> list:
         json_file = JSONFile(self.raw_data_file_path)
         if json_file.exists:
             log.debug(f"{json_file} exists")

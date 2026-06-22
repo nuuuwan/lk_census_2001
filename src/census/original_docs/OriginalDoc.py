@@ -18,6 +18,11 @@ from utils_future import Log
 log = Log("OriginalDoc")
 
 
+class OriginalDocTSVMixin:
+    def build_tsv(self):
+        pass
+
+
 class OriginalDoc(
     OriginalDocBase,
     OriginalDocLoaderMixin,
@@ -27,6 +32,7 @@ class OriginalDoc(
     OriginalDocPDFMixin,
     OriginalDocRawDataMixin,
     OriginalDocDataMixin,
+    OriginalDocTSVMixin,
     OriginalDocReadmeMixin,
     OriginalDocValidateMixin,
     #

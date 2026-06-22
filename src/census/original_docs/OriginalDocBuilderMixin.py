@@ -2,6 +2,7 @@ class OriginalDocBuilderMixin:
     def build(self):
         self.write_metadata()
         self.download_pdf()
-        self.parse_pdf()
-        self.parse_raw_data()
-        self.readme_build()
+        self.build_raw_data()
+        self.build_data()
+        self.build_tsv()
+        self.build_readme()

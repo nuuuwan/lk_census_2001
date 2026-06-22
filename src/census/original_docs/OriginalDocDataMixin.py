@@ -121,7 +121,7 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
         data_file.write(data_list)
         log.info(f"Wrote {len(data_list)} rows to {data_file}")
 
-    def parse_raw_data(self):
+    def build_data(self):
         data_file = JSONFile(self.data_file_path)
         if data_file.exists:
             log.debug(f"{data_file} exists")
