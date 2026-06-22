@@ -46,11 +46,44 @@ class OriginalDocReadmeMixin:
             ]
         return []
 
+    def lines_for_source(self) -> list[str]:
+        return [
+            "## Source",
+            "",
+            f"- *[{self.url}]({self.url})*",
+            "",
+        ]
+
+    @staticmethod
+    def lines_for_header() -> list[str]:
+        time_str = TimeFormat.DATE.format(Time.now())
+        time_str = time_str.replace(" ", "_").replace("-", "--")
+        return [
+            "![CPH](https://img.shields.io/badge/CPH-2001-blue)",
+            f"![LastUpdated](https://img.shields.io/badge/last_updated-{time_str}-green)",
+            "",
+        ]
+
+    @staticmethod
+    def lines_for_footer() -> list[str]:
+        return [
+            "![Maintainer]"
+            + "(https://img.shields.io/badge/maintainer-nuuuwan-red)",
+            "![MadeWith](https://img.shields.io/badge/made_with-python-blue)",
+            "[![License: MIT]"
+            + "(https://img.shields.io/badge/License-MIT-yellow.svg)]"
+            + "(https://opensource.org/licenses/MIT)",
+            "",
+        ]
+
     def build_readme(self):
         lines = (
             [f"# {self.name}", ""]
+            + self.lines_for_header()
             + self.lines_for_data_types()
             + self.lines_for_example()
+            + self.lines_for_source()
+            + self.lines_for_footer()
         )
         readme_file = File(self.readme_file_path())
         readme_file.write("\n".join(lines))
@@ -59,24 +92,26 @@ class OriginalDocReadmeMixin:
     @classmethod
     def build_global_readme(cls):
         docs = cls.list()
-        time_str = TimeFormat.TIME.format(Time.now())
-        time_str = time_str.replace(" ", "_").replace("-", "--")
+
         n_datasets = len(docs)
-        lines = [
-            "# Sri Lanka 🇱🇰  - Census of Population and Housing 2001",
-            "",
-            "![CPH](https://img.shields.io/badge/CPH-2001-blue)",
-            f"![LastUpdated](https://img.shields.io/badge/last_updated-{time_str}-green)",
-            "",
-            f"**{n_datasets}** Datasets on"
-            + " Population and Housing by Country and District.",
-            "",
-        ]
+        lines = (
+            [
+                "# Sri Lanka 🇱🇰  - Census of Population and Housing 2001",
+                "",
+            ]
+            + cls.lines_for_header()
+            + [
+                f"**{n_datasets}** Datasets on"
+                + " Population and Housing by Country and District.",
+                "",
+            ]
+        )
 
         for i_doc, doc in enumerate(docs, start=1):
             lines.append(f"{i_doc:02d}. [{doc.name}]({doc.dir_data})")
 
         lines.append("")
+        lines.extend(cls.lines_for_footer())
 
         readme_file = File(cls.GLOBAL_README_PATH)
         readme_file.write("\n".join(lines))
