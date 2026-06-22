@@ -6,8 +6,7 @@ log = Log("OriginalDocMetadataMixin")
 
 
 class OriginalDocMetadataMixin:
-    DIR_ORIGINAL_DATA = "original_data"
-    METADATA_FILE_PATH = os.path.join(DIR_ORIGINAL_DATA, "metadata.json")
+    METADATA_FILE_PATH = os.path.join("data", "metadata.json")
 
     @classmethod
     def write_metadata(cls, original_docs):
