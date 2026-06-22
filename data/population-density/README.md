@@ -10,6 +10,22 @@
 - [📄 Raw JSON Data from Original](../../data/population-density/raw_data.json)
 - [📜 Original PDF](../../data/population-density/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+        "total": 2063684.0,
+        "male": 1007702.0,
+        "female": 1055982.0,
+        "sex-ratio": 95.4,
+        "population-density-persons-per-sqkm": 1539.0
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p2Populationbydistrictsexsexratioandpopulationdensity.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p2Populationbydistrictsexsexratioandpopulationdensity.pdf)*

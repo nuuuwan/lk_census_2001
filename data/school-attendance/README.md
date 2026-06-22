@@ -10,6 +10,22 @@
 - [📄 Raw JSON Data from Original](../../data/school-attendance/raw_data.json)
 - [📜 Original PDF](../../data/school-attendance/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "aged-6-9-years": 96.0,
+        "aged-10-14-years": 95.1,
+        "aged-15-19-years": 59.3,
+        "aged-6-14-years": 95.5,
+        "aged-6-19-years": 82.7
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p13Attendance6-19.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p13Attendance6-19.pdf)*

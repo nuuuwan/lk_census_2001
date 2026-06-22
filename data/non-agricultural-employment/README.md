@@ -10,6 +10,22 @@
 - [📄 Raw JSON Data from Original](../../data/non-agricultural-employment/raw_data.json)
 - [📜 Original PDF](../../data/non-agricultural-employment/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "aged-10-years-and-over": 164923.0,
+        "technicians-and-clerks": 14.5,
+        "private-business-owners": 12.7,
+        "workers": 22.5,
+        "occupations-unidentifiable-or-inadequate": 9.0
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p24non-agriculture.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p24non-agriculture.pdf)*

@@ -10,6 +10,22 @@
 - [📄 Raw JSON Data from Original](../../data/population-growth/raw_data.json)
 - [📜 Original PDF](../../data/population-growth/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+        "census-1981-population": 1390862.0,
+        "census-2001-population": 2063684.0,
+        "intercensal-increase-no": 672822.0,
+        "intercensal-increase-pct": 48.4,
+        "annual-growth-rate": 1.9
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p1Growth.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p1Growth.pdf)*

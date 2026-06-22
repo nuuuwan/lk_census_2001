@@ -10,6 +10,23 @@
 - [📄 Raw JSON Data from Original](../../data/inactive-population/raw_data.json)
 - [📜 Original PDF](../../data/inactive-population/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "aged-10-years-and-over": 240681.0,
+        "students": 38.3,
+        "unable-to-work": 8.8,
+        "pension-recipients-and-pensioners": 1.8,
+        "household-work": 43.1,
+        "others": 8.1
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p18Percentageofnoteconomicallyactivepopulationbydistrict.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p18Percentageofnoteconomicallyactivepopulationbydistrict.pdf)*

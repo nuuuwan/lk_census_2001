@@ -10,6 +10,24 @@
 - [📄 Raw JSON Data from Original](../../data/educational-attainment/raw_data.json)
 - [📜 Original PDF](../../data/educational-attainment/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "population-aged-5-years-and-over": 480166.0,
+        "na": null,
+        "percentage-completed-primary-education-passed-year-1-5": 26.7,
+        "na-2": null,
+        "percentage-completed-lower-secondary-passed-year-6-8": 19.6,
+        "percentage-completed-upper-secondary-passed-year-9-11": 36.9,
+        "percentage-completed-tertiary-education-passed-gce-al-above": 7.6
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p15Attainment.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p15Attainment.pdf)*

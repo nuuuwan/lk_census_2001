@@ -1,0 +1,249 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-occupied-housing-units": 3969027.0,
+      "permanent-outer-walls-no": 3022656.0,
+      "permanent-outer-walls-pct": 76.2,
+      "permanent-floor-no": 3085489.0,
+      "permanent-floor-pct": 77.7,
+      "permanent-roof-no": 3539016.0,
+      "permanent-roof-pct": 89.2
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-occupied-housing-units": 473045.0,
+      "permanent-outer-walls-no": 409547.0,
+      "permanent-outer-walls-pct": 86.6,
+      "permanent-floor-no": 449702.0,
+      "permanent-floor-pct": 95.1,
+      "permanent-roof-no": 452227.0,
+      "permanent-roof-pct": 95.6
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-occupied-housing-units": 475847.0,
+      "permanent-outer-walls-no": 385611.0,
+      "permanent-outer-walls-pct": 81.0,
+      "permanent-floor-no": 437899.0,
+      "permanent-floor-pct": 92.0,
+      "permanent-roof-no": 442704.0,
+      "permanent-roof-pct": 93.0
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-occupied-housing-units": 245784.0,
+      "permanent-outer-walls-no": 189183.0,
+      "permanent-outer-walls-pct": 77.0,
+      "permanent-floor-no": 217487.0,
+      "permanent-floor-pct": 88.5,
+      "permanent-roof-no": 231884.0,
+      "permanent-roof-pct": 94.3
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-occupied-housing-units": 291454.0,
+      "permanent-outer-walls-no": 241377.0,
+      "permanent-outer-walls-pct": 82.8,
+      "permanent-floor-no": 218887.0,
+      "permanent-floor-pct": 75.1,
+      "permanent-roof-no": 281855.0,
+      "permanent-roof-pct": 96.7
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-occupied-housing-units": 108566.0,
+      "permanent-outer-walls-no": 78732.0,
+      "permanent-outer-walls-pct": 72.5,
+      "permanent-floor-no": 66424.0,
+      "permanent-floor-pct": 61.2,
+      "permanent-roof-no": 96209.0,
+      "permanent-roof-pct": 88.6
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-occupied-housing-units": 164886.0,
+      "permanent-outer-walls-no": 125905.0,
+      "permanent-outer-walls-pct": 76.4,
+      "permanent-floor-no": 111981.0,
+      "permanent-floor-pct": 67.9,
+      "permanent-roof-no": 156083.0,
+      "permanent-roof-pct": 94.7
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-occupied-housing-units": 229521.0,
+      "permanent-outer-walls-no": 169022.0,
+      "permanent-outer-walls-pct": 73.6,
+      "permanent-floor-no": 191559.0,
+      "permanent-floor-pct": 83.5,
+      "permanent-roof-no": 214913.0,
+      "permanent-roof-pct": 93.6
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-occupied-housing-units": 174712.0,
+      "permanent-outer-walls-no": 136824.0,
+      "permanent-outer-walls-pct": 78.3,
+      "permanent-floor-no": 137611.0,
+      "permanent-floor-pct": 78.8,
+      "permanent-roof-no": 164506.0,
+      "permanent-roof-pct": 94.2
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-occupied-housing-units": 126362.0,
+      "permanent-outer-walls-no": 94041.0,
+      "permanent-outer-walls-pct": 74.4,
+      "permanent-floor-no": 84961.0,
+      "permanent-floor-pct": 67.2,
+      "permanent-roof-no": 99305.0,
+      "permanent-roof-pct": 78.6
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-occupied-housing-units": 132371.0,
+      "permanent-outer-walls-no": 98639.0,
+      "permanent-outer-walls-pct": 74.5,
+      "permanent-floor-no": 97578.0,
+      "permanent-floor-pct": 73.7,
+      "permanent-roof-no": 109563.0,
+      "permanent-roof-pct": 82.8
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-occupied-housing-units": 376352.0,
+      "permanent-outer-walls-no": 278185.0,
+      "permanent-outer-walls-pct": 73.9,
+      "permanent-floor-no": 268628.0,
+      "permanent-floor-pct": 71.4,
+      "permanent-roof-no": 284262.0,
+      "permanent-roof-pct": 75.5
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-occupied-housing-units": 174737.0,
+      "permanent-outer-walls-no": 116491.0,
+      "permanent-outer-walls-pct": 66.7,
+      "permanent-floor-no": 145846.0,
+      "permanent-floor-pct": 83.5,
+      "permanent-roof-no": 115633.0,
+      "permanent-roof-pct": 66.2
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-occupied-housing-units": 186697.0,
+      "permanent-outer-walls-no": 131667.0,
+      "permanent-outer-walls-pct": 70.5,
+      "permanent-floor-no": 108173.0,
+      "permanent-floor-pct": 57.9,
+      "permanent-roof-no": 154479.0,
+      "permanent-roof-pct": 82.7
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-occupied-housing-units": 90999.0,
+      "permanent-outer-walls-no": 66791.0,
+      "permanent-outer-walls-pct": 73.4,
+      "permanent-floor-no": 60091.0,
+      "permanent-floor-pct": 66.0,
+      "permanent-roof-no": 75062.0,
+      "permanent-roof-pct": 82.5
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-occupied-housing-units": 185268.0,
+      "permanent-outer-walls-no": 130543.0,
+      "permanent-outer-walls-pct": 70.5,
+      "permanent-floor-no": 121736.0,
+      "permanent-floor-pct": 65.7,
+      "permanent-roof-no": 177335.0,
+      "permanent-roof-pct": 95.7
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-occupied-housing-units": 95966.0,
+      "permanent-outer-walls-no": 61013.0,
+      "permanent-outer-walls-pct": 63.6,
+      "permanent-floor-no": 49747.0,
+      "permanent-floor-pct": 51.8,
+      "permanent-roof-no": 81107.0,
+      "permanent-roof-pct": 84.5
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-occupied-housing-units": 242882.0,
+      "permanent-outer-walls-no": 161863.0,
+      "permanent-outer-walls-pct": 66.6,
+      "permanent-floor-no": 173170.0,
+      "permanent-floor-pct": 71.3,
+      "permanent-roof-no": 226472.0,
+      "permanent-roof-pct": 93.2
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-occupied-housing-units": 193578.0,
+      "permanent-outer-walls-no": 147222.0,
+      "permanent-outer-walls-pct": 76.1,
+      "permanent-floor-no": 144009.0,
+      "permanent-floor-pct": 74.4,
+      "permanent-roof-no": 175417.0,
+      "permanent-roof-pct": 90.6
+    }
+  }
+]

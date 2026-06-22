@@ -10,6 +10,21 @@
 - [📄 Raw JSON Data from Original](../../data/educational-enrollment/raw_data.json)
 - [📜 Original PDF](../../data/educational-enrollment/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "population-aged-5-34-years": 278345.0,
+        "attending-school": 47.9,
+        "attending-university": 0.4,
+        "attending-vocational-or-technical-institution": 0.7
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p12Attendance5-34.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p12Attendance5-34.pdf)*

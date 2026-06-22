@@ -10,6 +10,21 @@
 - [📄 Raw JSON Data from Original](../../data/housing-density/raw_data.json)
 - [📜 Original PDF](../../data/housing-density/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "occupied-housing-units": 3.8,
+        "permanent": 4.5,
+        "semi-permanent": 2.9,
+        "improvised": 1.3
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h5Averageroomsperoccupiedhousingunitbydistrict.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h5Averageroomsperoccupiedhousingunitbydistrict.pdf)*

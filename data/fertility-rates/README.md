@@ -10,6 +10,21 @@
 - [📄 Raw JSON Data from Original](../../data/fertility-rates/raw_data.json)
 - [📜 Original PDF](../../data/fertility-rates/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "total": 3.4,
+        "urban": 2.7,
+        "rural": 3.4,
+        "estate": 2.5
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p26Childrenborn.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p26Childrenborn.pdf)*

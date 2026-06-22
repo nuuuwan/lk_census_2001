@@ -10,6 +10,24 @@
 - [📄 Raw JSON Data from Original](../../data/construction-materials/raw_data.json)
 - [📜 Original PDF](../../data/construction-materials/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "total-occupied-housing-units": 126362.0,
+        "permanent-outer-walls-no": 94041.0,
+        "permanent-outer-walls-pct": 74.4,
+        "permanent-floor-no": 84961.0,
+        "permanent-floor-pct": 67.2,
+        "permanent-roof-no": 99305.0,
+        "permanent-roof-pct": 78.6
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h3ConsMaterials.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h3ConsMaterials.pdf)*

@@ -10,6 +10,24 @@
 - [📄 Raw JSON Data from Original](../../data/sanitation-access/raw_data.json)
 - [📜 Original PDF](../../data/sanitation-access/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "total-housing-units": 128008.0,
+        "using-toilets-no": 107323.0,
+        "using-toilets-pct": 83.8,
+        "exclusive-hygienic-toilets-no": 74225.0,
+        "exclusive-hygienic-toilets-pct": 58.0,
+        "not-using-toilet-no": 2868.0,
+        "not-using-toilet-pct": 2.2
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h7Toilets.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h7Toilets.pdf)*

@@ -1,0 +1,249 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-households": 4054186.0,
+      "urban-households": 511717.0,
+      "rural-households": 3320198.0,
+      "estate-households": 222271.0,
+      "average-household-size": 4.2,
+      "female-headed-households-no": 814725.0,
+      "female-headed-households-pct": 20.1
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-households": 493085.0,
+      "urban-households": 254576.0,
+      "rural-households": 236651.0,
+      "estate-households": 1858.0,
+      "average-household-size": 4.4,
+      "female-headed-households-no": 105140.0,
+      "female-headed-households-pct": 21.3
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-households": 487184.0,
+      "urban-households": 64254.0,
+      "rural-households": 422722.0,
+      "estate-households": 208.0,
+      "average-household-size": 4.2,
+      "female-headed-households-no": 98424.0,
+      "female-headed-households-pct": 20.2
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-households": 250939.0,
+      "urban-households": 22018.0,
+      "rural-households": 219320.0,
+      "estate-households": 9601.0,
+      "average-household-size": 4.3,
+      "female-headed-households-no": 48830.0,
+      "female-headed-households-pct": 19.5
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-households": 299870.0,
+      "urban-households": 31683.0,
+      "rural-households": 244976.0,
+      "estate-households": 23211.0,
+      "average-household-size": 4.3,
+      "female-headed-households-no": 66914.0,
+      "female-headed-households-pct": 22.3
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-households": 110886.0,
+      "urban-households": 7460.0,
+      "rural-households": 97769.0,
+      "estate-households": 5657.0,
+      "average-household-size": 4.0,
+      "female-headed-households-no": 23014.0,
+      "female-headed-households-pct": 20.8
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-households": 169540.0,
+      "urban-households": 9545.0,
+      "rural-households": 71496.0,
+      "estate-households": 88499.0,
+      "average-household-size": 4.3,
+      "female-headed-households-no": 30810.0,
+      "female-headed-households-pct": 18.2
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-households": 233027.0,
+      "urban-households": 21256.0,
+      "rural-households": 207441.0,
+      "estate-households": 4330.0,
+      "average-household-size": 4.3,
+      "female-headed-households-no": 50163.0,
+      "female-headed-households-pct": 21.5
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-households": 177613.0,
+      "urban-households": 13176.0,
+      "rural-households": 159718.0,
+      "estate-households": 4719.0,
+      "average-household-size": 4.4,
+      "female-headed-households-no": 39188.0,
+      "female-headed-households-pct": 22.1
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-households": 128008.0,
+      "urban-households": 4523.0,
+      "rural-households": 123398.0,
+      "estate-households": 87.0,
+      "average-household-size": 4.2,
+      "female-headed-households-no": 25504.0,
+      "female-headed-households-pct": 19.9
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-households": 137741.0,
+      "urban-households": 25115.0,
+      "rural-households": 112626.0,
+      "estate-households": 0,
+      "average-household-size": 4.2,
+      "female-headed-households-no": 27505.0,
+      "female-headed-households-pct": 20.0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-households": 380213.0,
+      "urban-households": 6511.0,
+      "rural-households": 371906.0,
+      "estate-households": 1796.0,
+      "average-household-size": 3.9,
+      "female-headed-households-no": 79141.0,
+      "female-headed-households-pct": 20.8
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-households": 176544.0,
+      "urban-households": 14208.0,
+      "rural-households": 161713.0,
+      "estate-households": 623.0,
+      "average-household-size": 4.1,
+      "female-headed-households-no": 35162.0,
+      "female-headed-households-pct": 19.9
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-households": 189699.0,
+      "urban-households": 11030.0,
+      "rural-households": 178427.0,
+      "estate-households": 242.0,
+      "average-household-size": 3.9,
+      "female-headed-households-no": 36560.0,
+      "female-headed-households-pct": 19.3
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-households": 91718.0,
+      "urban-households": 0,
+      "rural-households": 91620.0,
+      "estate-households": 98.0,
+      "average-household-size": 3.9,
+      "female-headed-households-no": 17164.0,
+      "female-headed-households-pct": 18.7
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-households": 189925.0,
+      "urban-households": 10849.0,
+      "rural-households": 139571.0,
+      "estate-households": 39505.0,
+      "average-household-size": 4.2,
+      "female-headed-households-no": 34959.0,
+      "female-headed-households-pct": 18.4
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-households": 96598.0,
+      "urban-households": 0,
+      "rural-households": 94295.0,
+      "estate-households": 2303.0,
+      "average-household-size": 4.2,
+      "female-headed-households-no": 14556.0,
+      "female-headed-households-pct": 15.1
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-households": 245743.0,
+      "urban-households": 12059.0,
+      "rural-households": 208081.0,
+      "estate-households": 25603.0,
+      "average-household-size": 4.2,
+      "female-headed-households-no": 40151.0,
+      "female-headed-households-pct": 16.3
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-households": 195853.0,
+      "urban-households": 3454.0,
+      "rural-households": 178468.0,
+      "estate-households": 13931.0,
+      "average-household-size": 4.1,
+      "female-headed-households-no": 41540.0,
+      "female-headed-households-pct": 21.2
+    }
+  }
+]

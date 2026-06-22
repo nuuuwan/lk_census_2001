@@ -10,6 +10,24 @@
 - [📄 Raw JSON Data from Original](../../data/cooking-fuel/raw_data.json)
 - [📜 Original PDF](../../data/cooking-fuel/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "total-housing-units": 128008.0,
+        "firewood-no": 120500.0,
+        "firewood-pct": 94.1,
+        "lp-gas-no": 5699.0,
+        "lp-gas-pct": 4.5,
+        "kerosene-no": 429.0,
+        "kerosene-pct": 0.3
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h10Cooking.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h10Cooking.pdf)*

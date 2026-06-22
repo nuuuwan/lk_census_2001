@@ -1,0 +1,211 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "aged-10-years-and-over": 5941574.0,
+      "technicians-and-clerks": 18.2,
+      "private-business-owners": 17.6,
+      "workers": 25.0,
+      "occupations-unidentifiable-or-inadequate": 11.0
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "aged-10-years-and-over": 855142.0,
+      "technicians-and-clerks": 30.9,
+      "private-business-owners": 24.7,
+      "workers": 30.9,
+      "occupations-unidentifiable-or-inadequate": 11.3
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "aged-10-years-and-over": 756186.0,
+      "technicians-and-clerks": 22.8,
+      "private-business-owners": 20.0,
+      "workers": 41.8,
+      "occupations-unidentifiable-or-inadequate": 10.5
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "aged-10-years-and-over": 356837.0,
+      "technicians-and-clerks": 21.3,
+      "private-business-owners": 20.5,
+      "workers": 30.9,
+      "occupations-unidentifiable-or-inadequate": 12.0
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "aged-10-years-and-over": 407554.0,
+      "technicians-and-clerks": 20.8,
+      "private-business-owners": 22.1,
+      "workers": 23.3,
+      "occupations-unidentifiable-or-inadequate": 12.1
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "aged-10-years-and-over": 156179.0,
+      "technicians-and-clerks": 14.4,
+      "private-business-owners": 16.3,
+      "workers": 18.1,
+      "occupations-unidentifiable-or-inadequate": 11.7
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "aged-10-years-and-over": 281546.0,
+      "technicians-and-clerks": 8.7,
+      "private-business-owners": 11.7,
+      "workers": 10.4,
+      "occupations-unidentifiable-or-inadequate": 8.4
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "aged-10-years-and-over": 318680.0,
+      "technicians-and-clerks": 18.5,
+      "private-business-owners": 15.4,
+      "workers": 24.6,
+      "occupations-unidentifiable-or-inadequate": 12.1
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "aged-10-years-and-over": 242175.0,
+      "technicians-and-clerks": 16.5,
+      "private-business-owners": 15.4,
+      "workers": 23.4,
+      "occupations-unidentifiable-or-inadequate": 8.3
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "aged-10-years-and-over": 164923.0,
+      "technicians-and-clerks": 14.5,
+      "private-business-owners": 12.7,
+      "workers": 22.5,
+      "occupations-unidentifiable-or-inadequate": 9.0
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "aged-10-years-and-over": 162322.0,
+      "technicians-and-clerks": 13.5,
+      "private-business-owners": 19.2,
+      "workers": 14.9,
+      "occupations-unidentifiable-or-inadequate": 8.3
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "aged-10-years-and-over": 514553.0,
+      "technicians-and-clerks": 15.3,
+      "private-business-owners": 16.3,
+      "workers": 24.5,
+      "occupations-unidentifiable-or-inadequate": 11.5
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "aged-10-years-and-over": 229425.0,
+      "technicians-and-clerks": 12.0,
+      "private-business-owners": 19.7,
+      "workers": 29.6,
+      "occupations-unidentifiable-or-inadequate": 13.1
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "aged-10-years-and-over": 285806.0,
+      "technicians-and-clerks": 11.1,
+      "private-business-owners": 13.2,
+      "workers": 11.7,
+      "occupations-unidentifiable-or-inadequate": 11.6
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "aged-10-years-and-over": 137078.0,
+      "technicians-and-clerks": 9.4,
+      "private-business-owners": 14.2,
+      "workers": 11.6,
+      "occupations-unidentifiable-or-inadequate": 13.8
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "aged-10-years-and-over": 294223.0,
+      "technicians-and-clerks": 12.7,
+      "private-business-owners": 11.9,
+      "workers": 10.7,
+      "occupations-unidentifiable-or-inadequate": 9.5
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "aged-10-years-and-over": 144600.0,
+      "technicians-and-clerks": 9.7,
+      "private-business-owners": 11.1,
+      "workers": 10.8,
+      "occupations-unidentifiable-or-inadequate": 7.5
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "aged-10-years-and-over": 375365.0,
+      "technicians-and-clerks": 12.7,
+      "private-business-owners": 12.0,
+      "workers": 21.7,
+      "occupations-unidentifiable-or-inadequate": 10.4
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "aged-10-years-and-over": 258980.0,
+      "technicians-and-clerks": 15.9,
+      "private-business-owners": 16.4,
+      "workers": 29.5,
+      "occupations-unidentifiable-or-inadequate": 14.1
+    }
+  }
+]

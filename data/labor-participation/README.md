@@ -10,6 +10,21 @@
 - [📄 Raw JSON Data from Original](../../data/labor-participation/raw_data.json)
 - [📜 Original PDF](../../data/labor-participation/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "aged-10-years-and-over": 164923.0,
+        "total": 43.5,
+        "male": 63.8,
+        "female": 23.3
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p16Labourforceparticipationratesbydistrictandsex.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p16Labourforceparticipationratesbydistrictandsex.pdf)*

@@ -10,6 +10,23 @@
 - [📄 Raw JSON Data from Original](../../data/school-enrollment/raw_data.json)
 - [📜 Original PDF](../../data/school-enrollment/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "na": null,
+        "total": 4.1,
+        "urban": 8.5,
+        "na-2": null,
+        "rural": 4.0,
+        "estate": 20.0
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p14Notattending6-14.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p14Notattending6-14.pdf)*

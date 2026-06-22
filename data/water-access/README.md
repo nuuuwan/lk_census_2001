@@ -10,6 +10,22 @@
 - [📄 Raw JSON Data from Original](../../data/water-access/raw_data.json)
 - [📜 Original PDF](../../data/water-access/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "total-housing-units": 128008.0,
+        "pipe-borne-water-no": 42704.0,
+        "pipe-borne-water-pct": 33.4,
+        "safe-water-no": 106758.0,
+        "safe-water-pct": 83.4
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h8drinkingwater.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Housing/p10h8drinkingwater.pdf)*

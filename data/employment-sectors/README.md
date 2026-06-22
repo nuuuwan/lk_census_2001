@@ -10,6 +10,24 @@
 - [📄 Raw JSON Data from Original](../../data/employment-sectors/raw_data.json)
 - [📜 Original PDF](../../data/employment-sectors/original.pdf)
 
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "total-employed-population-aged-10-years-and-over": 164923.0,
+        "agricultural-and-fishery-workers-including-unskilled-labourers-no": 68095.0,
+        "na": null,
+        "agricultural-and-fishery-workers-including-unskilled-labourers": 41.3,
+        "non-agricultural-and-fishery-workers-no": 96828.0,
+        "na-2": null,
+        "non-agricultural-and-fishery-workers": 58.7
+    }
+}
+```
+
 ## Source
 
 - *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p22Numberandpercentageofagriculturalandfisheryworkersandnonagricultural.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p22Numberandpercentageofagriculturalandfisheryworkersandnonagricultural.pdf)*

@@ -1,0 +1,249 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total": 91.1,
+      "male": 92.6,
+      "na": null,
+      "female": 89.7,
+      "urban": 93.4,
+      "rural": 91.7,
+      "estate": 75.1
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total": 94.7,
+      "male": 95.3,
+      "na": null,
+      "female": 94.0,
+      "urban": 93.3,
+      "rural": 96.4,
+      "estate": 82.0
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total": 95.4,
+      "male": 95.7,
+      "na": null,
+      "female": 95.1,
+      "urban": 93.7,
+      "rural": 95.7,
+      "estate": 88.0
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total": 93.2,
+      "male": 93.7,
+      "na": null,
+      "female": 92.6,
+      "urban": 93.6,
+      "rural": 93.7,
+      "estate": 77.5
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total": 90.5,
+      "male": 92.4,
+      "na": null,
+      "female": 88.7,
+      "urban": 94.7,
+      "rural": 91.2,
+      "estate": 74.6
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total": 88.3,
+      "male": 90.2,
+      "na": null,
+      "female": 86.4,
+      "urban": 93.9,
+      "rural": 88.5,
+      "estate": 75.7
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total": 82.6,
+      "male": 87.6,
+      "na": null,
+      "female": 77.7,
+      "urban": 92.9,
+      "rural": 88.9,
+      "estate": 76.6
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total": 92.3,
+      "male": 93.2,
+      "na": null,
+      "female": 91.5,
+      "urban": 94.9,
+      "rural": 92.5,
+      "estate": 64.3
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total": 90.3,
+      "male": 91.9,
+      "na": null,
+      "female": 88.9,
+      "urban": 95.9,
+      "rural": 90.8,
+      "estate": 53.3
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total": 88.9,
+      "male": 90.9,
+      "na": null,
+      "female": 87.0,
+      "urban": 93.6,
+      "rural": 88.9,
+      "estate": 57.2
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total": 85.9,
+      "male": 88.9,
+      "na": null,
+      "female": 82.9,
+      "urban": 88.9,
+      "rural": 85.2,
+      "estate": 0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total": 92.7,
+      "male": 93.9,
+      "na": null,
+      "female": 91.5,
+      "urban": 94.8,
+      "rural": 92.7,
+      "estate": 81.0
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total": 90.7,
+      "male": 91.2,
+      "na": null,
+      "female": 90.3,
+      "urban": 88.3,
+      "rural": 91.0,
+      "estate": 82.2
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total": 90.5,
+      "male": 92.0,
+      "na": null,
+      "female": 88.8,
+      "urban": 96.0,
+      "rural": 90.0,
+      "estate": 96.4
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total": 90.0,
+      "male": 91.2,
+      "na": null,
+      "female": 88.7,
+      "urban": 0,
+      "rural": 90.0,
+      "estate": 93.2
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total": 85.2,
+      "male": 88.9,
+      "na": null,
+      "female": 81.7,
+      "urban": 93.8,
+      "rural": 87.1,
+      "estate": 75.8
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total": 86.0,
+      "male": 88.1,
+      "na": null,
+      "female": 83.8,
+      "urban": 0,
+      "rural": 86.2,
+      "estate": 77.2
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total": 88.4,
+      "male": 90.4,
+      "na": null,
+      "female": 86.2,
+      "urban": 94.3,
+      "rural": 89.8,
+      "estate": 72.3
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total": 91.4,
+      "male": 93.0,
+      "na": null,
+      "female": 89.8,
+      "urban": 94.6,
+      "rural": 92.5,
+      "estate": 75.0
+    }
+  }
+]

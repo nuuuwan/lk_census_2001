@@ -5,7 +5,7 @@ from functools import cached_property
 from census.original_docs.OriginalDocDataConstanstsMixin import \
     OriginalDocDataConstanstsMixin
 from census.original_docs.RegionUtils import RegionUtils
-from utils_future import JSONFile, Log
+from utils_future import File, JSONFile, Log
 
 log = Log("OriginalDocDataMixin")
 
@@ -120,12 +120,20 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
         data_file.write(data_list)
         log.info(f"Wrote {len(data_list)} rows to {data_file}")
 
-    def build_data(self):
+    def is_by_district(self):
+        raw_data_content = File(self.raw_data_file_path).read().lower()
+        return (
+            "colombo" in raw_data_content
+            and "gampaha" in raw_data_content
+            and "kalutara" in raw_data_content
+        )
+
+    def build_data(self, force=True):
         data_file = JSONFile(self.data_file_path)
-        if data_file.exists:
+        if data_file.exists and not force:
             log.debug(f"{data_file} exists")
             return data_file.read()
 
-        if "by-district" in self.doc_id:
+        if self.is_by_district():
             return self.parse_raw_data_by_district()
         log.warning(f"Unknown doc_id format for parsing: {self.doc_id}")
