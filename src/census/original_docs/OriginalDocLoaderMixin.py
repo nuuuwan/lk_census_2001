@@ -16,6 +16,7 @@ class OriginalDocLoaderMixin:
         metadata_file = JSONFile(self.metadata_file_path)
         metadata_file.write(
             dict(
+                doc_id=self.doc_id,
                 name=self.name,
                 url=self.url,
             )
