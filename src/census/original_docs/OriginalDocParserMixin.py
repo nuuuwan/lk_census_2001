@@ -76,7 +76,7 @@ class OriginalDocParserMixin:
 
             headers.append(header)
 
-        if len(headers) > 0 and headers[0] == "":
+        if len(headers) > 0:
             headers[0] = "district"
         return headers
 
