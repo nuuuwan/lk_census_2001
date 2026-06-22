@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/number-and-percentage-of-population-by-district-and-sector/data.json)
+- [📄 TSV Data](../../data/number-and-percentage-of-population-by-district-and-sector/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/number-and-percentage-of-population-by-district-and-sector/raw_data.json)
 - [📜 Original PDF](../../data/number-and-percentage-of-population-by-district-and-sector/original.pdf)
 

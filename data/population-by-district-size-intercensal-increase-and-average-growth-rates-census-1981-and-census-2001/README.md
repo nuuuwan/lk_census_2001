@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001/data.json)
+- [📄 TSV Data](../../data/population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001/raw_data.json)
 - [📜 Original PDF](../../data/population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001/original.pdf)
 

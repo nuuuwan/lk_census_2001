@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-employed-population-by-district-and-major-groups-of-occupation/data.json)
+- [📄 TSV Data](../../data/percentage-of-employed-population-by-district-and-major-groups-of-occupation/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-employed-population-by-district-and-major-groups-of-occupation/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-employed-population-by-district-and-major-groups-of-occupation/original.pdf)
 

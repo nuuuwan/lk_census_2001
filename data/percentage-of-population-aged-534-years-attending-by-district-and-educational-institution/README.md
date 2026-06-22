@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-population-aged-534-years-attending-by-district-and-educational-institution/data.json)
+- [📄 TSV Data](../../data/percentage-of-population-aged-534-years-attending-by-district-and-educational-institution/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-population-aged-534-years-attending-by-district-and-educational-institution/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-population-aged-534-years-attending-by-district-and-educational-institution/original.pdf)
 

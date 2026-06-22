@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence/data.json)
+- [📄 TSV Data](../../data/populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence/raw_data.json)
 - [📜 Original PDF](../../data/populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence/original.pdf)
 

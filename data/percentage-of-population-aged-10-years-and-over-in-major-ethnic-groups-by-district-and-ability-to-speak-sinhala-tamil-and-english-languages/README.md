@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-population-aged-10-years-and-over-in-major-ethnic-groups-by-district-and-ability-to-speak-sinhala-tamil-and-english-languages/data.json)
+- [📄 TSV Data](../../data/percentage-of-population-aged-10-years-and-over-in-major-ethnic-groups-by-district-and-ability-to-speak-sinhala-tamil-and-english-languages/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-population-aged-10-years-and-over-in-major-ethnic-groups-by-district-and-ability-to-speak-sinhala-tamil-and-english-languages/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-population-aged-10-years-and-over-in-major-ethnic-groups-by-district-and-ability-to-speak-sinhala-tamil-and-english-languages/original.pdf)
 

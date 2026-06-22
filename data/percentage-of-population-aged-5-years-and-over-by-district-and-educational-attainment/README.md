@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-population-aged-5-years-and-over-by-district-and-educational-attainment/data.json)
+- [📄 TSV Data](../../data/percentage-of-population-aged-5-years-and-over-by-district-and-educational-attainment/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-population-aged-5-years-and-over-by-district-and-educational-attainment/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-population-aged-5-years-and-over-by-district-and-educational-attainment/original.pdf)
 

@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/number-of-householdsaverage-size-of-household-and-percentage-of-female-headed-households-by-district/data.json)
+- [📄 TSV Data](../../data/number-of-householdsaverage-size-of-household-and-percentage-of-female-headed-households-by-district/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/number-of-householdsaverage-size-of-household-and-percentage-of-female-headed-households-by-district/raw_data.json)
 - [📜 Original PDF](../../data/number-of-householdsaverage-size-of-household-and-percentage-of-female-headed-households-by-district/original.pdf)
 

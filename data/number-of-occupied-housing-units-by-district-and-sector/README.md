@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/number-of-occupied-housing-units-by-district-and-sector/data.json)
+- [📄 TSV Data](../../data/number-of-occupied-housing-units-by-district-and-sector/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/number-of-occupied-housing-units-by-district-and-sector/raw_data.json)
 - [📜 Original PDF](../../data/number-of-occupied-housing-units-by-district-and-sector/original.pdf)
 

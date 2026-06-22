@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-employed-population-in-nonagricultural-and-fishery-sector-by-district-and-sector-of-occupation/data.json)
+- [📄 TSV Data](../../data/percentage-of-employed-population-in-nonagricultural-and-fishery-sector-by-district-and-sector-of-occupation/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-employed-population-in-nonagricultural-and-fishery-sector-by-district-and-sector-of-occupation/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-employed-population-in-nonagricultural-and-fishery-sector-by-district-and-sector-of-occupation/original.pdf)
 

@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/population-by-district-sex-sex-ratio-and-population-density/data.json)
+- [📄 TSV Data](../../data/population-by-district-sex-sex-ratio-and-population-density/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/population-by-district-sex-sex-ratio-and-population-density/raw_data.json)
 - [📜 Original PDF](../../data/population-by-district-sex-sex-ratio-and-population-density/original.pdf)
 

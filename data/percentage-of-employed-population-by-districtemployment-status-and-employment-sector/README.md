@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-employed-population-by-districtemployment-status-and-employment-sector/data.json)
+- [📄 TSV Data](../../data/percentage-of-employed-population-by-districtemployment-status-and-employment-sector/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-employed-population-by-districtemployment-status-and-employment-sector/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-employed-population-by-districtemployment-status-and-employment-sector/original.pdf)
 

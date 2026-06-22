@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/number-and-percentage-of-households-using-toilets-exclusively-using-hygienic-toilets-and-households-not-using-a-toilet-by-district/data.json)
+- [📄 TSV Data](../../data/number-and-percentage-of-households-using-toilets-exclusively-using-hygienic-toilets-and-households-not-using-a-toilet-by-district/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/number-and-percentage-of-households-using-toilets-exclusively-using-hygienic-toilets-and-households-not-using-a-toilet-by-district/raw_data.json)
 - [📜 Original PDF](../../data/number-and-percentage-of-households-using-toilets-exclusively-using-hygienic-toilets-and-households-not-using-a-toilet-by-district/original.pdf)
 

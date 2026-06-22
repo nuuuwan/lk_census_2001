@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/number-and-percentage-of-households-using-pipe-born-water-and-safe-water-for-drinking-by-district/data.json)
+- [📄 TSV Data](../../data/number-and-percentage-of-households-using-pipe-born-water-and-safe-water-for-drinking-by-district/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/number-and-percentage-of-households-using-pipe-born-water-and-safe-water-for-drinking-by-district/raw_data.json)
 - [📜 Original PDF](../../data/number-and-percentage-of-households-using-pipe-born-water-and-safe-water-for-drinking-by-district/original.pdf)
 

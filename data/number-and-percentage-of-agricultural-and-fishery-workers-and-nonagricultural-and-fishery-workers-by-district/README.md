@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/number-and-percentage-of-agricultural-and-fishery-workers-and-nonagricultural-and-fishery-workers-by-district/data.json)
+- [📄 TSV Data](../../data/number-and-percentage-of-agricultural-and-fishery-workers-and-nonagricultural-and-fishery-workers-by-district/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/number-and-percentage-of-agricultural-and-fishery-workers-and-nonagricultural-and-fishery-workers-by-district/raw_data.json)
 - [📜 Original PDF](../../data/number-and-percentage-of-agricultural-and-fishery-workers-and-nonagricultural-and-fishery-workers-by-district/original.pdf)
 

@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/number-and-percentage-of-occupied-housing-units-by-district-and-permanent-materials-of-construction-outer-walls-floor-roof/data.json)
+- [📄 TSV Data](../../data/number-and-percentage-of-occupied-housing-units-by-district-and-permanent-materials-of-construction-outer-walls-floor-roof/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/number-and-percentage-of-occupied-housing-units-by-district-and-permanent-materials-of-construction-outer-walls-floor-roof/raw_data.json)
 - [📜 Original PDF](../../data/number-and-percentage-of-occupied-housing-units-by-district-and-permanent-materials-of-construction-outer-walls-floor-roof/original.pdf)
 

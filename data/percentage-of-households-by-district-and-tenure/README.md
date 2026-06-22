@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-households-by-district-and-tenure/data.json)
+- [📄 TSV Data](../../data/percentage-of-households-by-district-and-tenure/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-households-by-district-and-tenure/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-households-by-district-and-tenure/original.pdf)
 

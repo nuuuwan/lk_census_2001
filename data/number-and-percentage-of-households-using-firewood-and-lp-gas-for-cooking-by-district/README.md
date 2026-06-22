@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/number-and-percentage-of-households-using-firewood-and-lp-gas-for-cooking-by-district/data.json)
+- [📄 TSV Data](../../data/number-and-percentage-of-households-using-firewood-and-lp-gas-for-cooking-by-district/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/number-and-percentage-of-households-using-firewood-and-lp-gas-for-cooking-by-district/raw_data.json)
 - [📜 Original PDF](../../data/number-and-percentage-of-households-using-firewood-and-lp-gas-for-cooking-by-district/original.pdf)
 

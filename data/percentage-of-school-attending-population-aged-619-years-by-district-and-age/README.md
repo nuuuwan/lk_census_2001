@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-school-attending-population-aged-619-years-by-district-and-age/data.json)
+- [📄 TSV Data](../../data/percentage-of-school-attending-population-aged-619-years-by-district-and-age/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-school-attending-population-aged-619-years-by-district-and-age/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-school-attending-population-aged-619-years-by-district-and-age/original.pdf)
 

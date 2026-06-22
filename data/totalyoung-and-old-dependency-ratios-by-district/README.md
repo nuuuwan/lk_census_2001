@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/totalyoung-and-old-dependency-ratios-by-district/data.json)
+- [📄 TSV Data](../../data/totalyoung-and-old-dependency-ratios-by-district/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/totalyoung-and-old-dependency-ratios-by-district/raw_data.json)
 - [📜 Original PDF](../../data/totalyoung-and-old-dependency-ratios-by-district/original.pdf)
 

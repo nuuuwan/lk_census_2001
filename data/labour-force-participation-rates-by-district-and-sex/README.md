@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/labour-force-participation-rates-by-district-and-sex/data.json)
+- [📄 TSV Data](../../data/labour-force-participation-rates-by-district-and-sex/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/labour-force-participation-rates-by-district-and-sex/raw_data.json)
 - [📜 Original PDF](../../data/labour-force-participation-rates-by-district-and-sex/original.pdf)
 

@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/persons-with-disability-in-legs-by-cause-of-disability-and-sex/data.json)
+- [📄 TSV Data](../../data/persons-with-disability-in-legs-by-cause-of-disability-and-sex/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/persons-with-disability-in-legs-by-cause-of-disability-and-sex/raw_data.json)
 - [📜 Original PDF](../../data/persons-with-disability-in-legs-by-cause-of-disability-and-sex/original.pdf)
 

@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/percentage-of-not-economically-active-population-by-district/data.json)
+- [📄 TSV Data](../../data/percentage-of-not-economically-active-population-by-district/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/percentage-of-not-economically-active-population-by-district/raw_data.json)
 - [📜 Original PDF](../../data/percentage-of-not-economically-active-population-by-district/original.pdf)
 

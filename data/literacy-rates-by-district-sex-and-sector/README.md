@@ -6,6 +6,7 @@
 ## File Formats
 
 - [📄 JSON Data](../../data/literacy-rates-by-district-sex-and-sector/data.json)
+- [📄 TSV Data](../../data/literacy-rates-by-district-sex-and-sector/data.tsv)
 - [📄 Raw JSON Data from Original](../../data/literacy-rates-by-district-sex-and-sector/raw_data.json)
 - [📜 Original PDF](../../data/literacy-rates-by-district-sex-and-sector/original.pdf)
 
