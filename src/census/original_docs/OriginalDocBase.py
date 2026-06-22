@@ -33,3 +33,7 @@ class OriginalDocBase:
         if self.long_doc_id not in short_name_map:
             raise ValueError(f"Missing short name for {self.doc_id}")
         return short_name_map[self.long_doc_id]
+
+    @cached_property
+    def short_name(self) -> str:
+        return self.doc_id.replace("-", " ").title()

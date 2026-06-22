@@ -109,7 +109,7 @@ class OriginalDocReadmeMixin:
         )
 
         for i_doc, doc in enumerate(docs, start=1):
-            lines.append(f"{i_doc:02d}. [{doc.name}]({doc.dir_data})")
+            lines.append(f"{i_doc:02d}. [{doc.short_name}]({doc.dir_data})")
 
         lines.append("")
         lines.extend(cls.lines_for_footer())
