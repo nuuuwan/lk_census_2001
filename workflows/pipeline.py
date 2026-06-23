@@ -1,18 +1,21 @@
 import os
 
 from census import OriginalDoc
+from utils_future import Log
+
+log = Log("pipeline")
 
 
 def main():
-    # OriginalDoc.scrape_remote()
-    # OriginalDoc.validate_status()
-    # OriginalDoc.build_global_readme()
-
-    docs = OriginalDoc.list()
-    for doc in docs[40:]:
-        os.system(f"open -a firefox {doc.pdf_file_path}")
-
-    os.system('say "Pipeline Done"')
+    try:
+        OriginalDoc.scrape_remote()
+        OriginalDoc.validate_status()
+        OriginalDoc.build_global_readme()
+    except Exception as e:
+        log.error(f"Error occurred: {e}")
+        os.system('say "Error"')
+    finally:
+        os.system('say "Pipeline Done"')
 
 
 if __name__ == "__main__":
