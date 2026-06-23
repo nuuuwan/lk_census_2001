@@ -484,20 +484,18 @@
   ],
   "school-attendance": [
     "district",
-    "aged-6-9-years",
+    "aged-06-09-years",
     "aged-10-14-years",
     "aged-15-19-years",
-    "aged-6-14-years",
-    "aged-6-19-years"
+    "aged-06-14-years",
+    "aged-06-19-years"
   ],
-  "school-enrollment": [
+  "school-not-attending": [
     "district",
-    "na",
-    "total",
-    "urban",
-    "na-2",
-    "rural",
-    "estate"
+    "total-pct",
+    "urban-pct",
+    "rural-pct",
+    "estate-pct"
   ],
   "sectoral-distribution": [
     "district",

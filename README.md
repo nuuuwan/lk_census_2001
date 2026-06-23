@@ -44,7 +44,7 @@
 38. [Religious Composition](data/religion)
 39. [Sanitation Access](data/toilets)
 40. [School Attendance](data/school-attendance)
-41. [School Enrollment](data/school-enrollment)
+41. [School Enrollment](data/school-not-attending)
 42. [Sectoral Distribution](data/sectoral-distribution)
 43. [Unemployment Education](data/unemployment-education)
 44. [Vision Disability Causes](data/vision-disability-causes)

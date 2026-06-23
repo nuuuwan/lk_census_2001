@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/school-enrollment/data.json)
-- [📄 TSV Data](../../data/school-enrollment/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/school-enrollment/raw_data.json)
-- [📜 Original PDF](../../data/school-enrollment/original.pdf)
+- [📄 JSON Data](../../data/school-not-attending/data.json)
+- [📄 TSV Data](../../data/school-not-attending/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/school-not-attending/raw_data.json)
+- [📜 Original PDF](../../data/school-not-attending/original.pdf)
 
 ## Example JSON Row
 
