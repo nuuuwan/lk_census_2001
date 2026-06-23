@@ -499,14 +499,14 @@
   ],
   "speaking-capacity": [
     "district",
-    "sinhalese-speaking-tamil",
-    "sinhalese-speaking-english",
-    "sri-lanka-tamil-speaking-sinhala",
-    "sri-lanka-tamil-speaking-english",
-    "indian-tamil-speaking-sinhala",
-    "indian-tamil-speaking-english",
-    "sri-lanka-moor-speaking-sinhala",
-    "sri-lanka-moor-speaking-english"
+    "sinhalese-speaking-tamil-pct",
+    "sinhalese-speaking-english-pct",
+    "sri-lanka-tamil-speaking-sinhala-pct",
+    "sri-lanka-tamil-speaking-english-pct",
+    "indian-tamil-speaking-sinhala-pct",
+    "indian-tamil-speaking-english-pct",
+    "sri-lanka-moor-speaking-sinhala-pct",
+    "sri-lanka-moor-speaking-english-pct"
   ],
   "toilets": [
     "district",

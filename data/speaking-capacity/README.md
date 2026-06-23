@@ -16,14 +16,14 @@
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-        "sinhalese-speaking-tamil": null,
-        "sinhalese-speaking-english": null,
-        "sri-lanka-tamil-speaking-sinhala": null,
-        "sri-lanka-tamil-speaking-english": null,
-        "indian-tamil-speaking-sinhala": null,
-        "indian-tamil-speaking-english": null,
-        "sri-lanka-moor-speaking-sinhala": null,
-        "sri-lanka-moor-speaking-english": null
+        "sinhalese-speaking-tamil-pct": 5.3,
+        "sinhalese-speaking-english-pct": 4.9,
+        "sri-lanka-tamil-speaking-sinhala-pct": 9.7,
+        "sri-lanka-tamil-speaking-english-pct": 7.6,
+        "indian-tamil-speaking-sinhala-pct": 32.8,
+        "indian-tamil-speaking-english-pct": 8.9,
+        "sri-lanka-moor-speaking-sinhala-pct": 10.6,
+        "sri-lanka-moor-speaking-english-pct": 8.1
     }
 }
 ```
