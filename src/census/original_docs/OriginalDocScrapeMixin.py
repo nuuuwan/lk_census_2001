@@ -13,10 +13,9 @@ class OriginalDocScrapeMixin:
     )
 
     INDEX_URLS = [
-        # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Population",
-        # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Housing",
-        "https://www.statistics.gov.lk"
-        + "/Population/PopHouStat_Disability",
+        "https://www.statistics.gov.lk" + "/Population/PopHouStat_Population",
+        "https://www.statistics.gov.lk" + "/Population/PopHouStat_Housing",
+        "https://www.statistics.gov.lk" + "/Population/PopHouStat_Disability",
     ]
 
     @staticmethod
