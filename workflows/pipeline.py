@@ -4,14 +4,15 @@ from census import OriginalDoc
 
 
 def main():
-    OriginalDoc.scrape_remote()
-    OriginalDoc.validate_status()
-    OriginalDoc.build_global_readme()
-    os.system('say "Pipeline Done"')
+    # OriginalDoc.scrape_remote()
+    # OriginalDoc.validate_status()
+    # OriginalDoc.build_global_readme()
 
     docs = OriginalDoc.list()
-    for doc in docs[:5]:
+    for doc in docs[5:10]:
         os.system(f"open -a firefox {doc.pdf_file_path}")
+
+    os.system('say "Pipeline Done"')
 
 
 if __name__ == "__main__":

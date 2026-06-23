@@ -43,11 +43,11 @@
     "dependency-ratio-old"
   ],
   "disability-demographics": [
-    "age-group-and-sex",
+    "age-group",
     "sex",
     "total-number-of-disabled",
     "disability-in-seeing",
-    "disability-in-hearingspeaking",
+    "disability-in-hearing-or-speaking",
     "disability-in-hands",
     "disability-in-legs",
     "other-physical-disability",
