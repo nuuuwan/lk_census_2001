@@ -71,7 +71,6 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
                 values[header] = Parse.float(value)
             else:
                 values[header] = Parse.int(value)
-                print(header, values[header])
 
         if len(headers) != len(values.keys()) + 1:
             log.error(f"{headers=}")

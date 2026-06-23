@@ -31,7 +31,6 @@ class OriginalDocReadmeMixin:
         return lines
 
     def lines_for_example(self) -> list[str]:
-        random.seed(0)
         data_file = JSONFile(self.data_file_path)
         if data_file.exists:
             data_list = data_file.read()
