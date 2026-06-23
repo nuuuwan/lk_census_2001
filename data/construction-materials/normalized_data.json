@@ -1,290 +1,245 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 3022656,
+      "floor-cement-tile-terrazo-granite": 3085489,
+      "roof-tile-asbestos-concrete-metal-sheets": 3539016
+    },
+    "total": 9647161
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 984341,
+      "floor-cement-tile-terrazo-granite": 1105088,
+      "roof-tile-asbestos-concrete-metal-sheets": 1126815
+    },
+    "total": 3216244
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 409547,
       "floor-cement-tile-terrazo-granite": 449702,
       "roof-tile-asbestos-concrete-metal-sheets": 452227
     },
-    "total": 1311476,
-    "total_from_source": 473045,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3123,
-      "floor-cement-tile-terrazo-granite": 0.3429,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3448
-    }
+    "total": 1311476
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 385611,
       "floor-cement-tile-terrazo-granite": 437899,
       "roof-tile-asbestos-concrete-metal-sheets": 442704
     },
-    "total": 1266214,
-    "total_from_source": 475847,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3045,
-      "floor-cement-tile-terrazo-granite": 0.3458,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3496
-    }
+    "total": 1266214
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 189183,
       "floor-cement-tile-terrazo-granite": 217487,
       "roof-tile-asbestos-concrete-metal-sheets": 231884
     },
-    "total": 638554,
-    "total_from_source": 245784,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.2963,
-      "floor-cement-tile-terrazo-granite": 0.3406,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3631
-    }
+    "total": 638554
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 446014,
+      "floor-cement-tile-terrazo-granite": 397292,
+      "roof-tile-asbestos-concrete-metal-sheets": 534147
+    },
+    "total": 1377453
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 241377,
       "floor-cement-tile-terrazo-granite": 218887,
       "roof-tile-asbestos-concrete-metal-sheets": 281855
     },
-    "total": 742119,
-    "total_from_source": 291454,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3253,
-      "floor-cement-tile-terrazo-granite": 0.2949,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3798
-    }
+    "total": 742119
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 78732,
       "floor-cement-tile-terrazo-granite": 66424,
       "roof-tile-asbestos-concrete-metal-sheets": 96209
     },
-    "total": 241365,
-    "total_from_source": 108566,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3262,
-      "floor-cement-tile-terrazo-granite": 0.2752,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3986
-    }
+    "total": 241365
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 125905,
       "floor-cement-tile-terrazo-granite": 111981,
       "roof-tile-asbestos-concrete-metal-sheets": 156083
     },
-    "total": 393969,
-    "total_from_source": 164886,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3196,
-      "floor-cement-tile-terrazo-granite": 0.2842,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3962
-    }
+    "total": 393969
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 399887,
+      "floor-cement-tile-terrazo-granite": 414131,
+      "roof-tile-asbestos-concrete-metal-sheets": 478724
+    },
+    "total": 1292742
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 169022,
       "floor-cement-tile-terrazo-granite": 191559,
       "roof-tile-asbestos-concrete-metal-sheets": 214913
     },
-    "total": 575494,
-    "total_from_source": 229521,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.2937,
-      "floor-cement-tile-terrazo-granite": 0.3329,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3734
-    }
+    "total": 575494
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 136824,
       "floor-cement-tile-terrazo-granite": 137611,
       "roof-tile-asbestos-concrete-metal-sheets": 164506
     },
-    "total": 438941,
-    "total_from_source": 174712,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3117,
-      "floor-cement-tile-terrazo-granite": 0.3135,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3748
-    }
+    "total": 438941
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 94041,
       "floor-cement-tile-terrazo-granite": 84961,
       "roof-tile-asbestos-concrete-metal-sheets": 99305
     },
-    "total": 278307,
-    "total_from_source": 126362,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3379,
-      "floor-cement-tile-terrazo-granite": 0.3053,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3568
-    }
+    "total": 278307
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 98639,
       "floor-cement-tile-terrazo-granite": 97578,
       "roof-tile-asbestos-concrete-metal-sheets": 109563
     },
-    "total": 305780,
-    "total_from_source": 132371,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3226,
-      "floor-cement-tile-terrazo-granite": 0.3191,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3583
-    }
+    "total": 305780
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 98639,
+      "floor-cement-tile-terrazo-granite": 97578,
+      "roof-tile-asbestos-concrete-metal-sheets": 109563
+    },
+    "total": 305780
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 394676,
+      "floor-cement-tile-terrazo-granite": 414474,
+      "roof-tile-asbestos-concrete-metal-sheets": 399895
+    },
+    "total": 1209045
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 278185,
       "floor-cement-tile-terrazo-granite": 268628,
       "roof-tile-asbestos-concrete-metal-sheets": 284262
     },
-    "total": 831075,
-    "total_from_source": 376352,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3347,
-      "floor-cement-tile-terrazo-granite": 0.3232,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.342
-    }
+    "total": 831075
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 116491,
       "floor-cement-tile-terrazo-granite": 145846,
       "roof-tile-asbestos-concrete-metal-sheets": 115633
     },
-    "total": 377970,
-    "total_from_source": 174737,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3082,
-      "floor-cement-tile-terrazo-granite": 0.3859,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3059
-    }
+    "total": 377970
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 198458,
+      "floor-cement-tile-terrazo-granite": 168264,
+      "roof-tile-asbestos-concrete-metal-sheets": 229541
+    },
+    "total": 596263
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 131667,
       "floor-cement-tile-terrazo-granite": 108173,
       "roof-tile-asbestos-concrete-metal-sheets": 154479
     },
-    "total": 394319,
-    "total_from_source": 186697,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3339,
-      "floor-cement-tile-terrazo-granite": 0.2743,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3918
-    }
+    "total": 394319
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 66791,
       "floor-cement-tile-terrazo-granite": 60091,
       "roof-tile-asbestos-concrete-metal-sheets": 75062
     },
-    "total": 201944,
-    "total_from_source": 90999,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3307,
-      "floor-cement-tile-terrazo-granite": 0.2976,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3717
-    }
+    "total": 201944
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 191556,
+      "floor-cement-tile-terrazo-granite": 171483,
+      "roof-tile-asbestos-concrete-metal-sheets": 258442
+    },
+    "total": 621481
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 130543,
       "floor-cement-tile-terrazo-granite": 121736,
       "roof-tile-asbestos-concrete-metal-sheets": 177335
     },
-    "total": 429614,
-    "total_from_source": 185268,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3039,
-      "floor-cement-tile-terrazo-granite": 0.2834,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.4128
-    }
+    "total": 429614
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 61013,
       "floor-cement-tile-terrazo-granite": 49747,
       "roof-tile-asbestos-concrete-metal-sheets": 81107
     },
-    "total": 191867,
-    "total_from_source": 95966,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.318,
-      "floor-cement-tile-terrazo-granite": 0.2593,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.4227
-    }
+    "total": 191867
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 309085,
+      "floor-cement-tile-terrazo-granite": 317179,
+      "roof-tile-asbestos-concrete-metal-sheets": 401889
+    },
+    "total": 1028153
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 161863,
       "floor-cement-tile-terrazo-granite": 173170,
       "roof-tile-asbestos-concrete-metal-sheets": 226472
     },
-    "total": 561505,
-    "total_from_source": 242882,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.2883,
-      "floor-cement-tile-terrazo-granite": 0.3084,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.4033
-    }
+    "total": 561505
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "outer-walls-bricks-cabooks-cement-blocks-stones": 147222,
       "floor-cement-tile-terrazo-granite": 144009,
       "roof-tile-asbestos-concrete-metal-sheets": 175417
     },
-    "total": 466648,
-    "total_from_source": 193578,
-    "pct_values": {
-      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3155,
-      "floor-cement-tile-terrazo-granite": 0.3086,
-      "roof-tile-asbestos-concrete-metal-sheets": 0.3759
-    }
+    "total": 466648
   }
 ]

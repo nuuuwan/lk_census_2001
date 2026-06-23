@@ -1,218 +1,191 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "huts-and-shanties": 33188
+    },
+    "total": 33188
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "huts-and-shanties": 11303
+    },
+    "total": 11303
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "huts-and-shanties": 7278
     },
-    "total": 7278,
-    "total_from_source": 473045,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 7278
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "huts-and-shanties": 3012
     },
-    "total": 3012,
-    "total_from_source": 475847,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 3012
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "huts-and-shanties": 1013
     },
-    "total": 1013,
-    "total_from_source": 245784,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 1013
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "huts-and-shanties": 2994
+    },
+    "total": 2994
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "huts-and-shanties": 996
     },
-    "total": 996,
-    "total_from_source": 291454,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 996
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "huts-and-shanties": 449
     },
-    "total": 449,
-    "total_from_source": 108566,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 449
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "huts-and-shanties": 1549
     },
-    "total": 1549,
-    "total_from_source": 164886,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 1549
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "huts-and-shanties": 2609
+    },
+    "total": 2609
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "huts-and-shanties": 991
     },
-    "total": 991,
-    "total_from_source": 229521,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 991
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "huts-and-shanties": 741
     },
-    "total": 741,
-    "total_from_source": 174712,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 741
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "huts-and-shanties": 877
     },
-    "total": 877,
-    "total_from_source": 126362,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 877
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "huts-and-shanties": 4513
     },
-    "total": 4513,
-    "total_from_source": 132371,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 4513
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "huts-and-shanties": 4513
+    },
+    "total": 4513
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "huts-and-shanties": 7307
+    },
+    "total": 7307
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "huts-and-shanties": 2388
     },
-    "total": 2388,
-    "total_from_source": 376352,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 2388
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "huts-and-shanties": 4919
     },
-    "total": 4919,
-    "total_from_source": 174737,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 4919
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "huts-and-shanties": 1355
+    },
+    "total": 1355
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "huts-and-shanties": 852
     },
-    "total": 852,
-    "total_from_source": 186697,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 852
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "huts-and-shanties": 503
     },
-    "total": 503,
-    "total_from_source": 90999,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 503
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "huts-and-shanties": 1526
+    },
+    "total": 1526
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "huts-and-shanties": 783
     },
-    "total": 783,
-    "total_from_source": 185268,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 783
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "huts-and-shanties": 743
     },
-    "total": 743,
-    "total_from_source": 95966,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 743
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "huts-and-shanties": 1581
+    },
+    "total": 1581
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "huts-and-shanties": 745
     },
-    "total": 745,
-    "total_from_source": 242882,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 745
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "huts-and-shanties": 836
     },
-    "total": 836,
-    "total_from_source": 193578,
-    "pct_values": {
-      "huts-and-shanties": 1.0
-    }
+    "total": 836
   }
 ]

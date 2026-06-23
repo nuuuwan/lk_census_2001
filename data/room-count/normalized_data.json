@@ -1,290 +1,245 @@
 [
   {
-    "region_id": "LK-11",
-    "region_name": "Colombo",
+    "region_id": "LK",
     "values": {
-      "permanent-average": 4.1,
-      "semi-permanent-average": 2.3,
-      "improvised-average": 1.4
+      "permanent-average": 80,
+      "semi-permanent-average": 50,
+      "improvised-average": 25
     },
-    "total": 7.799999999999999,
-    "total_from_source": 3.9,
-    "pct_values": {
-      "permanent-average": 0.5256,
-      "semi-permanent-average": 0.2949,
-      "improvised-average": 0.1795
-    }
+    "total": 155
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "permanent-average": 13,
+      "semi-permanent-average": 8,
+      "improvised-average": 4
+    },
+    "total": 24
+  },
+  {
+    "region_id": "LK-11",
+    "values": {
+      "permanent-average": 4,
+      "semi-permanent-average": 2,
+      "improvised-average": 1
+    },
+    "total": 8
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
-      "permanent-average": 4.2,
-      "semi-permanent-average": 3.0,
-      "improvised-average": 1.3
+      "permanent-average": 4,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 8.5,
-    "total_from_source": 3.9,
-    "pct_values": {
-      "permanent-average": 0.4941,
-      "semi-permanent-average": 0.3529,
-      "improvised-average": 0.1529
-    }
+    "total": 8
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
-      "permanent-average": 4.3,
-      "semi-permanent-average": 2.4,
-      "improvised-average": 1.2
+      "permanent-average": 4,
+      "semi-permanent-average": 2,
+      "improvised-average": 1
     },
-    "total": 7.8999999999999995,
-    "total_from_source": 3.9,
-    "pct_values": {
-      "permanent-average": 0.5443,
-      "semi-permanent-average": 0.3038,
-      "improvised-average": 0.1519
-    }
+    "total": 8
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "permanent-average": 14,
+      "semi-permanent-average": 9,
+      "improvised-average": 4
+    },
+    "total": 27
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
-      "permanent-average": 4.7,
-      "semi-permanent-average": 2.9,
-      "improvised-average": 1.3
+      "permanent-average": 5,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 8.9,
-    "total_from_source": 4.2,
-    "pct_values": {
-      "permanent-average": 0.5281,
-      "semi-permanent-average": 0.3258,
-      "improvised-average": 0.1461
-    }
+    "total": 9
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
-      "permanent-average": 4.9,
-      "semi-permanent-average": 3.2,
-      "improvised-average": 1.4
+      "permanent-average": 5,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 9.5,
-    "total_from_source": 4.1,
-    "pct_values": {
-      "permanent-average": 0.5158,
-      "semi-permanent-average": 0.3368,
-      "improvised-average": 0.1474
-    }
+    "total": 10
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
-      "permanent-average": 3.9,
-      "semi-permanent-average": 2.7,
-      "improvised-average": 1.7
+      "permanent-average": 4,
+      "semi-permanent-average": 3,
+      "improvised-average": 2
     },
-    "total": 8.3,
-    "total_from_source": 3.4,
-    "pct_values": {
-      "permanent-average": 0.4699,
-      "semi-permanent-average": 0.3253,
-      "improvised-average": 0.2048
-    }
+    "total": 8
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "permanent-average": 14,
+      "semi-permanent-average": 8,
+      "improvised-average": 4
+    },
+    "total": 26
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
-      "permanent-average": 4.4,
-      "semi-permanent-average": 2.6,
-      "improvised-average": 1.3
+      "permanent-average": 4,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 8.3,
-    "total_from_source": 3.9,
-    "pct_values": {
-      "permanent-average": 0.5301,
-      "semi-permanent-average": 0.3133,
-      "improvised-average": 0.1566
-    }
+    "total": 8
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
-      "permanent-average": 4.6,
-      "semi-permanent-average": 2.8,
-      "improvised-average": 1.4
+      "permanent-average": 5,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 8.799999999999999,
-    "total_from_source": 4.1,
-    "pct_values": {
-      "permanent-average": 0.5227,
-      "semi-permanent-average": 0.3182,
-      "improvised-average": 0.1591
-    }
+    "total": 9
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
-      "permanent-average": 4.5,
-      "semi-permanent-average": 2.9,
-      "improvised-average": 1.3
+      "permanent-average": 4,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 8.7,
-    "total_from_source": 3.8,
-    "pct_values": {
-      "permanent-average": 0.5172,
-      "semi-permanent-average": 0.3333,
-      "improvised-average": 0.1494
-    }
+    "total": 9
+  },
+  {
+    "region_id": "LK-5",
+    "values": {
+      "permanent-average": 4,
+      "semi-permanent-average": 2,
+      "improvised-average": 1
+    },
+    "total": 8
   },
   {
     "region_id": "LK-52",
-    "region_name": "Ampara",
     "values": {
-      "permanent-average": 3.9,
-      "semi-permanent-average": 2.5,
-      "improvised-average": 1.2
+      "permanent-average": 4,
+      "semi-permanent-average": 2,
+      "improvised-average": 1
     },
-    "total": 7.6,
-    "total_from_source": 3.4,
-    "pct_values": {
-      "permanent-average": 0.5132,
-      "semi-permanent-average": 0.3289,
-      "improvised-average": 0.1579
-    }
+    "total": 8
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "permanent-average": 9,
+      "semi-permanent-average": 6,
+      "improvised-average": 3
+    },
+    "total": 18
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
-      "permanent-average": 4.9,
-      "semi-permanent-average": 3.1,
-      "improvised-average": 1.6
+      "permanent-average": 5,
+      "semi-permanent-average": 3,
+      "improvised-average": 2
     },
-    "total": 9.600000000000001,
-    "total_from_source": 4.2,
-    "pct_values": {
-      "permanent-average": 0.5104,
-      "semi-permanent-average": 0.3229,
-      "improvised-average": 0.1667
-    }
+    "total": 10
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
-      "permanent-average": 4.2,
-      "semi-permanent-average": 2.4,
-      "improvised-average": 1.6
+      "permanent-average": 4,
+      "semi-permanent-average": 2,
+      "improvised-average": 2
     },
-    "total": 8.2,
-    "total_from_source": 3.5,
-    "pct_values": {
-      "permanent-average": 0.5122,
-      "semi-permanent-average": 0.2927,
-      "improvised-average": 0.1951
-    }
+    "total": 8
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "permanent-average": 9,
+      "semi-permanent-average": 6,
+      "improvised-average": 3
+    },
+    "total": 17
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
-      "permanent-average": 4.5,
-      "semi-permanent-average": 3.0,
-      "improvised-average": 1.4
+      "permanent-average": 4,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 8.9,
-    "total_from_source": 3.8,
-    "pct_values": {
-      "permanent-average": 0.5056,
-      "semi-permanent-average": 0.3371,
-      "improvised-average": 0.1573
-    }
+    "total": 9
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
-      "permanent-average": 4.4,
-      "semi-permanent-average": 2.8,
-      "improvised-average": 1.2
+      "permanent-average": 4,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 8.4,
-    "total_from_source": 3.8,
-    "pct_values": {
-      "permanent-average": 0.5238,
-      "semi-permanent-average": 0.3333,
-      "improvised-average": 0.1429
-    }
+    "total": 8
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "permanent-average": 9,
+      "semi-permanent-average": 6,
+      "improvised-average": 3
+    },
+    "total": 18
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
-      "permanent-average": 4.7,
-      "semi-permanent-average": 3.0,
-      "improvised-average": 1.3
+      "permanent-average": 5,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 9.0,
-    "total_from_source": 4.1,
-    "pct_values": {
-      "permanent-average": 0.5222,
-      "semi-permanent-average": 0.3333,
-      "improvised-average": 0.1444
-    }
+    "total": 9
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
-      "permanent-average": 4.6,
-      "semi-permanent-average": 2.9,
-      "improvised-average": 1.5
+      "permanent-average": 5,
+      "semi-permanent-average": 3,
+      "improvised-average": 2
     },
-    "total": 9.0,
-    "total_from_source": 3.7,
-    "pct_values": {
-      "permanent-average": 0.5111,
-      "semi-permanent-average": 0.3222,
-      "improvised-average": 0.1667
-    }
+    "total": 9
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "permanent-average": 9,
+      "semi-permanent-average": 5,
+      "improvised-average": 3
+    },
+    "total": 17
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
-      "permanent-average": 4.2,
-      "semi-permanent-average": 2.6,
-      "improvised-average": 1.4
+      "permanent-average": 4,
+      "semi-permanent-average": 3,
+      "improvised-average": 1
     },
-    "total": 8.2,
-    "total_from_source": 3.6,
-    "pct_values": {
-      "permanent-average": 0.5122,
-      "semi-permanent-average": 0.3171,
-      "improvised-average": 0.1707
-    }
+    "total": 8
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
-      "permanent-average": 4.7,
-      "semi-permanent-average": 2.8,
-      "improvised-average": 1.5
+      "permanent-average": 5,
+      "semi-permanent-average": 3,
+      "improvised-average": 2
     },
-    "total": 9.0,
-    "total_from_source": 4.1,
-    "pct_values": {
-      "permanent-average": 0.5222,
-      "semi-permanent-average": 0.3111,
-      "improvised-average": 0.1667
-    }
+    "total": 9
   }
 ]

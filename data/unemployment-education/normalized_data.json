@@ -1,434 +1,353 @@
 [
   {
-    "region_id": "LK-11",
-    "region_name": "Colombo",
+    "region_id": "LK",
     "values": {
-      "male-rate": 5.5,
-      "female-rate": 8.0,
-      "passed-year-0-4-rate": 3.8,
-      "passed-year-5-9-rate": 6.7,
-      "passed-gce-ol-rate": 7.0,
-      "passed-gce-al-rate": 6.4,
-      "degree-and-above-rate": 2.5
+      "male-rate": 127,
+      "female-rate": 211,
+      "passed-year-0-4-rate": 41,
+      "passed-year-5-9-rate": 141,
+      "passed-gce-ol-rate": 229,
+      "passed-gce-al-rate": 291,
+      "degree-and-above-rate": 118
     },
-    "total": 39.9,
-    "total_from_source": 6.3,
-    "pct_values": {
-      "male-rate": 0.1378,
-      "female-rate": 0.2005,
-      "passed-year-0-4-rate": 0.0952,
-      "passed-year-5-9-rate": 0.1679,
-      "passed-gce-ol-rate": 0.1754,
-      "passed-gce-al-rate": 0.1604,
-      "degree-and-above-rate": 0.0627
-    }
+    "total": 1158
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "male-rate": 22,
+      "female-rate": 30,
+      "passed-year-0-4-rate": 11,
+      "passed-year-5-9-rate": 25,
+      "passed-gce-ol-rate": 28,
+      "passed-gce-al-rate": 29,
+      "degree-and-above-rate": 12
+    },
+    "total": 156
+  },
+  {
+    "region_id": "LK-11",
+    "values": {
+      "male-rate": 6,
+      "female-rate": 8,
+      "passed-year-0-4-rate": 4,
+      "passed-year-5-9-rate": 7,
+      "passed-gce-ol-rate": 7,
+      "passed-gce-al-rate": 6,
+      "degree-and-above-rate": 2
+    },
+    "total": 40
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
-      "male-rate": 7.8,
-      "female-rate": 9.3,
-      "passed-year-0-4-rate": 3.7,
-      "passed-year-5-9-rate": 8.4,
-      "passed-gce-ol-rate": 9.1,
-      "passed-gce-al-rate": 9.4,
-      "degree-and-above-rate": 3.8
+      "male-rate": 8,
+      "female-rate": 9,
+      "passed-year-0-4-rate": 4,
+      "passed-year-5-9-rate": 8,
+      "passed-gce-ol-rate": 9,
+      "passed-gce-al-rate": 9,
+      "degree-and-above-rate": 4
     },
-    "total": 51.5,
-    "total_from_source": 8.3,
-    "pct_values": {
-      "male-rate": 0.1515,
-      "female-rate": 0.1806,
-      "passed-year-0-4-rate": 0.0718,
-      "passed-year-5-9-rate": 0.1631,
-      "passed-gce-ol-rate": 0.1767,
-      "passed-gce-al-rate": 0.1825,
-      "degree-and-above-rate": 0.0738
-    }
+    "total": 52
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
-      "male-rate": 8.8,
-      "female-rate": 12.3,
-      "passed-year-0-4-rate": 3.6,
-      "passed-year-5-9-rate": 9.7,
-      "passed-gce-ol-rate": 12.0,
-      "passed-gce-al-rate": 13.2,
-      "degree-and-above-rate": 5.5
+      "male-rate": 9,
+      "female-rate": 12,
+      "passed-year-0-4-rate": 4,
+      "passed-year-5-9-rate": 10,
+      "passed-gce-ol-rate": 12,
+      "passed-gce-al-rate": 13,
+      "degree-and-above-rate": 6
     },
-    "total": 65.1,
-    "total_from_source": 9.8,
-    "pct_values": {
-      "male-rate": 0.1352,
-      "female-rate": 0.1889,
-      "passed-year-0-4-rate": 0.0553,
-      "passed-year-5-9-rate": 0.149,
-      "passed-gce-ol-rate": 0.1843,
-      "passed-gce-al-rate": 0.2028,
-      "degree-and-above-rate": 0.0845
-    }
+    "total": 65
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "male-rate": 21,
+      "female-rate": 31,
+      "passed-year-0-4-rate": 6,
+      "passed-year-5-9-rate": 23,
+      "passed-gce-ol-rate": 39,
+      "passed-gce-al-rate": 46,
+      "degree-and-above-rate": 17
+    },
+    "total": 184
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
-      "male-rate": 7.9,
-      "female-rate": 13.2,
-      "passed-year-0-4-rate": 2.5,
-      "passed-year-5-9-rate": 8.8,
-      "passed-gce-ol-rate": 13.4,
-      "passed-gce-al-rate": 14.9,
-      "degree-and-above-rate": 5.9
+      "male-rate": 8,
+      "female-rate": 13,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 9,
+      "passed-gce-ol-rate": 13,
+      "passed-gce-al-rate": 15,
+      "degree-and-above-rate": 6
     },
-    "total": 66.6,
-    "total_from_source": 9.4,
-    "pct_values": {
-      "male-rate": 0.1186,
-      "female-rate": 0.1982,
-      "passed-year-0-4-rate": 0.0375,
-      "passed-year-5-9-rate": 0.1321,
-      "passed-gce-ol-rate": 0.2012,
-      "passed-gce-al-rate": 0.2237,
-      "degree-and-above-rate": 0.0886
-    }
+    "total": 67
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
-      "male-rate": 6.2,
-      "female-rate": 10.8,
-      "passed-year-0-4-rate": 1.5,
-      "passed-year-5-9-rate": 6.9,
-      "passed-gce-ol-rate": 11.9,
-      "passed-gce-al-rate": 16.2,
-      "degree-and-above-rate": 6.2
+      "male-rate": 6,
+      "female-rate": 11,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 7,
+      "passed-gce-ol-rate": 12,
+      "passed-gce-al-rate": 16,
+      "degree-and-above-rate": 6
     },
-    "total": 59.7,
-    "total_from_source": 7.5,
-    "pct_values": {
-      "male-rate": 0.1039,
-      "female-rate": 0.1809,
-      "passed-year-0-4-rate": 0.0251,
-      "passed-year-5-9-rate": 0.1156,
-      "passed-gce-ol-rate": 0.1993,
-      "passed-gce-al-rate": 0.2714,
-      "degree-and-above-rate": 0.1039
-    }
+    "total": 60
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
-      "male-rate": 6.5,
-      "female-rate": 6.8,
-      "passed-year-0-4-rate": 2.3,
-      "passed-year-5-9-rate": 7.4,
-      "passed-gce-ol-rate": 13.9,
-      "passed-gce-al-rate": 15.1,
-      "degree-and-above-rate": 5.2
+      "male-rate": 6,
+      "female-rate": 7,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 7,
+      "passed-gce-ol-rate": 14,
+      "passed-gce-al-rate": 15,
+      "degree-and-above-rate": 5
     },
-    "total": 57.2,
-    "total_from_source": 6.7,
-    "pct_values": {
-      "male-rate": 0.1136,
-      "female-rate": 0.1189,
-      "passed-year-0-4-rate": 0.0402,
-      "passed-year-5-9-rate": 0.1294,
-      "passed-gce-ol-rate": 0.243,
-      "passed-gce-al-rate": 0.264,
-      "degree-and-above-rate": 0.0909
-    }
+    "total": 57
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "male-rate": 27,
+      "female-rate": 47,
+      "passed-year-0-4-rate": 7,
+      "passed-year-5-9-rate": 32,
+      "passed-gce-ol-rate": 49,
+      "passed-gce-al-rate": 59,
+      "degree-and-above-rate": 26
+    },
+    "total": 246
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
-      "male-rate": 9.4,
-      "female-rate": 13.6,
-      "passed-year-0-4-rate": 2.6,
-      "passed-year-5-9-rate": 10.6,
-      "passed-gce-ol-rate": 14.9,
-      "passed-gce-al-rate": 16.7,
-      "degree-and-above-rate": 6.4
+      "male-rate": 9,
+      "female-rate": 14,
+      "passed-year-0-4-rate": 3,
+      "passed-year-5-9-rate": 11,
+      "passed-gce-ol-rate": 15,
+      "passed-gce-al-rate": 17,
+      "degree-and-above-rate": 6
     },
-    "total": 74.2,
-    "total_from_source": 10.8,
-    "pct_values": {
-      "male-rate": 0.1267,
-      "female-rate": 0.1833,
-      "passed-year-0-4-rate": 0.035,
-      "passed-year-5-9-rate": 0.1429,
-      "passed-gce-ol-rate": 0.2008,
-      "passed-gce-al-rate": 0.2251,
-      "degree-and-above-rate": 0.0863
-    }
+    "total": 74
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
-      "male-rate": 9.2,
-      "female-rate": 15.6,
-      "passed-year-0-4-rate": 2.3,
-      "passed-year-5-9-rate": 10.8,
-      "passed-gce-ol-rate": 16.6,
-      "passed-gce-al-rate": 21.1,
-      "degree-and-above-rate": 9.5
+      "male-rate": 9,
+      "female-rate": 16,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 11,
+      "passed-gce-ol-rate": 17,
+      "passed-gce-al-rate": 21,
+      "degree-and-above-rate": 10
     },
-    "total": 85.10000000000001,
-    "total_from_source": 11.3,
-    "pct_values": {
-      "male-rate": 0.1081,
-      "female-rate": 0.1833,
-      "passed-year-0-4-rate": 0.027,
-      "passed-year-5-9-rate": 0.1269,
-      "passed-gce-ol-rate": 0.1951,
-      "passed-gce-al-rate": 0.2479,
-      "degree-and-above-rate": 0.1116
-    }
+    "total": 85
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
-      "male-rate": 8.4,
-      "female-rate": 17.4,
-      "passed-year-0-4-rate": 2.0,
-      "passed-year-5-9-rate": 10.2,
-      "passed-gce-ol-rate": 17.8,
-      "passed-gce-al-rate": 21.6,
-      "degree-and-above-rate": 9.8
+      "male-rate": 8,
+      "female-rate": 17,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 10,
+      "passed-gce-ol-rate": 18,
+      "passed-gce-al-rate": 22,
+      "degree-and-above-rate": 10
     },
-    "total": 87.2,
-    "total_from_source": 10.8,
-    "pct_values": {
-      "male-rate": 0.0963,
-      "female-rate": 0.1995,
-      "passed-year-0-4-rate": 0.0229,
-      "passed-year-5-9-rate": 0.117,
-      "passed-gce-ol-rate": 0.2041,
-      "passed-gce-al-rate": 0.2477,
-      "degree-and-above-rate": 0.1124
-    }
+    "total": 87
+  },
+  {
+    "region_id": "LK-5",
+    "values": {
+      "male-rate": 9,
+      "female-rate": 21,
+      "passed-year-0-4-rate": 3,
+      "passed-year-5-9-rate": 8,
+      "passed-gce-ol-rate": 19,
+      "passed-gce-al-rate": 26,
+      "degree-and-above-rate": 9
+    },
+    "total": 95
   },
   {
     "region_id": "LK-52",
-    "region_name": "Ampara",
     "values": {
-      "male-rate": 8.8,
-      "female-rate": 20.9,
-      "passed-year-0-4-rate": 3.4,
-      "passed-year-5-9-rate": 8.5,
-      "passed-gce-ol-rate": 18.6,
-      "passed-gce-al-rate": 25.6,
-      "degree-and-above-rate": 9.0
+      "male-rate": 9,
+      "female-rate": 21,
+      "passed-year-0-4-rate": 3,
+      "passed-year-5-9-rate": 8,
+      "passed-gce-ol-rate": 19,
+      "passed-gce-al-rate": 26,
+      "degree-and-above-rate": 9
     },
-    "total": 94.8,
-    "total_from_source": 11.1,
-    "pct_values": {
-      "male-rate": 0.0928,
-      "female-rate": 0.2205,
-      "passed-year-0-4-rate": 0.0359,
-      "passed-year-5-9-rate": 0.0897,
-      "passed-gce-ol-rate": 0.1962,
-      "passed-gce-al-rate": 0.27,
-      "degree-and-above-rate": 0.0949
-    }
+    "total": 95
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "male-rate": 12,
+      "female-rate": 21,
+      "passed-year-0-4-rate": 4,
+      "passed-year-5-9-rate": 13,
+      "passed-gce-ol-rate": 22,
+      "passed-gce-al-rate": 29,
+      "degree-and-above-rate": 14
+    },
+    "total": 115
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
-      "male-rate": 6.6,
-      "female-rate": 11.0,
-      "passed-year-0-4-rate": 1.5,
-      "passed-year-5-9-rate": 6.7,
-      "passed-gce-ol-rate": 11.2,
-      "passed-gce-al-rate": 15.1,
-      "degree-and-above-rate": 9.0
+      "male-rate": 7,
+      "female-rate": 11,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 7,
+      "passed-gce-ol-rate": 11,
+      "passed-gce-al-rate": 15,
+      "degree-and-above-rate": 9
     },
-    "total": 61.1,
-    "total_from_source": 7.9,
-    "pct_values": {
-      "male-rate": 0.108,
-      "female-rate": 0.18,
-      "passed-year-0-4-rate": 0.0245,
-      "passed-year-5-9-rate": 0.1097,
-      "passed-gce-ol-rate": 0.1833,
-      "passed-gce-al-rate": 0.2471,
-      "degree-and-above-rate": 0.1473
-    }
+    "total": 61
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
-      "male-rate": 5.7,
-      "female-rate": 10.2,
-      "passed-year-0-4-rate": 2.1,
-      "passed-year-5-9-rate": 6.1,
-      "passed-gce-ol-rate": 10.8,
-      "passed-gce-al-rate": 13.8,
-      "degree-and-above-rate": 5.3
+      "male-rate": 6,
+      "female-rate": 10,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 6,
+      "passed-gce-ol-rate": 11,
+      "passed-gce-al-rate": 14,
+      "degree-and-above-rate": 5
     },
-    "total": 54.0,
-    "total_from_source": 6.8,
-    "pct_values": {
-      "male-rate": 0.1056,
-      "female-rate": 0.1889,
-      "passed-year-0-4-rate": 0.0389,
-      "passed-year-5-9-rate": 0.113,
-      "passed-gce-ol-rate": 0.2,
-      "passed-gce-al-rate": 0.2556,
-      "degree-and-above-rate": 0.0981
-    }
+    "total": 54
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "male-rate": 10,
+      "female-rate": 18,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 10,
+      "passed-gce-ol-rate": 19,
+      "passed-gce-al-rate": 30,
+      "degree-and-above-rate": 11
+    },
+    "total": 100
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
-      "male-rate": 4.7,
-      "female-rate": 7.4,
-      "passed-year-0-4-rate": 1.0,
-      "passed-year-5-9-rate": 4.6,
-      "passed-gce-ol-rate": 8.8,
-      "passed-gce-al-rate": 13.8,
-      "degree-and-above-rate": 5.9
+      "male-rate": 5,
+      "female-rate": 7,
+      "passed-year-0-4-rate": 1,
+      "passed-year-5-9-rate": 5,
+      "passed-gce-ol-rate": 9,
+      "passed-gce-al-rate": 14,
+      "degree-and-above-rate": 6
     },
-    "total": 46.2,
-    "total_from_source": 5.5,
-    "pct_values": {
-      "male-rate": 0.1017,
-      "female-rate": 0.1602,
-      "passed-year-0-4-rate": 0.0216,
-      "passed-year-5-9-rate": 0.0996,
-      "passed-gce-ol-rate": 0.1905,
-      "passed-gce-al-rate": 0.2987,
-      "degree-and-above-rate": 0.1277
-    }
+    "total": 46
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
-      "male-rate": 5.1,
-      "female-rate": 10.4,
-      "passed-year-0-4-rate": 1.3,
-      "passed-year-5-9-rate": 5.9,
-      "passed-gce-ol-rate": 10.3,
-      "passed-gce-al-rate": 15.7,
-      "degree-and-above-rate": 5.4
+      "male-rate": 5,
+      "female-rate": 10,
+      "passed-year-0-4-rate": 1,
+      "passed-year-5-9-rate": 6,
+      "passed-gce-ol-rate": 10,
+      "passed-gce-al-rate": 16,
+      "degree-and-above-rate": 5
     },
-    "total": 54.1,
-    "total_from_source": 6.4,
-    "pct_values": {
-      "male-rate": 0.0943,
-      "female-rate": 0.1922,
-      "passed-year-0-4-rate": 0.024,
-      "passed-year-5-9-rate": 0.1091,
-      "passed-gce-ol-rate": 0.1904,
-      "passed-gce-al-rate": 0.2902,
-      "degree-and-above-rate": 0.0998
-    }
+    "total": 54
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "male-rate": 11,
+      "female-rate": 19,
+      "passed-year-0-4-rate": 3,
+      "passed-year-5-9-rate": 12,
+      "passed-gce-ol-rate": 25,
+      "passed-gce-al-rate": 36,
+      "degree-and-above-rate": 13
+    },
+    "total": 119
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
-      "male-rate": 5.9,
-      "female-rate": 8.9,
-      "passed-year-0-4-rate": 1.6,
-      "passed-year-5-9-rate": 6.2,
-      "passed-gce-ol-rate": 12.4,
-      "passed-gce-al-rate": 16.8,
-      "degree-and-above-rate": 7.4
+      "male-rate": 6,
+      "female-rate": 9,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 6,
+      "passed-gce-ol-rate": 12,
+      "passed-gce-al-rate": 17,
+      "degree-and-above-rate": 7
     },
-    "total": 59.2,
-    "total_from_source": 7.0,
-    "pct_values": {
-      "male-rate": 0.0997,
-      "female-rate": 0.1503,
-      "passed-year-0-4-rate": 0.027,
-      "passed-year-5-9-rate": 0.1047,
-      "passed-gce-ol-rate": 0.2095,
-      "passed-gce-al-rate": 0.2838,
-      "degree-and-above-rate": 0.125
-    }
+    "total": 59
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
-      "male-rate": 5.0,
-      "female-rate": 10.2,
-      "passed-year-0-4-rate": 1.1,
-      "passed-year-5-9-rate": 6.0,
-      "passed-gce-ol-rate": 12.3,
-      "passed-gce-al-rate": 19.0,
-      "degree-and-above-rate": 5.9
+      "male-rate": 5,
+      "female-rate": 10,
+      "passed-year-0-4-rate": 1,
+      "passed-year-5-9-rate": 6,
+      "passed-gce-ol-rate": 12,
+      "passed-gce-al-rate": 19,
+      "degree-and-above-rate": 6
     },
-    "total": 59.5,
-    "total_from_source": 6.6,
-    "pct_values": {
-      "male-rate": 0.084,
-      "female-rate": 0.1714,
-      "passed-year-0-4-rate": 0.0185,
-      "passed-year-5-9-rate": 0.1008,
-      "passed-gce-ol-rate": 0.2067,
-      "passed-gce-al-rate": 0.3193,
-      "degree-and-above-rate": 0.0992
-    }
+    "total": 60
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "male-rate": 16,
+      "female-rate": 25,
+      "passed-year-0-4-rate": 5,
+      "passed-year-5-9-rate": 18,
+      "passed-gce-ol-rate": 28,
+      "passed-gce-al-rate": 36,
+      "degree-and-above-rate": 16
+    },
+    "total": 142
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
-      "male-rate": 6.8,
-      "female-rate": 10.7,
-      "passed-year-0-4-rate": 1.9,
-      "passed-year-5-9-rate": 7.8,
-      "passed-gce-ol-rate": 13.7,
-      "passed-gce-al-rate": 18.0,
-      "degree-and-above-rate": 6.0
+      "male-rate": 7,
+      "female-rate": 11,
+      "passed-year-0-4-rate": 2,
+      "passed-year-5-9-rate": 8,
+      "passed-gce-ol-rate": 14,
+      "passed-gce-al-rate": 18,
+      "degree-and-above-rate": 6
     },
-    "total": 64.89999999999999,
-    "total_from_source": 8.1,
-    "pct_values": {
-      "male-rate": 0.1048,
-      "female-rate": 0.1649,
-      "passed-year-0-4-rate": 0.0293,
-      "passed-year-5-9-rate": 0.1202,
-      "passed-gce-ol-rate": 0.2111,
-      "passed-gce-al-rate": 0.2773,
-      "degree-and-above-rate": 0.0924
-    }
+    "total": 65
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
-      "male-rate": 9.0,
-      "female-rate": 13.9,
-      "passed-year-0-4-rate": 2.8,
-      "passed-year-5-9-rate": 9.7,
-      "passed-gce-ol-rate": 14.2,
-      "passed-gce-al-rate": 18.2,
-      "degree-and-above-rate": 9.5
+      "male-rate": 9,
+      "female-rate": 14,
+      "passed-year-0-4-rate": 3,
+      "passed-year-5-9-rate": 10,
+      "passed-gce-ol-rate": 14,
+      "passed-gce-al-rate": 18,
+      "degree-and-above-rate": 10
     },
-    "total": 77.3,
-    "total_from_source": 10.5,
-    "pct_values": {
-      "male-rate": 0.1164,
-      "female-rate": 0.1798,
-      "passed-year-0-4-rate": 0.0362,
-      "passed-year-5-9-rate": 0.1255,
-      "passed-gce-ol-rate": 0.1837,
-      "passed-gce-al-rate": 0.2354,
-      "degree-and-above-rate": 0.1229
-    }
+    "total": 77
   }
 ]

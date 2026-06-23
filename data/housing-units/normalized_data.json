@@ -1,290 +1,245 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "urban": 488365,
+      "rural": 3262505,
+      "estate": 218157
+    },
+    "total": 3969027
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "urban": 323504,
+      "rural": 859684,
+      "estate": 11488
+    },
+    "total": 1194676
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "urban": 240531,
       "rural": 230684,
       "estate": 1830
     },
-    "total": 473045,
-    "total_from_source": 473045,
-    "pct_values": {
-      "urban": 0.5085,
-      "rural": 0.4877,
-      "estate": 0.0039
-    }
+    "total": 473045
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "urban": 61832,
       "rural": 413809,
       "estate": 206
     },
-    "total": 475847,
-    "total_from_source": 475847,
-    "pct_values": {
-      "urban": 0.1299,
-      "rural": 0.8696,
-      "estate": 0.0004
-    }
+    "total": 475847
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "urban": 21141,
       "rural": 215191,
       "estate": 9452
     },
-    "total": 245784,
-    "total_from_source": 245784,
-    "pct_values": {
-      "urban": 0.086,
-      "rural": 0.8755,
-      "estate": 0.0385
-    }
+    "total": 245784
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "urban": 46931,
+      "rural": 403034,
+      "estate": 114941
+    },
+    "total": 564906
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "urban": 30741,
       "rural": 237838,
       "estate": 22875
     },
-    "total": 291454,
-    "total_from_source": 291454,
-    "pct_values": {
-      "urban": 0.1055,
-      "rural": 0.816,
-      "estate": 0.0785
-    }
+    "total": 291454
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "urban": 7256,
       "rural": 95722,
       "estate": 5588
     },
-    "total": 108566,
-    "total_from_source": 108566,
-    "pct_values": {
-      "urban": 0.0668,
-      "rural": 0.8817,
-      "estate": 0.0515
-    }
+    "total": 108566
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "urban": 8934,
       "rural": 69474,
       "estate": 86478
     },
-    "total": 164886,
-    "total_from_source": 164886,
-    "pct_values": {
-      "urban": 0.0542,
-      "rural": 0.4213,
-      "estate": 0.5245
-    }
+    "total": 164886
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "urban": 37599,
+      "rural": 483919,
+      "estate": 9077
+    },
+    "total": 530595
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "urban": 20554,
       "rural": 204663,
       "estate": 4304
     },
-    "total": 229521,
-    "total_from_source": 229521,
-    "pct_values": {
-      "urban": 0.0896,
-      "rural": 0.8917,
-      "estate": 0.0188
-    }
+    "total": 229521
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "urban": 12676,
       "rural": 157351,
       "estate": 4685
     },
-    "total": 174712,
-    "total_from_source": 174712,
-    "pct_values": {
-      "urban": 0.0726,
-      "rural": 0.9006,
-      "estate": 0.0268
-    }
+    "total": 174712
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "urban": 4369,
       "rural": 121905,
       "estate": 88
     },
-    "total": 126362,
-    "total_from_source": 126362,
-    "pct_values": {
-      "urban": 0.0346,
-      "rural": 0.9647,
-      "estate": 0.0007
-    }
+    "total": 126362
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "urban": 23327,
       "rural": 109044,
       "estate": 0
     },
-    "total": 132371,
-    "total_from_source": 132371,
-    "pct_values": {
-      "urban": 0.1762,
-      "rural": 0.8238,
-      "estate": 0.0
-    }
+    "total": 132371
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "urban": 23327,
+      "rural": 109044,
+      "estate": 0
+    },
+    "total": 132371
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "urban": 20356,
+      "rural": 528325,
+      "estate": 2408
+    },
+    "total": 551089
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "urban": 6426,
       "rural": 368140,
       "estate": 1786
     },
-    "total": 376352,
-    "total_from_source": 376352,
-    "pct_values": {
-      "urban": 0.0171,
-      "rural": 0.9782,
-      "estate": 0.0047
-    }
+    "total": 376352
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "urban": 13930,
       "rural": 160185,
       "estate": 622
     },
-    "total": 174737,
-    "total_from_source": 174737,
-    "pct_values": {
-      "urban": 0.0797,
-      "rural": 0.9167,
-      "estate": 0.0036
-    }
+    "total": 174737
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "urban": 10856,
+      "rural": 266501,
+      "estate": 339
+    },
+    "total": 277696
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "urban": 10856,
       "rural": 175600,
       "estate": 241
     },
-    "total": 186697,
-    "total_from_source": 186697,
-    "pct_values": {
-      "urban": 0.0581,
-      "rural": 0.9406,
-      "estate": 0.0013
-    }
+    "total": 186697
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "urban": 0,
       "rural": 90901,
       "estate": 98
     },
-    "total": 90999,
-    "total_from_source": 90999,
-    "pct_values": {
-      "urban": 0.0,
-      "rural": 0.9989,
-      "estate": 0.0011
-    }
+    "total": 90999
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "urban": 10553,
+      "rural": 229841,
+      "estate": 40840
+    },
+    "total": 281234
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "urban": 10553,
       "rural": 136171,
       "estate": 38544
     },
-    "total": 185268,
-    "total_from_source": 185268,
-    "pct_values": {
-      "urban": 0.057,
-      "rural": 0.735,
-      "estate": 0.208
-    }
+    "total": 185268
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "urban": 0,
       "rural": 93670,
       "estate": 2296
     },
-    "total": 95966,
-    "total_from_source": 95966,
-    "pct_values": {
-      "urban": 0.0,
-      "rural": 0.9761,
-      "estate": 0.0239
-    }
+    "total": 95966
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "urban": 15239,
+      "rural": 382157,
+      "estate": 39064
+    },
+    "total": 436460
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "urban": 11841,
       "rural": 205773,
       "estate": 25268
     },
-    "total": 242882,
-    "total_from_source": 242882,
-    "pct_values": {
-      "urban": 0.0488,
-      "rural": 0.8472,
-      "estate": 0.104
-    }
+    "total": 242882
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "urban": 3398,
       "rural": 176384,
       "estate": 13796
     },
-    "total": 193578,
-    "total_from_source": 193578,
-    "pct_values": {
-      "urban": 0.0176,
-      "rural": 0.9112,
-      "estate": 0.0713
-    }
+    "total": 193578
   }
 ]

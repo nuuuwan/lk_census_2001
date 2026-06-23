@@ -1,218 +1,191 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "population-aged-5-years-and-over": 15489928
+    },
+    "total": 15489928
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "population-aged-5-years-and-over": 4960569
+    },
+    "total": 4960569
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "population-aged-5-years-and-over": 2084770
     },
-    "total": 2084770,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 2084770
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "population-aged-5-years-and-over": 1898061
     },
-    "total": 1898061,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 1898061
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "population-aged-5-years-and-over": 977738
     },
-    "total": 977738,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 977738
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "population-aged-5-years-and-over": 2210100
+    },
+    "total": 2210100
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "population-aged-5-years-and-over": 1169643
     },
-    "total": 1169643,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 1169643
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "population-aged-5-years-and-over": 402289
     },
-    "total": 402289,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 402289
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "population-aged-5-years-and-over": 638168
     },
-    "total": 638168,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 638168
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "population-aged-5-years-and-over": 2080900
+    },
+    "total": 2080900
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "population-aged-5-years-and-over": 904949
     },
-    "total": 904949,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 904949
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "population-aged-5-years-and-over": 695785
     },
-    "total": 695785,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 695785
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "population-aged-5-years-and-over": 480166
     },
-    "total": 480166,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 480166
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "population-aged-5-years-and-over": 530936
     },
-    "total": 530936,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 530936
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "population-aged-5-years-and-over": 530936
+    },
+    "total": 530936
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "population-aged-5-years-and-over": 1981883
+    },
+    "total": 1981883
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "population-aged-5-years-and-over": 1342047
     },
-    "total": 1342047,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 1342047
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "population-aged-5-years-and-over": 639836
     },
-    "total": 639836,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 639836
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "population-aged-5-years-and-over": 1004798
+    },
+    "total": 1004798
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "population-aged-5-years-and-over": 677088
     },
-    "total": 677088,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 677088
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "population-aged-5-years-and-over": 327710
     },
-    "total": 327710,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 327710
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "population-aged-5-years-and-over": 1066860
+    },
+    "total": 1066860
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "population-aged-5-years-and-over": 706552
     },
-    "total": 706552,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 706552
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "population-aged-5-years-and-over": 360308
     },
-    "total": 360308,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 360308
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "population-aged-5-years-and-over": 1653882
+    },
+    "total": 1653882
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "population-aged-5-years-and-over": 933061
     },
-    "total": 933061,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 933061
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "population-aged-5-years-and-over": 720821
     },
-    "total": 720821,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-years-and-over": 1.0
-    }
+    "total": 720821
   }
 ]

@@ -1,7 +1,56 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "agriculture-and-forestry": 1648547,
+      "fishing": 60043,
+      "mining-and-quarrying": 54112,
+      "manufacturing": 1023813,
+      "electricity-gas-and-water-supply": 10723,
+      "construction": 243062,
+      "wholesale-and-retail-trad": 691365,
+      "hotels-and-restaurants": 105457,
+      "transport-storage-and-communication": 322869,
+      "financial-intermediation": 66467,
+      "real-estate-renting-and-business-activities": 94456,
+      "public-administration-and-defence-compulsory-social-security": 503886,
+      "education": 234517,
+      "health-and-social-work": 99669,
+      "other-community-social-and-personal-service-activities": 77459,
+      "private-households-with-employed-persons": 68003,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 352669,
+      "works-reporting-industry-unidentifiable-or-inadequate": 285477
+    },
+    "total": 5941574
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "agriculture-and-forestry": 104671,
+      "fishing": 13738,
+      "mining-and-quarrying": 11127,
+      "manufacturing": 534785,
+      "electricity-gas-and-water-supply": 5148,
+      "construction": 99423,
+      "wholesale-and-retail-trad": 297247,
+      "hotels-and-restaurants": 47989,
+      "transport-storage-and-communication": 153854,
+      "financial-intermediation": 38117,
+      "real-estate-renting-and-business-activities": 61502,
+      "public-administration-and-defence-compulsory-social-security": 193297,
+      "education": 71623,
+      "health-and-social-work": 42109,
+      "other-community-social-and-personal-service-activities": 38831,
+      "private-households-with-employed-persons": 40862,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 97050,
+      "works-reporting-industry-unidentifiable-or-inadequate": 115938
+    },
+    "total": 1968165
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "agriculture-and-forestry": 17958,
       "fishing": 2565,
@@ -23,33 +72,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 35061,
       "works-reporting-industry-unidentifiable-or-inadequate": 61570
     },
-    "total": 855142,
-    "total_from_source": 855142,
-    "pct_values": {
-      "agriculture-and-forestry": 0.021,
-      "fishing": 0.003,
-      "mining-and-quarrying": 0.004,
-      "manufacturing": 0.231,
-      "electricity-gas-and-water-supply": 0.003,
-      "construction": 0.049,
-      "wholesale-and-retail-trad": 0.167,
-      "hotels-and-restaurants": 0.028,
-      "transport-storage-and-communication": 0.082,
-      "financial-intermediation": 0.025,
-      "real-estate-renting-and-business-activities": 0.041,
-      "public-administration-and-defence-compulsory-social-security": 0.109,
-      "education": 0.037,
-      "health-and-social-work": 0.028,
-      "other-community-social-and-personal-service-activities": 0.025,
-      "private-households-with-employed-persons": 0.033,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.041,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.072
-    }
+    "total": 855142
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "agriculture-and-forestry": 31760,
       "fishing": 8318,
@@ -71,33 +97,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 36297,
       "works-reporting-industry-unidentifiable-or-inadequate": 34028
     },
-    "total": 756186,
-    "total_from_source": 756186,
-    "pct_values": {
-      "agriculture-and-forestry": 0.042,
-      "fishing": 0.011,
-      "mining-and-quarrying": 0.005,
-      "manufacturing": 0.345,
-      "electricity-gas-and-water-supply": 0.002,
-      "construction": 0.052,
-      "wholesale-and-retail-trad": 0.141,
-      "hotels-and-restaurants": 0.02,
-      "transport-storage-and-communication": 0.081,
-      "financial-intermediation": 0.016,
-      "real-estate-renting-and-business-activities": 0.026,
-      "public-administration-and-defence-compulsory-social-security": 0.088,
-      "education": 0.034,
-      "health-and-social-work": 0.016,
-      "other-community-social-and-personal-service-activities": 0.016,
-      "private-households-with-employed-persons": 0.012,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.048,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.045
-    }
+    "total": 756186
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "agriculture-and-forestry": 54953,
       "fishing": 2855,
@@ -119,33 +122,35 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 25692,
       "works-reporting-industry-unidentifiable-or-inadequate": 20340
     },
-    "total": 356837,
-    "total_from_source": 356837,
-    "pct_values": {
-      "agriculture-and-forestry": 0.154,
-      "fishing": 0.008,
-      "mining-and-quarrying": 0.011,
-      "manufacturing": 0.214,
-      "electricity-gas-and-water-supply": 0.003,
-      "construction": 0.051,
-      "wholesale-and-retail-trad": 0.134,
-      "hotels-and-restaurants": 0.025,
-      "transport-storage-and-communication": 0.063,
-      "financial-intermediation": 0.013,
-      "real-estate-renting-and-business-activities": 0.019,
-      "public-administration-and-defence-compulsory-social-security": 0.094,
-      "education": 0.04,
-      "health-and-social-work": 0.017,
-      "other-community-social-and-personal-service-activities": 0.015,
-      "private-households-with-employed-persons": 0.01,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.072,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.057
-    }
+    "total": 356837
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "agriculture-and-forestry": 324064,
+      "fishing": 156,
+      "mining-and-quarrying": 5134,
+      "manufacturing": 90816,
+      "electricity-gas-and-water-supply": 1379,
+      "construction": 30066,
+      "wholesale-and-retail-trad": 93539,
+      "hotels-and-restaurants": 16721,
+      "transport-storage-and-communication": 38082,
+      "financial-intermediation": 6421,
+      "real-estate-renting-and-business-activities": 8645,
+      "public-administration-and-defence-compulsory-social-security": 66201,
+      "education": 36516,
+      "health-and-social-work": 14189,
+      "other-community-social-and-personal-service-activities": 8831,
+      "private-households-with-employed-persons": 9646,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 52100,
+      "works-reporting-industry-unidentifiable-or-inadequate": 43054
+    },
+    "total": 845279
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "agriculture-and-forestry": 89254,
       "fishing": 0,
@@ -167,33 +172,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 30159,
       "works-reporting-industry-unidentifiable-or-inadequate": 22008
     },
-    "total": 407554,
-    "total_from_source": 407554,
-    "pct_values": {
-      "agriculture-and-forestry": 0.219,
-      "fishing": 0.0,
-      "mining-and-quarrying": 0.007,
-      "manufacturing": 0.138,
-      "electricity-gas-and-water-supply": 0.003,
-      "construction": 0.049,
-      "wholesale-and-retail-trad": 0.14,
-      "hotels-and-restaurants": 0.024,
-      "transport-storage-and-communication": 0.059,
-      "financial-intermediation": 0.011,
-      "real-estate-renting-and-business-activities": 0.015,
-      "public-administration-and-defence-compulsory-social-security": 0.101,
-      "education": 0.056,
-      "health-and-social-work": 0.024,
-      "other-community-social-and-personal-service-activities": 0.013,
-      "private-households-with-employed-persons": 0.014,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.074,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.054
-    }
+    "total": 407554
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "agriculture-and-forestry": 61378,
       "fishing": 156,
@@ -215,33 +197,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 12650,
       "works-reporting-industry-unidentifiable-or-inadequate": 4998
     },
-    "total": 156179,
-    "total_from_source": 156179,
-    "pct_values": {
-      "agriculture-and-forestry": 0.393,
-      "fishing": 0.001,
-      "mining-and-quarrying": 0.011,
-      "manufacturing": 0.106,
-      "electricity-gas-and-water-supply": 0.001,
-      "construction": 0.034,
-      "wholesale-and-retail-trad": 0.111,
-      "hotels-and-restaurants": 0.021,
-      "transport-storage-and-communication": 0.043,
-      "financial-intermediation": 0.007,
-      "real-estate-renting-and-business-activities": 0.009,
-      "public-administration-and-defence-compulsory-social-security": 0.081,
-      "education": 0.039,
-      "health-and-social-work": 0.012,
-      "other-community-social-and-personal-service-activities": 0.01,
-      "private-households-with-employed-persons": 0.009,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.081,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.032
-    }
+    "total": 156179
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "agriculture-and-forestry": 173432,
       "fishing": 0,
@@ -263,33 +222,35 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 9291,
       "works-reporting-industry-unidentifiable-or-inadequate": 16048
     },
-    "total": 281546,
-    "total_from_source": 281546,
-    "pct_values": {
-      "agriculture-and-forestry": 0.616,
-      "fishing": 0.0,
-      "mining-and-quarrying": 0.002,
-      "manufacturing": 0.064,
-      "electricity-gas-and-water-supply": 0.0,
-      "construction": 0.017,
-      "wholesale-and-retail-trad": 0.068,
-      "hotels-and-restaurants": 0.013,
-      "transport-storage-and-communication": 0.026,
-      "financial-intermediation": 0.003,
-      "real-estate-renting-and-business-activities": 0.004,
-      "public-administration-and-defence-compulsory-social-security": 0.044,
-      "education": 0.027,
-      "health-and-social-work": 0.009,
-      "other-community-social-and-personal-service-activities": 0.007,
-      "private-households-with-employed-persons": 0.009,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.033,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.057
-    }
+    "total": 281546
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "agriculture-and-forestry": 244588,
+      "fishing": 14584,
+      "mining-and-quarrying": 3145,
+      "manufacturing": 111184,
+      "electricity-gas-and-water-supply": 1133,
+      "construction": 31824,
+      "wholesale-and-retail-trad": 73987,
+      "hotels-and-restaurants": 12456,
+      "transport-storage-and-communication": 34310,
+      "financial-intermediation": 6444,
+      "real-estate-renting-and-business-activities": 6675,
+      "public-administration-and-defence-compulsory-social-security": 54320,
+      "education": 34510,
+      "health-and-social-work": 11030,
+      "other-community-social-and-personal-service-activities": 8049,
+      "private-households-with-employed-persons": 4179,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 46049,
+      "works-reporting-industry-unidentifiable-or-inadequate": 27237
+    },
+    "total": 725778
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "agriculture-and-forestry": 93373,
       "fishing": 3824,
@@ -311,33 +272,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 23901,
       "works-reporting-industry-unidentifiable-or-inadequate": 13385
     },
-    "total": 318680,
-    "total_from_source": 318680,
-    "pct_values": {
-      "agriculture-and-forestry": 0.293,
-      "fishing": 0.012,
-      "mining-and-quarrying": 0.005,
-      "manufacturing": 0.164,
-      "electricity-gas-and-water-supply": 0.001,
-      "construction": 0.047,
-      "wholesale-and-retail-trad": 0.104,
-      "hotels-and-restaurants": 0.024,
-      "transport-storage-and-communication": 0.049,
-      "financial-intermediation": 0.009,
-      "real-estate-renting-and-business-activities": 0.011,
-      "public-administration-and-defence-compulsory-social-security": 0.081,
-      "education": 0.045,
-      "health-and-social-work": 0.017,
-      "other-community-social-and-personal-service-activities": 0.013,
-      "private-households-with-employed-persons": 0.007,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.075,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.042
-    }
+    "total": 318680
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "agriculture-and-forestry": 85246,
       "fishing": 5812,
@@ -359,33 +297,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 13077,
       "works-reporting-industry-unidentifiable-or-inadequate": 7750
     },
-    "total": 242175,
-    "total_from_source": 242175,
-    "pct_values": {
-      "agriculture-and-forestry": 0.352,
-      "fishing": 0.024,
-      "mining-and-quarrying": 0.003,
-      "manufacturing": 0.15,
-      "electricity-gas-and-water-supply": 0.002,
-      "construction": 0.043,
-      "wholesale-and-retail-trad": 0.106,
-      "hotels-and-restaurants": 0.011,
-      "transport-storage-and-communication": 0.052,
-      "financial-intermediation": 0.01,
-      "real-estate-renting-and-business-activities": 0.009,
-      "public-administration-and-defence-compulsory-social-security": 0.068,
-      "education": 0.054,
-      "health-and-social-work": 0.015,
-      "other-community-social-and-personal-service-activities": 0.01,
-      "private-households-with-employed-persons": 0.006,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.054,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.032
-    }
+    "total": 242175
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "agriculture-and-forestry": 65969,
       "fishing": 4948,
@@ -407,33 +322,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 9071,
       "works-reporting-industry-unidentifiable-or-inadequate": 6102
     },
-    "total": 164923,
-    "total_from_source": 164923,
-    "pct_values": {
-      "agriculture-and-forestry": 0.4,
-      "fishing": 0.03,
-      "mining-and-quarrying": 0.005,
-      "manufacturing": 0.137,
-      "electricity-gas-and-water-supply": 0.002,
-      "construction": 0.039,
-      "wholesale-and-retail-trad": 0.092,
-      "hotels-and-restaurants": 0.013,
-      "transport-storage-and-communication": 0.037,
-      "financial-intermediation": 0.007,
-      "real-estate-renting-and-business-activities": 0.006,
-      "public-administration-and-defence-compulsory-social-security": 0.073,
-      "education": 0.043,
-      "health-and-social-work": 0.012,
-      "other-community-social-and-personal-service-activities": 0.009,
-      "private-households-with-employed-persons": 0.003,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.055,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.037
-    }
+    "total": 164923
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "agriculture-and-forestry": 65578,
       "fishing": 5844,
@@ -455,33 +347,60 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 8116,
       "works-reporting-industry-unidentifiable-or-inadequate": 8116
     },
-    "total": 162322,
-    "total_from_source": 162322,
-    "pct_values": {
-      "agriculture-and-forestry": 0.404,
-      "fishing": 0.036,
-      "mining-and-quarrying": 0.003,
-      "manufacturing": 0.066,
-      "electricity-gas-and-water-supply": 0.002,
-      "construction": 0.044,
-      "wholesale-and-retail-trad": 0.098,
-      "hotels-and-restaurants": 0.01,
-      "transport-storage-and-communication": 0.036,
-      "financial-intermediation": 0.005,
-      "real-estate-renting-and-business-activities": 0.003,
-      "public-administration-and-defence-compulsory-social-security": 0.116,
-      "education": 0.05,
-      "health-and-social-work": 0.014,
-      "other-community-social-and-personal-service-activities": 0.01,
-      "private-households-with-employed-persons": 0.002,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.05,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.05
-    }
+    "total": 162322
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "agriculture-and-forestry": 65578,
+      "fishing": 5844,
+      "mining-and-quarrying": 487,
+      "manufacturing": 10713,
+      "electricity-gas-and-water-supply": 325,
+      "construction": 7142,
+      "wholesale-and-retail-trad": 15908,
+      "hotels-and-restaurants": 1623,
+      "transport-storage-and-communication": 5844,
+      "financial-intermediation": 812,
+      "real-estate-renting-and-business-activities": 487,
+      "public-administration-and-defence-compulsory-social-security": 18829,
+      "education": 8116,
+      "health-and-social-work": 2273,
+      "other-community-social-and-personal-service-activities": 1623,
+      "private-households-with-employed-persons": 325,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 8116,
+      "works-reporting-industry-unidentifiable-or-inadequate": 8116
+    },
+    "total": 162322
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "agriculture-and-forestry": 211843,
+      "fishing": 21677,
+      "mining-and-quarrying": 6008,
+      "manufacturing": 129986,
+      "electricity-gas-and-water-supply": 744,
+      "construction": 34744,
+      "wholesale-and-retail-trad": 84535,
+      "hotels-and-restaurants": 9616,
+      "transport-storage-and-communication": 36802,
+      "financial-intermediation": 5722,
+      "real-estate-renting-and-business-activities": 7440,
+      "public-administration-and-defence-compulsory-social-security": 51613,
+      "education": 29523,
+      "health-and-social-work": 10757,
+      "other-community-social-and-personal-service-activities": 7899,
+      "private-households-with-employed-persons": 5152,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 61242,
+      "works-reporting-industry-unidentifiable-or-inadequate": 29988
+    },
+    "total": 743978
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "agriculture-and-forestry": 170317,
       "fishing": 1029,
@@ -503,33 +422,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 40135,
       "works-reporting-industry-unidentifiable-or-inadequate": 20582
     },
-    "total": 514553,
-    "total_from_source": 514553,
-    "pct_values": {
-      "agriculture-and-forestry": 0.331,
-      "fishing": 0.002,
-      "mining-and-quarrying": 0.009,
-      "manufacturing": 0.163,
-      "electricity-gas-and-water-supply": 0.001,
-      "construction": 0.043,
-      "wholesale-and-retail-trad": 0.109,
-      "hotels-and-restaurants": 0.012,
-      "transport-storage-and-communication": 0.047,
-      "financial-intermediation": 0.008,
-      "real-estate-renting-and-business-activities": 0.01,
-      "public-administration-and-defence-compulsory-social-security": 0.074,
-      "education": 0.044,
-      "health-and-social-work": 0.016,
-      "other-community-social-and-personal-service-activities": 0.01,
-      "private-households-with-employed-persons": 0.006,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.078,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.04
-    }
+    "total": 514553
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "agriculture-and-forestry": 41526,
       "fishing": 20648,
@@ -551,33 +447,35 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 21107,
       "works-reporting-industry-unidentifiable-or-inadequate": 9406
     },
-    "total": 229425,
-    "total_from_source": 229425,
-    "pct_values": {
-      "agriculture-and-forestry": 0.181,
-      "fishing": 0.09,
-      "mining-and-quarrying": 0.006,
-      "manufacturing": 0.201,
-      "electricity-gas-and-water-supply": 0.001,
-      "construction": 0.055,
-      "wholesale-and-retail-trad": 0.124,
-      "hotels-and-restaurants": 0.015,
-      "transport-storage-and-communication": 0.055,
-      "financial-intermediation": 0.007,
-      "real-estate-renting-and-business-activities": 0.01,
-      "public-administration-and-defence-compulsory-social-security": 0.059,
-      "education": 0.03,
-      "health-and-social-work": 0.011,
-      "other-community-social-and-personal-service-activities": 0.012,
-      "private-households-with-employed-persons": 0.009,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.092,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.041
-    }
+    "total": 229425
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "agriculture-and-forestry": 216575,
+      "fishing": 3086,
+      "mining-and-quarrying": 1691,
+      "manufacturing": 30950,
+      "electricity-gas-and-water-supply": 286,
+      "construction": 7635,
+      "wholesale-and-retail-trad": 31454,
+      "hotels-and-restaurants": 4652,
+      "transport-storage-and-communication": 11430,
+      "financial-intermediation": 2400,
+      "real-estate-renting-and-business-activities": 2263,
+      "public-administration-and-defence-compulsory-social-security": 50918,
+      "education": 13990,
+      "health-and-social-work": 4949,
+      "other-community-social-and-personal-service-activities": 3383,
+      "private-households-with-employed-persons": 1691,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 18560,
+      "works-reporting-industry-unidentifiable-or-inadequate": 17405
+    },
+    "total": 422884
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "agriculture-and-forestry": 147762,
       "fishing": 1715,
@@ -599,33 +497,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 11432,
       "works-reporting-industry-unidentifiable-or-inadequate": 10003
     },
-    "total": 285806,
-    "total_from_source": 285806,
-    "pct_values": {
-      "agriculture-and-forestry": 0.517,
-      "fishing": 0.006,
-      "mining-and-quarrying": 0.004,
-      "manufacturing": 0.068,
-      "electricity-gas-and-water-supply": 0.001,
-      "construction": 0.02,
-      "wholesale-and-retail-trad": 0.076,
-      "hotels-and-restaurants": 0.011,
-      "transport-storage-and-communication": 0.028,
-      "financial-intermediation": 0.006,
-      "real-estate-renting-and-business-activities": 0.006,
-      "public-administration-and-defence-compulsory-social-security": 0.123,
-      "education": 0.036,
-      "health-and-social-work": 0.013,
-      "other-community-social-and-personal-service-activities": 0.008,
-      "private-households-with-employed-persons": 0.004,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.04,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.035
-    }
+    "total": 285806
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "agriculture-and-forestry": 68813,
       "fishing": 1371,
@@ -647,33 +522,35 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 7128,
       "works-reporting-industry-unidentifiable-or-inadequate": 7402
     },
-    "total": 137078,
-    "total_from_source": 137078,
-    "pct_values": {
-      "agriculture-and-forestry": 0.502,
-      "fishing": 0.01,
-      "mining-and-quarrying": 0.004,
-      "manufacturing": 0.084,
-      "electricity-gas-and-water-supply": 0.0,
-      "construction": 0.014,
-      "wholesale-and-retail-trad": 0.071,
-      "hotels-and-restaurants": 0.011,
-      "transport-storage-and-communication": 0.025,
-      "financial-intermediation": 0.005,
-      "real-estate-renting-and-business-activities": 0.004,
-      "public-administration-and-defence-compulsory-social-security": 0.115,
-      "education": 0.027,
-      "health-and-social-work": 0.009,
-      "other-community-social-and-personal-service-activities": 0.008,
-      "private-households-with-employed-persons": 0.004,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.052,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.054
-    }
+    "total": 137078
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "agriculture-and-forestry": 252099,
+      "fishing": 583,
+      "mining-and-quarrying": 1900,
+      "manufacturing": 28055,
+      "electricity-gas-and-water-supply": 439,
+      "construction": 7759,
+      "wholesale-and-retail-trad": 32049,
+      "hotels-and-restaurants": 4243,
+      "transport-storage-and-communication": 13469,
+      "financial-intermediation": 2343,
+      "real-estate-renting-and-business-activities": 2343,
+      "public-administration-and-defence-compulsory-social-security": 30140,
+      "education": 16690,
+      "health-and-social-work": 5714,
+      "other-community-social-and-personal-service-activities": 3366,
+      "private-households-with-employed-persons": 2199,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 15813,
+      "works-reporting-industry-unidentifiable-or-inadequate": 19323
+    },
+    "total": 438823
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "agriculture-and-forestry": 164471,
       "fishing": 294,
@@ -695,33 +572,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 11475,
       "works-reporting-industry-unidentifiable-or-inadequate": 13828
     },
-    "total": 294223,
-    "total_from_source": 294223,
-    "pct_values": {
-      "agriculture-and-forestry": 0.559,
-      "fishing": 0.001,
-      "mining-and-quarrying": 0.004,
-      "manufacturing": 0.058,
-      "electricity-gas-and-water-supply": 0.001,
-      "construction": 0.019,
-      "wholesale-and-retail-trad": 0.076,
-      "hotels-and-restaurants": 0.01,
-      "transport-storage-and-communication": 0.033,
-      "financial-intermediation": 0.006,
-      "real-estate-renting-and-business-activities": 0.006,
-      "public-administration-and-defence-compulsory-social-security": 0.07,
-      "education": 0.041,
-      "health-and-social-work": 0.015,
-      "other-community-social-and-personal-service-activities": 0.008,
-      "private-households-with-employed-persons": 0.006,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.039,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.047
-    }
+    "total": 294223
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "agriculture-and-forestry": 87628,
       "fishing": 289,
@@ -743,33 +597,35 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 4338,
       "works-reporting-industry-unidentifiable-or-inadequate": 5495
     },
-    "total": 144600,
-    "total_from_source": 144600,
-    "pct_values": {
-      "agriculture-and-forestry": 0.606,
-      "fishing": 0.002,
-      "mining-and-quarrying": 0.005,
-      "manufacturing": 0.076,
-      "electricity-gas-and-water-supply": 0.001,
-      "construction": 0.015,
-      "wholesale-and-retail-trad": 0.067,
-      "hotels-and-restaurants": 0.009,
-      "transport-storage-and-communication": 0.026,
-      "financial-intermediation": 0.004,
-      "real-estate-renting-and-business-activities": 0.004,
-      "public-administration-and-defence-compulsory-social-security": 0.066,
-      "education": 0.032,
-      "health-and-social-work": 0.009,
-      "other-community-social-and-personal-service-activities": 0.007,
-      "private-households-with-employed-persons": 0.003,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.03,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.038
-    }
+    "total": 144600
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "agriculture-and-forestry": 229129,
+      "fishing": 375,
+      "mining-and-quarrying": 24620,
+      "manufacturing": 87324,
+      "electricity-gas-and-water-supply": 1269,
+      "construction": 24469,
+      "wholesale-and-retail-trad": 62646,
+      "hotels-and-restaurants": 8157,
+      "transport-storage-and-communication": 29078,
+      "financial-intermediation": 4208,
+      "real-estate-renting-and-business-activities": 5101,
+      "public-administration-and-defence-compulsory-social-security": 38568,
+      "education": 23549,
+      "health-and-social-work": 8648,
+      "other-community-social-and-personal-service-activities": 5477,
+      "private-households-with-employed-persons": 3949,
+      "activitextraterritorial-organisations-and-bodies": 0,
+      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 53739,
+      "works-reporting-industry-unidentifiable-or-inadequate": 24416
+    },
+    "total": 634345
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "agriculture-and-forestry": 165161,
       "fishing": 375,
@@ -791,33 +647,10 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 29654,
       "works-reporting-industry-unidentifiable-or-inadequate": 12762
     },
-    "total": 375365,
-    "total_from_source": 375365,
-    "pct_values": {
-      "agriculture-and-forestry": 0.44,
-      "fishing": 0.001,
-      "mining-and-quarrying": 0.058,
-      "manufacturing": 0.105,
-      "electricity-gas-and-water-supply": 0.002,
-      "construction": 0.03,
-      "wholesale-and-retail-trad": 0.091,
-      "hotels-and-restaurants": 0.01,
-      "transport-storage-and-communication": 0.034,
-      "financial-intermediation": 0.005,
-      "real-estate-renting-and-business-activities": 0.006,
-      "public-administration-and-defence-compulsory-social-security": 0.051,
-      "education": 0.031,
-      "health-and-social-work": 0.012,
-      "other-community-social-and-personal-service-activities": 0.007,
-      "private-households-with-employed-persons": 0.005,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.079,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.034
-    }
+    "total": 375365
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "agriculture-and-forestry": 63968,
       "fishing": 0,
@@ -839,28 +672,6 @@
       "industry-in-elementary-occupations-unidentifiable-or-inadequate": 24085,
       "works-reporting-industry-unidentifiable-or-inadequate": 11654
     },
-    "total": 258980,
-    "total_from_source": 258980,
-    "pct_values": {
-      "agriculture-and-forestry": 0.247,
-      "fishing": 0.0,
-      "mining-and-quarrying": 0.011,
-      "manufacturing": 0.185,
-      "electricity-gas-and-water-supply": 0.002,
-      "construction": 0.051,
-      "wholesale-and-retail-trad": 0.11,
-      "hotels-and-restaurants": 0.017,
-      "transport-storage-and-communication": 0.063,
-      "financial-intermediation": 0.009,
-      "real-estate-renting-and-business-activities": 0.011,
-      "public-administration-and-defence-compulsory-social-security": 0.075,
-      "education": 0.046,
-      "health-and-social-work": 0.016,
-      "other-community-social-and-personal-service-activities": 0.011,
-      "private-households-with-employed-persons": 0.008,
-      "activitextraterritorial-organisations-and-bodies": 0.0,
-      "industry-in-elementary-occupations-unidentifiable-or-inadequate": 0.093,
-      "works-reporting-industry-unidentifiable-or-inadequate": 0.045
-    }
+    "total": 258980
   }
 ]

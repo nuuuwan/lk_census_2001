@@ -1,7 +1,34 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "market-gardeners-and-crop-growers": 1076447,
+      "market-oriented-animal-producers": 27602,
+      "market-oriented-crop-and-animal-producers": 37,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 44378,
+      "subsistence-agricultural-and-fishery-workers": 347751,
+      "subsistence-dairy-livestock-and-related-workers": 1376,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 174998
+    },
+    "total": 1672965
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "market-gardeners-and-crop-growers": 50764,
+      "market-oriented-animal-producers": 4983,
+      "market-oriented-crop-and-animal-producers": 37,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 10764,
+      "subsistence-agricultural-and-fishery-workers": 29133,
+      "subsistence-dairy-livestock-and-related-workers": 424,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 14256
+    },
+    "total": 110361
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "market-gardeners-and-crop-growers": 8459,
       "market-oriented-animal-producers": 1311,
@@ -12,22 +39,10 @@
       "subsistence-dairy-livestock-and-related-workers": 129,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 2697
     },
-    "total": 18470,
-    "total_from_source": 18470,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.458,
-      "market-oriented-animal-producers": 0.071,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.092,
-      "subsistence-agricultural-and-fishery-workers": 0.226,
-      "subsistence-dairy-livestock-and-related-workers": 0.007,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.146
-    }
+    "total": 18470
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "market-gardeners-and-crop-growers": 19091,
       "market-oriented-animal-producers": 2303,
@@ -38,22 +53,10 @@
       "subsistence-dairy-livestock-and-related-workers": 186,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 4606
     },
-    "total": 37142,
-    "total_from_source": 37142,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.514,
-      "market-oriented-animal-producers": 0.062,
-      "market-oriented-crop-and-animal-producers": 0.001,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.191,
-      "subsistence-agricultural-and-fishery-workers": 0.103,
-      "subsistence-dairy-livestock-and-related-workers": 0.005,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.124
-    }
+    "total": 37142
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "market-gardeners-and-crop-growers": 23214,
       "market-oriented-animal-producers": 1369,
@@ -64,22 +67,24 @@
       "subsistence-dairy-livestock-and-related-workers": 109,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 6953
     },
-    "total": 54749,
-    "total_from_source": 54749,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.424,
-      "market-oriented-animal-producers": 0.025,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.036,
-      "subsistence-agricultural-and-fishery-workers": 0.386,
-      "subsistence-dairy-livestock-and-related-workers": 0.002,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.127
-    }
+    "total": 54749
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "market-gardeners-and-crop-growers": 146778,
+      "market-oriented-animal-producers": 6203,
+      "market-oriented-crop-and-animal-producers": 0,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 322,
+      "subsistence-agricultural-and-fishery-workers": 113377,
+      "subsistence-dairy-livestock-and-related-workers": 348,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 54544
+    },
+    "total": 321400
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "market-gardeners-and-crop-growers": 48767,
       "market-oriented-animal-producers": 3983,
@@ -90,22 +95,10 @@
       "subsistence-dairy-livestock-and-related-workers": 177,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 14161
     },
-    "total": 88506,
-    "total_from_source": 88506,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.551,
-      "market-oriented-animal-producers": 0.045,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.001,
-      "subsistence-agricultural-and-fishery-workers": 0.241,
-      "subsistence-dairy-livestock-and-related-workers": 0.002,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.16
-    }
+    "total": 88506
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "market-gardeners-and-crop-growers": 53503,
       "market-oriented-animal-producers": 679,
@@ -116,22 +109,10 @@
       "subsistence-dairy-livestock-and-related-workers": 0,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 3579
     },
-    "total": 61711,
-    "total_from_source": 61711,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.867,
-      "market-oriented-animal-producers": 0.011,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.001,
-      "subsistence-agricultural-and-fishery-workers": 0.063,
-      "subsistence-dairy-livestock-and-related-workers": 0.0,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.058
-    }
+    "total": 61711
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "market-gardeners-and-crop-growers": 44508,
       "market-oriented-animal-producers": 1541,
@@ -142,22 +123,24 @@
       "subsistence-dairy-livestock-and-related-workers": 171,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 36804
     },
-    "total": 171183,
-    "total_from_source": 171183,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.26,
-      "market-oriented-animal-producers": 0.009,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.001,
-      "subsistence-agricultural-and-fishery-workers": 0.515,
-      "subsistence-dairy-livestock-and-related-workers": 0.001,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.215
-    }
+    "total": 171183
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "market-gardeners-and-crop-growers": 137786,
+      "market-oriented-animal-producers": 2922,
+      "market-oriented-crop-and-animal-producers": 0,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 10083,
+      "subsistence-agricultural-and-fishery-workers": 77233,
+      "subsistence-dairy-livestock-and-related-workers": 68,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 22085
+    },
+    "total": 250109
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "market-gardeners-and-crop-growers": 35461,
       "market-oriented-animal-producers": 1029,
@@ -168,22 +151,10 @@
       "subsistence-dairy-livestock-and-related-workers": 0,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 11041
     },
-    "total": 93565,
-    "total_from_source": 93565,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.379,
-      "market-oriented-animal-producers": 0.011,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.03,
-      "subsistence-agricultural-and-fishery-workers": 0.462,
-      "subsistence-dairy-livestock-and-related-workers": 0.0,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.118
-    }
+    "total": 93565
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "market-gardeners-and-crop-growers": 41925,
       "market-oriented-animal-producers": 531,
@@ -194,22 +165,10 @@
       "subsistence-dairy-livestock-and-related-workers": 0,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 8933
     },
-    "total": 88449,
-    "total_from_source": 88449,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.474,
-      "market-oriented-animal-producers": 0.006,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.053,
-      "subsistence-agricultural-and-fishery-workers": 0.366,
-      "subsistence-dairy-livestock-and-related-workers": 0.0,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.101
-    }
+    "total": 88449
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "market-gardeners-and-crop-growers": 60400,
       "market-oriented-animal-producers": 1362,
@@ -220,22 +179,10 @@
       "subsistence-dairy-livestock-and-related-workers": 68,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 2111
     },
-    "total": 68095,
-    "total_from_source": 68095,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.887,
-      "market-oriented-animal-producers": 0.02,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.038,
-      "subsistence-agricultural-and-fishery-workers": 0.024,
-      "subsistence-dairy-livestock-and-related-workers": 0.001,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.031
-    }
+    "total": 68095
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "market-gardeners-and-crop-growers": 54058,
       "market-oriented-animal-producers": 572,
@@ -246,22 +193,38 @@
       "subsistence-dairy-livestock-and-related-workers": 72,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 13872
     },
-    "total": 71505,
-    "total_from_source": 71505,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.756,
-      "market-oriented-animal-producers": 0.008,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.039,
-      "subsistence-agricultural-and-fishery-workers": 0.001,
-      "subsistence-dairy-livestock-and-related-workers": 0.001,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.194
-    }
+    "total": 71505
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "market-gardeners-and-crop-growers": 54058,
+      "market-oriented-animal-producers": 572,
+      "market-oriented-crop-and-animal-producers": 0,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 2789,
+      "subsistence-agricultural-and-fishery-workers": 72,
+      "subsistence-dairy-livestock-and-related-workers": 72,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 13872
+    },
+    "total": 71505
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "market-gardeners-and-crop-growers": 175981,
+      "market-oriented-animal-producers": 7419,
+      "market-oriented-crop-and-animal-producers": 0,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 17316,
+      "subsistence-agricultural-and-fishery-workers": 7155,
+      "subsistence-dairy-livestock-and-related-workers": 402,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 16935
+    },
+    "total": 225433
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "market-gardeners-and-crop-growers": 150639,
       "market-oriented-animal-producers": 4832,
@@ -272,22 +235,10 @@
       "subsistence-dairy-livestock-and-related-workers": 167,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 5999
     },
-    "total": 166636,
-    "total_from_source": 166636,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.904,
-      "market-oriented-animal-producers": 0.029,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.003,
-      "subsistence-agricultural-and-fishery-workers": 0.026,
-      "subsistence-dairy-livestock-and-related-workers": 0.001,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.036
-    }
+    "total": 166636
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "market-gardeners-and-crop-growers": 25342,
       "market-oriented-animal-producers": 2587,
@@ -298,22 +249,24 @@
       "subsistence-dairy-livestock-and-related-workers": 235,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 10936
     },
-    "total": 58797,
-    "total_from_source": 58797,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.431,
-      "market-oriented-animal-producers": 0.044,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.286,
-      "subsistence-agricultural-and-fishery-workers": 0.048,
-      "subsistence-dairy-livestock-and-related-workers": 0.004,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.186
-    }
+    "total": 58797
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "market-gardeners-and-crop-growers": 211293,
+      "market-oriented-animal-producers": 1994,
+      "market-oriented-crop-and-animal-producers": 0,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 2542,
+      "subsistence-agricultural-and-fishery-workers": 0,
+      "subsistence-dairy-livestock-and-related-workers": 0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 3409
+    },
+    "total": 219307
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "market-gardeners-and-crop-growers": 144454,
       "market-oriented-animal-producers": 1645,
@@ -324,22 +277,10 @@
       "subsistence-dairy-livestock-and-related-workers": 0,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 1944
     },
-    "total": 149538,
-    "total_from_source": 149538,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.966,
-      "market-oriented-animal-producers": 0.011,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.01,
-      "subsistence-agricultural-and-fishery-workers": 0.0,
-      "subsistence-dairy-livestock-and-related-workers": 0.0,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.013
-    }
+    "total": 149538
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "market-gardeners-and-crop-growers": 66839,
       "market-oriented-animal-producers": 349,
@@ -350,22 +291,24 @@
       "subsistence-dairy-livestock-and-related-workers": 0,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 1465
     },
-    "total": 69769,
-    "total_from_source": 69769,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.958,
-      "market-oriented-animal-producers": 0.005,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.015,
-      "subsistence-agricultural-and-fishery-workers": 0.0,
-      "subsistence-dairy-livestock-and-related-workers": 0.0,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.021
-    }
+    "total": 69769
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "market-gardeners-and-crop-growers": 185631,
+      "market-oriented-animal-producers": 1987,
+      "market-oriented-crop-and-animal-producers": 0,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 338,
+      "subsistence-agricultural-and-fishery-workers": 40664,
+      "subsistence-dairy-livestock-and-related-workers": 0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 21112
+    },
+    "total": 250145
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "market-gardeners-and-crop-growers": 102484,
       "market-oriented-animal-producers": 1459,
@@ -376,22 +319,10 @@
       "subsistence-dairy-livestock-and-related-workers": 0,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 18648
     },
-    "total": 162159,
-    "total_from_source": 162159,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.632,
-      "market-oriented-animal-producers": 0.009,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.001,
-      "subsistence-agricultural-and-fishery-workers": 0.241,
-      "subsistence-dairy-livestock-and-related-workers": 0.0,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.115
-    }
+    "total": 162159
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "market-gardeners-and-crop-growers": 83147,
       "market-oriented-animal-producers": 528,
@@ -402,22 +333,24 @@
       "subsistence-dairy-livestock-and-related-workers": 0,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 2464
     },
-    "total": 87986,
-    "total_from_source": 87986,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.945,
-      "market-oriented-animal-producers": 0.006,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.002,
-      "subsistence-agricultural-and-fishery-workers": 0.018,
-      "subsistence-dairy-livestock-and-related-workers": 0.0,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.028
-    }
+    "total": 87986
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "market-gardeners-and-crop-growers": 114156,
+      "market-oriented-animal-producers": 1522,
+      "market-oriented-crop-and-animal-producers": 0,
+      "forestry-and-related-workers": 0,
+      "fishery-workers-hunters-and-trappers": 224,
+      "subsistence-agricultural-and-fishery-workers": 80117,
+      "subsistence-dairy-livestock-and-related-workers": 62,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 28785
+    },
+    "total": 224705
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "market-gardeners-and-crop-growers": 87336,
       "market-oriented-animal-producers": 649,
@@ -428,22 +361,10 @@
       "subsistence-dairy-livestock-and-related-workers": 0,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 18993
     },
-    "total": 162334,
-    "total_from_source": 162334,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.538,
-      "market-oriented-animal-producers": 0.004,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.001,
-      "subsistence-agricultural-and-fishery-workers": 0.341,
-      "subsistence-dairy-livestock-and-related-workers": 0.0,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.117
-    }
+    "total": 162334
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "market-gardeners-and-crop-growers": 26820,
       "market-oriented-animal-producers": 873,
@@ -454,17 +375,6 @@
       "subsistence-dairy-livestock-and-related-workers": 62,
       "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 9792
     },
-    "total": 62371,
-    "total_from_source": 62371,
-    "pct_values": {
-      "market-gardeners-and-crop-growers": 0.43,
-      "market-oriented-animal-producers": 0.014,
-      "market-oriented-crop-and-animal-producers": 0.0,
-      "forestry-and-related-workers": 0.0,
-      "fishery-workers-hunters-and-trappers": 0.001,
-      "subsistence-agricultural-and-fishery-workers": 0.397,
-      "subsistence-dairy-livestock-and-related-workers": 0.001,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 0.157
-    }
+    "total": 62371
   }
 ]

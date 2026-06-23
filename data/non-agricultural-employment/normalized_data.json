@@ -1,326 +1,272 @@
 [
   {
-    "region_id": "LK-11",
-    "region_name": "Colombo",
+    "region_id": "LK",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 30.9,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 24.7,
-      "production-and-related-workers-rate": 30.9,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.3
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 281,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 293,
+      "production-and-related-workers-rate": 391,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 195
     },
-    "total": 97.8,
-    "total_from_source": 855142,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.316,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2526,
-      "production-and-related-workers-rate": 0.316,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1155
-    }
+    "total": 1160
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 75,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 65,
+      "production-and-related-workers-rate": 104,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 34
+    },
+    "total": 278
+  },
+  {
+    "region_id": "LK-11",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 31,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 25,
+      "production-and-related-workers-rate": 31,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11
+    },
+    "total": 98
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 22.8,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 20.0,
-      "production-and-related-workers-rate": 41.8,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 10.5
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 23,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 20,
+      "production-and-related-workers-rate": 42,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 10
     },
-    "total": 95.1,
-    "total_from_source": 756186,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2397,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2103,
-      "production-and-related-workers-rate": 0.4395,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1104
-    }
+    "total": 95
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 21.3,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 20.5,
-      "production-and-related-workers-rate": 30.9,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12.0
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 21,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 20,
+      "production-and-related-workers-rate": 31,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12
     },
-    "total": 84.7,
-    "total_from_source": 356837,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2515,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.242,
-      "production-and-related-workers-rate": 0.3648,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1417
-    }
+    "total": 85
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 44,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 50,
+      "production-and-related-workers-rate": 52,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 32
+    },
+    "total": 178
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 20.8,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 22.1,
-      "production-and-related-workers-rate": 23.3,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12.1
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 21,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 22,
+      "production-and-related-workers-rate": 23,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12
     },
-    "total": 78.3,
-    "total_from_source": 407554,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2656,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2822,
-      "production-and-related-workers-rate": 0.2976,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1545
-    }
+    "total": 78
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 14.4,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 16.3,
-      "production-and-related-workers-rate": 18.1,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.7
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 14,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 16,
+      "production-and-related-workers-rate": 18,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12
     },
-    "total": 60.5,
-    "total_from_source": 156179,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.238,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2694,
-      "production-and-related-workers-rate": 0.2992,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1934
-    }
+    "total": 60
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 8.7,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 11.7,
-      "production-and-related-workers-rate": 10.4,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8.4
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 9,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 12,
+      "production-and-related-workers-rate": 10,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8
     },
-    "total": 39.2,
-    "total_from_source": 281546,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2219,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2985,
-      "production-and-related-workers-rate": 0.2653,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.2143
-    }
+    "total": 39
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 50,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 44,
+      "production-and-related-workers-rate": 70,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 29
+    },
+    "total": 193
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 18.5,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 15.4,
-      "production-and-related-workers-rate": 24.6,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12.1
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 18,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 15,
+      "production-and-related-workers-rate": 25,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12
     },
-    "total": 70.6,
-    "total_from_source": 318680,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.262,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2181,
-      "production-and-related-workers-rate": 0.3484,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1714
-    }
+    "total": 71
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 16.5,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 15.4,
-      "production-and-related-workers-rate": 23.4,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8.3
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 16,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 15,
+      "production-and-related-workers-rate": 23,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8
     },
-    "total": 63.6,
-    "total_from_source": 242175,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2594,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2421,
-      "production-and-related-workers-rate": 0.3679,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1305
-    }
+    "total": 64
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 14.5,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 12.7,
-      "production-and-related-workers-rate": 22.5,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 9.0
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 14,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 13,
+      "production-and-related-workers-rate": 22,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 9
     },
-    "total": 58.7,
-    "total_from_source": 164923,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.247,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2164,
-      "production-and-related-workers-rate": 0.3833,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1533
-    }
+    "total": 59
+  },
+  {
+    "region_id": "LK-5",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 14,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 19,
+      "production-and-related-workers-rate": 15,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8
+    },
+    "total": 56
   },
   {
     "region_id": "LK-52",
-    "region_name": "Ampara",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 13.5,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 19.2,
-      "production-and-related-workers-rate": 14.9,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8.3
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 14,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 19,
+      "production-and-related-workers-rate": 15,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8
     },
-    "total": 55.9,
-    "total_from_source": 162322,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2415,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.3435,
-      "production-and-related-workers-rate": 0.2665,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1485
-    }
+    "total": 56
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 27,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 36,
+      "production-and-related-workers-rate": 54,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 25
+    },
+    "total": 142
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 15.3,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 16.3,
-      "production-and-related-workers-rate": 24.5,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.5
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 15,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 16,
+      "production-and-related-workers-rate": 24,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12
     },
-    "total": 67.6,
-    "total_from_source": 514553,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2263,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2411,
-      "production-and-related-workers-rate": 0.3624,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1701
-    }
+    "total": 68
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 12.0,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 19.7,
-      "production-and-related-workers-rate": 29.6,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 13.1
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 12,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 20,
+      "production-and-related-workers-rate": 30,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 13
     },
-    "total": 74.4,
-    "total_from_source": 229425,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.1613,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2648,
-      "production-and-related-workers-rate": 0.3978,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1761
-    }
+    "total": 74
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 20,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 27,
+      "production-and-related-workers-rate": 23,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 25
+    },
+    "total": 97
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 11.1,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 13.2,
-      "production-and-related-workers-rate": 11.7,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.6
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 11,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 13,
+      "production-and-related-workers-rate": 12,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12
     },
-    "total": 47.599999999999994,
-    "total_from_source": 285806,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2332,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2773,
-      "production-and-related-workers-rate": 0.2458,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.2437
-    }
+    "total": 48
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 9.4,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 14.2,
-      "production-and-related-workers-rate": 11.6,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 13.8
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 9,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 14,
+      "production-and-related-workers-rate": 12,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 14
     },
-    "total": 49.0,
-    "total_from_source": 137078,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.1918,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2898,
-      "production-and-related-workers-rate": 0.2367,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.2816
-    }
+    "total": 49
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 22,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 23,
+      "production-and-related-workers-rate": 22,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 17
+    },
+    "total": 84
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 12.7,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 11.9,
-      "production-and-related-workers-rate": 10.7,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 9.5
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 13,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 12,
+      "production-and-related-workers-rate": 11,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 10
     },
-    "total": 44.8,
-    "total_from_source": 294223,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2835,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2656,
-      "production-and-related-workers-rate": 0.2388,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.2121
-    }
+    "total": 45
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 9.7,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 11.1,
-      "production-and-related-workers-rate": 10.8,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 7.5
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 10,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 11,
+      "production-and-related-workers-rate": 11,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8
     },
-    "total": 39.1,
-    "total_from_source": 144600,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2481,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2839,
-      "production-and-related-workers-rate": 0.2762,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1918
-    }
+    "total": 39
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 29,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 28,
+      "production-and-related-workers-rate": 51,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 24
+    },
+    "total": 133
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 12.7,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 12.0,
-      "production-and-related-workers-rate": 21.7,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 10.4
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 13,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 12,
+      "production-and-related-workers-rate": 22,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 10
     },
-    "total": 56.8,
-    "total_from_source": 375365,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2236,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2113,
-      "production-and-related-workers-rate": 0.382,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1831
-    }
+    "total": 57
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 15.9,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 16.4,
-      "production-and-related-workers-rate": 29.5,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 14.1
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 16,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 16,
+      "production-and-related-workers-rate": 30,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 14
     },
-    "total": 75.9,
-    "total_from_source": 258980,
-    "pct_values": {
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2095,
-      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2161,
-      "production-and-related-workers-rate": 0.3887,
-      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1858
-    }
+    "total": 76
   }
 ]

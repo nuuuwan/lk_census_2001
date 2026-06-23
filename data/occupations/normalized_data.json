@@ -1,7 +1,40 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "legislators-senior-officials-and-managers": 97032,
+      "professionals": 328077,
+      "technicians-and-associate-professionals": 393168,
+      "clerks": 263770,
+      "social-workers-and-shop-and-market-sales-workers": 391852,
+      "skilled-agricultural-and-fishery-workers": 1497501,
+      "craft-and-related-workers": 806326,
+      "plant-and-machine-operators-and-assemblers": 462513,
+      "private-business-owners": 325591,
+      "elementary-occupations": 1096181,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 280578
+    },
+    "total": 5941574
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "legislators-senior-officials-and-managers": 52972,
+      "professionals": 122943,
+      "technicians-and-associate-professionals": 196514,
+      "clerks": 141483,
+      "social-workers-and-shop-and-market-sales-workers": 172926,
+      "skilled-agricultural-and-fishery-workers": 95725,
+      "craft-and-related-workers": 343337,
+      "plant-and-machine-operators-and-assemblers": 240367,
+      "private-business-owners": 121787,
+      "elementary-occupations": 384132,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 97593
+    },
+    "total": 1968165
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "legislators-senior-officials-and-managers": 32495,
       "professionals": 63281,
@@ -15,25 +48,10 @@
       "elementary-occupations": 169318,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 45323
     },
-    "total": 855142,
-    "total_from_source": 855142,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.038,
-      "professionals": 0.074,
-      "technicians-and-associate-professionals": 0.116,
-      "clerks": 0.082,
-      "social-workers-and-shop-and-market-sales-workers": 0.102,
-      "skilled-agricultural-and-fishery-workers": 0.018,
-      "craft-and-related-workers": 0.151,
-      "plant-and-machine-operators-and-assemblers": 0.109,
-      "private-business-owners": 0.06,
-      "elementary-occupations": 0.198,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.053
-    }
+    "total": 855142
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "legislators-senior-officials-and-managers": 15124,
       "professionals": 39322,
@@ -47,25 +65,10 @@
       "elementary-occupations": 145944,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 34785
     },
-    "total": 756186,
-    "total_from_source": 756186,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.02,
-      "professionals": 0.052,
-      "technicians-and-associate-professionals": 0.09,
-      "clerks": 0.067,
-      "social-workers-and-shop-and-market-sales-workers": 0.077,
-      "skilled-agricultural-and-fishery-workers": 0.043,
-      "craft-and-related-workers": 0.204,
-      "plant-and-machine-operators-and-assemblers": 0.146,
-      "private-business-owners": 0.063,
-      "elementary-occupations": 0.193,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.046
-    }
+    "total": 756186
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "legislators-senior-officials-and-managers": 5353,
       "professionals": 20340,
@@ -79,25 +82,27 @@
       "elementary-occupations": 68870,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 17485
     },
-    "total": 356837,
-    "total_from_source": 356837,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.015,
-      "professionals": 0.057,
-      "technicians-and-associate-professionals": 0.082,
-      "clerks": 0.058,
-      "social-workers-and-shop-and-market-sales-workers": 0.077,
-      "skilled-agricultural-and-fishery-workers": 0.134,
-      "craft-and-related-workers": 0.168,
-      "plant-and-machine-operators-and-assemblers": 0.103,
-      "private-business-owners": 0.064,
-      "elementary-occupations": 0.193,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.049
-    }
+    "total": 356837
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "legislators-senior-officials-and-managers": 9802,
+      "professionals": 47007,
+      "technicians-and-associate-professionals": 46164,
+      "clerks": 29063,
+      "social-workers-and-shop-and-market-sales-workers": 56052,
+      "skilled-agricultural-and-fishery-workers": 266978,
+      "craft-and-related-workers": 85148,
+      "plant-and-machine-operators-and-assemblers": 47445,
+      "private-business-owners": 47788,
+      "elementary-occupations": 169346,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 40328
+    },
+    "total": 845279
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "legislators-senior-officials-and-managers": 6113,
       "professionals": 29751,
@@ -111,25 +116,10 @@
       "elementary-occupations": 82733,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 20378
     },
-    "total": 407554,
-    "total_from_source": 407554,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.015,
-      "professionals": 0.073,
-      "technicians-and-associate-professionals": 0.075,
-      "clerks": 0.045,
-      "social-workers-and-shop-and-market-sales-workers": 0.08,
-      "skilled-agricultural-and-fishery-workers": 0.183,
-      "craft-and-related-workers": 0.132,
-      "plant-and-machine-operators-and-assemblers": 0.072,
-      "private-business-owners": 0.072,
-      "elementary-occupations": 0.203,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.05
-    }
+    "total": 407554
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "legislators-senior-officials-and-managers": 1718,
       "professionals": 7965,
@@ -143,25 +133,10 @@
       "elementary-occupations": 27488,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 5310
     },
-    "total": 156179,
-    "total_from_source": 156179,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.011,
-      "professionals": 0.051,
-      "technicians-and-associate-professionals": 0.053,
-      "clerks": 0.029,
-      "social-workers-and-shop-and-market-sales-workers": 0.06,
-      "skilled-agricultural-and-fishery-workers": 0.372,
-      "craft-and-related-workers": 0.107,
-      "plant-and-machine-operators-and-assemblers": 0.051,
-      "private-business-owners": 0.055,
-      "elementary-occupations": 0.176,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.034
-    }
+    "total": 156179
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "legislators-senior-officials-and-managers": 1971,
       "professionals": 9291,
@@ -175,25 +150,27 @@
       "elementary-occupations": 59125,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 14640
     },
-    "total": 281546,
-    "total_from_source": 281546,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.007,
-      "professionals": 0.033,
-      "technicians-and-associate-professionals": 0.026,
-      "clerks": 0.022,
-      "social-workers-and-shop-and-market-sales-workers": 0.05,
-      "skilled-agricultural-and-fishery-workers": 0.477,
-      "craft-and-related-workers": 0.052,
-      "plant-and-machine-operators-and-assemblers": 0.036,
-      "private-business-owners": 0.035,
-      "elementary-occupations": 0.21,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.052
-    }
+    "total": 281546
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "legislators-senior-officials-and-managers": 9654,
+      "professionals": 43526,
+      "technicians-and-associate-professionals": 42608,
+      "clerks": 27041,
+      "social-workers-and-shop-and-market-sales-workers": 37178,
+      "skilled-agricultural-and-fishery-workers": 227940,
+      "craft-and-related-workers": 104443,
+      "plant-and-machine-operators-and-assemblers": 45701,
+      "private-business-owners": 37808,
+      "elementary-occupations": 124258,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 25773
+    },
+    "total": 725778
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "legislators-senior-officials-and-managers": 4780,
       "professionals": 19121,
@@ -207,25 +184,10 @@
       "elementary-occupations": 62143,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 13385
     },
-    "total": 318680,
-    "total_from_source": 318680,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.015,
-      "professionals": 0.06,
-      "technicians-and-associate-professionals": 0.068,
-      "clerks": 0.042,
-      "social-workers-and-shop-and-market-sales-workers": 0.058,
-      "skilled-agricultural-and-fishery-workers": 0.259,
-      "craft-and-related-workers": 0.146,
-      "plant-and-machine-operators-and-assemblers": 0.066,
-      "private-business-owners": 0.05,
-      "elementary-occupations": 0.195,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.042
-    }
+    "total": 318680
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "legislators-senior-officials-and-managers": 3390,
       "professionals": 15499,
@@ -239,25 +201,10 @@
       "elementary-occupations": 41170,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 6781
     },
-    "total": 242175,
-    "total_from_source": 242175,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.014,
-      "professionals": 0.064,
-      "technicians-and-associate-professionals": 0.049,
-      "clerks": 0.038,
-      "social-workers-and-shop-and-market-sales-workers": 0.052,
-      "skilled-agricultural-and-fishery-workers": 0.328,
-      "craft-and-related-workers": 0.137,
-      "plant-and-machine-operators-and-assemblers": 0.061,
-      "private-business-owners": 0.059,
-      "elementary-occupations": 0.17,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.028
-    }
+    "total": 242175
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "legislators-senior-officials-and-managers": 1484,
       "professionals": 8906,
@@ -271,25 +218,10 @@
       "elementary-occupations": 20945,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 5607
     },
-    "total": 164923,
-    "total_from_source": 164923,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.009,
-      "professionals": 0.054,
-      "technicians-and-associate-professionals": 0.055,
-      "clerks": 0.027,
-      "social-workers-and-shop-and-market-sales-workers": 0.037,
-      "skilled-agricultural-and-fishery-workers": 0.4,
-      "craft-and-related-workers": 0.15,
-      "plant-and-machine-operators-and-assemblers": 0.06,
-      "private-business-owners": 0.046,
-      "elementary-occupations": 0.127,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.034
-    }
+    "total": 164923
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "legislators-senior-officials-and-managers": 1461,
       "professionals": 9577,
@@ -303,25 +235,44 @@
       "elementary-occupations": 31004,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 8603
     },
-    "total": 162322,
-    "total_from_source": 162322,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.009,
-      "professionals": 0.059,
-      "technicians-and-associate-professionals": 0.038,
-      "clerks": 0.03,
-      "social-workers-and-shop-and-market-sales-workers": 0.078,
-      "skilled-agricultural-and-fishery-workers": 0.355,
-      "craft-and-related-workers": 0.085,
-      "plant-and-machine-operators-and-assemblers": 0.042,
-      "private-business-owners": 0.06,
-      "elementary-occupations": 0.191,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.053
-    }
+    "total": 162322
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "legislators-senior-officials-and-managers": 1461,
+      "professionals": 9577,
+      "technicians-and-associate-professionals": 6168,
+      "clerks": 4870,
+      "social-workers-and-shop-and-market-sales-workers": 12661,
+      "skilled-agricultural-and-fishery-workers": 57624,
+      "craft-and-related-workers": 13797,
+      "plant-and-machine-operators-and-assemblers": 6818,
+      "private-business-owners": 9739,
+      "elementary-occupations": 31004,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 8603
+    },
+    "total": 162322
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "legislators-senior-officials-and-managers": 9442,
+      "professionals": 37477,
+      "technicians-and-associate-professionals": 36734,
+      "clerks": 22375,
+      "social-workers-and-shop-and-market-sales-workers": 37547,
+      "skilled-agricultural-and-fishery-workers": 208491,
+      "craft-and-related-workers": 118473,
+      "plant-and-machine-operators-and-assemblers": 49276,
+      "private-business-owners": 47907,
+      "elementary-occupations": 145866,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 29933
+    },
+    "total": 743978
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "legislators-senior-officials-and-managers": 6689,
       "professionals": 28300,
@@ -335,25 +286,10 @@
       "elementary-occupations": 86445,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 20068
     },
-    "total": 514553,
-    "total_from_source": 514553,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.013,
-      "professionals": 0.055,
-      "technicians-and-associate-professionals": 0.054,
-      "clerks": 0.031,
-      "social-workers-and-shop-and-market-sales-workers": 0.048,
-      "skilled-agricultural-and-fishery-workers": 0.312,
-      "craft-and-related-workers": 0.154,
-      "plant-and-machine-operators-and-assemblers": 0.065,
-      "private-business-owners": 0.061,
-      "elementary-occupations": 0.168,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.039
-    }
+    "total": 514553
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "legislators-senior-officials-and-managers": 2753,
       "professionals": 9177,
@@ -367,25 +303,27 @@
       "elementary-occupations": 59421,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 9865
     },
-    "total": 229425,
-    "total_from_source": 229425,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.012,
-      "professionals": 0.04,
-      "technicians-and-associate-professionals": 0.039,
-      "clerks": 0.028,
-      "social-workers-and-shop-and-market-sales-workers": 0.056,
-      "skilled-agricultural-and-fishery-workers": 0.209,
-      "craft-and-related-workers": 0.171,
-      "plant-and-machine-operators-and-assemblers": 0.069,
-      "private-business-owners": 0.072,
-      "elementary-occupations": 0.259,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.043
-    }
+    "total": 229425
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "legislators-senior-officials-and-managers": 3520,
+      "professionals": 17796,
+      "technicians-and-associate-professionals": 13544,
+      "clerks": 9887,
+      "social-workers-and-shop-and-market-sales-workers": 26243,
+      "skilled-agricultural-and-fishery-workers": 215741,
+      "craft-and-related-workers": 29899,
+      "plant-and-machine-operators-and-assemblers": 15212,
+      "private-business-owners": 17052,
+      "elementary-occupations": 42481,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 31224
+    },
+    "total": 422884
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "legislators-senior-officials-and-managers": 2286,
       "professionals": 12861,
@@ -399,25 +337,10 @@
       "elementary-occupations": 26580,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 19435
     },
-    "total": 285806,
-    "total_from_source": 285806,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.008,
-      "professionals": 0.045,
-      "technicians-and-associate-professionals": 0.033,
-      "clerks": 0.025,
-      "social-workers-and-shop-and-market-sales-workers": 0.064,
-      "skilled-agricultural-and-fishery-workers": 0.516,
-      "craft-and-related-workers": 0.072,
-      "plant-and-machine-operators-and-assemblers": 0.035,
-      "private-business-owners": 0.04,
-      "elementary-occupations": 0.093,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.068
-    }
+    "total": 285806
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "legislators-senior-officials-and-managers": 1234,
       "professionals": 4935,
@@ -431,25 +354,27 @@
       "elementary-occupations": 15901,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 11789
     },
-    "total": 137078,
-    "total_from_source": 137078,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.009,
-      "professionals": 0.036,
-      "technicians-and-associate-professionals": 0.03,
-      "clerks": 0.02,
-      "social-workers-and-shop-and-market-sales-workers": 0.058,
-      "skilled-agricultural-and-fishery-workers": 0.498,
-      "craft-and-related-workers": 0.068,
-      "plant-and-machine-operators-and-assemblers": 0.038,
-      "private-business-owners": 0.041,
-      "elementary-occupations": 0.116,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.086
-    }
+    "total": 137078
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "legislators-senior-officials-and-managers": 3954,
+      "professionals": 20350,
+      "technicians-and-associate-professionals": 16690,
+      "clerks": 10836,
+      "social-workers-and-shop-and-market-sales-workers": 18147,
+      "skilled-agricultural-and-fishery-workers": 229040,
+      "craft-and-related-workers": 25601,
+      "plant-and-machine-operators-and-assemblers": 14920,
+      "private-business-owners": 16815,
+      "elementary-occupations": 61092,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 21672
+    },
+    "total": 438823
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "legislators-senior-officials-and-managers": 2942,
       "professionals": 14711,
@@ -463,25 +388,10 @@
       "elementary-occupations": 46487,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 15888
     },
-    "total": 294223,
-    "total_from_source": 294223,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.01,
-      "professionals": 0.05,
-      "technicians-and-associate-professionals": 0.041,
-      "clerks": 0.027,
-      "social-workers-and-shop-and-market-sales-workers": 0.043,
-      "skilled-agricultural-and-fishery-workers": 0.488,
-      "craft-and-related-workers": 0.059,
-      "plant-and-machine-operators-and-assemblers": 0.034,
-      "private-business-owners": 0.037,
-      "elementary-occupations": 0.158,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.054
-    }
+    "total": 294223
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "legislators-senior-officials-and-managers": 1012,
       "professionals": 5639,
@@ -495,25 +405,27 @@
       "elementary-occupations": 14605,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 5784
     },
-    "total": 144600,
-    "total_from_source": 144600,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.007,
-      "professionals": 0.039,
-      "technicians-and-associate-professionals": 0.032,
-      "clerks": 0.02,
-      "social-workers-and-shop-and-market-sales-workers": 0.038,
-      "skilled-agricultural-and-fishery-workers": 0.591,
-      "craft-and-related-workers": 0.057,
-      "plant-and-machine-operators-and-assemblers": 0.034,
-      "private-business-owners": 0.041,
-      "elementary-occupations": 0.101,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.04
-    }
+    "total": 144600
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "legislators-senior-officials-and-managers": 6227,
+      "professionals": 29401,
+      "technicians-and-associate-professionals": 34746,
+      "clerks": 18215,
+      "social-workers-and-shop-and-market-sales-workers": 31098,
+      "skilled-agricultural-and-fishery-workers": 195962,
+      "craft-and-related-workers": 85628,
+      "plant-and-machine-operators-and-assemblers": 42774,
+      "private-business-owners": 26695,
+      "elementary-occupations": 138002,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": 25452
+    },
+    "total": 634345
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "legislators-senior-officials-and-managers": 3378,
       "professionals": 14639,
@@ -527,25 +439,10 @@
       "elementary-occupations": 82580,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 12762
     },
-    "total": 375365,
-    "total_from_source": 375365,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.009,
-      "professionals": 0.039,
-      "technicians-and-associate-professionals": 0.056,
-      "clerks": 0.023,
-      "social-workers-and-shop-and-market-sales-workers": 0.038,
-      "skilled-agricultural-and-fishery-workers": 0.382,
-      "craft-and-related-workers": 0.106,
-      "plant-and-machine-operators-and-assemblers": 0.056,
-      "private-business-owners": 0.038,
-      "elementary-occupations": 0.22,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.034
-    }
+    "total": 375365
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "legislators-senior-officials-and-managers": 2849,
       "professionals": 14762,
@@ -559,20 +456,6 @@
       "elementary-occupations": 55422,
       "armed-forces-and-workers-not-identifiable-or-inadequate": 12690
     },
-    "total": 258980,
-    "total_from_source": 258980,
-    "pct_values": {
-      "legislators-senior-officials-and-managers": 0.011,
-      "professionals": 0.057,
-      "technicians-and-associate-professionals": 0.053,
-      "clerks": 0.037,
-      "social-workers-and-shop-and-market-sales-workers": 0.065,
-      "skilled-agricultural-and-fishery-workers": 0.203,
-      "craft-and-related-workers": 0.177,
-      "plant-and-machine-operators-and-assemblers": 0.084,
-      "private-business-owners": 0.048,
-      "elementary-occupations": 0.214,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 0.049
-    }
+    "total": 258980
   }
 ]

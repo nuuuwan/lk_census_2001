@@ -55,26 +55,57 @@ class OriginalDocNormalizedDataMixin:
                 + f" {total} != {total_from_source}"
             )
 
-        pct_values = {k: round(v / total, 4) for k, v in values.items()}
-
         return dict(
             region_id=row["region_id"],
             region_name=row["region_name"],
             values=values,
             total=total,
-            total_from_source=total_from_source,
-            pct_values=pct_values,
         )
+
+    def expand_data_list(self, data_list):
+        parent_id_to_data_list = {}
+        for ent_type, id_len in [
+            ("country", 2),
+            ("province", 4),
+            ("district", 5),
+        ]:
+            for data in data_list:
+                parent_id = data["region_id"][:id_len]
+                if parent_id not in parent_id_to_data_list:
+                    parent_id_to_data_list[parent_id] = []
+                parent_id_to_data_list[parent_id].append(data)
+
+        expanded_data_list = []
+        for parent_id, data_list_for_parent in parent_id_to_data_list.items():
+
+            values = {}
+            for data in data_list_for_parent:
+                for k, v in data["values"].items():
+                    if k not in values:
+                        values[k] = 0
+                    values[k] += v
+            values = {k: int(round(v, 0)) for k, v in values.items()}
+            total = int(
+                round(sum(data["total"] for data in data_list_for_parent), 0)
+            )
+
+            expanded_data = dict(
+                region_id=parent_id, values=values, total=total
+            )
+            expanded_data_list.append(expanded_data)
+        expanded_data_list.sort(key=lambda x: x["region_id"])
+        return expanded_data_list
 
     def build_normalized_by_region(self, data_list):
         normalized_data_list = [self.normalize_row(row) for row in data_list]
         normalized_data_list = [
             row for row in normalized_data_list if row is not None
         ]
+        expanded_data_list = self.expand_data_list(normalized_data_list)
         normalized_data_file = JSONFile(self.normalized_data_path)
-        normalized_data_file.write(normalized_data_list)
+        normalized_data_file.write(expanded_data_list)
         log.debug(
-            f"Wrote {len(normalized_data_list)} rows to {normalized_data_file}"
+            f"Wrote {len(expanded_data_list)} rows to {normalized_data_file}"
         )
         return normalized_data_list
 

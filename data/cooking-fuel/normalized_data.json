@@ -1,290 +1,245 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "firewood": 3242693,
+      "lp-gas": 600110,
+      "kerosene": 123777
+    },
+    "total": 3966580
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "firewood": 693581,
+      "lp-gas": 398824,
+      "kerosene": 100357
+    },
+    "total": 1192762
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "firewood": 167171,
       "lp-gas": 238322,
       "kerosene": 67194
     },
-    "total": 472687,
-    "total_from_source": 493085,
-    "pct_values": {
-      "firewood": 0.3537,
-      "lp-gas": 0.5042,
-      "kerosene": 0.1422
-    }
+    "total": 472687
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "firewood": 325498,
       "lp-gas": 118810,
       "kerosene": 29492
     },
-    "total": 473800,
-    "total_from_source": 487184,
-    "pct_values": {
-      "firewood": 0.687,
-      "lp-gas": 0.2508,
-      "kerosene": 0.0622
-    }
+    "total": 473800
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "firewood": 200912,
       "lp-gas": 41692,
       "kerosene": 3671
     },
-    "total": 246275,
-    "total_from_source": 250939,
-    "pct_values": {
-      "firewood": 0.8158,
-      "lp-gas": 0.1693,
-      "kerosene": 0.0149
-    }
+    "total": 246275
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "firewood": 498756,
+      "lp-gas": 60140,
+      "kerosene": 8311
+    },
+    "total": 567207
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "firewood": 248519,
       "lp-gas": 41399,
       "kerosene": 3954
     },
-    "total": 293872,
-    "total_from_source": 299870,
-    "pct_values": {
-      "firewood": 0.8457,
-      "lp-gas": 0.1409,
-      "kerosene": 0.0135
-    }
+    "total": 293872
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "firewood": 102081,
       "lp-gas": 6897,
       "kerosene": 631
     },
-    "total": 109609,
-    "total_from_source": 110886,
-    "pct_values": {
-      "firewood": 0.9313,
-      "lp-gas": 0.0629,
-      "kerosene": 0.0058
-    }
+    "total": 109609
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "firewood": 148156,
       "lp-gas": 11844,
       "kerosene": 3726
     },
-    "total": 163726,
-    "total_from_source": 169540,
-    "pct_values": {
-      "firewood": 0.9049,
-      "lp-gas": 0.0723,
-      "kerosene": 0.0228
-    }
+    "total": 163726
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "firewood": 479527,
+      "lp-gas": 48856,
+      "kerosene": 3501
+    },
+    "total": 531884
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "firewood": 200988,
       "lp-gas": 26750,
       "kerosene": 2002
     },
-    "total": 229740,
-    "total_from_source": 233027,
-    "pct_values": {
-      "firewood": 0.8748,
-      "lp-gas": 0.1164,
-      "kerosene": 0.0087
-    }
+    "total": 229740
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "firewood": 158039,
       "lp-gas": 16407,
       "kerosene": 1070
     },
-    "total": 175516,
-    "total_from_source": 177613,
-    "pct_values": {
-      "firewood": 0.9004,
-      "lp-gas": 0.0935,
-      "kerosene": 0.0061
-    }
+    "total": 175516
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "firewood": 120500,
       "lp-gas": 5699,
       "kerosene": 429
     },
-    "total": 126628,
-    "total_from_source": 128008,
-    "pct_values": {
-      "firewood": 0.9516,
-      "lp-gas": 0.045,
-      "kerosene": 0.0034
-    }
+    "total": 126628
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "firewood": 118468,
       "lp-gas": 10953,
       "kerosene": 2718
     },
-    "total": 132139,
-    "total_from_source": 137741,
-    "pct_values": {
-      "firewood": 0.8965,
-      "lp-gas": 0.0829,
-      "kerosene": 0.0206
-    }
+    "total": 132139
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "firewood": 118468,
+      "lp-gas": 10953,
+      "kerosene": 2718
+    },
+    "total": 132139
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "firewood": 514716,
+      "lp-gas": 30444,
+      "kerosene": 4445
+    },
+    "total": 549605
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "firewood": 358604,
       "lp-gas": 16381,
       "kerosene": 986
     },
-    "total": 375971,
-    "total_from_source": 380213,
-    "pct_values": {
-      "firewood": 0.9538,
-      "lp-gas": 0.0436,
-      "kerosene": 0.0026
-    }
+    "total": 375971
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "firewood": 156112,
       "lp-gas": 14063,
       "kerosene": 3459
     },
-    "total": 173634,
-    "total_from_source": 176544,
-    "pct_values": {
-      "firewood": 0.8991,
-      "lp-gas": 0.081,
-      "kerosene": 0.0199
-    }
+    "total": 173634
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "firewood": 261474,
+      "lp-gas": 14202,
+      "kerosene": 1249
+    },
+    "total": 276925
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "firewood": 175422,
       "lp-gas": 10532,
       "kerosene": 884
     },
-    "total": 186838,
-    "total_from_source": 189699,
-    "pct_values": {
-      "firewood": 0.9389,
-      "lp-gas": 0.0564,
-      "kerosene": 0.0047
-    }
+    "total": 186838
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "firewood": 86052,
       "lp-gas": 3670,
       "kerosene": 365
     },
-    "total": 90087,
-    "total_from_source": 91718,
-    "pct_values": {
-      "firewood": 0.9552,
-      "lp-gas": 0.0407,
-      "kerosene": 0.0041
-    }
+    "total": 90087
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "firewood": 264669,
+      "lp-gas": 14522,
+      "kerosene": 1502
+    },
+    "total": 280693
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "firewood": 172447,
       "lp-gas": 11999,
       "kerosene": 1248
     },
-    "total": 185694,
-    "total_from_source": 189925,
-    "pct_values": {
-      "firewood": 0.9287,
-      "lp-gas": 0.0646,
-      "kerosene": 0.0067
-    }
+    "total": 185694
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "firewood": 92222,
       "lp-gas": 2523,
       "kerosene": 254
     },
-    "total": 94999,
-    "total_from_source": 96598,
-    "pct_values": {
-      "firewood": 0.9708,
-      "lp-gas": 0.0266,
-      "kerosene": 0.0027
-    }
+    "total": 94999
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "firewood": 411502,
+      "lp-gas": 22169,
+      "kerosene": 1694
+    },
+    "total": 435365
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "firewood": 228272,
       "lp-gas": 12814,
       "kerosene": 1075
     },
-    "total": 242161,
-    "total_from_source": 245743,
-    "pct_values": {
-      "firewood": 0.9426,
-      "lp-gas": 0.0529,
-      "kerosene": 0.0044
-    }
+    "total": 242161
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "firewood": 183230,
       "lp-gas": 9355,
       "kerosene": 619
     },
-    "total": 193204,
-    "total_from_source": 195853,
-    "pct_values": {
-      "firewood": 0.9484,
-      "lp-gas": 0.0484,
-      "kerosene": 0.0032
-    }
+    "total": 193204
   }
 ]

@@ -1,7 +1,28 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "government-employees": 770309,
+      "semi-government-employees": 300878,
+      "private-sector-employees-and-employers": 2798478,
+      "own-account-workers": 1627342,
+      "unpaid-family-workers": 445591
+    },
+    "total": 5941574
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "government-employees": 262869,
+      "semi-government-employees": 104985,
+      "private-sector-employees-and-employers": 1214793,
+      "own-account-workers": 343370,
+      "unpaid-family-workers": 42507
+    },
+    "total": 1968165
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "government-employees": 123996,
       "semi-government-employees": 45323,
@@ -9,19 +30,10 @@
       "own-account-workers": 131692,
       "unpaid-family-workers": 14537
     },
-    "total": 855142,
-    "total_from_source": 855142,
-    "pct_values": {
-      "government-employees": 0.145,
-      "semi-government-employees": 0.053,
-      "private-sector-employees-and-employers": 0.631,
-      "own-account-workers": 0.154,
-      "unpaid-family-workers": 0.017
-    }
+    "total": 855142
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "government-employees": 89986,
       "semi-government-employees": 39322,
@@ -29,19 +41,10 @@
       "own-account-workers": 134601,
       "unpaid-family-workers": 15124
     },
-    "total": 756186,
-    "total_from_source": 756186,
-    "pct_values": {
-      "government-employees": 0.119,
-      "semi-government-employees": 0.052,
-      "private-sector-employees-and-employers": 0.631,
-      "own-account-workers": 0.178,
-      "unpaid-family-workers": 0.02
-    }
+    "total": 756186
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "government-employees": 48887,
       "semi-government-employees": 20340,
@@ -49,19 +52,21 @@
       "own-account-workers": 77077,
       "unpaid-family-workers": 12846
     },
-    "total": 356837,
-    "total_from_source": 356837,
-    "pct_values": {
-      "government-employees": 0.137,
-      "semi-government-employees": 0.057,
-      "private-sector-employees-and-employers": 0.555,
-      "own-account-workers": 0.216,
-      "unpaid-family-workers": 0.036
-    }
+    "total": 356837
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "government-employees": 107320,
+      "semi-government-employees": 73568,
+      "private-sector-employees-and-employers": 398968,
+      "own-account-workers": 205656,
+      "unpaid-family-workers": 59923
+    },
+    "total": 845279
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "government-employees": 66024,
       "semi-government-employees": 30159,
@@ -69,19 +74,10 @@
       "own-account-workers": 98628,
       "unpaid-family-workers": 22008
     },
-    "total": 407554,
-    "total_from_source": 407554,
-    "pct_values": {
-      "government-employees": 0.162,
-      "semi-government-employees": 0.074,
-      "private-sector-employees-and-employers": 0.467,
-      "own-account-workers": 0.242,
-      "unpaid-family-workers": 0.054
-    }
+    "total": 407554
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "government-employees": 19054,
       "semi-government-employees": 7653,
@@ -89,19 +85,10 @@
       "own-account-workers": 56068,
       "unpaid-family-workers": 20459
     },
-    "total": 156179,
-    "total_from_source": 156179,
-    "pct_values": {
-      "government-employees": 0.122,
-      "semi-government-employees": 0.049,
-      "private-sector-employees-and-employers": 0.339,
-      "own-account-workers": 0.359,
-      "unpaid-family-workers": 0.131
-    }
+    "total": 156179
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "government-employees": 22242,
       "semi-government-employees": 35756,
@@ -109,19 +96,21 @@
       "own-account-workers": 50960,
       "unpaid-family-workers": 17456
     },
-    "total": 281546,
-    "total_from_source": 281546,
-    "pct_values": {
-      "government-employees": 0.079,
-      "semi-government-employees": 0.127,
-      "private-sector-employees-and-employers": 0.553,
-      "own-account-workers": 0.181,
-      "unpaid-family-workers": 0.062
-    }
+    "total": 281546
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "government-employees": 96636,
+      "semi-government-employees": 29817,
+      "private-sector-employees-and-employers": 305862,
+      "own-account-workers": 232475,
+      "unpaid-family-workers": 61308
+    },
+    "total": 725778
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "government-employees": 44615,
       "semi-government-employees": 11472,
@@ -129,19 +118,10 @@
       "own-account-workers": 79989,
       "unpaid-family-workers": 24220
     },
-    "total": 318680,
-    "total_from_source": 318680,
-    "pct_values": {
-      "government-employees": 0.14,
-      "semi-government-employees": 0.036,
-      "private-sector-employees-and-employers": 0.498,
-      "own-account-workers": 0.251,
-      "unpaid-family-workers": 0.076
-    }
+    "total": 318680
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "government-employees": 31241,
       "semi-government-employees": 13562,
@@ -149,19 +129,10 @@
       "own-account-workers": 72168,
       "unpaid-family-workers": 20101
     },
-    "total": 242175,
-    "total_from_source": 242175,
-    "pct_values": {
-      "government-employees": 0.129,
-      "semi-government-employees": 0.056,
-      "private-sector-employees-and-employers": 0.434,
-      "own-account-workers": 0.298,
-      "unpaid-family-workers": 0.083
-    }
+    "total": 242175
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "government-employees": 20780,
       "semi-government-employees": 4783,
@@ -169,19 +140,10 @@
       "own-account-workers": 80318,
       "unpaid-family-workers": 16987
     },
-    "total": 164923,
-    "total_from_source": 164923,
-    "pct_values": {
-      "government-employees": 0.126,
-      "semi-government-employees": 0.029,
-      "private-sector-employees-and-employers": 0.255,
-      "own-account-workers": 0.487,
-      "unpaid-family-workers": 0.103
-    }
+    "total": 164923
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "government-employees": 28569,
       "semi-government-employees": 4220,
@@ -189,19 +151,32 @@
       "own-account-workers": 64929,
       "unpaid-family-workers": 13960
     },
-    "total": 162322,
-    "total_from_source": 162322,
-    "pct_values": {
-      "government-employees": 0.176,
-      "semi-government-employees": 0.026,
-      "private-sector-employees-and-employers": 0.313,
-      "own-account-workers": 0.4,
-      "unpaid-family-workers": 0.086
-    }
+    "total": 162322
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "government-employees": 28569,
+      "semi-government-employees": 4220,
+      "private-sector-employees-and-employers": 50807,
+      "own-account-workers": 64929,
+      "unpaid-family-workers": 13960
+    },
+    "total": 162322
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "government-employees": 87540,
+      "semi-government-employees": 21916,
+      "private-sector-employees-and-employers": 315316,
+      "own-account-workers": 253880,
+      "unpaid-family-workers": 65326
+    },
+    "total": 743978
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "government-employees": 66892,
       "semi-government-employees": 15951,
@@ -209,19 +184,10 @@
       "own-account-workers": 189870,
       "unpaid-family-workers": 54543
     },
-    "total": 514553,
-    "total_from_source": 514553,
-    "pct_values": {
-      "government-employees": 0.13,
-      "semi-government-employees": 0.031,
-      "private-sector-employees-and-employers": 0.364,
-      "own-account-workers": 0.369,
-      "unpaid-family-workers": 0.106
-    }
+    "total": 514553
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "government-employees": 20648,
       "semi-government-employees": 5965,
@@ -229,19 +195,21 @@
       "own-account-workers": 64010,
       "unpaid-family-workers": 10783
     },
-    "total": 229425,
-    "total_from_source": 229425,
-    "pct_values": {
-      "government-employees": 0.09,
-      "semi-government-employees": 0.026,
-      "private-sector-employees-and-employers": 0.558,
-      "own-account-workers": 0.279,
-      "unpaid-family-workers": 0.047
-    }
+    "total": 229425
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "government-employees": 68577,
+      "semi-government-employees": 10024,
+      "private-sector-employees-and-employers": 78129,
+      "own-account-workers": 185690,
+      "unpaid-family-workers": 80601
+    },
+    "total": 422884
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "government-employees": 48015,
       "semi-government-employees": 7145,
@@ -249,19 +217,10 @@
       "own-account-workers": 123182,
       "unpaid-family-workers": 57161
     },
-    "total": 285806,
-    "total_from_source": 285806,
-    "pct_values": {
-      "government-employees": 0.168,
-      "semi-government-employees": 0.025,
-      "private-sector-employees-and-employers": 0.176,
-      "own-account-workers": 0.431,
-      "unpaid-family-workers": 0.2
-    }
+    "total": 285806
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "government-employees": 20562,
       "semi-government-employees": 2879,
@@ -269,19 +228,21 @@
       "own-account-workers": 62508,
       "unpaid-family-workers": 23440
     },
-    "total": 137078,
-    "total_from_source": 137078,
-    "pct_values": {
-      "government-employees": 0.15,
-      "semi-government-employees": 0.021,
-      "private-sector-employees-and-employers": 0.203,
-      "own-account-workers": 0.456,
-      "unpaid-family-workers": 0.171
-    }
+    "total": 137078
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "government-employees": 51956,
+      "semi-government-employees": 23452,
+      "private-sector-employees-and-employers": 126553,
+      "own-account-workers": 160054,
+      "unpaid-family-workers": 76957
+    },
+    "total": 438823
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "government-employees": 36484,
       "semi-government-employees": 18536,
@@ -289,19 +250,10 @@
       "own-account-workers": 92092,
       "unpaid-family-workers": 44133
     },
-    "total": 294223,
-    "total_from_source": 294223,
-    "pct_values": {
-      "government-employees": 0.124,
-      "semi-government-employees": 0.063,
-      "private-sector-employees-and-employers": 0.351,
-      "own-account-workers": 0.313,
-      "unpaid-family-workers": 0.15
-    }
+    "total": 294223
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "government-employees": 15472,
       "semi-government-employees": 4916,
@@ -309,19 +261,21 @@
       "own-account-workers": 67962,
       "unpaid-family-workers": 32824
     },
-    "total": 144600,
-    "total_from_source": 144600,
-    "pct_values": {
-      "government-employees": 0.107,
-      "semi-government-employees": 0.034,
-      "private-sector-employees-and-employers": 0.161,
-      "own-account-workers": 0.47,
-      "unpaid-family-workers": 0.227
-    }
+    "total": 144600
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "government-employees": 66842,
+      "semi-government-employees": 32896,
+      "private-sector-employees-and-employers": 308050,
+      "own-account-workers": 181288,
+      "unpaid-family-workers": 45009
+    },
+    "total": 634345
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "government-employees": 32657,
       "semi-government-employees": 18393,
@@ -329,19 +283,10 @@
       "own-account-workers": 118615,
       "unpaid-family-workers": 34909
     },
-    "total": 375365,
-    "total_from_source": 375365,
-    "pct_values": {
-      "government-employees": 0.087,
-      "semi-government-employees": 0.049,
-      "private-sector-employees-and-employers": 0.455,
-      "own-account-workers": 0.316,
-      "unpaid-family-workers": 0.093
-    }
+    "total": 375365
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "government-employees": 34185,
       "semi-government-employees": 14503,
@@ -349,14 +294,6 @@
       "own-account-workers": 62673,
       "unpaid-family-workers": 10100
     },
-    "total": 258980,
-    "total_from_source": 258980,
-    "pct_values": {
-      "government-employees": 0.132,
-      "semi-government-employees": 0.056,
-      "private-sector-employees-and-employers": 0.53,
-      "own-account-workers": 0.242,
-      "unpaid-family-workers": 0.039
-    }
+    "total": 258980
   }
 ]

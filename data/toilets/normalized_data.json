@@ -1,290 +1,245 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "using-toilets-exclusively": 3196227,
+      "hygienic-toilets": 2685915,
+      "not-using-toilet": 177959
+    },
+    "total": 6060101
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "using-toilets-exclusively": 967812,
+      "hygienic-toilets": 955692,
+      "not-using-toilet": 9716
+    },
+    "total": 1933220
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "using-toilets-exclusively": 370456,
       "hygienic-toilets": 381191,
       "not-using-toilet": 1411
     },
-    "total": 753058,
-    "total_from_source": 493085,
-    "pct_values": {
-      "using-toilets-exclusively": 0.4919,
-      "hygienic-toilets": 0.5062,
-      "not-using-toilet": 0.0019
-    }
+    "total": 753058
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "using-toilets-exclusively": 391309,
       "hygienic-toilets": 378507,
       "not-using-toilet": 3912
     },
-    "total": 773728,
-    "total_from_source": 487184,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5057,
-      "hygienic-toilets": 0.4892,
-      "not-using-toilet": 0.0051
-    }
+    "total": 773728
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "using-toilets-exclusively": 206047,
       "hygienic-toilets": 195994,
       "not-using-toilet": 4393
     },
-    "total": 406434,
-    "total_from_source": 250939,
-    "pct_values": {
-      "using-toilets-exclusively": 0.507,
-      "hygienic-toilets": 0.4822,
-      "not-using-toilet": 0.0108
-    }
+    "total": 406434
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "using-toilets-exclusively": 445684,
+      "hygienic-toilets": 315299,
+      "not-using-toilet": 28930
+    },
+    "total": 789913
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "using-toilets-exclusively": 246132,
       "hygienic-toilets": 193425,
       "not-using-toilet": 7022
     },
-    "total": 446579,
-    "total_from_source": 299870,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5511,
-      "hygienic-toilets": 0.4331,
-      "not-using-toilet": 0.0157
-    }
+    "total": 446579
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "using-toilets-exclusively": 89229,
       "hygienic-toilets": 51884,
       "not-using-toilet": 3169
     },
-    "total": 144282,
-    "total_from_source": 110886,
-    "pct_values": {
-      "using-toilets-exclusively": 0.6184,
-      "hygienic-toilets": 0.3596,
-      "not-using-toilet": 0.022
-    }
+    "total": 144282
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "using-toilets-exclusively": 110323,
       "hygienic-toilets": 69990,
       "not-using-toilet": 18739
     },
-    "total": 199052,
-    "total_from_source": 169540,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5542,
-      "hygienic-toilets": 0.3516,
-      "not-using-toilet": 0.0941
-    }
+    "total": 199052
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "using-toilets-exclusively": 450385,
+      "hygienic-toilets": 389687,
+      "not-using-toilet": 11303
+    },
+    "total": 851375
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "using-toilets-exclusively": 191922,
       "hygienic-toilets": 173003,
       "not-using-toilet": 6435
     },
-    "total": 371360,
-    "total_from_source": 233027,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5168,
-      "hygienic-toilets": 0.4659,
-      "not-using-toilet": 0.0173
-    }
+    "total": 371360
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "using-toilets-exclusively": 151140,
       "hygienic-toilets": 142459,
       "not-using-toilet": 2000
     },
-    "total": 295599,
-    "total_from_source": 177613,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5113,
-      "hygienic-toilets": 0.4819,
-      "not-using-toilet": 0.0068
-    }
+    "total": 295599
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "using-toilets-exclusively": 107323,
       "hygienic-toilets": 74225,
       "not-using-toilet": 2868
     },
-    "total": 184416,
-    "total_from_source": 128008,
-    "pct_values": {
-      "using-toilets-exclusively": 0.582,
-      "hygienic-toilets": 0.4025,
-      "not-using-toilet": 0.0156
-    }
+    "total": 184416
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "using-toilets-exclusively": 92019,
       "hygienic-toilets": 68048,
       "not-using-toilet": 27657
     },
-    "total": 187724,
-    "total_from_source": 137741,
-    "pct_values": {
-      "using-toilets-exclusively": 0.4902,
-      "hygienic-toilets": 0.3625,
-      "not-using-toilet": 0.1473
-    }
+    "total": 187724
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "using-toilets-exclusively": 92019,
+      "hygienic-toilets": 68048,
+      "not-using-toilet": 27657
+    },
+    "total": 187724
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "using-toilets-exclusively": 427448,
+      "hygienic-toilets": 381721,
+      "not-using-toilet": 45643
+    },
+    "total": 854812
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "using-toilets-exclusively": 300982,
       "hygienic-toilets": 261217,
       "not-using-toilet": 24156
     },
-    "total": 586355,
-    "total_from_source": 380213,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5133,
-      "hygienic-toilets": 0.4455,
-      "not-using-toilet": 0.0412
-    }
+    "total": 586355
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "using-toilets-exclusively": 126466,
       "hygienic-toilets": 120504,
       "not-using-toilet": 21487
     },
-    "total": 268457,
-    "total_from_source": 176544,
-    "pct_values": {
-      "using-toilets-exclusively": 0.4711,
-      "hygienic-toilets": 0.4489,
-      "not-using-toilet": 0.08
-    }
+    "total": 268457
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "using-toilets-exclusively": 211037,
+      "hygienic-toilets": 139932,
+      "not-using-toilet": 29839
+    },
+    "total": 380808
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "using-toilets-exclusively": 138832,
       "hygienic-toilets": 90923,
       "not-using-toilet": 24046
     },
-    "total": 253801,
-    "total_from_source": 189699,
-    "pct_values": {
-      "using-toilets-exclusively": 0.547,
-      "hygienic-toilets": 0.3582,
-      "not-using-toilet": 0.0947
-    }
+    "total": 253801
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "using-toilets-exclusively": 72205,
       "hygienic-toilets": 49009,
       "not-using-toilet": 5793
     },
-    "total": 127007,
-    "total_from_source": 91718,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5685,
-      "hygienic-toilets": 0.3859,
-      "not-using-toilet": 0.0456
-    }
+    "total": 127007
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "using-toilets-exclusively": 233910,
+      "hygienic-toilets": 145801,
+      "not-using-toilet": 12744
+    },
+    "total": 392455
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "using-toilets-exclusively": 151381,
       "hygienic-toilets": 103370,
       "not-using-toilet": 7269
     },
-    "total": 262020,
-    "total_from_source": 189925,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5777,
-      "hygienic-toilets": 0.3945,
-      "not-using-toilet": 0.0277
-    }
+    "total": 262020
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "using-toilets-exclusively": 82529,
       "hygienic-toilets": 42431,
       "not-using-toilet": 5475
     },
-    "total": 130435,
-    "total_from_source": 96598,
-    "pct_values": {
-      "using-toilets-exclusively": 0.6327,
-      "hygienic-toilets": 0.3253,
-      "not-using-toilet": 0.042
-    }
+    "total": 130435
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "using-toilets-exclusively": 367932,
+      "hygienic-toilets": 289735,
+      "not-using-toilet": 12127
+    },
+    "total": 669794
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "using-toilets-exclusively": 201370,
       "hygienic-toilets": 160909,
       "not-using-toilet": 7212
     },
-    "total": 369491,
-    "total_from_source": 245743,
-    "pct_values": {
-      "using-toilets-exclusively": 0.545,
-      "hygienic-toilets": 0.4355,
-      "not-using-toilet": 0.0195
-    }
+    "total": 369491
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "using-toilets-exclusively": 166562,
       "hygienic-toilets": 128826,
       "not-using-toilet": 4915
     },
-    "total": 300303,
-    "total_from_source": 195853,
-    "pct_values": {
-      "using-toilets-exclusively": 0.5546,
-      "hygienic-toilets": 0.429,
-      "not-using-toilet": 0.0164
-    }
+    "total": 300303
   }
 ]

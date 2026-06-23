@@ -1,290 +1,245 @@
 [
   {
-    "region_id": "LK-11",
-    "region_name": "Colombo",
+    "region_id": "LK",
     "values": {
-      "urban-rate": 2.3,
-      "rural-rate": 2.2,
-      "estate-rate": 2.8
+      "urban-rate": 41,
+      "rural-rate": 53,
+      "estate-rate": 47
     },
-    "total": 7.3,
-    "total_from_source": 2.3,
-    "pct_values": {
-      "urban-rate": 0.3151,
-      "rural-rate": 0.3014,
-      "estate-rate": 0.3836
-    }
+    "total": 142
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "urban-rate": 7,
+      "rural-rate": 7,
+      "estate-rate": 8
+    },
+    "total": 22
+  },
+  {
+    "region_id": "LK-11",
+    "values": {
+      "urban-rate": 2,
+      "rural-rate": 2,
+      "estate-rate": 3
+    },
+    "total": 7
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
-      "urban-rate": 2.3,
-      "rural-rate": 2.4,
-      "estate-rate": 2.8
+      "urban-rate": 2,
+      "rural-rate": 2,
+      "estate-rate": 3
     },
-    "total": 7.5,
-    "total_from_source": 2.4,
-    "pct_values": {
-      "urban-rate": 0.3067,
-      "rural-rate": 0.32,
-      "estate-rate": 0.3733
-    }
+    "total": 8
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
-      "urban-rate": 2.5,
-      "rural-rate": 2.5,
-      "estate-rate": 2.7
+      "urban-rate": 2,
+      "rural-rate": 2,
+      "estate-rate": 3
     },
-    "total": 7.7,
-    "total_from_source": 2.5,
-    "pct_values": {
-      "urban-rate": 0.3247,
-      "rural-rate": 0.3247,
-      "estate-rate": 0.3506
-    }
+    "total": 8
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "urban-rate": 8,
+      "rural-rate": 9,
+      "estate-rate": 8
+    },
+    "total": 26
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
-      "urban-rate": 2.6,
-      "rural-rate": 3.0,
-      "estate-rate": 2.9
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 8.5,
-    "total_from_source": 2.9,
-    "pct_values": {
-      "urban-rate": 0.3059,
-      "rural-rate": 0.3529,
-      "estate-rate": 0.3412
-    }
+    "total": 8
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
-      "urban-rate": 2.7,
-      "rural-rate": 3.1,
-      "estate-rate": 3.0
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 8.8,
-    "total_from_source": 3.0,
-    "pct_values": {
-      "urban-rate": 0.3068,
-      "rural-rate": 0.3523,
-      "estate-rate": 0.3409
-    }
+    "total": 9
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
-      "urban-rate": 2.5,
-      "rural-rate": 3.2,
-      "estate-rate": 2.6
+      "urban-rate": 2,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 8.3,
-    "total_from_source": 2.9,
-    "pct_values": {
-      "urban-rate": 0.3012,
-      "rural-rate": 0.3855,
-      "estate-rate": 0.3133
-    }
+    "total": 8
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "urban-rate": 8,
+      "rural-rate": 10,
+      "estate-rate": 9
+    },
+    "total": 26
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
-      "urban-rate": 2.7,
-      "rural-rate": 2.9,
-      "estate-rate": 3.0
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 8.6,
-    "total_from_source": 2.9,
-    "pct_values": {
-      "urban-rate": 0.314,
-      "rural-rate": 0.3372,
-      "estate-rate": 0.3488
-    }
+    "total": 9
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
-      "urban-rate": 2.7,
-      "rural-rate": 3.2,
-      "estate-rate": 3.2
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 9.100000000000001,
-    "total_from_source": 3.2,
-    "pct_values": {
-      "urban-rate": 0.2967,
-      "rural-rate": 0.3516,
-      "estate-rate": 0.3516
-    }
+    "total": 9
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
-      "urban-rate": 2.7,
-      "rural-rate": 3.4,
-      "estate-rate": 2.5
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 2
     },
-    "total": 8.6,
-    "total_from_source": 3.4,
-    "pct_values": {
-      "urban-rate": 0.314,
-      "rural-rate": 0.3953,
-      "estate-rate": 0.2907
-    }
+    "total": 9
+  },
+  {
+    "region_id": "LK-5",
+    "values": {
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 0
+    },
+    "total": 7
   },
   {
     "region_id": "LK-52",
-    "region_name": "Ampara",
     "values": {
-      "urban-rate": 3.3,
-      "rural-rate": 3.3,
+      "urban-rate": 3,
+      "rural-rate": 3,
       "estate-rate": 0
     },
-    "total": 6.6,
-    "total_from_source": 3.3,
-    "pct_values": {
-      "urban-rate": 0.5,
-      "rural-rate": 0.5,
-      "estate-rate": 0.0
-    }
+    "total": 7
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "urban-rate": 5,
+      "rural-rate": 6,
+      "estate-rate": 6
+    },
+    "total": 16
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
-      "urban-rate": 2.4,
-      "rural-rate": 2.8,
-      "estate-rate": 3.0
+      "urban-rate": 2,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 8.2,
-    "total_from_source": 2.8,
-    "pct_values": {
-      "urban-rate": 0.2927,
-      "rural-rate": 0.3415,
-      "estate-rate": 0.3659
-    }
+    "total": 8
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
-      "urban-rate": 2.7,
-      "rural-rate": 2.7,
-      "estate-rate": 2.5
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 2
     },
-    "total": 7.9,
-    "total_from_source": 2.7,
-    "pct_values": {
-      "urban-rate": 0.3418,
-      "rural-rate": 0.3418,
-      "estate-rate": 0.3165
-    }
+    "total": 8
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "urban-rate": 3,
+      "rural-rate": 6,
+      "estate-rate": 5
+    },
+    "total": 13
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
-      "urban-rate": 2.6,
-      "rural-rate": 3.1,
-      "estate-rate": 2.3
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 2
     },
-    "total": 8.0,
-    "total_from_source": 3.0,
-    "pct_values": {
-      "urban-rate": 0.325,
-      "rural-rate": 0.3875,
-      "estate-rate": 0.2875
-    }
+    "total": 8
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "urban-rate": 0,
-      "rural-rate": 3.0,
-      "estate-rate": 2.3
+      "rural-rate": 3,
+      "estate-rate": 2
     },
-    "total": 5.3,
-    "total_from_source": 3.0,
-    "pct_values": {
-      "urban-rate": 0.0,
-      "rural-rate": 0.566,
-      "estate-rate": 0.434
-    }
+    "total": 5
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "urban-rate": 3,
+      "rural-rate": 7,
+      "estate-rate": 6
+    },
+    "total": 15
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
-      "urban-rate": 2.6,
-      "rural-rate": 3.2,
-      "estate-rate": 2.9
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 8.7,
-    "total_from_source": 3.1,
-    "pct_values": {
-      "urban-rate": 0.2989,
-      "rural-rate": 0.3678,
-      "estate-rate": 0.3333
-    }
+    "total": 9
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "urban-rate": 0,
-      "rural-rate": 3.4,
-      "estate-rate": 3.0
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 6.4,
-    "total_from_source": 3.4,
-    "pct_values": {
-      "urban-rate": 0.0,
-      "rural-rate": 0.5312,
-      "estate-rate": 0.4688
-    }
+    "total": 6
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "urban-rate": 5,
+      "rural-rate": 6,
+      "estate-rate": 6
+    },
+    "total": 16
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
-      "urban-rate": 2.6,
-      "rural-rate": 3.0,
-      "estate-rate": 2.8
+      "urban-rate": 3,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 8.4,
-    "total_from_source": 3.0,
-    "pct_values": {
-      "urban-rate": 0.3095,
-      "rural-rate": 0.3571,
-      "estate-rate": 0.3333
-    }
+    "total": 8
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
-      "urban-rate": 2.3,
-      "rural-rate": 2.8,
-      "estate-rate": 2.8
+      "urban-rate": 2,
+      "rural-rate": 3,
+      "estate-rate": 3
     },
-    "total": 7.8999999999999995,
-    "total_from_source": 2.8,
-    "pct_values": {
-      "urban-rate": 0.2911,
-      "rural-rate": 0.3544,
-      "estate-rate": 0.3544
-    }
+    "total": 8
   }
 ]

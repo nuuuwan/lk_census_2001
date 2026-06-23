@@ -1,290 +1,245 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "population-in-urban-sector": 2467301,
+      "population-in-rural-sector": 13547710,
+      "population-in-estate-sector": 914678
+    },
+    "total": 16929689
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "population-in-urban-sector": 1643693,
+      "population-in-rural-sector": 3691893,
+      "population-in-estate-sector": 45611
+    },
+    "total": 5381197
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "population-in-urban-sector": 1229572,
       "population-in-rural-sector": 1014388,
       "population-in-estate-sector": 7314
     },
-    "total": 2251274,
-    "total_from_source": 2251274,
-    "pct_values": {
-      "population-in-urban-sector": 0.5462,
-      "population-in-rural-sector": 0.4506,
-      "population-in-estate-sector": 0.0032
-    }
+    "total": 2251274
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "population-in-urban-sector": 300933,
       "population-in-rural-sector": 1762028,
       "population-in-estate-sector": 723
     },
-    "total": 2063684,
-    "total_from_source": 2063684,
-    "pct_values": {
-      "population-in-urban-sector": 0.1458,
-      "population-in-rural-sector": 0.8538,
-      "population-in-estate-sector": 0.0004
-    }
+    "total": 2063684
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "population-in-urban-sector": 113188,
       "population-in-rural-sector": 915477,
       "population-in-estate-sector": 37574
     },
-    "total": 1066239,
-    "total_from_source": 1066239,
-    "pct_values": {
-      "population-in-urban-sector": 0.1062,
-      "population-in-rural-sector": 0.8586,
-      "population-in-estate-sector": 0.0352
-    }
+    "total": 1066239
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "population-in-urban-sector": 235163,
+      "population-in-rural-sector": 1697299,
+      "population-in-estate-sector": 491504
+    },
+    "total": 2423966
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "population-in-urban-sector": 155987,
       "population-in-rural-sector": 1030172,
       "population-in-estate-sector": 92869
     },
-    "total": 1279028,
-    "total_from_source": 1279028,
-    "pct_values": {
-      "population-in-urban-sector": 0.122,
-      "population-in-rural-sector": 0.8054,
-      "population-in-estate-sector": 0.0726
-    }
+    "total": 1279028
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "population-in-urban-sector": 36103,
       "population-in-rural-sector": 383468,
       "population-in-estate-sector": 21757
     },
-    "total": 441328,
-    "total_from_source": 441328,
-    "pct_values": {
-      "population-in-urban-sector": 0.0818,
-      "population-in-rural-sector": 0.8689,
-      "population-in-estate-sector": 0.0493
-    }
+    "total": 441328
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "population-in-urban-sector": 43073,
       "population-in-rural-sector": 283659,
       "population-in-estate-sector": 376878
     },
-    "total": 703610,
-    "total_from_source": 703610,
-    "pct_values": {
-      "population-in-urban-sector": 0.0612,
-      "population-in-rural-sector": 0.4031,
-      "population-in-estate-sector": 0.5356
-    }
+    "total": 703610
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "population-in-urban-sector": 195853,
+      "population-in-rural-sector": 2043218,
+      "population-in-estate-sector": 39200
+    },
+    "total": 2278271
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "population-in-urban-sector": 109921,
       "population-in-rural-sector": 863309,
       "population-in-estate-sector": 17257
     },
-    "total": 990487,
-    "total_from_source": 990487,
-    "pct_values": {
-      "population-in-urban-sector": 0.111,
-      "population-in-rural-sector": 0.8716,
-      "population-in-estate-sector": 0.0174
-    }
+    "total": 990487
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "population-in-urban-sector": 64361,
       "population-in-rural-sector": 676499,
       "population-in-estate-sector": 20510
     },
-    "total": 761370,
-    "total_from_source": 761370,
-    "pct_values": {
-      "population-in-urban-sector": 0.0845,
-      "population-in-rural-sector": 0.8885,
-      "population-in-estate-sector": 0.0269
-    }
+    "total": 761370
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "population-in-urban-sector": 21571,
       "population-in-rural-sector": 503410,
       "population-in-estate-sector": 1433
     },
-    "total": 526414,
-    "total_from_source": 526414,
-    "pct_values": {
-      "population-in-urban-sector": 0.041,
-      "population-in-rural-sector": 0.9563,
-      "population-in-estate-sector": 0.0027
-    }
+    "total": 526414
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "population-in-urban-sector": 112536,
       "population-in-rural-sector": 480461,
       "population-in-estate-sector": 0
     },
-    "total": 592997,
-    "total_from_source": 592997,
-    "pct_values": {
-      "population-in-urban-sector": 0.1898,
-      "population-in-rural-sector": 0.8102,
-      "population-in-estate-sector": 0.0
-    }
+    "total": 592997
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "population-in-urban-sector": 112536,
+      "population-in-rural-sector": 480461,
+      "population-in-estate-sector": 0
+    },
+    "total": 592997
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "population-in-urban-sector": 99985,
+      "population-in-rural-sector": 2061091,
+      "population-in-estate-sector": 8816
+    },
+    "total": 2169892
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "population-in-urban-sector": 34691,
       "population-in-rural-sector": 1418881,
       "population-in-estate-sector": 6643
     },
-    "total": 1460215,
-    "total_from_source": 1460215,
-    "pct_values": {
-      "population-in-urban-sector": 0.0238,
-      "population-in-rural-sector": 0.9717,
-      "population-in-estate-sector": 0.0045
-    }
+    "total": 1460215
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "population-in-urban-sector": 65294,
       "population-in-rural-sector": 642210,
       "population-in-estate-sector": 2173
     },
-    "total": 709677,
-    "total_from_source": 709677,
-    "pct_values": {
-      "population-in-urban-sector": 0.092,
-      "population-in-rural-sector": 0.9049,
-      "population-in-estate-sector": 0.0031
-    }
+    "total": 709677
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "population-in-urban-sector": 53151,
+      "population-in-rural-sector": 1050252,
+      "population-in-estate-sector": 1274
+    },
+    "total": 1104677
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "population-in-urban-sector": 53151,
       "population-in-rural-sector": 691573,
       "population-in-estate-sector": 969
     },
-    "total": 745693,
-    "total_from_source": 745693,
-    "pct_values": {
-      "population-in-urban-sector": 0.0713,
-      "population-in-rural-sector": 0.9274,
-      "population-in-estate-sector": 0.0013
-    }
+    "total": 745693
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "population-in-urban-sector": 0,
       "population-in-rural-sector": 358679,
       "population-in-estate-sector": 305
     },
-    "total": 358984,
-    "total_from_source": 358984,
-    "pct_values": {
-      "population-in-urban-sector": 0.0,
-      "population-in-rural-sector": 0.9992,
-      "population-in-estate-sector": 0.0008
-    }
+    "total": 358984
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "population-in-urban-sector": 51536,
+      "population-in-rural-sector": 955404,
+      "population-in-estate-sector": 170418
+    },
+    "total": 1177358
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "population-in-urban-sector": 51536,
       "population-in-rural-sector": 567178,
       "population-in-estate-sector": 161269
     },
-    "total": 779983,
-    "total_from_source": 779983,
-    "pct_values": {
-      "population-in-urban-sector": 0.0661,
-      "population-in-rural-sector": 0.7272,
-      "population-in-estate-sector": 0.2068
-    }
+    "total": 779983
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "population-in-urban-sector": 0,
       "population-in-rural-sector": 388226,
       "population-in-estate-sector": 9149
     },
-    "total": 397375,
-    "total_from_source": 397375,
-    "pct_values": {
-      "population-in-urban-sector": 0.0,
-      "population-in-rural-sector": 0.977,
-      "population-in-estate-sector": 0.023
-    }
+    "total": 397375
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "population-in-urban-sector": 75384,
+      "population-in-rural-sector": 1568092,
+      "population-in-estate-sector": 157855
+    },
+    "total": 1801331
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "population-in-urban-sector": 58245,
       "population-in-rural-sector": 855178,
       "population-in-estate-sector": 102384
     },
-    "total": 1015807,
-    "total_from_source": 1015807,
-    "pct_values": {
-      "population-in-urban-sector": 0.0573,
-      "population-in-rural-sector": 0.8419,
-      "population-in-estate-sector": 0.1008
-    }
+    "total": 1015807
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "population-in-urban-sector": 17139,
       "population-in-rural-sector": 712914,
       "population-in-estate-sector": 55471
     },
-    "total": 785524,
-    "total_from_source": 785524,
-    "pct_values": {
-      "population-in-urban-sector": 0.0218,
-      "population-in-rural-sector": 0.9076,
-      "population-in-estate-sector": 0.0706
-    }
+    "total": 785524
   }
 ]

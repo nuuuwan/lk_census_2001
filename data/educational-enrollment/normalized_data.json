@@ -1,218 +1,191 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "population-aged-5-34-years": 8877901
+    },
+    "total": 8877901
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "population-aged-5-34-years": 2793469
+    },
+    "total": 2793469
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "population-aged-5-34-years": 1170059
     },
-    "total": 1170059,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 1170059
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "population-aged-5-34-years": 1087709
     },
-    "total": 1087709,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 1087709
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "population-aged-5-34-years": 535701
     },
-    "total": 535701,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 535701
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "population-aged-5-34-years": 1258784
+    },
+    "total": 1258784
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "population-aged-5-34-years": 657483
     },
-    "total": 657483,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 657483
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "population-aged-5-34-years": 230178
     },
-    "total": 230178,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 230178
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "population-aged-5-34-years": 371123
     },
-    "total": 371123,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 371123
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "population-aged-5-34-years": 1166445
+    },
+    "total": 1166445
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "population-aged-5-34-years": 502392
     },
-    "total": 502392,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 502392
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "population-aged-5-34-years": 385708
     },
-    "total": 385708,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 385708
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "population-aged-5-34-years": 278345
     },
-    "total": 278345,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 278345
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "population-aged-5-34-years": 343530
     },
-    "total": 343530,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 343530
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "population-aged-5-34-years": 343530
+    },
+    "total": 343530
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "population-aged-5-34-years": 1134220
+    },
+    "total": 1134220
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "population-aged-5-34-years": 741085
     },
-    "total": 741085,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 741085
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "population-aged-5-34-years": 393135
     },
-    "total": 393135,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 393135
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "population-aged-5-34-years": 615745
+    },
+    "total": 615745
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "population-aged-5-34-years": 415629
     },
-    "total": 415629,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 415629
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "population-aged-5-34-years": 200116
     },
-    "total": 200116,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 200116
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "population-aged-5-34-years": 642437
+    },
+    "total": 642437
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "population-aged-5-34-years": 416460
     },
-    "total": 416460,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 416460
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "population-aged-5-34-years": 225977
     },
-    "total": 225977,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 225977
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "population-aged-5-34-years": 923271
+    },
+    "total": 923271
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "population-aged-5-34-years": 539907
     },
-    "total": 539907,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 539907
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "population-aged-5-34-years": 383364
     },
-    "total": 383364,
-    "total_from_source": null,
-    "pct_values": {
-      "population-aged-5-34-years": 1.0
-    }
+    "total": 383364
   }
 ]

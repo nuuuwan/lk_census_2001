@@ -1,470 +1,352 @@
 [
   {
     "region_id": "LK",
-    "region_name": "Sri Lanka",
     "values": {
-      "census-1981-population": 14846750,
-      "census-2001-population": 18797257,
-      "intercensal-increase": 3950507,
-      "annual-growth-rate": 1.2
+      "census-1981-population": 59387000,
+      "census-2001-population": 75189028,
+      "intercensal-increase": 15802028,
+      "annual-growth-rate": 35
     },
-    "total": 37594515.2,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3949,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1051,
-      "annual-growth-rate": 0.0
-    }
+    "total": 150378091
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "census-1981-population": 3919807,
+      "census-2001-population": 5381197,
+      "intercensal-increase": 1461390,
+      "annual-growth-rate": 4
+    },
+    "total": 10762398
   },
   {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "census-1981-population": 1699241,
       "census-2001-population": 2251274,
       "intercensal-increase": 552033,
-      "annual-growth-rate": 1.4
+      "annual-growth-rate": 1
     },
-    "total": 4502549.4,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3774,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1226,
-      "annual-growth-rate": 0.0
-    }
+    "total": 4502549
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "census-1981-population": 1390862,
       "census-2001-population": 2063684,
       "intercensal-increase": 672822,
-      "annual-growth-rate": 1.9
+      "annual-growth-rate": 2
     },
-    "total": 4127369.9,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.337,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.163,
-      "annual-growth-rate": 0.0
-    }
+    "total": 4127370
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "census-1981-population": 829704,
       "census-2001-population": 1066239,
       "intercensal-increase": 236535,
-      "annual-growth-rate": 1.2
+      "annual-growth-rate": 1
     },
-    "total": 2132479.2,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3891,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1109,
-      "annual-growth-rate": 0.0
-    }
+    "total": 2132479
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "census-1981-population": 2009248,
+      "census-2001-population": 2423966,
+      "intercensal-increase": 414718,
+      "annual-growth-rate": 3
+    },
+    "total": 4847935
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "census-1981-population": 1048317,
       "census-2001-population": 1279028,
       "intercensal-increase": 230711,
-      "annual-growth-rate": 1.0
+      "annual-growth-rate": 1
     },
-    "total": 2558057.0,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.4098,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.0902,
-      "annual-growth-rate": 0.0
-    }
+    "total": 2558057
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "census-1981-population": 357354,
       "census-2001-population": 441328,
       "intercensal-increase": 83974,
-      "annual-growth-rate": 1.0
+      "annual-growth-rate": 1
     },
-    "total": 882657.0,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.4049,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.0951,
-      "annual-growth-rate": 0.0
-    }
+    "total": 882657
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "census-1981-population": 603577,
       "census-2001-population": 703610,
       "intercensal-increase": 100033,
-      "annual-growth-rate": 0.8
+      "annual-growth-rate": 1
     },
-    "total": 1407220.8,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.4289,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.0711,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1407221
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "census-1981-population": 1882661,
+      "census-2001-population": 2278271,
+      "intercensal-increase": 395610,
+      "annual-growth-rate": 3
+    },
+    "total": 4556545
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "census-1981-population": 814531,
       "census-2001-population": 990487,
       "intercensal-increase": 175956,
-      "annual-growth-rate": 1.0
+      "annual-growth-rate": 1
     },
-    "total": 1980975.0,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.4112,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.0888,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1980975
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "census-1981-population": 643786,
       "census-2001-population": 761370,
       "intercensal-increase": 117584,
-      "annual-growth-rate": 0.8
+      "annual-growth-rate": 1
     },
-    "total": 1522740.8,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.4228,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.0772,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1522741
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "census-1981-population": 424344,
       "census-2001-population": 526414,
       "intercensal-increase": 102070,
-      "annual-growth-rate": 1.1
+      "annual-growth-rate": 1
     },
-    "total": 1052829.1,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.4031,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.0969,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1052829
+  },
+  {
+    "region_id": "LK-4",
+    "values": {
+      "census-1981-population": 1109404,
+      "census-2001-population": 1040963,
+      "intercensal-increase": -68441,
+      "annual-growth-rate": 6
+    },
+    "total": 2081932
   },
   {
     "region_id": "LK-41",
-    "region_name": "Jaffna",
     "values": {
       "census-1981-population": 738788,
       "census-2001-population": 490621,
       "intercensal-increase": -248167,
-      "annual-growth-rate": -2.0
+      "annual-growth-rate": -2
     },
-    "total": 981240.0,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.7529,
-      "census-2001-population": 0.5,
-      "intercensal-increase": -0.2529,
-      "annual-growth-rate": -0.0
-    }
-  },
-  {
-    "region_id": "LK-43",
-    "region_name": "Mannar",
-    "values": {
-      "census-1981-population": 106235,
-      "census-2001-population": 151577,
-      "intercensal-increase": 45342,
-      "annual-growth-rate": 1.7
-    },
-    "total": 303155.7,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3504,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1496,
-      "annual-growth-rate": 0.0
-    }
-  },
-  {
-    "region_id": "LK-44",
-    "region_name": "Vavuniya",
-    "values": {
-      "census-1981-population": 95428,
-      "census-2001-population": 149835,
-      "intercensal-increase": 54407,
-      "annual-growth-rate": 2.2
-    },
-    "total": 299672.2,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3184,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1816,
-      "annual-growth-rate": 0.0
-    }
-  },
-  {
-    "region_id": "LK-45",
-    "region_name": "Mullaitivu",
-    "values": {
-      "census-1981-population": 77189,
-      "census-2001-population": 121667,
-      "intercensal-increase": 44478,
-      "annual-growth-rate": 2.2
-    },
-    "total": 243336.2,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3172,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1828,
-      "annual-growth-rate": 0.0
-    }
+    "total": 981240
   },
   {
     "region_id": "LK-42",
-    "region_name": "Kilinochchi",
     "values": {
       "census-1981-population": 91764,
       "census-2001-population": 127263,
       "intercensal-increase": 35499,
-      "annual-growth-rate": 1.6
+      "annual-growth-rate": 2
     },
-    "total": 254527.6,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3605,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1395,
-      "annual-growth-rate": 0.0
-    }
+    "total": 254528
+  },
+  {
+    "region_id": "LK-43",
+    "values": {
+      "census-1981-population": 106235,
+      "census-2001-population": 151577,
+      "intercensal-increase": 45342,
+      "annual-growth-rate": 2
+    },
+    "total": 303156
+  },
+  {
+    "region_id": "LK-44",
+    "values": {
+      "census-1981-population": 95428,
+      "census-2001-population": 149835,
+      "intercensal-increase": 54407,
+      "annual-growth-rate": 2
+    },
+    "total": 299672
+  },
+  {
+    "region_id": "LK-45",
+    "values": {
+      "census-1981-population": 77189,
+      "census-2001-population": 121667,
+      "intercensal-increase": 44478,
+      "annual-growth-rate": 2
+    },
+    "total": 243336
+  },
+  {
+    "region_id": "LK-5",
+    "values": {
+      "census-1981-population": 975251,
+      "census-2001-population": 1419602,
+      "intercensal-increase": 444351,
+      "annual-growth-rate": 5
+    },
+    "total": 2839209
   },
   {
     "region_id": "LK-51",
-    "region_name": "Batticaloa",
     "values": {
       "census-1981-population": 330333,
       "census-2001-population": 486447,
       "intercensal-increase": 156114,
-      "annual-growth-rate": 1.9
+      "annual-growth-rate": 2
     },
-    "total": 972895.9,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3395,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1605,
-      "annual-growth-rate": 0.0
-    }
+    "total": 972896
   },
   {
     "region_id": "LK-52",
-    "region_name": "Ampara",
     "values": {
       "census-1981-population": 388970,
       "census-2001-population": 592997,
       "intercensal-increase": 204027,
-      "annual-growth-rate": 2.1
+      "annual-growth-rate": 2
     },
-    "total": 1185996.1,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.328,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.172,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1185996
   },
   {
     "region_id": "LK-53",
-    "region_name": "Trincomalee",
     "values": {
       "census-1981-population": 255948,
       "census-2001-population": 340158,
       "intercensal-increase": 84210,
-      "annual-growth-rate": 1.4
+      "annual-growth-rate": 1
     },
-    "total": 680317.4,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3762,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1238,
-      "annual-growth-rate": 0.0
-    }
+    "total": 680317
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "census-1981-population": 1704334,
+      "census-2001-population": 2169892,
+      "intercensal-increase": 465558,
+      "annual-growth-rate": 3
+    },
+    "total": 4339787
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "census-1981-population": 1211801,
       "census-2001-population": 1460215,
       "intercensal-increase": 248414,
-      "annual-growth-rate": 0.9
+      "annual-growth-rate": 1
     },
-    "total": 2920430.9,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.4149,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.0851,
-      "annual-growth-rate": 0.0
-    }
+    "total": 2920431
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "census-1981-population": 492533,
       "census-2001-population": 709677,
       "intercensal-increase": 217144,
-      "annual-growth-rate": 1.8
+      "annual-growth-rate": 2
     },
-    "total": 1419355.8,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.347,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.153,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1419356
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "census-1981-population": 849492,
+      "census-2001-population": 1104677,
+      "intercensal-increase": 255185,
+      "annual-growth-rate": 3
+    },
+    "total": 2209357
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "census-1981-population": 587929,
       "census-2001-population": 745693,
       "intercensal-increase": 157764,
-      "annual-growth-rate": 1.2
+      "annual-growth-rate": 1
     },
-    "total": 1491387.2,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3942,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1058,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1491387
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "census-1981-population": 261563,
       "census-2001-population": 358984,
       "intercensal-increase": 97421,
-      "annual-growth-rate": 1.6
+      "annual-growth-rate": 2
     },
-    "total": 717969.6,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3643,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1357,
-      "annual-growth-rate": 0.0
-    }
+    "total": 717970
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "census-1981-population": 914522,
+      "census-2001-population": 1177358,
+      "intercensal-increase": 262836,
+      "annual-growth-rate": 3
+    },
+    "total": 2354719
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "census-1981-population": 640952,
       "census-2001-population": 779983,
       "intercensal-increase": 139031,
-      "annual-growth-rate": 1.0
+      "annual-growth-rate": 1
     },
-    "total": 1559967.0,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.4109,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.0891,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1559967
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "census-1981-population": 273570,
       "census-2001-population": 397375,
       "intercensal-increase": 123805,
-      "annual-growth-rate": 1.8
+      "annual-growth-rate": 2
     },
-    "total": 794751.8,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3442,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1558,
-      "annual-growth-rate": 0.0
-    }
+    "total": 794752
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "census-1981-population": 1482031,
+      "census-2001-population": 1801331,
+      "intercensal-increase": 319300,
+      "annual-growth-rate": 2
+    },
+    "total": 3602664
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "census-1981-population": 797087,
       "census-2001-population": 1015807,
       "intercensal-increase": 218720,
-      "annual-growth-rate": 1.2
+      "annual-growth-rate": 1
     },
-    "total": 2031615.2,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.3923,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.1077,
-      "annual-growth-rate": 0.0
-    }
+    "total": 2031615
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "census-1981-population": 684944,
       "census-2001-population": 785524,
       "intercensal-increase": 100580,
-      "annual-growth-rate": 0.7
+      "annual-growth-rate": 1
     },
-    "total": 1571048.7,
-    "total_from_source": null,
-    "pct_values": {
-      "census-1981-population": 0.436,
-      "census-2001-population": 0.5,
-      "intercensal-increase": 0.064,
-      "annual-growth-rate": 0.0
-    }
+    "total": 1571049
   }
 ]

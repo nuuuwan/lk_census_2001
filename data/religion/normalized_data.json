@@ -1,7 +1,30 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "buddhist": 12986548,
+      "hindu": 1312970,
+      "islam": 1435896,
+      "roman-catholic": 1035740,
+      "other-christian": 150182,
+      "other": 8353
+    },
+    "total": 16929689
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "buddhist": 3942169,
+      "hindu": 271777,
+      "islam": 441397,
+      "roman-catholic": 636382,
+      "other-christian": 84733,
+      "other": 4739
+    },
+    "total": 5381197
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "buddhist": 1578246,
       "hindu": 194743,
@@ -10,20 +33,10 @@
       "other-christian": 51334,
       "other": 3087
     },
-    "total": 2251274,
-    "total_from_source": 2251274,
-    "pct_values": {
-      "buddhist": 0.701,
-      "hindu": 0.0865,
-      "islam": 0.1075,
-      "roman-catholic": 0.0808,
-      "other-christian": 0.0228,
-      "other": 0.0014
-    }
+    "total": 2251274
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "buddhist": 1479955,
       "hindu": 42356,
@@ -32,20 +45,10 @@
       "other-christian": 28361,
       "other": 1230
     },
-    "total": 2063684,
-    "total_from_source": 2063684,
-    "pct_values": {
-      "buddhist": 0.7171,
-      "hindu": 0.0205,
-      "islam": 0.0453,
-      "roman-catholic": 0.2027,
-      "other-christian": 0.0137,
-      "other": 0.0006
-    }
+    "total": 2063684
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "buddhist": 883968,
       "hindu": 34678,
@@ -54,20 +57,22 @@
       "other-christian": 5038,
       "other": 422
     },
-    "total": 1066239,
-    "total_from_source": 1066239,
-    "pct_values": {
-      "buddhist": 0.8291,
-      "hindu": 0.0325,
-      "islam": 0.0994,
-      "roman-catholic": 0.0339,
-      "other-christian": 0.0047,
-      "other": 0.0004
-    }
+    "total": 1066239
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "buddhist": 1564902,
+      "hindu": 536006,
+      "islam": 232669,
+      "roman-catholic": 66640,
+      "other-christian": 22774,
+      "other": 975
+    },
+    "total": 2423966
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "buddhist": 937001,
       "hindu": 134438,
@@ -76,20 +81,10 @@
       "other-christian": 10330,
       "other": 437
     },
-    "total": 1279028,
-    "total_from_source": 1279028,
-    "pct_values": {
-      "buddhist": 0.7326,
-      "hindu": 0.1051,
-      "islam": 0.1357,
-      "roman-catholic": 0.0182,
-      "other-christian": 0.0081,
-      "other": 0.0003
-    }
+    "total": 1279028
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "buddhist": 348762,
       "hindu": 42433,
@@ -98,20 +93,10 @@
       "other-christian": 1703,
       "other": 50
     },
-    "total": 441328,
-    "total_from_source": 441328,
-    "pct_values": {
-      "buddhist": 0.7903,
-      "hindu": 0.0961,
-      "islam": 0.0906,
-      "roman-catholic": 0.019,
-      "other-christian": 0.0039,
-      "other": 0.0001
-    }
+    "total": 441328
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "buddhist": 279139,
       "hindu": 359135,
@@ -120,20 +105,22 @@
       "other-christian": 10741,
       "other": 488
     },
-    "total": 703610,
-    "total_from_source": 703610,
-    "pct_values": {
-      "buddhist": 0.3967,
-      "hindu": 0.5104,
-      "islam": 0.0271,
-      "roman-catholic": 0.0498,
-      "other-christian": 0.0153,
-      "other": 0.0007
-    }
+    "total": 703610
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "buddhist": 2159028,
+      "hindu": 33642,
+      "islam": 70657,
+      "roman-catholic": 8195,
+      "other-christian": 6328,
+      "other": 421
+    },
+    "total": 2278271
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "buddhist": 932331,
       "hindu": 14934,
@@ -142,20 +129,10 @@
       "other-christian": 3378,
       "other": 176
     },
-    "total": 990487,
-    "total_from_source": 990487,
-    "pct_values": {
-      "buddhist": 0.9413,
-      "hindu": 0.0151,
-      "islam": 0.0354,
-      "roman-catholic": 0.0046,
-      "other-christian": 0.0034,
-      "other": 0.0002
-    }
+    "total": 990487
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "buddhist": 716710,
       "hindu": 17339,
@@ -164,20 +141,10 @@
       "other-christian": 2001,
       "other": 136
     },
-    "total": 761370,
-    "total_from_source": 761370,
-    "pct_values": {
-      "buddhist": 0.9413,
-      "hindu": 0.0228,
-      "islam": 0.0295,
-      "roman-catholic": 0.0036,
-      "other-christian": 0.0026,
-      "other": 0.0002
-    }
+    "total": 761370
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "buddhist": 509987,
       "hindu": 1369,
@@ -186,20 +153,10 @@
       "other-christian": 949,
       "other": 109
     },
-    "total": 526414,
-    "total_from_source": 526414,
-    "pct_values": {
-      "buddhist": 0.9688,
-      "hindu": 0.0026,
-      "islam": 0.0248,
-      "roman-catholic": 0.0018,
-      "other-christian": 0.0018,
-      "other": 0.0002
-    }
+    "total": 526414
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "buddhist": 235652,
       "hindu": 100213,
@@ -208,20 +165,34 @@
       "other-christian": 3969,
       "other": 168
     },
-    "total": 592997,
-    "total_from_source": 592997,
-    "pct_values": {
-      "buddhist": 0.3974,
-      "hindu": 0.169,
-      "islam": 0.4135,
-      "roman-catholic": 0.0132,
-      "other-christian": 0.0067,
-      "other": 0.0003
-    }
+    "total": 592997
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "buddhist": 235652,
+      "hindu": 100213,
+      "islam": 245179,
+      "roman-catholic": 7816,
+      "other-christian": 3969,
+      "other": 168
+    },
+    "total": 592997
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "buddhist": 1608812,
+      "hindu": 42785,
+      "islam": 232866,
+      "roman-catholic": 270646,
+      "other-christian": 13790,
+      "other": 993
+    },
+    "total": 2169892
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "buddhist": 1300539,
       "hindu": 13303,
@@ -230,20 +201,10 @@
       "other-christian": 6960,
       "other": 510
     },
-    "total": 1460215,
-    "total_from_source": 1460215,
-    "pct_values": {
-      "buddhist": 0.8906,
-      "hindu": 0.0091,
-      "islam": 0.0673,
-      "roman-catholic": 0.0279,
-      "other-christian": 0.0048,
-      "other": 0.0003
-    }
+    "total": 1460215
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "buddhist": 308273,
       "hindu": 29482,
@@ -252,20 +213,22 @@
       "other-christian": 6830,
       "other": 483
     },
-    "total": 709677,
-    "total_from_source": 709677,
-    "pct_values": {
-      "buddhist": 0.4344,
-      "hindu": 0.0415,
-      "islam": 0.1897,
-      "roman-catholic": 0.324,
-      "other-christian": 0.0096,
-      "other": 0.0007
-    }
+    "total": 709677
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "buddhist": 991454,
+      "hindu": 10051,
+      "islam": 90022,
+      "roman-catholic": 10149,
+      "other-christian": 2764,
+      "other": 237
+    },
+    "total": 1104677
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "buddhist": 670963,
       "hindu": 3459,
@@ -274,20 +237,10 @@
       "other-christian": 2073,
       "other": 135
     },
-    "total": 745693,
-    "total_from_source": 745693,
-    "pct_values": {
-      "buddhist": 0.8998,
-      "hindu": 0.0046,
-      "islam": 0.0842,
-      "roman-catholic": 0.0084,
-      "other-christian": 0.0028,
-      "other": 0.0002
-    }
+    "total": 745693
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "buddhist": 320491,
       "hindu": 6592,
@@ -296,20 +249,22 @@
       "other-christian": 691,
       "other": 102
     },
-    "total": 358984,
-    "total_from_source": 358984,
-    "pct_values": {
-      "buddhist": 0.8928,
-      "hindu": 0.0184,
-      "islam": 0.0758,
-      "roman-catholic": 0.0108,
-      "other-christian": 0.0019,
-      "other": 0.0003
-    }
+    "total": 358984
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "buddhist": 936762,
+      "hindu": 170096,
+      "islam": 49530,
+      "roman-catholic": 14819,
+      "other-christian": 5923,
+      "other": 228
+    },
+    "total": 1177358
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "buddhist": 561510,
       "hindu": 158473,
@@ -318,20 +273,10 @@
       "other-christian": 5242,
       "other": 175
     },
-    "total": 779983,
-    "total_from_source": 779983,
-    "pct_values": {
-      "buddhist": 0.7199,
-      "hindu": 0.2032,
-      "islam": 0.053,
-      "roman-catholic": 0.017,
-      "other-christian": 0.0067,
-      "other": 0.0002
-    }
+    "total": 779983
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "buddhist": 375252,
       "hindu": 11623,
@@ -340,20 +285,22 @@
       "other-christian": 681,
       "other": 53
     },
-    "total": 397375,
-    "total_from_source": 397375,
-    "pct_values": {
-      "buddhist": 0.9443,
-      "hindu": 0.0292,
-      "islam": 0.0206,
-      "roman-catholic": 0.004,
-      "other-christian": 0.0017,
-      "other": 0.0001
-    }
+    "total": 397375
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "buddhist": 1547769,
+      "hindu": 148400,
+      "islam": 73576,
+      "roman-catholic": 21093,
+      "other-christian": 9901,
+      "other": 592
+    },
+    "total": 1801331
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "buddhist": 880151,
       "hindu": 96738,
@@ -362,20 +309,10 @@
       "other-christian": 4924,
       "other": 365
     },
-    "total": 1015807,
-    "total_from_source": 1015807,
-    "pct_values": {
-      "buddhist": 0.8665,
-      "hindu": 0.0952,
-      "islam": 0.0216,
-      "roman-catholic": 0.0115,
-      "other-christian": 0.0048,
-      "other": 0.0004
-    }
+    "total": 1015807
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "buddhist": 667618,
       "hindu": 51662,
@@ -384,15 +321,6 @@
       "other-christian": 4977,
       "other": 227
     },
-    "total": 785524,
-    "total_from_source": 785524,
-    "pct_values": {
-      "buddhist": 0.8499,
-      "hindu": 0.0658,
-      "islam": 0.0658,
-      "roman-catholic": 0.0119,
-      "other-christian": 0.0063,
-      "other": 0.0003
-    }
+    "total": 785524
   }
 ]

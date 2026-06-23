@@ -1,218 +1,191 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 7413175
+    },
+    "total": 7413175
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 2363357
+    },
+    "total": 2363357
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 974012
     },
-    "total": 974012,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 974012
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 903634
     },
-    "total": 903634,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 903634
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 485711
     },
-    "total": 485711,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 485711
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 1055811
+    },
+    "total": 1055811
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 598478
     },
-    "total": 598478,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 598478
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 192017
     },
-    "total": 192017,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 192017
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 265316
     },
-    "total": 265316,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 265316
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 1045562
+    },
+    "total": 1045562
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 454606
     },
-    "total": 454606,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 454606
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 350275
     },
-    "total": 350275,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 350275
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 240681
     },
-    "total": 240681,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 240681
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 279542
     },
-    "total": 279542,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 279542
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 279542
+    },
+    "total": 279542
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 968997
+    },
+    "total": 968997
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 651584
     },
-    "total": 651584,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 651584
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 317413
     },
-    "total": 317413,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 317413
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 443235
+    },
+    "total": 443235
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 298176
     },
-    "total": 298176,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 298176
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 145059
     },
-    "total": 145059,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 145059
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 467229
+    },
+    "total": 467229
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 307311
     },
-    "total": 307311,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 307311
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 159918
     },
-    "total": 159918,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 159918
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 789442
+    },
+    "total": 789442
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 427657
     },
-    "total": 427657,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 427657
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "usually-not-economically-active-population-aged-10-years-and-over": 361785
     },
-    "total": 361785,
-    "total_from_source": null,
-    "pct_values": {
-      "usually-not-economically-active-population-aged-10-years-and-over": 1.0
-    }
+    "total": 361785
   }
 ]

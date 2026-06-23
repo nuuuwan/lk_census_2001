@@ -1,362 +1,299 @@
 [
   {
-    "region_id": "LK-11",
-    "region_name": "Colombo",
+    "region_id": "LK",
     "values": {
-      "male-rate": 95.3,
-      "female-rate": 94.0,
-      "urban-rate": 93.3,
-      "rural-rate": 96.4,
-      "estate-rate": 82.0
+      "male-rate": 1648,
+      "female-rate": 1586,
+      "urban-rate": 1497,
+      "rural-rate": 1631,
+      "estate-rate": 1302
     },
-    "total": 461.0,
-    "total_from_source": 94.7,
-    "pct_values": {
-      "male-rate": 0.2067,
-      "female-rate": 0.2039,
-      "urban-rate": 0.2024,
-      "rural-rate": 0.2091,
-      "estate-rate": 0.1779
-    }
+    "total": 7665
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "male-rate": 285,
+      "female-rate": 282,
+      "urban-rate": 281,
+      "rural-rate": 286,
+      "estate-rate": 248
+    },
+    "total": 1380
+  },
+  {
+    "region_id": "LK-11",
+    "values": {
+      "male-rate": 95,
+      "female-rate": 94,
+      "urban-rate": 93,
+      "rural-rate": 96,
+      "estate-rate": 82
+    },
+    "total": 461
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
-      "male-rate": 95.7,
-      "female-rate": 95.1,
-      "urban-rate": 93.7,
-      "rural-rate": 95.7,
-      "estate-rate": 88.0
+      "male-rate": 96,
+      "female-rate": 95,
+      "urban-rate": 94,
+      "rural-rate": 96,
+      "estate-rate": 88
     },
-    "total": 468.2,
-    "total_from_source": 95.4,
-    "pct_values": {
-      "male-rate": 0.2044,
-      "female-rate": 0.2031,
-      "urban-rate": 0.2001,
-      "rural-rate": 0.2044,
-      "estate-rate": 0.188
-    }
+    "total": 468
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
-      "male-rate": 93.7,
-      "female-rate": 92.6,
-      "urban-rate": 93.6,
-      "rural-rate": 93.7,
-      "estate-rate": 77.5
+      "male-rate": 94,
+      "female-rate": 93,
+      "urban-rate": 94,
+      "rural-rate": 94,
+      "estate-rate": 78
     },
-    "total": 451.1,
-    "total_from_source": 93.2,
-    "pct_values": {
-      "male-rate": 0.2077,
-      "female-rate": 0.2053,
-      "urban-rate": 0.2075,
-      "rural-rate": 0.2077,
-      "estate-rate": 0.1718
-    }
+    "total": 451
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "male-rate": 270,
+      "female-rate": 253,
+      "urban-rate": 282,
+      "rural-rate": 269,
+      "estate-rate": 227
+    },
+    "total": 1300
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
-      "male-rate": 92.4,
-      "female-rate": 88.7,
-      "urban-rate": 94.7,
-      "rural-rate": 91.2,
-      "estate-rate": 74.6
+      "male-rate": 92,
+      "female-rate": 89,
+      "urban-rate": 95,
+      "rural-rate": 91,
+      "estate-rate": 75
     },
-    "total": 441.6,
-    "total_from_source": 90.5,
-    "pct_values": {
-      "male-rate": 0.2092,
-      "female-rate": 0.2009,
-      "urban-rate": 0.2144,
-      "rural-rate": 0.2065,
-      "estate-rate": 0.1689
-    }
+    "total": 442
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
-      "male-rate": 90.2,
-      "female-rate": 86.4,
-      "urban-rate": 93.9,
-      "rural-rate": 88.5,
-      "estate-rate": 75.7
+      "male-rate": 90,
+      "female-rate": 86,
+      "urban-rate": 94,
+      "rural-rate": 88,
+      "estate-rate": 76
     },
-    "total": 434.70000000000005,
-    "total_from_source": 88.3,
-    "pct_values": {
-      "male-rate": 0.2075,
-      "female-rate": 0.1988,
-      "urban-rate": 0.216,
-      "rural-rate": 0.2036,
-      "estate-rate": 0.1741
-    }
+    "total": 435
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
-      "male-rate": 87.6,
-      "female-rate": 77.7,
-      "urban-rate": 92.9,
-      "rural-rate": 88.9,
-      "estate-rate": 76.6
+      "male-rate": 88,
+      "female-rate": 78,
+      "urban-rate": 93,
+      "rural-rate": 89,
+      "estate-rate": 77
     },
-    "total": 423.7,
-    "total_from_source": 82.6,
-    "pct_values": {
-      "male-rate": 0.2068,
-      "female-rate": 0.1834,
-      "urban-rate": 0.2193,
-      "rural-rate": 0.2098,
-      "estate-rate": 0.1808
-    }
+    "total": 424
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "male-rate": 276,
+      "female-rate": 267,
+      "urban-rate": 284,
+      "rural-rate": 272,
+      "estate-rate": 175
+    },
+    "total": 1275
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
-      "male-rate": 93.2,
-      "female-rate": 91.5,
-      "urban-rate": 94.9,
-      "rural-rate": 92.5,
-      "estate-rate": 64.3
+      "male-rate": 93,
+      "female-rate": 92,
+      "urban-rate": 95,
+      "rural-rate": 92,
+      "estate-rate": 64
     },
-    "total": 436.4,
-    "total_from_source": 92.3,
-    "pct_values": {
-      "male-rate": 0.2136,
-      "female-rate": 0.2097,
-      "urban-rate": 0.2175,
-      "rural-rate": 0.212,
-      "estate-rate": 0.1473
-    }
+    "total": 436
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
-      "male-rate": 91.9,
-      "female-rate": 88.9,
-      "urban-rate": 95.9,
-      "rural-rate": 90.8,
-      "estate-rate": 53.3
+      "male-rate": 92,
+      "female-rate": 89,
+      "urban-rate": 96,
+      "rural-rate": 91,
+      "estate-rate": 53
     },
-    "total": 420.8,
-    "total_from_source": 90.3,
-    "pct_values": {
-      "male-rate": 0.2184,
-      "female-rate": 0.2113,
-      "urban-rate": 0.2279,
-      "rural-rate": 0.2158,
-      "estate-rate": 0.1267
-    }
+    "total": 421
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
-      "male-rate": 90.9,
-      "female-rate": 87.0,
-      "urban-rate": 93.6,
-      "rural-rate": 88.9,
-      "estate-rate": 57.2
+      "male-rate": 91,
+      "female-rate": 87,
+      "urban-rate": 94,
+      "rural-rate": 89,
+      "estate-rate": 57
     },
-    "total": 417.6,
-    "total_from_source": 88.9,
-    "pct_values": {
-      "male-rate": 0.2177,
-      "female-rate": 0.2083,
-      "urban-rate": 0.2241,
-      "rural-rate": 0.2129,
-      "estate-rate": 0.137
-    }
+    "total": 418
+  },
+  {
+    "region_id": "LK-5",
+    "values": {
+      "male-rate": 89,
+      "female-rate": 83,
+      "urban-rate": 89,
+      "rural-rate": 85,
+      "estate-rate": 0
+    },
+    "total": 346
   },
   {
     "region_id": "LK-52",
-    "region_name": "Ampara",
     "values": {
-      "male-rate": 88.9,
-      "female-rate": 82.9,
-      "urban-rate": 88.9,
-      "rural-rate": 85.2,
+      "male-rate": 89,
+      "female-rate": 83,
+      "urban-rate": 89,
+      "rural-rate": 85,
       "estate-rate": 0
     },
-    "total": 345.90000000000003,
-    "total_from_source": 85.9,
-    "pct_values": {
-      "male-rate": 0.257,
-      "female-rate": 0.2397,
-      "urban-rate": 0.257,
-      "rural-rate": 0.2463,
-      "estate-rate": 0.0
-    }
+    "total": 346
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "male-rate": 185,
+      "female-rate": 182,
+      "urban-rate": 183,
+      "rural-rate": 184,
+      "estate-rate": 163
+    },
+    "total": 897
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
-      "male-rate": 93.9,
-      "female-rate": 91.5,
-      "urban-rate": 94.8,
-      "rural-rate": 92.7,
-      "estate-rate": 81.0
+      "male-rate": 94,
+      "female-rate": 92,
+      "urban-rate": 95,
+      "rural-rate": 93,
+      "estate-rate": 81
     },
-    "total": 453.9,
-    "total_from_source": 92.7,
-    "pct_values": {
-      "male-rate": 0.2069,
-      "female-rate": 0.2016,
-      "urban-rate": 0.2089,
-      "rural-rate": 0.2042,
-      "estate-rate": 0.1785
-    }
+    "total": 454
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
-      "male-rate": 91.2,
-      "female-rate": 90.3,
-      "urban-rate": 88.3,
-      "rural-rate": 91.0,
-      "estate-rate": 82.2
+      "male-rate": 91,
+      "female-rate": 90,
+      "urban-rate": 88,
+      "rural-rate": 91,
+      "estate-rate": 82
     },
-    "total": 443.0,
-    "total_from_source": 90.7,
-    "pct_values": {
-      "male-rate": 0.2059,
-      "female-rate": 0.2038,
-      "urban-rate": 0.1993,
-      "rural-rate": 0.2054,
-      "estate-rate": 0.1856
-    }
+    "total": 443
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "male-rate": 183,
+      "female-rate": 178,
+      "urban-rate": 96,
+      "rural-rate": 180,
+      "estate-rate": 190
+    },
+    "total": 826
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
-      "male-rate": 92.0,
-      "female-rate": 88.8,
-      "urban-rate": 96.0,
-      "rural-rate": 90.0,
-      "estate-rate": 96.4
+      "male-rate": 92,
+      "female-rate": 89,
+      "urban-rate": 96,
+      "rural-rate": 90,
+      "estate-rate": 96
     },
-    "total": 463.2,
-    "total_from_source": 90.5,
-    "pct_values": {
-      "male-rate": 0.1986,
-      "female-rate": 0.1917,
-      "urban-rate": 0.2073,
-      "rural-rate": 0.1943,
-      "estate-rate": 0.2081
-    }
+    "total": 463
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
-      "male-rate": 91.2,
-      "female-rate": 88.7,
+      "male-rate": 91,
+      "female-rate": 89,
       "urban-rate": 0,
-      "rural-rate": 90.0,
-      "estate-rate": 93.2
+      "rural-rate": 90,
+      "estate-rate": 93
     },
-    "total": 363.1,
-    "total_from_source": 90.0,
-    "pct_values": {
-      "male-rate": 0.2512,
-      "female-rate": 0.2443,
-      "urban-rate": 0.0,
-      "rural-rate": 0.2479,
-      "estate-rate": 0.2567
-    }
+    "total": 363
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "male-rate": 177,
+      "female-rate": 166,
+      "urban-rate": 94,
+      "rural-rate": 173,
+      "estate-rate": 153
+    },
+    "total": 763
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
-      "male-rate": 88.9,
-      "female-rate": 81.7,
-      "urban-rate": 93.8,
-      "rural-rate": 87.1,
-      "estate-rate": 75.8
+      "male-rate": 89,
+      "female-rate": 82,
+      "urban-rate": 94,
+      "rural-rate": 87,
+      "estate-rate": 76
     },
-    "total": 427.3,
-    "total_from_source": 85.2,
-    "pct_values": {
-      "male-rate": 0.2081,
-      "female-rate": 0.1912,
-      "urban-rate": 0.2195,
-      "rural-rate": 0.2038,
-      "estate-rate": 0.1774
-    }
+    "total": 427
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
-      "male-rate": 88.1,
-      "female-rate": 83.8,
+      "male-rate": 88,
+      "female-rate": 84,
       "urban-rate": 0,
-      "rural-rate": 86.2,
-      "estate-rate": 77.2
+      "rural-rate": 86,
+      "estate-rate": 77
     },
-    "total": 335.3,
-    "total_from_source": 86.0,
-    "pct_values": {
-      "male-rate": 0.2627,
-      "female-rate": 0.2499,
-      "urban-rate": 0.0,
-      "rural-rate": 0.2571,
-      "estate-rate": 0.2302
-    }
+    "total": 335
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "male-rate": 183,
+      "female-rate": 176,
+      "urban-rate": 189,
+      "rural-rate": 182,
+      "estate-rate": 147
+    },
+    "total": 878
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
-      "male-rate": 90.4,
-      "female-rate": 86.2,
-      "urban-rate": 94.3,
-      "rural-rate": 89.8,
-      "estate-rate": 72.3
+      "male-rate": 90,
+      "female-rate": 86,
+      "urban-rate": 94,
+      "rural-rate": 90,
+      "estate-rate": 72
     },
-    "total": 433.0,
-    "total_from_source": 88.4,
-    "pct_values": {
-      "male-rate": 0.2088,
-      "female-rate": 0.1991,
-      "urban-rate": 0.2178,
-      "rural-rate": 0.2074,
-      "estate-rate": 0.167
-    }
+    "total": 433
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
-      "male-rate": 93.0,
-      "female-rate": 89.8,
-      "urban-rate": 94.6,
-      "rural-rate": 92.5,
-      "estate-rate": 75.0
+      "male-rate": 93,
+      "female-rate": 90,
+      "urban-rate": 95,
+      "rural-rate": 92,
+      "estate-rate": 75
     },
-    "total": 444.9,
-    "total_from_source": 91.4,
-    "pct_values": {
-      "male-rate": 0.209,
-      "female-rate": 0.2018,
-      "urban-rate": 0.2126,
-      "rural-rate": 0.2079,
-      "estate-rate": 0.1686
-    }
+    "total": 445
   }
 ]

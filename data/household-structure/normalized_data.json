@@ -1,362 +1,299 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "urban": 511717,
+      "rural": 3320198,
+      "estate": 222271,
+      "average-household-size": 75,
+      "female-headed-households": 814725
+    },
+    "total": 4868986
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "urban": 340848,
+      "rural": 878693,
+      "estate": 11667,
+      "average-household-size": 13,
+      "female-headed-households": 252394
+    },
+    "total": 1483615
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "urban": 254576,
       "rural": 236651,
       "estate": 1858,
-      "average-household-size": 4.4,
+      "average-household-size": 4,
       "female-headed-households": 105140
     },
-    "total": 598229.4,
-    "total_from_source": 493085,
-    "pct_values": {
-      "urban": 0.4255,
-      "rural": 0.3956,
-      "estate": 0.0031,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1758
-    }
+    "total": 598229
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "urban": 64254,
       "rural": 422722,
       "estate": 208,
-      "average-household-size": 4.2,
+      "average-household-size": 4,
       "female-headed-households": 98424
     },
-    "total": 585612.2,
-    "total_from_source": 487184,
-    "pct_values": {
-      "urban": 0.1097,
-      "rural": 0.7218,
-      "estate": 0.0004,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1681
-    }
+    "total": 585612
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "urban": 22018,
       "rural": 219320,
       "estate": 9601,
-      "average-household-size": 4.3,
+      "average-household-size": 4,
       "female-headed-households": 48830
     },
-    "total": 299773.3,
-    "total_from_source": 250939,
-    "pct_values": {
-      "urban": 0.0734,
-      "rural": 0.7316,
-      "estate": 0.032,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1629
-    }
+    "total": 299773
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "urban": 48688,
+      "rural": 414241,
+      "estate": 117367,
+      "average-household-size": 13,
+      "female-headed-households": 120738
+    },
+    "total": 701047
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "urban": 31683,
       "rural": 244976,
       "estate": 23211,
-      "average-household-size": 4.3,
+      "average-household-size": 4,
       "female-headed-households": 66914
     },
-    "total": 366788.3,
-    "total_from_source": 299870,
-    "pct_values": {
-      "urban": 0.0864,
-      "rural": 0.6679,
-      "estate": 0.0633,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1824
-    }
+    "total": 366788
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "urban": 7460,
       "rural": 97769,
       "estate": 5657,
-      "average-household-size": 4.0,
+      "average-household-size": 4,
       "female-headed-households": 23014
     },
-    "total": 133904.0,
-    "total_from_source": 110886,
-    "pct_values": {
-      "urban": 0.0557,
-      "rural": 0.7301,
-      "estate": 0.0422,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1719
-    }
+    "total": 133904
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "urban": 9545,
       "rural": 71496,
       "estate": 88499,
-      "average-household-size": 4.3,
+      "average-household-size": 4,
       "female-headed-households": 30810
     },
-    "total": 200354.3,
-    "total_from_source": 169540,
-    "pct_values": {
-      "urban": 0.0476,
-      "rural": 0.3568,
-      "estate": 0.4417,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1538
-    }
+    "total": 200354
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "urban": 38955,
+      "rural": 490557,
+      "estate": 9136,
+      "average-household-size": 13,
+      "female-headed-households": 114855
+    },
+    "total": 653516
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "urban": 21256,
       "rural": 207441,
       "estate": 4330,
-      "average-household-size": 4.3,
+      "average-household-size": 4,
       "female-headed-households": 50163
     },
-    "total": 283194.3,
-    "total_from_source": 233027,
-    "pct_values": {
-      "urban": 0.0751,
-      "rural": 0.7325,
-      "estate": 0.0153,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1771
-    }
+    "total": 283194
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "urban": 13176,
       "rural": 159718,
       "estate": 4719,
-      "average-household-size": 4.4,
+      "average-household-size": 4,
       "female-headed-households": 39188
     },
-    "total": 216805.4,
-    "total_from_source": 177613,
-    "pct_values": {
-      "urban": 0.0608,
-      "rural": 0.7367,
-      "estate": 0.0218,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1808
-    }
+    "total": 216805
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "urban": 4523,
       "rural": 123398,
       "estate": 87,
-      "average-household-size": 4.2,
+      "average-household-size": 4,
       "female-headed-households": 25504
     },
-    "total": 153516.2,
-    "total_from_source": 128008,
-    "pct_values": {
-      "urban": 0.0295,
-      "rural": 0.8038,
-      "estate": 0.0006,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1661
-    }
+    "total": 153516
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "urban": 25115,
       "rural": 112626,
       "estate": 0,
-      "average-household-size": 4.2,
+      "average-household-size": 4,
       "female-headed-households": 27505
     },
-    "total": 165250.2,
-    "total_from_source": 137741,
-    "pct_values": {
-      "urban": 0.152,
-      "rural": 0.6815,
-      "estate": 0.0,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1664
-    }
+    "total": 165250
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "urban": 25115,
+      "rural": 112626,
+      "estate": 0,
+      "average-household-size": 4,
+      "female-headed-households": 27505
+    },
+    "total": 165250
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "urban": 20719,
+      "rural": 533619,
+      "estate": 2419,
+      "average-household-size": 8,
+      "female-headed-households": 114303
+    },
+    "total": 671068
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "urban": 6511,
       "rural": 371906,
       "estate": 1796,
-      "average-household-size": 3.9,
+      "average-household-size": 4,
       "female-headed-households": 79141
     },
-    "total": 459357.9,
-    "total_from_source": 380213,
-    "pct_values": {
-      "urban": 0.0142,
-      "rural": 0.8096,
-      "estate": 0.0039,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1723
-    }
+    "total": 459358
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "urban": 14208,
       "rural": 161713,
       "estate": 623,
-      "average-household-size": 4.1,
+      "average-household-size": 4,
       "female-headed-households": 35162
     },
-    "total": 211710.1,
-    "total_from_source": 176544,
-    "pct_values": {
-      "urban": 0.0671,
-      "rural": 0.7638,
-      "estate": 0.0029,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1661
-    }
+    "total": 211710
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "urban": 11030,
+      "rural": 270047,
+      "estate": 340,
+      "average-household-size": 8,
+      "female-headed-households": 53724
+    },
+    "total": 335149
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "urban": 11030,
       "rural": 178427,
       "estate": 242,
-      "average-household-size": 3.9,
+      "average-household-size": 4,
       "female-headed-households": 36560
     },
-    "total": 226262.9,
-    "total_from_source": 189699,
-    "pct_values": {
-      "urban": 0.0487,
-      "rural": 0.7886,
-      "estate": 0.0011,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1616
-    }
+    "total": 226263
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "urban": 0,
       "rural": 91620,
       "estate": 98,
-      "average-household-size": 3.9,
+      "average-household-size": 4,
       "female-headed-households": 17164
     },
-    "total": 108885.9,
-    "total_from_source": 91718,
-    "pct_values": {
-      "urban": 0.0,
-      "rural": 0.8414,
-      "estate": 0.0009,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1576
-    }
+    "total": 108886
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "urban": 10849,
+      "rural": 233866,
+      "estate": 41808,
+      "average-household-size": 8,
+      "female-headed-households": 49515
+    },
+    "total": 336046
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "urban": 10849,
       "rural": 139571,
       "estate": 39505,
-      "average-household-size": 4.2,
+      "average-household-size": 4,
       "female-headed-households": 34959
     },
-    "total": 224888.2,
-    "total_from_source": 189925,
-    "pct_values": {
-      "urban": 0.0482,
-      "rural": 0.6206,
-      "estate": 0.1757,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1555
-    }
+    "total": 224888
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "urban": 0,
       "rural": 94295,
       "estate": 2303,
-      "average-household-size": 4.2,
+      "average-household-size": 4,
       "female-headed-households": 14556
     },
-    "total": 111158.2,
-    "total_from_source": 96598,
-    "pct_values": {
-      "urban": 0.0,
-      "rural": 0.8483,
-      "estate": 0.0207,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1309
-    }
+    "total": 111158
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "urban": 15513,
+      "rural": 386549,
+      "estate": 39534,
+      "average-household-size": 8,
+      "female-headed-households": 81691
+    },
+    "total": 523295
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "urban": 12059,
       "rural": 208081,
       "estate": 25603,
-      "average-household-size": 4.2,
+      "average-household-size": 4,
       "female-headed-households": 40151
     },
-    "total": 285898.2,
-    "total_from_source": 245743,
-    "pct_values": {
-      "urban": 0.0422,
-      "rural": 0.7278,
-      "estate": 0.0896,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.1404
-    }
+    "total": 285898
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "urban": 3454,
       "rural": 178468,
       "estate": 13931,
-      "average-household-size": 4.1,
+      "average-household-size": 4,
       "female-headed-households": 41540
     },
-    "total": 237397.1,
-    "total_from_source": 195853,
-    "pct_values": {
-      "urban": 0.0145,
-      "rural": 0.7518,
-      "estate": 0.0587,
-      "average-household-size": 0.0,
-      "female-headed-households": 0.175
-    }
+    "total": 237397
   }
 ]

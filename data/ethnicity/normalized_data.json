@@ -1,7 +1,32 @@
 [
   {
+    "region_id": "LK",
+    "values": {
+      "sinhalese": 13876245,
+      "sri-lanka-tamil": 732149,
+      "indian-tamil": 855025,
+      "sri-lanka-moor": 1339331,
+      "burgher": 35283,
+      "malay": 54782,
+      "other": 36874
+    },
+    "total": 16929689
+  },
+  {
+    "region_id": "LK-1",
+    "values": {
+      "sinhalese": 4530918,
+      "sri-lanka-tamil": 325706,
+      "indian-tamil": 61337,
+      "sri-lanka-moor": 374729,
+      "burgher": 27632,
+      "malay": 36434,
+      "other": 24441
+    },
+    "total": 5381197
+  },
+  {
     "region_id": "LK-11",
-    "region_name": "Colombo",
     "values": {
       "sinhalese": 1724459,
       "sri-lanka-tamil": 247739,
@@ -11,21 +36,10 @@
       "malay": 21778,
       "other": 14043
     },
-    "total": 2251274,
-    "total_from_source": 2251274,
-    "pct_values": {
-      "sinhalese": 0.766,
-      "sri-lanka-tamil": 0.11,
-      "indian-tamil": 0.011,
-      "sri-lanka-moor": 0.0901,
-      "burgher": 0.007,
-      "malay": 0.0097,
-      "other": 0.0062
-    }
+    "total": 2251274
   },
   {
     "region_id": "LK-12",
-    "region_name": "Gampaha",
     "values": {
       "sinhalese": 1877545,
       "sri-lanka-tamil": 65302,
@@ -35,21 +49,10 @@
       "malay": 13683,
       "other": 9735
     },
-    "total": 2063684,
-    "total_from_source": 2063684,
-    "pct_values": {
-      "sinhalese": 0.9098,
-      "sri-lanka-tamil": 0.0316,
-      "indian-tamil": 0.0037,
-      "sri-lanka-moor": 0.0381,
-      "burgher": 0.0054,
-      "malay": 0.0066,
-      "other": 0.0047
-    }
+    "total": 2063684
   },
   {
     "region_id": "LK-13",
-    "region_name": "Kalutara",
     "values": {
       "sinhalese": 928914,
       "sri-lanka-tamil": 12665,
@@ -59,21 +62,23 @@
       "malay": 973,
       "other": 663
     },
-    "total": 1066239,
-    "total_from_source": 1066239,
-    "pct_values": {
-      "sinhalese": 0.8712,
-      "sri-lanka-tamil": 0.0119,
-      "indian-tamil": 0.0271,
-      "sri-lanka-moor": 0.0875,
-      "burgher": 0.0008,
-      "malay": 0.0009,
-      "other": 0.0006
-    }
+    "total": 1066239
+  },
+  {
+    "region_id": "LK-2",
+    "values": {
+      "sinhalese": 1584100,
+      "sri-lanka-tamil": 122438,
+      "indian-tamil": 482945,
+      "sri-lanka-moor": 223066,
+      "burgher": 3162,
+      "malay": 4250,
+      "other": 4005
+    },
+    "total": 2423966
   },
   {
     "region_id": "LK-21",
-    "region_name": "Kandy",
     "values": {
       "sinhalese": 947900,
       "sri-lanka-tamil": 52052,
@@ -83,21 +88,10 @@
       "malay": 2668,
       "other": 2609
     },
-    "total": 1279028,
-    "total_from_source": 1279028,
-    "pct_values": {
-      "sinhalese": 0.7411,
-      "sri-lanka-tamil": 0.0407,
-      "indian-tamil": 0.081,
-      "sri-lanka-moor": 0.1314,
-      "burgher": 0.0017,
-      "malay": 0.0021,
-      "other": 0.002
-    }
+    "total": 1279028
   },
   {
     "region_id": "LK-22",
-    "region_name": "Matale",
     "values": {
       "sinhalese": 353579,
       "sri-lanka-tamil": 24320,
@@ -107,21 +101,10 @@
       "malay": 523,
       "other": 549
     },
-    "total": 441328,
-    "total_from_source": 441328,
-    "pct_values": {
-      "sinhalese": 0.8012,
-      "sri-lanka-tamil": 0.0551,
-      "indian-tamil": 0.0532,
-      "sri-lanka-moor": 0.0872,
-      "burgher": 0.0009,
-      "malay": 0.0012,
-      "other": 0.0012
-    }
+    "total": 441328
   },
   {
     "region_id": "LK-23",
-    "region_name": "Nuwara Eliya",
     "values": {
       "sinhalese": 282621,
       "sri-lanka-tamil": 46066,
@@ -131,21 +114,23 @@
       "malay": 1059,
       "other": 847
     },
-    "total": 703610,
-    "total_from_source": 703610,
-    "pct_values": {
-      "sinhalese": 0.4017,
-      "sri-lanka-tamil": 0.0655,
-      "indian-tamil": 0.5057,
-      "sri-lanka-moor": 0.0235,
-      "burgher": 0.0009,
-      "malay": 0.0015,
-      "other": 0.0012
-    }
+    "total": 703610
+  },
+  {
+    "region_id": "LK-3",
+    "values": {
+      "sinhalese": 2162690,
+      "sri-lanka-tamil": 18109,
+      "indian-tamil": 26371,
+      "sri-lanka-moor": 62467,
+      "burgher": 475,
+      "malay": 7520,
+      "other": 639
+    },
+    "total": 2278271
   },
   {
     "region_id": "LK-31",
-    "region_name": "Galle",
     "values": {
       "sinhalese": 934751,
       "sri-lanka-tamil": 11079,
@@ -155,21 +140,10 @@
       "malay": 178,
       "other": 308
     },
-    "total": 990487,
-    "total_from_source": 990487,
-    "pct_values": {
-      "sinhalese": 0.9437,
-      "sri-lanka-tamil": 0.0112,
-      "indian-tamil": 0.0094,
-      "sri-lanka-moor": 0.035,
-      "burgher": 0.0002,
-      "malay": 0.0002,
-      "other": 0.0003
-    }
+    "total": 990487
   },
   {
     "region_id": "LK-32",
-    "region_name": "Matara",
     "values": {
       "sinhalese": 716974,
       "sri-lanka-tamil": 5161,
@@ -179,21 +153,10 @@
       "malay": 87,
       "other": 164
     },
-    "total": 761370,
-    "total_from_source": 761370,
-    "pct_values": {
-      "sinhalese": 0.9417,
-      "sri-lanka-tamil": 0.0068,
-      "indian-tamil": 0.0219,
-      "sri-lanka-moor": 0.0291,
-      "burgher": 0.0002,
-      "malay": 0.0001,
-      "other": 0.0002
-    }
+    "total": 761370
   },
   {
     "region_id": "LK-33",
-    "region_name": "Hambantota",
     "values": {
       "sinhalese": 510965,
       "sri-lanka-tamil": 1869,
@@ -203,21 +166,10 @@
       "malay": 7255,
       "other": 167
     },
-    "total": 526414,
-    "total_from_source": 526414,
-    "pct_values": {
-      "sinhalese": 0.9707,
-      "sri-lanka-tamil": 0.0036,
-      "indian-tamil": 0.0008,
-      "sri-lanka-moor": 0.0107,
-      "burgher": 0.0002,
-      "malay": 0.0138,
-      "other": 0.0003
-    }
+    "total": 526414
   },
   {
-    "region_id": "LK-52",
-    "region_name": "Ampara",
+    "region_id": "LK-5",
     "values": {
       "sinhalese": 236583,
       "sri-lanka-tamil": 109188,
@@ -227,21 +179,36 @@
       "malay": 225,
       "other": 482
     },
-    "total": 592997,
-    "total_from_source": 592997,
-    "pct_values": {
-      "sinhalese": 0.399,
-      "sri-lanka-tamil": 0.1841,
-      "indian-tamil": 0.0012,
-      "sri-lanka-moor": 0.4125,
-      "burgher": 0.002,
-      "malay": 0.0004,
-      "other": 0.0008
-    }
+    "total": 592997
+  },
+  {
+    "region_id": "LK-52",
+    "values": {
+      "sinhalese": 236583,
+      "sri-lanka-tamil": 109188,
+      "indian-tamil": 715,
+      "sri-lanka-moor": 244620,
+      "burgher": 1184,
+      "malay": 225,
+      "other": 482
+    },
+    "total": 592997
+  },
+  {
+    "region_id": "LK-6",
+    "values": {
+      "sinhalese": 1864353,
+      "sri-lanka-tamil": 65657,
+      "indian-tamil": 5199,
+      "sri-lanka-moor": 227678,
+      "burgher": 1348,
+      "malay": 3364,
+      "other": 2293
+    },
+    "total": 2169892
   },
   {
     "region_id": "LK-61",
-    "region_name": "Kurunegala",
     "values": {
       "sinhalese": 1341237,
       "sri-lanka-tamil": 17585,
@@ -251,21 +218,10 @@
       "malay": 2150,
       "other": 1114
     },
-    "total": 1460215,
-    "total_from_source": 1460215,
-    "pct_values": {
-      "sinhalese": 0.9185,
-      "sri-lanka-tamil": 0.012,
-      "indian-tamil": 0.002,
-      "sri-lanka-moor": 0.0647,
-      "burgher": 0.0004,
-      "malay": 0.0015,
-      "other": 0.0008
-    }
+    "total": 1460215
   },
   {
     "region_id": "LK-62",
-    "region_name": "Puttalam",
     "values": {
       "sinhalese": 523116,
       "sri-lanka-tamil": 48072,
@@ -275,21 +231,23 @@
       "malay": 1214,
       "other": 1179
     },
-    "total": 709677,
-    "total_from_source": 709677,
-    "pct_values": {
-      "sinhalese": 0.7371,
-      "sri-lanka-tamil": 0.0677,
-      "indian-tamil": 0.0031,
-      "sri-lanka-moor": 0.1876,
-      "burgher": 0.001,
-      "malay": 0.0017,
-      "other": 0.0017
-    }
+    "total": 709677
+  },
+  {
+    "region_id": "LK-7",
+    "values": {
+      "sinhalese": 1000476,
+      "sri-lanka-tamil": 12107,
+      "indian-tamil": 637,
+      "sri-lanka-moor": 89064,
+      "burgher": 241,
+      "malay": 327,
+      "other": 1825
+    },
+    "total": 1104677
   },
   {
     "region_id": "LK-71",
-    "region_name": "Anuradhapura",
     "values": {
       "sinhalese": 676073,
       "sri-lanka-tamil": 5073,
@@ -299,21 +257,10 @@
       "malay": 279,
       "other": 1657
     },
-    "total": 745693,
-    "total_from_source": 745693,
-    "pct_values": {
-      "sinhalese": 0.9066,
-      "sri-lanka-tamil": 0.0068,
-      "indian-tamil": 0.0006,
-      "sri-lanka-moor": 0.0831,
-      "burgher": 0.0002,
-      "malay": 0.0004,
-      "other": 0.0022
-    }
+    "total": 745693
   },
   {
     "region_id": "LK-72",
-    "region_name": "Polonnaruwa",
     "values": {
       "sinhalese": 324403,
       "sri-lanka-tamil": 7034,
@@ -323,21 +270,23 @@
       "malay": 48,
       "other": 168
     },
-    "total": 358984,
-    "total_from_source": 358984,
-    "pct_values": {
-      "sinhalese": 0.9037,
-      "sri-lanka-tamil": 0.0196,
-      "indian-tamil": 0.0005,
-      "sri-lanka-moor": 0.0754,
-      "burgher": 0.0002,
-      "malay": 0.0001,
-      "other": 0.0005
-    }
+    "total": 358984
+  },
+  {
+    "region_id": "LK-8",
+    "values": {
+      "sinhalese": 940443,
+      "sri-lanka-tamil": 35296,
+      "indian-tamil": 151028,
+      "sri-lanka-moor": 46598,
+      "burgher": 707,
+      "malay": 1940,
+      "other": 1346
+    },
+    "total": 1177358
   },
   {
     "region_id": "LK-81",
-    "region_name": "Badulla",
     "values": {
       "sinhalese": 564752,
       "sri-lanka-tamil": 29542,
@@ -347,21 +296,10 @@
       "malay": 1813,
       "other": 960
     },
-    "total": 779983,
-    "total_from_source": 779983,
-    "pct_values": {
-      "sinhalese": 0.7241,
-      "sri-lanka-tamil": 0.0379,
-      "indian-tamil": 0.184,
-      "sri-lanka-moor": 0.0497,
-      "burgher": 0.0007,
-      "malay": 0.0023,
-      "other": 0.0012
-    }
+    "total": 779983
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
     "values": {
       "sinhalese": 375691,
       "sri-lanka-tamil": 5754,
@@ -371,21 +309,23 @@
       "malay": 127,
       "other": 386
     },
-    "total": 397375,
-    "total_from_source": 397375,
-    "pct_values": {
-      "sinhalese": 0.9454,
-      "sri-lanka-tamil": 0.0145,
-      "indian-tamil": 0.0189,
-      "sri-lanka-moor": 0.0196,
-      "burgher": 0.0003,
-      "malay": 0.0003,
-      "other": 0.001
-    }
+    "total": 397375
+  },
+  {
+    "region_id": "LK-9",
+    "values": {
+      "sinhalese": 1556682,
+      "sri-lanka-tamil": 43648,
+      "indian-tamil": 126793,
+      "sri-lanka-moor": 71109,
+      "burgher": 534,
+      "malay": 722,
+      "other": 1843
+    },
+    "total": 1801331
   },
   {
     "region_id": "LK-91",
-    "region_name": "Ratnapura",
     "values": {
       "sinhalese": 882017,
       "sri-lanka-tamil": 28740,
@@ -395,21 +335,10 @@
       "malay": 444,
       "other": 982
     },
-    "total": 1015807,
-    "total_from_source": 1015807,
-    "pct_values": {
-      "sinhalese": 0.8683,
-      "sri-lanka-tamil": 0.0283,
-      "indian-tamil": 0.0813,
-      "sri-lanka-moor": 0.0204,
-      "burgher": 0.0003,
-      "malay": 0.0004,
-      "other": 0.001
-    }
+    "total": 1015807
   },
   {
     "region_id": "LK-92",
-    "region_name": "Kegalle",
     "values": {
       "sinhalese": 674665,
       "sri-lanka-tamil": 14908,
@@ -419,16 +348,6 @@
       "malay": 278,
       "other": 861
     },
-    "total": 785524,
-    "total_from_source": 785524,
-    "pct_values": {
-      "sinhalese": 0.8589,
-      "sri-lanka-tamil": 0.019,
-      "indian-tamil": 0.0563,
-      "sri-lanka-moor": 0.0642,
-      "burgher": 0.0002,
-      "malay": 0.0004,
-      "other": 0.0011
-    }
+    "total": 785524
   }
 ]
