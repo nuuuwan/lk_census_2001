@@ -32,7 +32,7 @@
 26. [Informal Housing](data/informal-housing)
 27. [Labor Participation](data/labor-participation)
 28. [Leg Disability Causes](data/leg-disability-causes)
-29. [Linguistic Capacity](data/linguistic-capacity)
+29. [Linguistic Capacity](data/speaking-capacity)
 30. [Literacy Rates](data/literacy-rates)
 31. [Marital Status](data/marital-status)
 32. [Mental Disability Causes](data/mental-disability-causes)

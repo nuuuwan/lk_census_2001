@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/linguistic-capacity/data.json)
-- [📄 TSV Data](../../data/linguistic-capacity/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/linguistic-capacity/raw_data.json)
-- [📜 Original PDF](../../data/linguistic-capacity/original.pdf)
+- [📄 JSON Data](../../data/speaking-capacity/data.json)
+- [📄 TSV Data](../../data/speaking-capacity/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/speaking-capacity/raw_data.json)
+- [📜 Original PDF](../../data/speaking-capacity/original.pdf)
 
 ## Example JSON Row
 

@@ -341,34 +341,33 @@
     "not-specified",
     "not-specified-pct"
   ],
-  "linguistic-capacity": [
+  "speaking-capacity": [
     "district",
-    "sinhalese-population-sinhala-language",
-    "sinhalese-population-english-language",
-    "sri-lanka-tamil-population-tamil-language",
-    "sri-lanka-tamil-population-english-language",
-    "sri-lanka-tamil-population-sinhala-language",
-    "indian-tamil-population-english-language",
-    "indian-tamil-population-sinhala-language",
-    "sri-lanka-moor-population-english-language"
+    "sinhalese-speaking-tamil",
+    "sinhalese-speaking-english",
+    "sri-lanka-tamil-speaking-sinhala",
+    "sri-lanka-tamil-speaking-english",
+    "indian-tamil-speaking-sinhala",
+    "indian-tamil-speaking-english",
+    "sri-lanka-moor-speaking-sinhala",
+    "sri-lanka-moor-speaking-english"
   ],
   "literacy-rates": [
     "district",
-    "total",
-    "male",
-    "na",
-    "female",
-    "urban",
-    "rural",
-    "estate"
+    "total-rate",
+    "male-rate",
+    "female-rate",
+    "urban-rate",
+    "rural-rate",
+    "estate-rate"
   ],
   "marital-status": [
     "district",
     "total-population",
     "never-married",
     "never-married-pct",
-    "married-total",
-    "married-total-pct",
+    "total-married",
+    "total-married-pct",
     "married-registered",
     "married-registered-pct",
     "married-customary",
@@ -376,7 +375,11 @@
     "widowed",
     "widowed-pct",
     "divorced",
-    "divorced-pct"
+    "divorced-pct",
+    "legally-separated",
+    "legally-separated-pct",
+    "seperated-not-legally",
+    "seperated-not-legally-pct"
   ],
   "mental-disability-causes": [
     "district",
