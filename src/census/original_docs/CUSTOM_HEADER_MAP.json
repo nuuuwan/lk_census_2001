@@ -160,8 +160,8 @@
   ],
   "ethnicity": [
     "district",
-    "total-population",
-    "total-population-pct",
+    "total",
+    "total-pct",
     "sinhalese",
     "sinhalese-pct",
     "sri-lanka-tamil",
@@ -171,7 +171,11 @@
     "sri-lanka-moor",
     "sri-lanka-moor-pct",
     "burgher",
-    "burgher-pct"
+    "burgher-pct",
+    "malay",
+    "malay-pct",
+    "other",
+    "other-pct"
   ],
   "fertility-rates": ["district", "total", "urban", "rural", "estate"],
   "hand-disability-causes": [

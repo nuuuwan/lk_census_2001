@@ -9,7 +9,7 @@ def main():
     # OriginalDoc.build_global_readme()
 
     docs = OriginalDoc.list()
-    for doc in docs[10:15]:
+    for doc in docs[15:20]:
         os.system(f"open -a firefox {doc.pdf_file_path}")
 
     os.system('say "Pipeline Done"')
