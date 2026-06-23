@@ -525,9 +525,9 @@
     "female-rate",
     "passed-year-0-4-rate",
     "passed-year-5-9-rate",
-    "passed-gce-ol",
-    "passed-gce-al",
-    "degree-and-above"
+    "passed-gce-ol-rate",
+    "passed-gce-al-rate",
+    "degree-and-above-rate"
   ],
   "vision-disability-causes": [
     "sub-category",
