@@ -13,15 +13,15 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-31",
+    "region_name": "Galle",
     "values": {
-        "usually-not-economically-active-population-aged-10-years-and-over": 240681,
-        "students-pct": 38.3,
-        "unable-or-too-old-to-work-pct": 8.8,
-        "pension-recipients-and-pensioners-pct": 1.8,
-        "household-work-pct": 43.1,
-        "others-pct": 8.1
+        "usually-not-economically-active-population-aged-10-years-and-over": 454606,
+        "students-pct": 34.0,
+        "unable-or-too-old-to-work-pct": 9.2,
+        "pension-recipients-and-pensioners-pct": 3.6,
+        "household-work-pct": 43.7,
+        "others-pct": 9.4
     }
 }
 ```

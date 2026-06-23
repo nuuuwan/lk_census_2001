@@ -13,14 +13,14 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-21",
+    "region_name": "Kandy",
     "values": {
-        "population-aged-5-years-and-over": 480166,
-        "completed-primary-education-passed-year-1-5-pct": 26.7,
-        "completed-lower-secondary-passed-year-6-8-pct": 19.6,
-        "completed-upper-secondary-passed-year-9-11-pct": 36.9,
-        "completed-tertiary-education-passed-gce-al-above-pct": 7.6
+        "population-aged-5-years-and-over": 1169643,
+        "completed-primary-education-passed-year-1-5-pct": 21.6,
+        "completed-lower-secondary-passed-year-6-8-pct": 17.9,
+        "completed-upper-secondary-passed-year-9-11-pct": 39.4,
+        "completed-tertiary-education-passed-gce-al-above-pct": 12.1
     }
 }
 ```

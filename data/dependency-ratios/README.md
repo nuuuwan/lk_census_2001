@@ -13,13 +13,13 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "total",
+    "region_name": "District-Total",
     "values": {
-        "total-population": 526414,
-        "aged-00-14": 155132,
-        "aged-15-59": 322132,
-        "aged-60-and-over": 49150,
+        "total-population": 16929689,
+        "aged-00-14": 4449026,
+        "aged-15-59": 10916791,
+        "aged-60-and-over": 1563872,
         "dependency-ratio-total": null,
         "dependency-ratio-young": null,
         "dependency-ratio-old": null

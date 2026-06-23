@@ -1,3 +1,5 @@
+import random
+
 from census import OriginalDoc
 from utils_future import Log
 
@@ -5,6 +7,7 @@ log = Log("pipeline")
 
 
 def main():
+    random.seed(0)
     OriginalDoc.scrape_remote()
     OriginalDoc.validate_status()
     OriginalDoc.build_global_readme()

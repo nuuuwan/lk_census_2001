@@ -13,22 +13,22 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
     "values": {
-        "total-population": 526414,
+        "total-population": 745693,
         "total-population-pct": 100.0,
-        "buddhist": 509987,
-        "buddhist-pct": 96.9,
-        "hindu": 1369,
-        "hindu-pct": 0.3,
-        "islam": 13076,
-        "islam-pct": 2.5,
-        "roman-catholic": 924,
-        "roman-catholic-pct": 0.2,
-        "other-christian": 949,
-        "other-christian-pct": 0.2,
-        "other": 109,
+        "buddhist": 670963,
+        "buddhist-pct": 90.0,
+        "hindu": 3459,
+        "hindu-pct": 0.5,
+        "islam": 62797,
+        "islam-pct": 8.4,
+        "roman-catholic": 6266,
+        "roman-catholic-pct": 0.8,
+        "other-christian": 2073,
+        "other-christian-pct": 0.3,
+        "other": 135,
         "other-pct": 0.0
     }
 }

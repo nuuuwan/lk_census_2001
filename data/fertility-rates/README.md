@@ -13,8 +13,8 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-81",
+    "region_name": "Badulla",
     "values": {
         "total": null,
         "urban": null,

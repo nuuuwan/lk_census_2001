@@ -13,8 +13,8 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
     "values": {
         "total-occupied-housing-units": null,
         "permanent": null,

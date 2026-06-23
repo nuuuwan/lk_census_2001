@@ -13,13 +13,13 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-52",
+    "region_name": "Ampara",
     "values": {
-        "population-aged-5-34-years": 278345,
-        "attending-school-pct": 47.9,
+        "population-aged-5-34-years": 343530,
+        "attending-school-pct": 43.1,
         "attending-university-pct": 0.4,
-        "attending-vocational-or-technical-institution-pct": 0.7
+        "attending-vocational-or-technical-institution-pct": 0.6
     }
 }
 ```

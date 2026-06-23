@@ -13,14 +13,14 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-31",
+    "region_name": "Galle",
     "values": {
         "total-rate": 10.8,
-        "male-rate": 8.4,
-        "female-rate": 17.4,
-        "passed-year-0-4-rate": 2.0,
-        "passed-year-5-9-rate": 10.2,
+        "male-rate": 9.4,
+        "female-rate": 13.6,
+        "passed-year-0-4-rate": 2.6,
+        "passed-year-5-9-rate": 10.6,
         "passed-gce-ol": null,
         "passed-gce-al": null,
         "degree-and-above": null

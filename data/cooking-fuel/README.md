@@ -13,16 +13,16 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
     "values": {
-        "total-occupied-housing-units": 128008,
-        "firewood": 120500,
-        "firewood-pct": 94.1,
-        "lp-gas": 5699,
-        "lp-gas-pct": 4.5,
-        "kerosene": 429,
-        "kerosene-pct": 0.3
+        "total-occupied-housing-units": 250939,
+        "firewood": 200912,
+        "firewood-pct": 80.1,
+        "lp-gas": 41692,
+        "lp-gas-pct": 16.6,
+        "kerosene": 3671,
+        "kerosene-pct": 1.5
     }
 }
 ```

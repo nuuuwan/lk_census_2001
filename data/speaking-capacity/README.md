@@ -13,8 +13,8 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-52",
+    "region_name": "Ampara",
     "values": {
         "sinhalese-speaking-tamil": null,
         "sinhalese-speaking-english": null,

@@ -13,16 +13,16 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
     "values": {
-        "total-occupied-housing-units": 126362,
-        "permanent": 75720,
-        "permanent-pct": 59.9,
-        "semi-permanent": 49367,
-        "semi-permanent-pct": 39.1,
-        "improvised": 590,
-        "improvised-pct": 0.5
+        "total-occupied-housing-units": 95966,
+        "permanent": 46691,
+        "permanent-pct": 48.7,
+        "semi-permanent": 48327,
+        "semi-permanent-pct": 50.4,
+        "improvised": 380,
+        "improvised-pct": 0.4
     }
 }
 ```

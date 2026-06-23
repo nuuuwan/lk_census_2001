@@ -13,25 +13,25 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
     "values": {
-        "total": 526414,
+        "total": 785524,
         "total-pct": 100.0,
-        "sinhalese": 510965,
-        "sinhalese-pct": 97.1,
-        "sri-lanka-tamil": 1869,
-        "sri-lanka-tamil-pct": 0.4,
-        "indian-tamil": 424,
-        "indian-tamil-pct": 0.1,
-        "sri-lanka-moor": 5646,
-        "sri-lanka-moor-pct": 1.1,
-        "burgher": 88,
+        "sinhalese": 674665,
+        "sinhalese-pct": 85.9,
+        "sri-lanka-tamil": 14908,
+        "sri-lanka-tamil-pct": 1.9,
+        "indian-tamil": 44202,
+        "indian-tamil-pct": 5.6,
+        "sri-lanka-moor": 50419,
+        "sri-lanka-moor-pct": 6.4,
+        "burgher": 191,
         "burgher-pct": 0.0,
-        "malay": 7255,
-        "malay-pct": 1.4,
-        "other": 167,
-        "other-pct": 0.0
+        "malay": 278,
+        "malay-pct": 0.0,
+        "other": 861,
+        "other-pct": 0.1
     }
 }
 ```

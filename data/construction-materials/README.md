@@ -13,16 +13,16 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
     "values": {
-        "total-occupied-housing-units": 126362,
-        "outer-walls-bricks-cabooks-cement-blocks-stones": 94041,
-        "outer-walls-bricks-cabooks-cement-blocks-stones-pct": 74.4,
-        "floor-cement-tile-terrazo-granite": 84961,
-        "floor-cement-tile-terrazo-granite-pct": 67.2,
-        "roof-tile-asbestos-concrete-metal-sheets": 99305,
-        "roof-tile-asbestos-concrete-metal-sheets-pct": 78.6
+        "total-occupied-housing-units": 174737,
+        "outer-walls-bricks-cabooks-cement-blocks-stones": 116491,
+        "outer-walls-bricks-cabooks-cement-blocks-stones-pct": 66.7,
+        "floor-cement-tile-terrazo-granite": 145846,
+        "floor-cement-tile-terrazo-granite-pct": 83.5,
+        "roof-tile-asbestos-concrete-metal-sheets": 115633,
+        "roof-tile-asbestos-concrete-metal-sheets-pct": 66.2
     }
 }
 ```

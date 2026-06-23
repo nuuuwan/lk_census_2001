@@ -13,17 +13,17 @@
 
 ```json
 {
-    "region_id": "LK-42",
-    "region_name": "Kilinochchi",
+    "region_id": "LK-11",
+    "region_name": "Colombo",
     "values": {
-        "usual-resident": 66,
-        "resident-since-birth": 20,
-        "total-migrants": 46,
-        "migrants-less-than-1-year": 3,
-        "migrants-1-4-years": 5,
-        "migrants-5-9-years": 8,
-        "migrants-10-years-and-more": 16,
-        "migrants-not-stated": 14
+        "usual-resident": 2239696,
+        "resident-since-birth": 1517117,
+        "total-migrants": 722579,
+        "migrants-less-than-1-year": 94122,
+        "migrants-1-4-years": 161114,
+        "migrants-5-9-years": 108793,
+        "migrants-10-years-and-more": 305984,
+        "migrants-not-stated": 52566
     }
 }
 ```

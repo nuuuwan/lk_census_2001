@@ -13,10 +13,10 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "total",
+    "region_name": "District-Total",
     "values": {
-        "total-employed-population-aged-10-years-and-over": 164923,
+        "total-employed-population-aged-10-years-and-over": 5941574,
         "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
         "service-workers-market-and-sales-workers-and-private-business-owners": null,
         "production-and-related-workers": null,

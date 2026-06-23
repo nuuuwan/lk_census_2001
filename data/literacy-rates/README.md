@@ -13,15 +13,15 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-52",
+    "region_name": "Ampara",
     "values": {
-        "total-rate": 88.9,
-        "male-rate": 90.9,
-        "female-rate": 87.0,
-        "urban-rate": 93.6,
-        "rural-rate": 88.9,
-        "estate-rate": 57.2
+        "total-rate": 85.9,
+        "male-rate": 88.9,
+        "female-rate": 82.9,
+        "urban-rate": 88.9,
+        "rural-rate": 85.2,
+        "estate-rate": null
     }
 }
 ```

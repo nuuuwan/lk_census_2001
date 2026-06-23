@@ -13,14 +13,14 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-21",
+    "region_name": "Kandy",
     "values": {
-        "total-occupied-housing-units": 128008,
-        "pipe-borne-water": 42704,
-        "pipe-borne-water-pct": 33.4,
-        "safe-water": 106758,
-        "safe-water-pct": 83.4
+        "total-occupied-housing-units": 299870,
+        "pipe-borne-water": 115022,
+        "pipe-borne-water-pct": 38.4,
+        "safe-water": 244357,
+        "safe-water-pct": 81.5
     }
 }
 ```

@@ -13,18 +13,18 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
     "values": {
-        "total-occupied-housing-units": 128008,
-        "owned-by-member-of-household": 117954,
-        "owned-by-member-of-household-pct": 92.1,
-        "rent-free": 2089,
-        "rent-free-pct": 1.6,
-        "rent-lease": 2407,
-        "rent-lease-pct": 1.9,
-        "encroached": 2488,
-        "encroached-pct": 1.9
+        "total-occupied-housing-units": 380213,
+        "owned-by-member-of-household": 345090,
+        "owned-by-member-of-household-pct": 90.8,
+        "rent-free": 12913,
+        "rent-free-pct": 3.4,
+        "rent-lease": 8283,
+        "rent-lease-pct": 2.2,
+        "encroached": 2765,
+        "encroached-pct": 0.7
     }
 }
 ```

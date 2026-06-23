@@ -13,13 +13,13 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
     "values": {
-        "total-occupied-housing-units": 126362,
-        "urban": 4369,
-        "rural": 121905,
-        "estate": 88
+        "total-occupied-housing-units": 174737,
+        "urban": 13930,
+        "rural": 160185,
+        "estate": 622
     }
 }
 ```

@@ -13,12 +13,12 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
     "values": {
-        "total-housing-units": 126362,
-        "huts-and-shanties": 877,
-        "huts-and-shanties-pct": 0.7
+        "total-housing-units": 376352,
+        "huts-and-shanties": 2388,
+        "huts-and-shanties-pct": 0.6
     }
 }
 ```

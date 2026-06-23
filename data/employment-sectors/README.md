@@ -13,14 +13,14 @@
 
 ```json
 {
-    "region_id": "LK-33",
-    "region_name": "Hambantota",
+    "region_id": "LK-21",
+    "region_name": "Kandy",
     "values": {
-        "total-employed-population-aged-10-years-and-over": 164923,
-        "agricultural-and-fishery-workers-including-unskilled-labourers": 68095,
-        "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 41.3,
-        "non-agricultural-and-fishery-workers": 96828,
-        "non-agricultural-and-fishery-workers-pct": 58.7
+        "total-employed-population-aged-10-years-and-over": 407554,
+        "agricultural-and-fishery-workers-including-unskilled-labourers": 88506,
+        "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 21.7,
+        "non-agricultural-and-fishery-workers": 319048,
+        "non-agricultural-and-fishery-workers-pct": 78.3
     }
 }
 ```
