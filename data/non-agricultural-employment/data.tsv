@@ -1,20 +1,20 @@
-region_id	region_name	total-employed-population-aged-10-years-and-over	legislators-senior-officials-administrators-professionals-technicians-and-clerks	service-workers-market-and-sales-workers-and-private-business-owners	production-and-related-workers	armed-forces-and-workers-not-identifiable-or-inadequate
-total	District-Total	5941574				
-LK-11	Colombo	855142				
-LK-12	Gampaha	756186				
-LK-13	Kalutara	356837				
-LK-21	Kandy	407554				
-LK-22	Matale	156179				
-LK-23	Nuwara Eliya	281546				
-LK-31	Galle	318680				
-LK-32	Matara	242175				
-LK-33	Hambantota	164923				
-LK-52	Ampara	162322				
-LK-61	Kurunegala	514553				
-LK-62	Puttalam	229425				
-LK-71	Anuradhapura	285806				
-LK-72	Polonnaruwa	137078				
-LK-81	Badulla	294223				
-LK-82	Moneragala	144600				
-LK-91	Ratnapura	375365				
-LK-92	Kegalle	258980				
+region_id	region_name	total-employed-population-aged-10-years-and-over	legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate	service-workers-market-and-sales-workers-and-private-business-owners-rate	production-and-related-workers-rate	armed-forces-and-workers-not-identifiable-or-inadequate-rate
+total	District-Total	5941574	18.2	17.6	25.0	11.0
+LK-11	Colombo	855142	30.9	24.7	30.9	11.3
+LK-12	Gampaha	756186	22.8	20.0	41.8	10.5
+LK-13	Kalutara	356837	21.3	20.5	30.9	12.0
+LK-21	Kandy	407554	20.8	22.1	23.3	12.1
+LK-22	Matale	156179	14.4	16.3	18.1	11.7
+LK-23	Nuwara Eliya	281546	8.7	11.7	10.4	8.4
+LK-31	Galle	318680	18.5	15.4	24.6	12.1
+LK-32	Matara	242175	16.5	15.4	23.4	8.3
+LK-33	Hambantota	164923	14.5	12.7	22.5	9.0
+LK-52	Ampara	162322	13.5	19.2	14.9	8.3
+LK-61	Kurunegala	514553	15.3	16.3	24.5	11.5
+LK-62	Puttalam	229425	12.0	19.7	29.6	13.1
+LK-71	Anuradhapura	285806	11.1	13.2	11.7	11.6
+LK-72	Polonnaruwa	137078	9.4	14.2	11.6	13.8
+LK-81	Badulla	294223	12.7	11.9	10.7	9.5
+LK-82	Moneragala	144600	9.7	11.1	10.8	7.5
+LK-91	Ratnapura	375365	12.7	12.0	21.7	10.4
+LK-92	Kegalle	258980	15.9	16.4	29.5	14.1

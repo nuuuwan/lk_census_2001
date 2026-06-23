@@ -412,10 +412,10 @@
   "non-agricultural-employment": [
     "district",
     "total-employed-population-aged-10-years-and-over",
-    "legislators-senior-officials-administrators-professionals-technicians-and-clerks",
-    "service-workers-market-and-sales-workers-and-private-business-owners",
-    "production-and-related-workers",
-    "armed-forces-and-workers-not-identifiable-or-inadequate"
+    "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate",
+    "service-workers-market-and-sales-workers-and-private-business-owners-rate",
+    "production-and-related-workers-rate",
+    "armed-forces-and-workers-not-identifiable-or-inadequate-rate"
   ],
   "occupations": [
     "district",

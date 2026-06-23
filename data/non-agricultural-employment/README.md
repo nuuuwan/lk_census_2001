@@ -17,10 +17,10 @@
     "region_name": "District-Total",
     "values": {
         "total-employed-population-aged-10-years-and-over": 5941574,
-        "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
-        "service-workers-market-and-sales-workers-and-private-business-owners": null,
-        "production-and-related-workers": null,
-        "armed-forces-and-workers-not-identifiable-or-inadequate": null
+        "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 18.2,
+        "service-workers-market-and-sales-workers-and-private-business-owners-rate": 17.6,
+        "production-and-related-workers-rate": 25.0,
+        "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.0
     }
 }
 ```
