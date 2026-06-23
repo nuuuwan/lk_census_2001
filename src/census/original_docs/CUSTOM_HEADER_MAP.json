@@ -467,10 +467,10 @@
   ],
   "room-count": [
     "district",
-    "total-occupied-housing-units",
-    "permanent",
-    "semi-permanent",
-    "improvised"
+    "total-average",
+    "permanent-average",
+    "semi-permanent-average",
+    "improvised-average"
   ],
   "school-attendance": [
     "district",

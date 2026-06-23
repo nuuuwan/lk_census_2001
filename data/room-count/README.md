@@ -16,10 +16,10 @@
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-        "total-occupied-housing-units": null,
-        "permanent": null,
-        "semi-permanent": null,
-        "improvised": null
+        "total-average": 4.2,
+        "permanent-average": 4.9,
+        "semi-permanent-average": 3.1,
+        "improvised-average": 1.6
     }
 }
 ```
