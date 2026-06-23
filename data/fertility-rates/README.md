@@ -17,9 +17,9 @@
     "region_name": "Badulla",
     "values": {
         "total": null,
-        "urban": null,
-        "rural": null,
-        "estate": null
+        "urban-rate": 2.6,
+        "rural-rate": 3.2,
+        "estate-rate": 2.9
     }
 }
 ```

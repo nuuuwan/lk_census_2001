@@ -217,9 +217,9 @@
   "fertility-rates": [
     "district",
     "total",
-    "urban",
-    "rural",
-    "estate"
+    "urban-rate",
+    "rural-rate",
+    "estate-rate"
   ],
   "hand-disability-causes": [
     "type",

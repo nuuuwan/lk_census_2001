@@ -4,9 +4,9 @@
     "region_name": "District-Total",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.4,
+      "rural-rate": 2.8,
+      "estate-rate": 2.8
     }
   },
   {
@@ -14,9 +14,9 @@
     "region_name": "Colombo",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.3,
+      "rural-rate": 2.2,
+      "estate-rate": 2.8
     }
   },
   {
@@ -24,9 +24,9 @@
     "region_name": "Gampaha",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.3,
+      "rural-rate": 2.4,
+      "estate-rate": 2.8
     }
   },
   {
@@ -34,9 +34,9 @@
     "region_name": "Kalutara",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.5,
+      "rural-rate": 2.5,
+      "estate-rate": 2.7
     }
   },
   {
@@ -44,9 +44,9 @@
     "region_name": "Kandy",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.6,
+      "rural-rate": 3.0,
+      "estate-rate": 2.9
     }
   },
   {
@@ -54,9 +54,9 @@
     "region_name": "Matale",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": 3
+      "urban-rate": 2.7,
+      "rural-rate": 3.1,
+      "estate-rate": 3.0
     }
   },
   {
@@ -64,9 +64,9 @@
     "region_name": "Nuwara Eliya",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.5,
+      "rural-rate": 3.2,
+      "estate-rate": 2.6
     }
   },
   {
@@ -74,9 +74,9 @@
     "region_name": "Galle",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": 3
+      "urban-rate": 2.7,
+      "rural-rate": 2.9,
+      "estate-rate": 3.0
     }
   },
   {
@@ -84,9 +84,9 @@
     "region_name": "Matara",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.7,
+      "rural-rate": 3.2,
+      "estate-rate": 3.2
     }
   },
   {
@@ -94,9 +94,9 @@
     "region_name": "Hambantota",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.7,
+      "rural-rate": 3.4,
+      "estate-rate": 2.5
     }
   },
   {
@@ -104,9 +104,9 @@
     "region_name": "Ampara",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 3.3,
+      "rural-rate": 3.3,
+      "estate-rate": null
     }
   },
   {
@@ -114,9 +114,9 @@
     "region_name": "Kurunegala",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": 3
+      "urban-rate": 2.4,
+      "rural-rate": 2.8,
+      "estate-rate": 3.0
     }
   },
   {
@@ -124,9 +124,9 @@
     "region_name": "Puttalam",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.7,
+      "rural-rate": 2.7,
+      "estate-rate": 2.5
     }
   },
   {
@@ -134,9 +134,9 @@
     "region_name": "Anuradhapura",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.6,
+      "rural-rate": 3.1,
+      "estate-rate": 2.3
     }
   },
   {
@@ -144,9 +144,9 @@
     "region_name": "Polonnaruwa",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": null,
+      "rural-rate": 3.0,
+      "estate-rate": 2.3
     }
   },
   {
@@ -154,9 +154,9 @@
     "region_name": "Badulla",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.6,
+      "rural-rate": 3.2,
+      "estate-rate": 2.9
     }
   },
   {
@@ -164,9 +164,9 @@
     "region_name": "Moneragala",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": 3
+      "urban-rate": null,
+      "rural-rate": 3.4,
+      "estate-rate": 3.0
     }
   },
   {
@@ -174,9 +174,9 @@
     "region_name": "Ratnapura",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.6,
+      "rural-rate": 3.0,
+      "estate-rate": 2.8
     }
   },
   {
@@ -184,9 +184,9 @@
     "region_name": "Kegalle",
     "values": {
       "total": null,
-      "urban": null,
-      "rural": null,
-      "estate": null
+      "urban-rate": 2.3,
+      "rural-rate": 2.8,
+      "estate-rate": 2.8
     }
   }
 ]
