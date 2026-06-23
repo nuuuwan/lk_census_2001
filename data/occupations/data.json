@@ -4,17 +4,17 @@
     "region_name": "District-Total",
     "values": {
       "total-employed-population-aged-10-years-and-over": 5941574,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.6,
+      "professionals-pct": 5.5,
+      "technicians-and-associate-professionals-pct": 6.6,
+      "clerks-pct": 4.4,
+      "social-workers-and-shop-and-market-sales-workers-pct": 6.6,
+      "skilled-agricultural-and-fishery-workers-pct": 25.2,
+      "craft-and-related-workers-pct": 13.6,
+      "plant-and-machine-operators-and-assemblers-pct": 7.8,
+      "private-business-owners-pct": 5.5,
+      "elementary-occupations-pct": 18.4,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 4.7
     }
   },
   {
@@ -22,17 +22,17 @@
     "region_name": "Colombo",
     "values": {
       "total-employed-population-aged-10-years-and-over": 855142,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 3.8,
+      "professionals-pct": 7.4,
+      "technicians-and-associate-professionals-pct": 11.6,
+      "clerks-pct": 8.2,
+      "social-workers-and-shop-and-market-sales-workers-pct": 10.2,
+      "skilled-agricultural-and-fishery-workers-pct": 1.8,
+      "craft-and-related-workers-pct": 15.1,
+      "plant-and-machine-operators-and-assemblers-pct": 10.9,
+      "private-business-owners-pct": 6.0,
+      "elementary-occupations-pct": 19.8,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 5.3
     }
   },
   {
@@ -40,17 +40,17 @@
     "region_name": "Gampaha",
     "values": {
       "total-employed-population-aged-10-years-and-over": 756186,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 2.0,
+      "professionals-pct": 5.2,
+      "technicians-and-associate-professionals-pct": 9.0,
+      "clerks-pct": 6.7,
+      "social-workers-and-shop-and-market-sales-workers-pct": 7.7,
+      "skilled-agricultural-and-fishery-workers-pct": 4.3,
+      "craft-and-related-workers-pct": 20.4,
+      "plant-and-machine-operators-and-assemblers-pct": 14.6,
+      "private-business-owners-pct": 6.3,
+      "elementary-occupations-pct": 19.3,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 4.6
     }
   },
   {
@@ -58,17 +58,17 @@
     "region_name": "Kalutara",
     "values": {
       "total-employed-population-aged-10-years-and-over": 356837,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.5,
+      "professionals-pct": 5.7,
+      "technicians-and-associate-professionals-pct": 8.2,
+      "clerks-pct": 5.8,
+      "social-workers-and-shop-and-market-sales-workers-pct": 7.7,
+      "skilled-agricultural-and-fishery-workers-pct": 13.4,
+      "craft-and-related-workers-pct": 16.8,
+      "plant-and-machine-operators-and-assemblers-pct": 10.3,
+      "private-business-owners-pct": 6.4,
+      "elementary-occupations-pct": 19.3,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 4.9
     }
   },
   {
@@ -76,17 +76,17 @@
     "region_name": "Kandy",
     "values": {
       "total-employed-population-aged-10-years-and-over": 407554,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.5,
+      "professionals-pct": 7.3,
+      "technicians-and-associate-professionals-pct": 7.5,
+      "clerks-pct": 4.5,
+      "social-workers-and-shop-and-market-sales-workers-pct": 8.0,
+      "skilled-agricultural-and-fishery-workers-pct": 18.3,
+      "craft-and-related-workers-pct": 13.2,
+      "plant-and-machine-operators-and-assemblers-pct": 7.2,
+      "private-business-owners-pct": 7.2,
+      "elementary-occupations-pct": 20.3,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 5.0
     }
   },
   {
@@ -94,17 +94,17 @@
     "region_name": "Matale",
     "values": {
       "total-employed-population-aged-10-years-and-over": 156179,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.1,
+      "professionals-pct": 5.1,
+      "technicians-and-associate-professionals-pct": 5.3,
+      "clerks-pct": 2.9,
+      "social-workers-and-shop-and-market-sales-workers-pct": 6.0,
+      "skilled-agricultural-and-fishery-workers-pct": 37.2,
+      "craft-and-related-workers-pct": 10.7,
+      "plant-and-machine-operators-and-assemblers-pct": 5.1,
+      "private-business-owners-pct": 5.5,
+      "elementary-occupations-pct": 17.6,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 3.4
     }
   },
   {
@@ -112,17 +112,17 @@
     "region_name": "Nuwara Eliya",
     "values": {
       "total-employed-population-aged-10-years-and-over": 281546,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 0.7,
+      "professionals-pct": 3.3,
+      "technicians-and-associate-professionals-pct": 2.6,
+      "clerks-pct": 2.2,
+      "social-workers-and-shop-and-market-sales-workers-pct": 5.0,
+      "skilled-agricultural-and-fishery-workers-pct": 47.7,
+      "craft-and-related-workers-pct": 5.2,
+      "plant-and-machine-operators-and-assemblers-pct": 3.6,
+      "private-business-owners-pct": 3.5,
+      "elementary-occupations-pct": 21.0,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 5.2
     }
   },
   {
@@ -130,17 +130,17 @@
     "region_name": "Galle",
     "values": {
       "total-employed-population-aged-10-years-and-over": 318680,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.5,
+      "professionals-pct": 6.0,
+      "technicians-and-associate-professionals-pct": 6.8,
+      "clerks-pct": 4.2,
+      "social-workers-and-shop-and-market-sales-workers-pct": 5.8,
+      "skilled-agricultural-and-fishery-workers-pct": 25.9,
+      "craft-and-related-workers-pct": 14.6,
+      "plant-and-machine-operators-and-assemblers-pct": 6.6,
+      "private-business-owners-pct": 5.0,
+      "elementary-occupations-pct": 19.5,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 4.2
     }
   },
   {
@@ -148,17 +148,17 @@
     "region_name": "Matara",
     "values": {
       "total-employed-population-aged-10-years-and-over": 242175,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.4,
+      "professionals-pct": 6.4,
+      "technicians-and-associate-professionals-pct": 4.9,
+      "clerks-pct": 3.8,
+      "social-workers-and-shop-and-market-sales-workers-pct": 5.2,
+      "skilled-agricultural-and-fishery-workers-pct": 32.8,
+      "craft-and-related-workers-pct": 13.7,
+      "plant-and-machine-operators-and-assemblers-pct": 6.1,
+      "private-business-owners-pct": 5.9,
+      "elementary-occupations-pct": 17.0,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 2.8
     }
   },
   {
@@ -166,17 +166,17 @@
     "region_name": "Hambantota",
     "values": {
       "total-employed-population-aged-10-years-and-over": 164923,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 0.9,
+      "professionals-pct": 5.4,
+      "technicians-and-associate-professionals-pct": 5.5,
+      "clerks-pct": 2.7,
+      "social-workers-and-shop-and-market-sales-workers-pct": 3.7,
+      "skilled-agricultural-and-fishery-workers-pct": 40.0,
+      "craft-and-related-workers-pct": 15.0,
+      "plant-and-machine-operators-and-assemblers-pct": 6.0,
+      "private-business-owners-pct": 4.6,
+      "elementary-occupations-pct": 12.7,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 3.4
     }
   },
   {
@@ -184,17 +184,17 @@
     "region_name": "Ampara",
     "values": {
       "total-employed-population-aged-10-years-and-over": 162322,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 0.9,
+      "professionals-pct": 5.9,
+      "technicians-and-associate-professionals-pct": 3.8,
+      "clerks-pct": 3.0,
+      "social-workers-and-shop-and-market-sales-workers-pct": 7.8,
+      "skilled-agricultural-and-fishery-workers-pct": 35.5,
+      "craft-and-related-workers-pct": 8.5,
+      "plant-and-machine-operators-and-assemblers-pct": 4.2,
+      "private-business-owners-pct": 6.0,
+      "elementary-occupations-pct": 19.1,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 5.3
     }
   },
   {
@@ -202,17 +202,17 @@
     "region_name": "Kurunegala",
     "values": {
       "total-employed-population-aged-10-years-and-over": 514553,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.3,
+      "professionals-pct": 5.5,
+      "technicians-and-associate-professionals-pct": 5.4,
+      "clerks-pct": 3.1,
+      "social-workers-and-shop-and-market-sales-workers-pct": 4.8,
+      "skilled-agricultural-and-fishery-workers-pct": 31.2,
+      "craft-and-related-workers-pct": 15.4,
+      "plant-and-machine-operators-and-assemblers-pct": 6.5,
+      "private-business-owners-pct": 6.1,
+      "elementary-occupations-pct": 16.8,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 3.9
     }
   },
   {
@@ -220,17 +220,17 @@
     "region_name": "Puttalam",
     "values": {
       "total-employed-population-aged-10-years-and-over": 229425,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.2,
+      "professionals-pct": 4.0,
+      "technicians-and-associate-professionals-pct": 3.9,
+      "clerks-pct": 2.8,
+      "social-workers-and-shop-and-market-sales-workers-pct": 5.6,
+      "skilled-agricultural-and-fishery-workers-pct": 20.9,
+      "craft-and-related-workers-pct": 17.1,
+      "plant-and-machine-operators-and-assemblers-pct": 6.9,
+      "private-business-owners-pct": 7.2,
+      "elementary-occupations-pct": 25.9,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 4.3
     }
   },
   {
@@ -238,17 +238,17 @@
     "region_name": "Anuradhapura",
     "values": {
       "total-employed-population-aged-10-years-and-over": 285806,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 0.8,
+      "professionals-pct": 4.5,
+      "technicians-and-associate-professionals-pct": 3.3,
+      "clerks-pct": 2.5,
+      "social-workers-and-shop-and-market-sales-workers-pct": 6.4,
+      "skilled-agricultural-and-fishery-workers-pct": 51.6,
+      "craft-and-related-workers-pct": 7.2,
+      "plant-and-machine-operators-and-assemblers-pct": 3.5,
+      "private-business-owners-pct": 4.0,
+      "elementary-occupations-pct": 9.3,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 6.8
     }
   },
   {
@@ -256,17 +256,17 @@
     "region_name": "Polonnaruwa",
     "values": {
       "total-employed-population-aged-10-years-and-over": 137078,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 0.9,
+      "professionals-pct": 3.6,
+      "technicians-and-associate-professionals-pct": 3.0,
+      "clerks-pct": 2.0,
+      "social-workers-and-shop-and-market-sales-workers-pct": 5.8,
+      "skilled-agricultural-and-fishery-workers-pct": 49.8,
+      "craft-and-related-workers-pct": 6.8,
+      "plant-and-machine-operators-and-assemblers-pct": 3.8,
+      "private-business-owners-pct": 4.1,
+      "elementary-occupations-pct": 11.6,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 8.6
     }
   },
   {
@@ -274,17 +274,17 @@
     "region_name": "Badulla",
     "values": {
       "total-employed-population-aged-10-years-and-over": 294223,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.0,
+      "professionals-pct": 5.0,
+      "technicians-and-associate-professionals-pct": 4.1,
+      "clerks-pct": 2.7,
+      "social-workers-and-shop-and-market-sales-workers-pct": 4.3,
+      "skilled-agricultural-and-fishery-workers-pct": 48.8,
+      "craft-and-related-workers-pct": 5.9,
+      "plant-and-machine-operators-and-assemblers-pct": 3.4,
+      "private-business-owners-pct": 3.7,
+      "elementary-occupations-pct": 15.8,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 5.4
     }
   },
   {
@@ -292,17 +292,17 @@
     "region_name": "Moneragala",
     "values": {
       "total-employed-population-aged-10-years-and-over": 144600,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 0.7,
+      "professionals-pct": 3.9,
+      "technicians-and-associate-professionals-pct": 3.2,
+      "clerks-pct": 2.0,
+      "social-workers-and-shop-and-market-sales-workers-pct": 3.8,
+      "skilled-agricultural-and-fishery-workers-pct": 59.1,
+      "craft-and-related-workers-pct": 5.7,
+      "plant-and-machine-operators-and-assemblers-pct": 3.4,
+      "private-business-owners-pct": 4.1,
+      "elementary-occupations-pct": 10.1,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 4.0
     }
   },
   {
@@ -310,17 +310,17 @@
     "region_name": "Ratnapura",
     "values": {
       "total-employed-population-aged-10-years-and-over": 375365,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 0.9,
+      "professionals-pct": 3.9,
+      "technicians-and-associate-professionals-pct": 5.6,
+      "clerks-pct": 2.3,
+      "social-workers-and-shop-and-market-sales-workers-pct": 3.8,
+      "skilled-agricultural-and-fishery-workers-pct": 38.2,
+      "craft-and-related-workers-pct": 10.6,
+      "plant-and-machine-operators-and-assemblers-pct": 5.6,
+      "private-business-owners-pct": 3.8,
+      "elementary-occupations-pct": 22.0,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 3.4
     }
   },
   {
@@ -328,17 +328,17 @@
     "region_name": "Kegalle",
     "values": {
       "total-employed-population-aged-10-years-and-over": 258980,
-      "legislators-senior-officials-and-managers": null,
-      "professionals": null,
-      "technicians-and-associate-professionals": null,
-      "clerks": null,
-      "social-workers-and-shop-and-market-sales-workers": null,
-      "skilled-agricultural-and-fishery-workers": null,
-      "craft-and-related-workers": null,
-      "plant-and-machine-operators-and-assemblers": null,
-      "private-business-owners": null,
-      "elementary-occupations": null,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": null
+      "legislators-senior-officials-and-managers-pct": 1.1,
+      "professionals-pct": 5.7,
+      "technicians-and-associate-professionals-pct": 5.3,
+      "clerks-pct": 3.7,
+      "social-workers-and-shop-and-market-sales-workers-pct": 6.5,
+      "skilled-agricultural-and-fishery-workers-pct": 20.3,
+      "craft-and-related-workers-pct": 17.7,
+      "plant-and-machine-operators-and-assemblers-pct": 8.4,
+      "private-business-owners-pct": 4.8,
+      "elementary-occupations-pct": 21.4,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 4.9
     }
   }
 ]

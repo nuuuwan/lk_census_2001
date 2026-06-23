@@ -17,17 +17,17 @@
     "region_name": "Kurunegala",
     "values": {
         "total-employed-population-aged-10-years-and-over": 514553,
-        "legislators-senior-officials-and-managers": null,
-        "professionals": null,
-        "technicians-and-associate-professionals": null,
-        "clerks": null,
-        "social-workers-and-shop-and-market-sales-workers": null,
-        "skilled-agricultural-and-fishery-workers": null,
-        "craft-and-related-workers": null,
-        "plant-and-machine-operators-and-assemblers": null,
-        "private-business-owners": null,
-        "elementary-occupations": null,
-        "armed-forces-and-workers-not-identifiable-or-inadequate": null
+        "legislators-senior-officials-and-managers-pct": 1.3,
+        "professionals-pct": 5.5,
+        "technicians-and-associate-professionals-pct": 5.4,
+        "clerks-pct": 3.1,
+        "social-workers-and-shop-and-market-sales-workers-pct": 4.8,
+        "skilled-agricultural-and-fishery-workers-pct": 31.2,
+        "craft-and-related-workers-pct": 15.4,
+        "plant-and-machine-operators-and-assemblers-pct": 6.5,
+        "private-business-owners-pct": 6.1,
+        "elementary-occupations-pct": 16.8,
+        "armed-forces-and-workers-not-identifiable-or-inadequate-pct": 3.9
     }
 }
 ```

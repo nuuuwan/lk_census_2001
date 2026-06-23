@@ -420,17 +420,17 @@
   "occupations": [
     "district",
     "total-employed-population-aged-10-years-and-over",
-    "legislators-senior-officials-and-managers",
-    "professionals",
-    "technicians-and-associate-professionals",
-    "clerks",
-    "social-workers-and-shop-and-market-sales-workers",
-    "skilled-agricultural-and-fishery-workers",
-    "craft-and-related-workers",
-    "plant-and-machine-operators-and-assemblers",
-    "private-business-owners",
-    "elementary-occupations",
-    "armed-forces-and-workers-not-identifiable-or-inadequate"
+    "legislators-senior-officials-and-managers-pct",
+    "professionals-pct",
+    "technicians-and-associate-professionals-pct",
+    "clerks-pct",
+    "social-workers-and-shop-and-market-sales-workers-pct",
+    "skilled-agricultural-and-fishery-workers-pct",
+    "craft-and-related-workers-pct",
+    "plant-and-machine-operators-and-assemblers-pct",
+    "private-business-owners-pct",
+    "elementary-occupations-pct",
+    "armed-forces-and-workers-not-identifiable-or-inadequate-pct"
   ],
   "population-growth": [
     "district",
