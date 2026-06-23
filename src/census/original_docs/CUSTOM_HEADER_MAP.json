@@ -131,15 +131,15 @@
   ],
   "electricity-access": [
     "district",
-    "total-housing-units",
-    "total-electricity",
-    "total-electricity-pct",
-    "urban-electricity",
-    "urban-electricity-pct",
-    "rural-electricity",
-    "rural-electricity-pct",
-    "estate-electricity",
-    "estate-electricity-pct"
+    "total-households-in-occupied-housing-units",
+    "using-electricity",
+    "using-electricity-pct",
+    "urban",
+    "urban-pct",
+    "rural",
+    "rural-pct",
+    "estate",
+    "estate-pct"
   ],
   "employment-sectors": [
     "district",
