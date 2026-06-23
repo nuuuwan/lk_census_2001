@@ -1,7 +1,6 @@
 # Disabled persons by type of disability, sex, rate per 10000 population and district
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22-green)
 
 ## File Formats
 
@@ -17,20 +16,20 @@
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-        "total-no": null,
-        "total-rate": null,
-        "seeing-no": null,
-        "seeing-rate": null,
-        "hearingspeaking-no": null,
-        "hearingspeaking-rate": null,
-        "hands-no": null,
-        "hands-rate": null,
-        "legs-no": null,
-        "legs-rate": null,
-        "other-physical-disability-no": null,
-        "other-physical-disability-rate": null,
-        "mental-disability-no": null,
-        "mental-disability-rate": null
+        "total-no": 0,
+        "total-rate": 0,
+        "seeing-no": 0,
+        "seeing-rate": 0,
+        "hearingspeaking-no": 0,
+        "hearingspeaking-rate": 0,
+        "hands-no": 0,
+        "hands-rate": 0,
+        "legs-no": 0,
+        "legs-rate": 0,
+        "other-physical-disability-no": 0,
+        "other-physical-disability-rate": 0,
+        "mental-disability-no": 0,
+        "mental-disability-rate": 0
     }
 }
 ```
