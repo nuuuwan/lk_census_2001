@@ -1,10 +1,5 @@
 {
-  "age-structure": [
-    "age-in-years",
-    "total",
-    "male",
-    "female"
-  ],
+  "age-structure": ["age-group", "total", "male", "female"],
   "agricultural-occupations": [
     "district",
     "total-agricultural-and-fishery-workers",
@@ -15,17 +10,17 @@
     "fishery-workers-hunters-and-trappers",
     "subsistence-agricultural-and-fishery-workers",
     "subsistence-dairy-livestock-and-related-workers",
-    "activities-not-elsewhere-classified"
+    "unskilled-labourers-working-in-the-agricultural-and-fishery-sector"
   ],
   "construction-materials": [
     "district",
     "total-occupied-housing-units",
-    "permanent-outer-walls-no",
-    "permanent-outer-walls-pct",
-    "permanent-floor-no",
-    "permanent-floor-pct",
-    "permanent-roof-no",
-    "permanent-roof-pct"
+    "outer-walls-bricks-cabooks-cement-blocks-stones",
+    "outer-walls-bricks-cabooks-cement-blocks-stones-pct",
+    "floor-cement-tile-terrazo-granite",
+    "floor-cement-tile-terrazo-granite-pct",
+    "roof-tile-asbestos-concrete-metal-sheets",
+    "roof-tile-asbestos-concrete-metal-sheets-pct"
   ],
   "cooking-fuel": [
     "district",
@@ -158,13 +153,7 @@
     "burgher-no",
     "burgher-pct"
   ],
-  "fertility-rates": [
-    "district",
-    "total",
-    "urban",
-    "rural",
-    "estate"
-  ],
+  "fertility-rates": ["district", "total", "urban", "rural", "estate"],
   "hand-disability-causes": [
     "district",
     "sex",
