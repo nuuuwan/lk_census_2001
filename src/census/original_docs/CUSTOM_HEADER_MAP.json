@@ -24,7 +24,7 @@
   ],
   "cooking-fuel": [
     "district",
-    "total-households-in-occupied-housing-units",
+    "total-occupied-housing-units",
     "firewood",
     "firewood-pct",
     "lp-gas",
@@ -131,7 +131,7 @@
   ],
   "electricity-access": [
     "district",
-    "total-households-in-occupied-housing-units",
+    "total-occupied-housing-units",
     "using-electricity",
     "using-electricity-pct",
     "urban",
@@ -245,7 +245,7 @@
   ],
   "housing-tenure": [
     "district",
-    "total-households-in-occupied-housing-units",
+    "total-occupied-housing-units",
     "owned-by-member-of-household",
     "owned-by-member-of-household-pct",
     "rent-free",
@@ -474,7 +474,7 @@
   ],
   "toilets": [
     "district",
-    "total-households-in-occupied-housing-units",
+    "total-occupied-housing-units",
     "using-toilets-exclusively",
     "using-toilets-exclusively-pct",
     "hygienic-toilets",
@@ -508,7 +508,7 @@
     "population-in-estate-sector"
   ],
   "vision-disability-causes": [
-    "district",
+    "sub-category",
     "sex",
     "total",
     "total-pct",
@@ -533,7 +533,7 @@
   ],
   "water-access": [
     "district",
-    "total-housing-units",
+    "total-occupied-housing-units",
     "pipe-borne-water",
     "pipe-borne-water-pct",
     "safe-water",
