@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/sanitation-access/data.json)
-- [📄 TSV Data](../../data/sanitation-access/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/sanitation-access/raw_data.json)
-- [📜 Original PDF](../../data/sanitation-access/original.pdf)
+- [📄 JSON Data](../../data/toilets/data.json)
+- [📄 TSV Data](../../data/toilets/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/toilets/raw_data.json)
+- [📜 Original PDF](../../data/toilets/original.pdf)
 
 ## Example JSON Row
 

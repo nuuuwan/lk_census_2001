@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/population-density/data.json)
-- [📄 TSV Data](../../data/population-density/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/population-density/raw_data.json)
-- [📜 Original PDF](../../data/population-density/original.pdf)
+- [📄 JSON Data](../../data/population-overview/data.json)
+- [📄 TSV Data](../../data/population-overview/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/population-overview/raw_data.json)
+- [📜 Original PDF](../../data/population-overview/original.pdf)
 
 ## Example JSON Row
 
@@ -20,7 +20,7 @@
         "male": 1007702.0,
         "female": 1055982.0,
         "sex-ratio": 95.4,
-        "population-density-persons-per-sqkm": 1539.0
+        "population-overview-persons-per-sqkm": 1539.0
     }
 }
 ```

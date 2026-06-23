@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/occupational-distribution/data.json)
-- [📄 TSV Data](../../data/occupational-distribution/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/occupational-distribution/raw_data.json)
-- [📜 Original PDF](../../data/occupational-distribution/original.pdf)
+- [📄 JSON Data](../../data/occupations/data.json)
+- [📄 TSV Data](../../data/occupations/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/occupations/raw_data.json)
+- [📜 Original PDF](../../data/occupations/original.pdf)
 
 ## Example JSON Row
 

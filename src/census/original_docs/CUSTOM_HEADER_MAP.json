@@ -407,45 +407,45 @@
   ],
   "migration-patterns": [
     "district",
-    "total-population",
+    "usual-resident",
     "resident-since-birth",
     "total-migrants",
     "migrants-less-than-1-year",
     "migrants-1-4-years",
     "migrants-5-9-years",
     "migrants-10-years-and-more",
-    "migrantst-stated"
+    "migrants-not-stated"
   ],
   "non-agricultural-employment": [
     "district",
-    "aged-10-years-and-over",
-    "technicians-and-clerks",
-    "private-business-owners",
-    "workers",
-    "occupations-unidentifiable-or-inadequate"
+    "total-employed-population-aged-10-years-and-over",
+    "legislators-senior-officials-administrators-professionals-technicians-and-clerks",
+    "service-workers-market-and-sales-workers-and-private-business-owners",
+    "production-and-related-workers",
+    "armed-forces-and-workers-not-identifiable-or-inadequate"
   ],
-  "occupational-distribution": [
+  "occupations": [
     "district",
-    "aged-10-years-and-over",
-    "officials-and-managers",
+    "total-employed-population-aged-10-years-and-over",
+    "legislators-senior-officials-and-managers",
     "professionals",
     "technicians-and-associate-professionals",
     "clerks",
-    "shop-and-market-sales-workers",
-    "agricultural-and-fishery-workers",
+    "social-workers-and-shop-and-market-sales-workers",
+    "skilled-agricultural-and-fishery-workers",
     "craft-and-related-workers",
     "plant-and-machine-operators-and-assemblers",
-    "elementary-occupations",
     "private-business-owners",
-    "occupations-unidentifiable-or-inadequate"
+    "elementary-occupations",
+    "armed-forces-and-workers-not-identifiable-or-inadequate"
   ],
-  "population-density": [
+  "population-overview": [
     "district",
     "total",
     "male",
     "female",
     "sex-ratio",
-    "population-density-persons-per-sqkm"
+    "density"
   ],
   "population-growth": [
     "district",
@@ -455,30 +455,30 @@
     "intercensal-increase-pct",
     "annual-growth-rate"
   ],
-  "religious-composition": [
+  "religion": [
     "district",
     "total-population",
     "total-population-pct",
     "buddhist",
-    "buddhist",
+    "buddhist-pct",
     "hindu",
-    "hindu",
+    "hindu-pct",
     "islam",
-    "islam",
+    "islam-pct",
     "roman-catholic",
-    "roman-catholic",
+    "roman-catholic-pct",
     "other-christian",
-    "other-christian",
+    "other-christian-pct",
     "other",
-    "other"
+    "other-pct"
   ],
-  "sanitation-access": [
+  "toilets": [
     "district",
-    "total-housing-units",
-    "using-toilets",
-    "using-toilets-pct",
-    "exclusive-hygienic-toilets",
-    "exclusive-hygienic-toilets-pct",
+    "total-households-in-occupied-housing-units",
+    "using-toilets-exclusively",
+    "using-toilets-exclusively-pct",
+    "hygienic-toilets",
+    "hygienic-toilets-pct",
     "not-using-toilet",
     "not-using-toilet-pct"
   ],

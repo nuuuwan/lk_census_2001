@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/religious-composition/data.json)
-- [📄 TSV Data](../../data/religious-composition/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/religious-composition/raw_data.json)
-- [📜 Original PDF](../../data/religious-composition/original.pdf)
+- [📄 JSON Data](../../data/religion/data.json)
+- [📄 TSV Data](../../data/religion/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/religion/raw_data.json)
+- [📜 Original PDF](../../data/religion/original.pdf)
 
 ## Example JSON Row
 
