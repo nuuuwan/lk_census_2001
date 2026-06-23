@@ -1,0 +1,182 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "male-rate": 67.6,
+      "female-rate": 28.6
+    },
+    "total": 96.19999999999999,
+    "total_from_source": 48.4
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "male-rate": 67.3,
+      "female-rate": 29.4
+    },
+    "total": 96.69999999999999,
+    "total_from_source": 47.7
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "male-rate": 64.1,
+      "female-rate": 26.4
+    },
+    "total": 90.5,
+    "total_from_source": 44.9
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "male-rate": 62.0,
+      "female-rate": 25.0
+    },
+    "total": 87.0,
+    "total_from_source": 42.9
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "male-rate": 67.0,
+      "female-rate": 26.9
+    },
+    "total": 93.9,
+    "total_from_source": 46.8
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "male-rate": 63.5,
+      "female-rate": 43.1
+    },
+    "total": 106.6,
+    "total_from_source": 53.2
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "male-rate": 61.8,
+      "female-rate": 27.5
+    },
+    "total": 89.3,
+    "total_from_source": 44.0
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "male-rate": 61.4,
+      "female-rate": 27.7
+    },
+    "total": 89.1,
+    "total_from_source": 43.8
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "male-rate": 63.8,
+      "female-rate": 23.3
+    },
+    "total": 87.1,
+    "total_from_source": 43.5
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "male-rate": 63.6,
+      "female-rate": 15.2
+    },
+    "total": 78.8,
+    "total_from_source": 39.5
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "male-rate": 66.6,
+      "female-rate": 26.4
+    },
+    "total": 93.0,
+    "total_from_source": 46.2
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "male-rate": 67.0,
+      "female-rate": 20.9
+    },
+    "total": 87.9,
+    "total_from_source": 43.7
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "male-rate": 68.7,
+      "female-rate": 31.3
+    },
+    "total": 100.0,
+    "total_from_source": 50.4
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "male-rate": 72.0,
+      "female-rate": 26.0
+    },
+    "total": 98.0,
+    "total_from_source": 50.2
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "male-rate": 65.2,
+      "female-rate": 36.6
+    },
+    "total": 101.80000000000001,
+    "total_from_source": 50.7
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "male-rate": 67.1,
+      "female-rate": 30.6
+    },
+    "total": 97.69999999999999,
+    "total_from_source": 49.2
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "male-rate": 66.3,
+      "female-rate": 31.1
+    },
+    "total": 97.4,
+    "total_from_source": 48.8
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "male-rate": 63.2,
+      "female-rate": 26.7
+    },
+    "total": 89.9,
+    "total_from_source": 44.4
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "sinhalese": 1724459,
+      "sri-lanka-tamil": 247739,
+      "indian-tamil": 24821,
+      "sri-lanka-moor": 202731,
+      "burgher": 15703,
+      "malay": 21778,
+      "other": 14043
+    },
+    "total": 2251274,
+    "total_from_source": 2251274
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "sinhalese": 1877545,
+      "sri-lanka-tamil": 65302,
+      "indian-tamil": 7621,
+      "sri-lanka-moor": 78705,
+      "burgher": 11093,
+      "malay": 13683,
+      "other": 9735
+    },
+    "total": 2063684,
+    "total_from_source": 2063684
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "sinhalese": 928914,
+      "sri-lanka-tamil": 12665,
+      "indian-tamil": 28895,
+      "sri-lanka-moor": 93293,
+      "burgher": 836,
+      "malay": 973,
+      "other": 663
+    },
+    "total": 1066239,
+    "total_from_source": 1066239
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "sinhalese": 947900,
+      "sri-lanka-tamil": 52052,
+      "indian-tamil": 103622,
+      "sri-lanka-moor": 168049,
+      "burgher": 2128,
+      "malay": 2668,
+      "other": 2609
+    },
+    "total": 1279028,
+    "total_from_source": 1279028
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "sinhalese": 353579,
+      "sri-lanka-tamil": 24320,
+      "indian-tamil": 23493,
+      "sri-lanka-moor": 38462,
+      "burgher": 402,
+      "malay": 523,
+      "other": 549
+    },
+    "total": 441328,
+    "total_from_source": 441328
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "sinhalese": 282621,
+      "sri-lanka-tamil": 46066,
+      "indian-tamil": 355830,
+      "sri-lanka-moor": 16555,
+      "burgher": 632,
+      "malay": 1059,
+      "other": 847
+    },
+    "total": 703610,
+    "total_from_source": 703610
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "sinhalese": 934751,
+      "sri-lanka-tamil": 11079,
+      "indian-tamil": 9275,
+      "sri-lanka-moor": 34688,
+      "burgher": 208,
+      "malay": 178,
+      "other": 308
+    },
+    "total": 990487,
+    "total_from_source": 990487
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "sinhalese": 716974,
+      "sri-lanka-tamil": 5161,
+      "indian-tamil": 16672,
+      "sri-lanka-moor": 22133,
+      "burgher": 179,
+      "malay": 87,
+      "other": 164
+    },
+    "total": 761370,
+    "total_from_source": 761370
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "sinhalese": 510965,
+      "sri-lanka-tamil": 1869,
+      "indian-tamil": 424,
+      "sri-lanka-moor": 5646,
+      "burgher": 88,
+      "malay": 7255,
+      "other": 167
+    },
+    "total": 526414,
+    "total_from_source": 526414
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "sinhalese": 236583,
+      "sri-lanka-tamil": 109188,
+      "indian-tamil": 715,
+      "sri-lanka-moor": 244620,
+      "burgher": 1184,
+      "malay": 225,
+      "other": 482
+    },
+    "total": 592997,
+    "total_from_source": 592997
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "sinhalese": 1341237,
+      "sri-lanka-tamil": 17585,
+      "indian-tamil": 2972,
+      "sri-lanka-moor": 94544,
+      "burgher": 613,
+      "malay": 2150,
+      "other": 1114
+    },
+    "total": 1460215,
+    "total_from_source": 1460215
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "sinhalese": 523116,
+      "sri-lanka-tamil": 48072,
+      "indian-tamil": 2227,
+      "sri-lanka-moor": 133134,
+      "burgher": 735,
+      "malay": 1214,
+      "other": 1179
+    },
+    "total": 709677,
+    "total_from_source": 709677
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "sinhalese": 676073,
+      "sri-lanka-tamil": 5073,
+      "indian-tamil": 443,
+      "sri-lanka-moor": 61989,
+      "burgher": 179,
+      "malay": 279,
+      "other": 1657
+    },
+    "total": 745693,
+    "total_from_source": 745693
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "sinhalese": 324403,
+      "sri-lanka-tamil": 7034,
+      "indian-tamil": 194,
+      "sri-lanka-moor": 27075,
+      "burgher": 62,
+      "malay": 48,
+      "other": 168
+    },
+    "total": 358984,
+    "total_from_source": 358984
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "sinhalese": 564752,
+      "sri-lanka-tamil": 29542,
+      "indian-tamil": 143535,
+      "sri-lanka-moor": 38798,
+      "burgher": 583,
+      "malay": 1813,
+      "other": 960
+    },
+    "total": 779983,
+    "total_from_source": 779983
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "sinhalese": 375691,
+      "sri-lanka-tamil": 5754,
+      "indian-tamil": 7493,
+      "sri-lanka-moor": 7800,
+      "burgher": 124,
+      "malay": 127,
+      "other": 386
+    },
+    "total": 397375,
+    "total_from_source": 397375
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "sinhalese": 882017,
+      "sri-lanka-tamil": 28740,
+      "indian-tamil": 82591,
+      "sri-lanka-moor": 20690,
+      "burgher": 343,
+      "malay": 444,
+      "other": 982
+    },
+    "total": 1015807,
+    "total_from_source": 1015807
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "sinhalese": 674665,
+      "sri-lanka-tamil": 14908,
+      "indian-tamil": 44202,
+      "sri-lanka-moor": 50419,
+      "burgher": 191,
+      "malay": 278,
+      "other": 861
+    },
+    "total": 785524,
+    "total_from_source": 785524
+  }
+]

@@ -11,14 +11,14 @@ class Parse:
         try:
             return int(Parse._clean_(x))
         except ValueError:
-            return None
+            return 0
 
     @staticmethod
     def float(x) -> float:
         try:
             return float(Parse._clean_(x))
         except ValueError:
-            return None
+            return 0
 
     TIME_FORMAT = "%Y-%m-%d %H:%M"
 

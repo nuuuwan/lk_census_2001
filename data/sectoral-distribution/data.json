@@ -138,8 +138,8 @@
       "population-in-urban-sector-pct": 19.0,
       "population-in-rural-sector": 480461,
       "population-in-rural-sector-pct": 81.0,
-      "population-in-estate-sector": null,
-      "population-in-estate-sector-pct": null
+      "population-in-estate-sector": 0,
+      "population-in-estate-sector-pct": 0
     }
   },
   {
@@ -186,8 +186,8 @@
     "region_name": "Polonnaruwa",
     "values": {
       "total-population": 358984,
-      "population-in-urban-sector": null,
-      "population-in-urban-sector-pct": null,
+      "population-in-urban-sector": 0,
+      "population-in-urban-sector-pct": 0,
       "population-in-rural-sector": 358679,
       "population-in-rural-sector-pct": 99.9,
       "population-in-estate-sector": 305,
@@ -212,8 +212,8 @@
     "region_name": "Moneragala",
     "values": {
       "total-population": 397375,
-      "population-in-urban-sector": null,
-      "population-in-urban-sector-pct": null,
+      "population-in-urban-sector": 0,
+      "population-in-urban-sector-pct": 0,
       "population-in-rural-sector": 388226,
       "population-in-rural-sector-pct": 97.7,
       "population-in-estate-sector": 9149,

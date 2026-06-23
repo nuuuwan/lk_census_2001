@@ -1,0 +1,272 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "never-married": 1089815,
+      "married-registered": 1006987,
+      "married-customary": 46181,
+      "widowed": 70407,
+      "divorced": 3533,
+      "legally-separated": 2002.0,
+      "seperated-not-legally": 8974.0
+    },
+    "total": 2227899.0,
+    "total_from_source": 1053168
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "never-married": 993155,
+      "married-registered": 919064,
+      "married-customary": 46505,
+      "widowed": 72719,
+      "divorced": 3020,
+      "legally-separated": 1876.0,
+      "seperated-not-legally": 10199.0
+    },
+    "total": 2046538.0,
+    "total_from_source": 965569
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "never-married": 502754,
+      "married-registered": 482697,
+      "married-customary": 21641,
+      "widowed": 35663,
+      "divorced": 1469,
+      "legally-separated": 887.0,
+      "seperated-not-legally": 4781.0
+    },
+    "total": 1049892.0,
+    "total_from_source": 504338
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "never-married": 636485,
+      "married-registered": 547749,
+      "married-customary": 30121,
+      "widowed": 42121,
+      "divorced": 1663,
+      "legally-separated": 1077.0,
+      "seperated-not-legally": 4462.0
+    },
+    "total": 1263678.0,
+    "total_from_source": 577870
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "never-married": 213130,
+      "married-registered": 194098,
+      "married-customary": 11318,
+      "widowed": 16214,
+      "divorced": 646,
+      "legally-separated": 442.0,
+      "seperated-not-legally": 2145.0
+    },
+    "total": 437993.0,
+    "total_from_source": 205416
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "never-married": 348465,
+      "married-registered": 290260,
+      "married-customary": 31937,
+      "widowed": 20870,
+      "divorced": 683,
+      "legally-separated": 469.0,
+      "seperated-not-legally": 1985.0
+    },
+    "total": 694669.0,
+    "total_from_source": 322197
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "never-married": 492852,
+      "married-registered": 434167,
+      "married-customary": 17678,
+      "widowed": 31599,
+      "divorced": 1128,
+      "legally-separated": 712.0,
+      "seperated-not-legally": 4506.0
+    },
+    "total": 982642.0,
+    "total_from_source": 451845
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "never-married": 387128,
+      "married-registered": 326553,
+      "married-customary": 12982,
+      "widowed": 23941,
+      "divorced": 881,
+      "legally-separated": 578.0,
+      "seperated-not-legally": 3387.0
+    },
+    "total": 755450.0,
+    "total_from_source": 339535
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "never-married": 268662,
+      "married-registered": 223790,
+      "married-customary": 10477,
+      "widowed": 15273,
+      "divorced": 636,
+      "legally-separated": 472.0,
+      "seperated-not-legally": 2675.0
+    },
+    "total": 521985.0,
+    "total_from_source": 234267
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "never-married": 315106,
+      "married-registered": 231836,
+      "married-customary": 18403,
+      "widowed": 17393,
+      "divorced": 1170,
+      "legally-separated": 1052.0,
+      "seperated-not-legally": 2113.0
+    },
+    "total": 587073.0,
+    "total_from_source": 250239
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "never-married": 670500,
+      "married-registered": 669514,
+      "married-customary": 27713,
+      "widowed": 60001,
+      "divorced": 3034,
+      "legally-separated": 2047.0,
+      "seperated-not-legally": 9930.0
+    },
+    "total": 1442739.0,
+    "total_from_source": 697227
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "never-married": 343972,
+      "married-registered": 303488,
+      "married-customary": 20356,
+      "widowed": 25862,
+      "divorced": 1140,
+      "legally-separated": 821.0,
+      "seperated-not-legally": 5253.0
+    },
+    "total": 700892.0,
+    "total_from_source": 323844
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "never-married": 360760,
+      "married-registered": 331511,
+      "married-customary": 17127,
+      "widowed": 23725,
+      "divorced": 998,
+      "legally-separated": 693.0,
+      "seperated-not-legally": 4173.0
+    },
+    "total": 738987.0,
+    "total_from_source": 348638
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "never-married": 172910,
+      "married-registered": 163109,
+      "married-customary": 7948,
+      "widowed": 9586,
+      "divorced": 429,
+      "legally-separated": 295.0,
+      "seperated-not-legally": 1647.0
+    },
+    "total": 355924.0,
+    "total_from_source": 171057
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "never-married": 389551,
+      "married-registered": 334923,
+      "married-customary": 20140,
+      "widowed": 21518,
+      "divorced": 691,
+      "legally-separated": 484.0,
+      "seperated-not-legally": 2440.0
+    },
+    "total": 769747.0,
+    "total_from_source": 355063
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "never-married": 206034,
+      "married-registered": 168570,
+      "married-customary": 7542,
+      "widowed": 9198,
+      "divorced": 333,
+      "legally-separated": 230.0,
+      "seperated-not-legally": 1507.0
+    },
+    "total": 393414.0,
+    "total_from_source": 176112
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "never-married": 502797,
+      "married-registered": 436594,
+      "married-customary": 30274,
+      "widowed": 26940,
+      "divorced": 1173,
+      "legally-separated": 903.0,
+      "seperated-not-legally": 5136.0
+    },
+    "total": 1003817.0,
+    "total_from_source": 466868
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "never-married": 370072,
+      "married-registered": 355884,
+      "married-customary": 18566,
+      "widowed": 26564,
+      "divorced": 1193,
+      "legally-separated": 921.0,
+      "seperated-not-legally": 3553.0
+    },
+    "total": 776753.0,
+    "total_from_source": 374450
+  }
+]

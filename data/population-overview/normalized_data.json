@@ -1,0 +1,314 @@
+[
+  {
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "values": {
+      "male": 9359148,
+      "female": 9438109,
+      "sex-ratio": 99.2,
+      "density": 300
+    },
+    "total": 18797656.2,
+    "total_from_source": 18797257
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "male": 1151413,
+      "female": 1099861,
+      "sex-ratio": 104.7,
+      "density": 3330
+    },
+    "total": 2254708.7,
+    "total_from_source": 2251274
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "male": 1007702,
+      "female": 1055982,
+      "sex-ratio": 95.4,
+      "density": 1539
+    },
+    "total": 2065318.4,
+    "total_from_source": 2063684
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "male": 527281,
+      "female": 538958,
+      "sex-ratio": 97.8,
+      "density": 677
+    },
+    "total": 1067013.8,
+    "total_from_source": 1066239
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "male": 623966,
+      "female": 655062,
+      "sex-ratio": 95.3,
+      "density": 667
+    },
+    "total": 1279790.3,
+    "total_from_source": 1279028
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "male": 220070,
+      "female": 221258,
+      "sex-ratio": 99.5,
+      "density": 226
+    },
+    "total": 441653.5,
+    "total_from_source": 441328
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "male": 350024,
+      "female": 353586,
+      "sex-ratio": 99.0,
+      "density": 412
+    },
+    "total": 704121.0,
+    "total_from_source": 703610
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "male": 481849,
+      "female": 508638,
+      "sex-ratio": 94.7,
+      "density": 613
+    },
+    "total": 991194.7,
+    "total_from_source": 990487
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "male": 369247,
+      "female": 392123,
+      "sex-ratio": 94.2,
+      "density": 600
+    },
+    "total": 762064.2,
+    "total_from_source": 761370
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "male": 263197,
+      "female": 263217,
+      "sex-ratio": 100.0,
+      "density": 211
+    },
+    "total": 526725.0,
+    "total_from_source": 526414
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "values": {
+      "male": 242719,
+      "female": 247902,
+      "sex-ratio": 97.9,
+      "density": 528
+    },
+    "total": 491246.9,
+    "total_from_source": 490621
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Mannar",
+    "values": {
+      "male": 75024,
+      "female": 76553,
+      "sex-ratio": 98.0,
+      "density": 81
+    },
+    "total": 151756.0,
+    "total_from_source": 151577
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Vavuniya",
+    "values": {
+      "male": 75273,
+      "female": 74562,
+      "sex-ratio": 101.0,
+      "density": 81
+    },
+    "total": 150017.0,
+    "total_from_source": 149835
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Mullaitivu",
+    "values": {
+      "male": 60199,
+      "female": 61468,
+      "sex-ratio": 97.9,
+      "density": 50
+    },
+    "total": 121814.9,
+    "total_from_source": 121667
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Kilinochchi",
+    "values": {
+      "male": 63005,
+      "female": 64258,
+      "sex-ratio": 98.1,
+      "density": 106
+    },
+    "total": 127467.1,
+    "total_from_source": 127263
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "values": {
+      "male": 240314,
+      "female": 246133,
+      "sex-ratio": 97.6,
+      "density": 186
+    },
+    "total": 486730.6,
+    "total_from_source": 486447
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "male": 299004,
+      "female": 293993,
+      "sex-ratio": 101.7,
+      "density": 140
+    },
+    "total": 593238.7,
+    "total_from_source": 592997
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "values": {
+      "male": 177007,
+      "female": 163151,
+      "sex-ratio": 108.5,
+      "density": 135
+    },
+    "total": 340401.5,
+    "total_from_source": 340158
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "male": 723179,
+      "female": 737036,
+      "sex-ratio": 98.1,
+      "density": 316
+    },
+    "total": 1460629.1,
+    "total_from_source": 1460215
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "male": 352455,
+      "female": 357222,
+      "sex-ratio": 98.7,
+      "density": 246
+    },
+    "total": 710021.7,
+    "total_from_source": 709677
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "male": 380516,
+      "female": 365177,
+      "sex-ratio": 104.2,
+      "density": 112
+    },
+    "total": 745909.2,
+    "total_from_source": 745693
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "male": 187789,
+      "female": 171195,
+      "sex-ratio": 109.7,
+      "density": 117
+    },
+    "total": 359210.7,
+    "total_from_source": 358984
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "male": 387583,
+      "female": 392400,
+      "sex-ratio": 98.8,
+      "density": 276
+    },
+    "total": 780357.8,
+    "total_from_source": 779983
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "male": 202816,
+      "female": 194559,
+      "sex-ratio": 104.2,
+      "density": 72
+    },
+    "total": 397551.2,
+    "total_from_source": 397375
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "male": 512903,
+      "female": 502904,
+      "sex-ratio": 102.0,
+      "density": 314
+    },
+    "total": 1016223.0,
+    "total_from_source": 1015807
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "male": 384613,
+      "female": 400911,
+      "sex-ratio": 95.9,
+      "density": 466
+    },
+    "total": 786085.9,
+    "total_from_source": 785524
+  }
+]

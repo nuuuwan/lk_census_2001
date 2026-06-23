@@ -1,0 +1,200 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "using-toilets-exclusively": 370456,
+      "hygienic-toilets": 381191,
+      "not-using-toilet": 1411
+    },
+    "total": 753058,
+    "total_from_source": 493085
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "using-toilets-exclusively": 391309,
+      "hygienic-toilets": 378507,
+      "not-using-toilet": 3912
+    },
+    "total": 773728,
+    "total_from_source": 487184
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "using-toilets-exclusively": 206047,
+      "hygienic-toilets": 195994,
+      "not-using-toilet": 4393
+    },
+    "total": 406434,
+    "total_from_source": 250939
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "using-toilets-exclusively": 246132,
+      "hygienic-toilets": 193425,
+      "not-using-toilet": 7022
+    },
+    "total": 446579,
+    "total_from_source": 299870
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "using-toilets-exclusively": 89229,
+      "hygienic-toilets": 51884,
+      "not-using-toilet": 3169
+    },
+    "total": 144282,
+    "total_from_source": 110886
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "using-toilets-exclusively": 110323,
+      "hygienic-toilets": 69990,
+      "not-using-toilet": 18739
+    },
+    "total": 199052,
+    "total_from_source": 169540
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "using-toilets-exclusively": 191922,
+      "hygienic-toilets": 173003,
+      "not-using-toilet": 6435
+    },
+    "total": 371360,
+    "total_from_source": 233027
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "using-toilets-exclusively": 151140,
+      "hygienic-toilets": 142459,
+      "not-using-toilet": 2000
+    },
+    "total": 295599,
+    "total_from_source": 177613
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "using-toilets-exclusively": 107323,
+      "hygienic-toilets": 74225,
+      "not-using-toilet": 2868
+    },
+    "total": 184416,
+    "total_from_source": 128008
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "using-toilets-exclusively": 92019,
+      "hygienic-toilets": 68048,
+      "not-using-toilet": 27657
+    },
+    "total": 187724,
+    "total_from_source": 137741
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "using-toilets-exclusively": 300982,
+      "hygienic-toilets": 261217,
+      "not-using-toilet": 24156
+    },
+    "total": 586355,
+    "total_from_source": 380213
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "using-toilets-exclusively": 126466,
+      "hygienic-toilets": 120504,
+      "not-using-toilet": 21487
+    },
+    "total": 268457,
+    "total_from_source": 176544
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "using-toilets-exclusively": 138832,
+      "hygienic-toilets": 90923,
+      "not-using-toilet": 24046
+    },
+    "total": 253801,
+    "total_from_source": 189699
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "using-toilets-exclusively": 72205,
+      "hygienic-toilets": 49009,
+      "not-using-toilet": 5793
+    },
+    "total": 127007,
+    "total_from_source": 91718
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "using-toilets-exclusively": 151381,
+      "hygienic-toilets": 103370,
+      "not-using-toilet": 7269
+    },
+    "total": 262020,
+    "total_from_source": 189925
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "using-toilets-exclusively": 82529,
+      "hygienic-toilets": 42431,
+      "not-using-toilet": 5475
+    },
+    "total": 130435,
+    "total_from_source": 96598
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "using-toilets-exclusively": 201370,
+      "hygienic-toilets": 160909,
+      "not-using-toilet": 7212
+    },
+    "total": 369491,
+    "total_from_source": 245743
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "using-toilets-exclusively": 166562,
+      "hygienic-toilets": 128826,
+      "not-using-toilet": 4915
+    },
+    "total": 300303,
+    "total_from_source": 195853
+  }
+]

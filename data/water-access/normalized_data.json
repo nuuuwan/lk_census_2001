@@ -1,0 +1,182 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "pipe-borne-water": 307322,
+      "safe-water": 470952
+    },
+    "total": 778274,
+    "total_from_source": 493085
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "pipe-borne-water": 108422,
+      "safe-water": 445432
+    },
+    "total": 553854,
+    "total_from_source": 487184
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "pipe-borne-water": 46495,
+      "safe-water": 210772
+    },
+    "total": 257267,
+    "total_from_source": 250939
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "pipe-borne-water": 115022,
+      "safe-water": 244357
+    },
+    "total": 359379,
+    "total_from_source": 299870
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "pipe-borne-water": 24830,
+      "safe-water": 89249
+    },
+    "total": 114079,
+    "total_from_source": 110886
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "pipe-borne-water": 85586,
+      "safe-water": 115079
+    },
+    "total": 200665,
+    "total_from_source": 169540
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "pipe-borne-water": 44334,
+      "safe-water": 189283
+    },
+    "total": 233617,
+    "total_from_source": 233027
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "pipe-borne-water": 49703,
+      "safe-water": 137502
+    },
+    "total": 187205,
+    "total_from_source": 177613
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "pipe-borne-water": 42704,
+      "safe-water": 106758
+    },
+    "total": 149462,
+    "total_from_source": 128008
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "pipe-borne-water": 13439,
+      "safe-water": 117669
+    },
+    "total": 131108,
+    "total_from_source": 137741
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "pipe-borne-water": 14795,
+      "safe-water": 323114
+    },
+    "total": 337909,
+    "total_from_source": 380213
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "pipe-borne-water": 19899,
+      "safe-water": 159325
+    },
+    "total": 179224,
+    "total_from_source": 176544
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "pipe-borne-water": 18137,
+      "safe-water": 157565
+    },
+    "total": 175702,
+    "total_from_source": 189699
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "pipe-borne-water": 10000,
+      "safe-water": 69041
+    },
+    "total": 79041,
+    "total_from_source": 91718
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "pipe-borne-water": 71667,
+      "safe-water": 133391
+    },
+    "total": 205058,
+    "total_from_source": 189925
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "pipe-borne-water": 13472,
+      "safe-water": 61278
+    },
+    "total": 74750,
+    "total_from_source": 96598
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "pipe-borne-water": 68415,
+      "safe-water": 150709
+    },
+    "total": 219124,
+    "total_from_source": 245743
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "pipe-borne-water": 35637,
+      "safe-water": 135339
+    },
+    "total": 170976,
+    "total_from_source": 195853
+  }
+]

@@ -160,8 +160,8 @@
       "urban-pct": 75.3,
       "rural": 49758,
       "rural-pct": 44.2,
-      "estate": null,
-      "estate-pct": null
+      "estate": 0,
+      "estate-pct": 0
     }
   },
   {
@@ -216,8 +216,8 @@
       "total-occupied-housing-units": 91718,
       "using-electricity": 41399,
       "using-electricity-pct": 45.1,
-      "urban": null,
-      "urban-pct": null,
+      "urban": 0,
+      "urban-pct": 0,
       "rural": 41308,
       "rural-pct": 45.1,
       "estate": 91,
@@ -246,8 +246,8 @@
       "total-occupied-housing-units": 96598,
       "using-electricity": 30511,
       "using-electricity-pct": 31.6,
-      "urban": null,
-      "urban-pct": null,
+      "urban": 0,
+      "urban-pct": 0,
       "rural": 29836,
       "rural-pct": 31.6,
       "estate": 675,

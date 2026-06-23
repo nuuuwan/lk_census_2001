@@ -1,0 +1,182 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 18470,
+      "non-agricultural-and-fishery-workers": 836672
+    },
+    "total": 855142,
+    "total_from_source": 855142
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 37142,
+      "non-agricultural-and-fishery-workers": 719044
+    },
+    "total": 756186,
+    "total_from_source": 756186
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 54749,
+      "non-agricultural-and-fishery-workers": 302088
+    },
+    "total": 356837,
+    "total_from_source": 356837
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 88506,
+      "non-agricultural-and-fishery-workers": 319048
+    },
+    "total": 407554,
+    "total_from_source": 407554
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 61711,
+      "non-agricultural-and-fishery-workers": 94468
+    },
+    "total": 156179,
+    "total_from_source": 156179
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 171183,
+      "non-agricultural-and-fishery-workers": 110363
+    },
+    "total": 281546,
+    "total_from_source": 281546
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 93565,
+      "non-agricultural-and-fishery-workers": 225115
+    },
+    "total": 318680,
+    "total_from_source": 318680
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 88449,
+      "non-agricultural-and-fishery-workers": 153726
+    },
+    "total": 242175,
+    "total_from_source": 242175
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 68095,
+      "non-agricultural-and-fishery-workers": 96828
+    },
+    "total": 164923,
+    "total_from_source": 164923
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 71505,
+      "non-agricultural-and-fishery-workers": 90817
+    },
+    "total": 162322,
+    "total_from_source": 162322
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 166636,
+      "non-agricultural-and-fishery-workers": 347917
+    },
+    "total": 514553,
+    "total_from_source": 514553
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 58797,
+      "non-agricultural-and-fishery-workers": 170628
+    },
+    "total": 229425,
+    "total_from_source": 229425
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 149538,
+      "non-agricultural-and-fishery-workers": 136268
+    },
+    "total": 285806,
+    "total_from_source": 285806
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 69769,
+      "non-agricultural-and-fishery-workers": 67309
+    },
+    "total": 137078,
+    "total_from_source": 137078
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 162159,
+      "non-agricultural-and-fishery-workers": 132064
+    },
+    "total": 294223,
+    "total_from_source": 294223
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 87986,
+      "non-agricultural-and-fishery-workers": 56614
+    },
+    "total": 144600,
+    "total_from_source": 144600
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 162334,
+      "non-agricultural-and-fishery-workers": 213031
+    },
+    "total": 375365,
+    "total_from_source": 375365
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 62371,
+      "non-agricultural-and-fishery-workers": 196609
+    },
+    "total": 258980,
+    "total_from_source": 258980
+  }
+]

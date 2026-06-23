@@ -106,7 +106,7 @@
       "total-pct": 7.7,
       "urban-pct": 7.1,
       "rural-pct": 7.9,
-      "estate-pct": null
+      "estate-pct": 0
     }
   },
   {
@@ -144,7 +144,7 @@
     "region_name": "Polonnaruwa",
     "values": {
       "total-pct": 6.2,
-      "urban-pct": null,
+      "urban-pct": 0,
       "rural-pct": 6.2,
       "estate-pct": 4.8
     }
@@ -164,7 +164,7 @@
     "region_name": "Moneragala",
     "values": {
       "total-pct": 4.9,
-      "urban-pct": null,
+      "urban-pct": 0,
       "rural-pct": 4.7,
       "estate-pct": 14.2
     }

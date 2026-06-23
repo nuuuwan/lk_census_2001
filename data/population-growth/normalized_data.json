@@ -6,20 +6,10 @@
       "census-1981-population": 14846750,
       "census-2001-population": 18797257,
       "intercensal-increase": 3950507,
-      "intercensal-increase-pct": 26.6,
       "annual-growth-rate": 1.2
-    }
-  },
-  {
-    "region_id": "total",
-    "region_name": "District-Total",
-    "values": {
-      "census-1981-population": 13151065,
-      "census-2001-population": 16929689,
-      "intercensal-increase": 3778624,
-      "intercensal-increase-pct": 28.7,
-      "annual-growth-rate": 1.2
-    }
+    },
+    "total": 37594515.2,
+    "total_from_source": null
   },
   {
     "region_id": "LK-11",
@@ -28,9 +18,10 @@
       "census-1981-population": 1699241,
       "census-2001-population": 2251274,
       "intercensal-increase": 552033,
-      "intercensal-increase-pct": 32.5,
       "annual-growth-rate": 1.4
-    }
+    },
+    "total": 4502549.4,
+    "total_from_source": null
   },
   {
     "region_id": "LK-12",
@@ -39,9 +30,10 @@
       "census-1981-population": 1390862,
       "census-2001-population": 2063684,
       "intercensal-increase": 672822,
-      "intercensal-increase-pct": 48.4,
       "annual-growth-rate": 1.9
-    }
+    },
+    "total": 4127369.9,
+    "total_from_source": null
   },
   {
     "region_id": "LK-13",
@@ -50,9 +42,10 @@
       "census-1981-population": 829704,
       "census-2001-population": 1066239,
       "intercensal-increase": 236535,
-      "intercensal-increase-pct": 28.5,
       "annual-growth-rate": 1.2
-    }
+    },
+    "total": 2132479.2,
+    "total_from_source": null
   },
   {
     "region_id": "LK-21",
@@ -61,9 +54,10 @@
       "census-1981-population": 1048317,
       "census-2001-population": 1279028,
       "intercensal-increase": 230711,
-      "intercensal-increase-pct": 22.0,
       "annual-growth-rate": 1.0
-    }
+    },
+    "total": 2558057.0,
+    "total_from_source": null
   },
   {
     "region_id": "LK-22",
@@ -72,9 +66,10 @@
       "census-1981-population": 357354,
       "census-2001-population": 441328,
       "intercensal-increase": 83974,
-      "intercensal-increase-pct": 23.5,
       "annual-growth-rate": 1.0
-    }
+    },
+    "total": 882657.0,
+    "total_from_source": null
   },
   {
     "region_id": "LK-23",
@@ -83,9 +78,10 @@
       "census-1981-population": 603577,
       "census-2001-population": 703610,
       "intercensal-increase": 100033,
-      "intercensal-increase-pct": 16.6,
       "annual-growth-rate": 0.8
-    }
+    },
+    "total": 1407220.8,
+    "total_from_source": null
   },
   {
     "region_id": "LK-31",
@@ -94,9 +90,10 @@
       "census-1981-population": 814531,
       "census-2001-population": 990487,
       "intercensal-increase": 175956,
-      "intercensal-increase-pct": 21.6,
       "annual-growth-rate": 1.0
-    }
+    },
+    "total": 1980975.0,
+    "total_from_source": null
   },
   {
     "region_id": "LK-32",
@@ -105,9 +102,10 @@
       "census-1981-population": 643786,
       "census-2001-population": 761370,
       "intercensal-increase": 117584,
-      "intercensal-increase-pct": 18.3,
       "annual-growth-rate": 0.8
-    }
+    },
+    "total": 1522740.8,
+    "total_from_source": null
   },
   {
     "region_id": "LK-33",
@@ -116,9 +114,10 @@
       "census-1981-population": 424344,
       "census-2001-population": 526414,
       "intercensal-increase": 102070,
-      "intercensal-increase-pct": 24.1,
       "annual-growth-rate": 1.1
-    }
+    },
+    "total": 1052829.1,
+    "total_from_source": null
   },
   {
     "region_id": "LK-41",
@@ -127,9 +126,10 @@
       "census-1981-population": 738788,
       "census-2001-population": 490621,
       "intercensal-increase": -248167,
-      "intercensal-increase-pct": -33.6,
       "annual-growth-rate": -2.0
-    }
+    },
+    "total": 981240.0,
+    "total_from_source": null
   },
   {
     "region_id": "LK-43",
@@ -138,9 +138,10 @@
       "census-1981-population": 106235,
       "census-2001-population": 151577,
       "intercensal-increase": 45342,
-      "intercensal-increase-pct": 42.7,
       "annual-growth-rate": 1.7
-    }
+    },
+    "total": 303155.7,
+    "total_from_source": null
   },
   {
     "region_id": "LK-44",
@@ -149,9 +150,10 @@
       "census-1981-population": 95428,
       "census-2001-population": 149835,
       "intercensal-increase": 54407,
-      "intercensal-increase-pct": 57.0,
       "annual-growth-rate": 2.2
-    }
+    },
+    "total": 299672.2,
+    "total_from_source": null
   },
   {
     "region_id": "LK-45",
@@ -160,9 +162,10 @@
       "census-1981-population": 77189,
       "census-2001-population": 121667,
       "intercensal-increase": 44478,
-      "intercensal-increase-pct": 57.6,
       "annual-growth-rate": 2.2
-    }
+    },
+    "total": 243336.2,
+    "total_from_source": null
   },
   {
     "region_id": "LK-42",
@@ -171,9 +174,10 @@
       "census-1981-population": 91764,
       "census-2001-population": 127263,
       "intercensal-increase": 35499,
-      "intercensal-increase-pct": 38.7,
       "annual-growth-rate": 1.6
-    }
+    },
+    "total": 254527.6,
+    "total_from_source": null
   },
   {
     "region_id": "LK-51",
@@ -182,9 +186,10 @@
       "census-1981-population": 330333,
       "census-2001-population": 486447,
       "intercensal-increase": 156114,
-      "intercensal-increase-pct": 47.3,
       "annual-growth-rate": 1.9
-    }
+    },
+    "total": 972895.9,
+    "total_from_source": null
   },
   {
     "region_id": "LK-52",
@@ -193,9 +198,10 @@
       "census-1981-population": 388970,
       "census-2001-population": 592997,
       "intercensal-increase": 204027,
-      "intercensal-increase-pct": 52.5,
       "annual-growth-rate": 2.1
-    }
+    },
+    "total": 1185996.1,
+    "total_from_source": null
   },
   {
     "region_id": "LK-53",
@@ -204,9 +210,10 @@
       "census-1981-population": 255948,
       "census-2001-population": 340158,
       "intercensal-increase": 84210,
-      "intercensal-increase-pct": 32.9,
       "annual-growth-rate": 1.4
-    }
+    },
+    "total": 680317.4,
+    "total_from_source": null
   },
   {
     "region_id": "LK-61",
@@ -215,9 +222,10 @@
       "census-1981-population": 1211801,
       "census-2001-population": 1460215,
       "intercensal-increase": 248414,
-      "intercensal-increase-pct": 20.5,
       "annual-growth-rate": 0.9
-    }
+    },
+    "total": 2920430.9,
+    "total_from_source": null
   },
   {
     "region_id": "LK-62",
@@ -226,9 +234,10 @@
       "census-1981-population": 492533,
       "census-2001-population": 709677,
       "intercensal-increase": 217144,
-      "intercensal-increase-pct": 44.1,
       "annual-growth-rate": 1.8
-    }
+    },
+    "total": 1419355.8,
+    "total_from_source": null
   },
   {
     "region_id": "LK-71",
@@ -237,9 +246,10 @@
       "census-1981-population": 587929,
       "census-2001-population": 745693,
       "intercensal-increase": 157764,
-      "intercensal-increase-pct": 26.8,
       "annual-growth-rate": 1.2
-    }
+    },
+    "total": 1491387.2,
+    "total_from_source": null
   },
   {
     "region_id": "LK-72",
@@ -248,9 +258,10 @@
       "census-1981-population": 261563,
       "census-2001-population": 358984,
       "intercensal-increase": 97421,
-      "intercensal-increase-pct": 37.2,
       "annual-growth-rate": 1.6
-    }
+    },
+    "total": 717969.6,
+    "total_from_source": null
   },
   {
     "region_id": "LK-81",
@@ -259,9 +270,10 @@
       "census-1981-population": 640952,
       "census-2001-population": 779983,
       "intercensal-increase": 139031,
-      "intercensal-increase-pct": 21.7,
       "annual-growth-rate": 1.0
-    }
+    },
+    "total": 1559967.0,
+    "total_from_source": null
   },
   {
     "region_id": "LK-82",
@@ -270,9 +282,10 @@
       "census-1981-population": 273570,
       "census-2001-population": 397375,
       "intercensal-increase": 123805,
-      "intercensal-increase-pct": 45.3,
       "annual-growth-rate": 1.8
-    }
+    },
+    "total": 794751.8,
+    "total_from_source": null
   },
   {
     "region_id": "LK-91",
@@ -281,9 +294,10 @@
       "census-1981-population": 797087,
       "census-2001-population": 1015807,
       "intercensal-increase": 218720,
-      "intercensal-increase-pct": 27.4,
       "annual-growth-rate": 1.2
-    }
+    },
+    "total": 2031615.2,
+    "total_from_source": null
   },
   {
     "region_id": "LK-92",
@@ -292,19 +306,9 @@
       "census-1981-population": 684944,
       "census-2001-population": 785524,
       "intercensal-increase": 100580,
-      "intercensal-increase-pct": 14.7,
       "annual-growth-rate": 0.7
-    }
-  },
-  {
-    "region_id": "total",
-    "region_name": "District-Total",
-    "values": {
-      "census-1981-population": 0,
-      "census-2001-population": 0,
-      "intercensal-increase": 0,
-      "intercensal-increase-pct": 0,
-      "annual-growth-rate": 0
-    }
+    },
+    "total": 1571048.7,
+    "total_from_source": null
   }
 ]

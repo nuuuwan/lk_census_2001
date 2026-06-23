@@ -21,8 +21,8 @@
         "population-in-urban-sector-pct": 19.0,
         "population-in-rural-sector": 480461,
         "population-in-rural-sector-pct": 81.0,
-        "population-in-estate-sector": null,
-        "population-in-estate-sector-pct": null
+        "population-in-estate-sector": 0,
+        "population-in-estate-sector-pct": 0
     }
 }
 ```

@@ -1,0 +1,200 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "permanent-average": 4.1,
+      "semi-permanent-average": 2.3,
+      "improvised-average": 1.4
+    },
+    "total": 7.799999999999999,
+    "total_from_source": 3.9
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "permanent-average": 4.2,
+      "semi-permanent-average": 3.0,
+      "improvised-average": 1.3
+    },
+    "total": 8.5,
+    "total_from_source": 3.9
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "permanent-average": 4.3,
+      "semi-permanent-average": 2.4,
+      "improvised-average": 1.2
+    },
+    "total": 7.8999999999999995,
+    "total_from_source": 3.9
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "permanent-average": 4.7,
+      "semi-permanent-average": 2.9,
+      "improvised-average": 1.3
+    },
+    "total": 8.9,
+    "total_from_source": 4.2
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "permanent-average": 4.9,
+      "semi-permanent-average": 3.2,
+      "improvised-average": 1.4
+    },
+    "total": 9.5,
+    "total_from_source": 4.1
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "permanent-average": 3.9,
+      "semi-permanent-average": 2.7,
+      "improvised-average": 1.7
+    },
+    "total": 8.3,
+    "total_from_source": 3.4
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "permanent-average": 4.4,
+      "semi-permanent-average": 2.6,
+      "improvised-average": 1.3
+    },
+    "total": 8.3,
+    "total_from_source": 3.9
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "permanent-average": 4.6,
+      "semi-permanent-average": 2.8,
+      "improvised-average": 1.4
+    },
+    "total": 8.799999999999999,
+    "total_from_source": 4.1
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "permanent-average": 4.5,
+      "semi-permanent-average": 2.9,
+      "improvised-average": 1.3
+    },
+    "total": 8.7,
+    "total_from_source": 3.8
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "permanent-average": 3.9,
+      "semi-permanent-average": 2.5,
+      "improvised-average": 1.2
+    },
+    "total": 7.6,
+    "total_from_source": 3.4
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "permanent-average": 4.9,
+      "semi-permanent-average": 3.1,
+      "improvised-average": 1.6
+    },
+    "total": 9.600000000000001,
+    "total_from_source": 4.2
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "permanent-average": 4.2,
+      "semi-permanent-average": 2.4,
+      "improvised-average": 1.6
+    },
+    "total": 8.2,
+    "total_from_source": 3.5
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "permanent-average": 4.5,
+      "semi-permanent-average": 3.0,
+      "improvised-average": 1.4
+    },
+    "total": 8.9,
+    "total_from_source": 3.8
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "permanent-average": 4.4,
+      "semi-permanent-average": 2.8,
+      "improvised-average": 1.2
+    },
+    "total": 8.4,
+    "total_from_source": 3.8
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "permanent-average": 4.7,
+      "semi-permanent-average": 3.0,
+      "improvised-average": 1.3
+    },
+    "total": 9.0,
+    "total_from_source": 4.1
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "permanent-average": 4.6,
+      "semi-permanent-average": 2.9,
+      "improvised-average": 1.5
+    },
+    "total": 9.0,
+    "total_from_source": 3.7
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "permanent-average": 4.2,
+      "semi-permanent-average": 2.6,
+      "improvised-average": 1.4
+    },
+    "total": 8.2,
+    "total_from_source": 3.6
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "permanent-average": 4.7,
+      "semi-permanent-average": 2.8,
+      "improvised-average": 1.5
+    },
+    "total": 9.0,
+    "total_from_source": 4.1
+  }
+]

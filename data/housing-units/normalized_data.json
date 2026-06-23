@@ -1,192 +1,200 @@
 [
   {
-    "region_id": "total",
-    "region_name": "District-Total",
-    "values": {
-      "total-occupied-housing-units": 3969027,
-      "urban": 488365,
-      "rural": 3262505,
-      "estate": 218157
-    }
-  },
-  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "total-occupied-housing-units": 473045,
       "urban": 240531,
       "rural": 230684,
       "estate": 1830
-    }
+    },
+    "total": 473045,
+    "total_from_source": 473045
   },
   {
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "total-occupied-housing-units": 475847,
       "urban": 61832,
       "rural": 413809,
       "estate": 206
-    }
+    },
+    "total": 475847,
+    "total_from_source": 475847
   },
   {
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "total-occupied-housing-units": 245784,
       "urban": 21141,
       "rural": 215191,
       "estate": 9452
-    }
+    },
+    "total": 245784,
+    "total_from_source": 245784
   },
   {
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "total-occupied-housing-units": 291454,
       "urban": 30741,
       "rural": 237838,
       "estate": 22875
-    }
+    },
+    "total": 291454,
+    "total_from_source": 291454
   },
   {
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "total-occupied-housing-units": 108566,
       "urban": 7256,
       "rural": 95722,
       "estate": 5588
-    }
+    },
+    "total": 108566,
+    "total_from_source": 108566
   },
   {
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "total-occupied-housing-units": 164886,
       "urban": 8934,
       "rural": 69474,
       "estate": 86478
-    }
+    },
+    "total": 164886,
+    "total_from_source": 164886
   },
   {
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "total-occupied-housing-units": 229521,
       "urban": 20554,
       "rural": 204663,
       "estate": 4304
-    }
+    },
+    "total": 229521,
+    "total_from_source": 229521
   },
   {
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "total-occupied-housing-units": 174712,
       "urban": 12676,
       "rural": 157351,
       "estate": 4685
-    }
+    },
+    "total": 174712,
+    "total_from_source": 174712
   },
   {
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "total-occupied-housing-units": 126362,
       "urban": 4369,
       "rural": 121905,
       "estate": 88
-    }
+    },
+    "total": 126362,
+    "total_from_source": 126362
   },
   {
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "total-occupied-housing-units": 132371,
       "urban": 23327,
       "rural": 109044,
       "estate": 0
-    }
+    },
+    "total": 132371,
+    "total_from_source": 132371
   },
   {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "total-occupied-housing-units": 376352,
       "urban": 6426,
       "rural": 368140,
       "estate": 1786
-    }
+    },
+    "total": 376352,
+    "total_from_source": 376352
   },
   {
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "total-occupied-housing-units": 174737,
       "urban": 13930,
       "rural": 160185,
       "estate": 622
-    }
+    },
+    "total": 174737,
+    "total_from_source": 174737
   },
   {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "total-occupied-housing-units": 186697,
       "urban": 10856,
       "rural": 175600,
       "estate": 241
-    }
+    },
+    "total": 186697,
+    "total_from_source": 186697
   },
   {
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "total-occupied-housing-units": 90999,
       "urban": 0,
       "rural": 90901,
       "estate": 98
-    }
+    },
+    "total": 90999,
+    "total_from_source": 90999
   },
   {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "total-occupied-housing-units": 185268,
       "urban": 10553,
       "rural": 136171,
       "estate": 38544
-    }
+    },
+    "total": 185268,
+    "total_from_source": 185268
   },
   {
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "total-occupied-housing-units": 95966,
       "urban": 0,
       "rural": 93670,
       "estate": 2296
-    }
+    },
+    "total": 95966,
+    "total_from_source": 95966
   },
   {
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "total-occupied-housing-units": 242882,
       "urban": 11841,
       "rural": 205773,
       "estate": 25268
-    }
+    },
+    "total": 242882,
+    "total_from_source": 242882
   },
   {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "total-occupied-housing-units": 193578,
       "urban": 3398,
       "rural": 176384,
       "estate": 13796
-    }
+    },
+    "total": 193578,
+    "total_from_source": 193578
   }
 ]

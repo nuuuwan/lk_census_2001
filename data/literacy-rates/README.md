@@ -21,7 +21,7 @@
         "female-rate": 82.9,
         "urban-rate": 88.9,
         "rural-rate": 85.2,
-        "estate-rate": null
+        "estate-rate": 0
     }
 }
 ```

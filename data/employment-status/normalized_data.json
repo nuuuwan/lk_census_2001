@@ -1,0 +1,128 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {},
+    "total": 0,
+    "total_from_source": 855142
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {},
+    "total": 0,
+    "total_from_source": 756186
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {},
+    "total": 0,
+    "total_from_source": 356837
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {},
+    "total": 0,
+    "total_from_source": 407554
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {},
+    "total": 0,
+    "total_from_source": 156179
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {},
+    "total": 0,
+    "total_from_source": 281546
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {},
+    "total": 0,
+    "total_from_source": 318680
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {},
+    "total": 0,
+    "total_from_source": 242175
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {},
+    "total": 0,
+    "total_from_source": 164923
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {},
+    "total": 0,
+    "total_from_source": 162322
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {},
+    "total": 0,
+    "total_from_source": 514553
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {},
+    "total": 0,
+    "total_from_source": 229425
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {},
+    "total": 0,
+    "total_from_source": 285806
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {},
+    "total": 0,
+    "total_from_source": 137078
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {},
+    "total": 0,
+    "total_from_source": 294223
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {},
+    "total": 0,
+    "total_from_source": 144600
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {},
+    "total": 0,
+    "total_from_source": 375365
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {},
+    "total": 0,
+    "total_from_source": 258980
+  }
+]
