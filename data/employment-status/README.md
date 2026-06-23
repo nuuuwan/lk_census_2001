@@ -17,11 +17,11 @@
     "region_name": "Matara",
     "values": {
         "total-employed-population-aged-10-years-and-over": 242175,
-        "government-employees": null,
-        "semi-government-employees": null,
-        "private-sector-employees-and-employers": null,
-        "own-account-workers": null,
-        "unpaid-family-workers": null
+        "government-employees-pct": 12.9,
+        "semi-government-employees-pct": 5.6,
+        "private-sector-employees-and-employers-pct": 43.4,
+        "own-account-workers-pct": 29.8,
+        "unpaid-family-workers-pct": 8.3
     }
 }
 ```

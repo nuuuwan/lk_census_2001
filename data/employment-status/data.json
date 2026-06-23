@@ -4,11 +4,11 @@
     "region_name": "District-Total",
     "values": {
       "total-employed-population-aged-10-years-and-over": 5941574,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 13.0,
+      "semi-government-employees-pct": 5.1,
+      "private-sector-employees-and-employers-pct": 47.1,
+      "own-account-workers-pct": 27.4,
+      "unpaid-family-workers-pct": 7.5
     }
   },
   {
@@ -16,11 +16,11 @@
     "region_name": "Colombo",
     "values": {
       "total-employed-population-aged-10-years-and-over": 855142,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 14.5,
+      "semi-government-employees-pct": 5.3,
+      "private-sector-employees-and-employers-pct": 63.1,
+      "own-account-workers-pct": 15.4,
+      "unpaid-family-workers-pct": 1.7
     }
   },
   {
@@ -28,11 +28,11 @@
     "region_name": "Gampaha",
     "values": {
       "total-employed-population-aged-10-years-and-over": 756186,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 11.9,
+      "semi-government-employees-pct": 5.2,
+      "private-sector-employees-and-employers-pct": 63.1,
+      "own-account-workers-pct": 17.8,
+      "unpaid-family-workers-pct": 2.0
     }
   },
   {
@@ -40,11 +40,11 @@
     "region_name": "Kalutara",
     "values": {
       "total-employed-population-aged-10-years-and-over": 356837,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 13.7,
+      "semi-government-employees-pct": 5.7,
+      "private-sector-employees-and-employers-pct": 55.5,
+      "own-account-workers-pct": 21.6,
+      "unpaid-family-workers-pct": 3.6
     }
   },
   {
@@ -52,11 +52,11 @@
     "region_name": "Kandy",
     "values": {
       "total-employed-population-aged-10-years-and-over": 407554,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 16.2,
+      "semi-government-employees-pct": 7.4,
+      "private-sector-employees-and-employers-pct": 46.7,
+      "own-account-workers-pct": 24.2,
+      "unpaid-family-workers-pct": 5.4
     }
   },
   {
@@ -64,11 +64,11 @@
     "region_name": "Matale",
     "values": {
       "total-employed-population-aged-10-years-and-over": 156179,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 12.2,
+      "semi-government-employees-pct": 4.9,
+      "private-sector-employees-and-employers-pct": 33.9,
+      "own-account-workers-pct": 35.9,
+      "unpaid-family-workers-pct": 13.1
     }
   },
   {
@@ -76,11 +76,11 @@
     "region_name": "Nuwara Eliya",
     "values": {
       "total-employed-population-aged-10-years-and-over": 281546,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 7.9,
+      "semi-government-employees-pct": 12.7,
+      "private-sector-employees-and-employers-pct": 55.3,
+      "own-account-workers-pct": 18.1,
+      "unpaid-family-workers-pct": 6.2
     }
   },
   {
@@ -88,11 +88,11 @@
     "region_name": "Galle",
     "values": {
       "total-employed-population-aged-10-years-and-over": 318680,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 14.0,
+      "semi-government-employees-pct": 3.6,
+      "private-sector-employees-and-employers-pct": 49.8,
+      "own-account-workers-pct": 25.1,
+      "unpaid-family-workers-pct": 7.6
     }
   },
   {
@@ -100,11 +100,11 @@
     "region_name": "Matara",
     "values": {
       "total-employed-population-aged-10-years-and-over": 242175,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 12.9,
+      "semi-government-employees-pct": 5.6,
+      "private-sector-employees-and-employers-pct": 43.4,
+      "own-account-workers-pct": 29.8,
+      "unpaid-family-workers-pct": 8.3
     }
   },
   {
@@ -112,11 +112,11 @@
     "region_name": "Hambantota",
     "values": {
       "total-employed-population-aged-10-years-and-over": 164923,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 12.6,
+      "semi-government-employees-pct": 2.9,
+      "private-sector-employees-and-employers-pct": 25.5,
+      "own-account-workers-pct": 48.7,
+      "unpaid-family-workers-pct": 10.3
     }
   },
   {
@@ -124,11 +124,11 @@
     "region_name": "Ampara",
     "values": {
       "total-employed-population-aged-10-years-and-over": 162322,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 17.6,
+      "semi-government-employees-pct": 2.6,
+      "private-sector-employees-and-employers-pct": 31.3,
+      "own-account-workers-pct": 40.0,
+      "unpaid-family-workers-pct": 8.6
     }
   },
   {
@@ -136,11 +136,11 @@
     "region_name": "Kurunegala",
     "values": {
       "total-employed-population-aged-10-years-and-over": 514553,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 13.0,
+      "semi-government-employees-pct": 3.1,
+      "private-sector-employees-and-employers-pct": 36.4,
+      "own-account-workers-pct": 36.9,
+      "unpaid-family-workers-pct": 10.6
     }
   },
   {
@@ -148,11 +148,11 @@
     "region_name": "Puttalam",
     "values": {
       "total-employed-population-aged-10-years-and-over": 229425,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 9.0,
+      "semi-government-employees-pct": 2.6,
+      "private-sector-employees-and-employers-pct": 55.8,
+      "own-account-workers-pct": 27.9,
+      "unpaid-family-workers-pct": 4.7
     }
   },
   {
@@ -160,11 +160,11 @@
     "region_name": "Anuradhapura",
     "values": {
       "total-employed-population-aged-10-years-and-over": 285806,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 16.8,
+      "semi-government-employees-pct": 2.5,
+      "private-sector-employees-and-employers-pct": 17.6,
+      "own-account-workers-pct": 43.1,
+      "unpaid-family-workers-pct": 20.0
     }
   },
   {
@@ -172,11 +172,11 @@
     "region_name": "Polonnaruwa",
     "values": {
       "total-employed-population-aged-10-years-and-over": 137078,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 15.0,
+      "semi-government-employees-pct": 2.1,
+      "private-sector-employees-and-employers-pct": 20.3,
+      "own-account-workers-pct": 45.6,
+      "unpaid-family-workers-pct": 17.1
     }
   },
   {
@@ -184,11 +184,11 @@
     "region_name": "Badulla",
     "values": {
       "total-employed-population-aged-10-years-and-over": 294223,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 12.4,
+      "semi-government-employees-pct": 6.3,
+      "private-sector-employees-and-employers-pct": 35.1,
+      "own-account-workers-pct": 31.3,
+      "unpaid-family-workers-pct": 15.0
     }
   },
   {
@@ -196,11 +196,11 @@
     "region_name": "Moneragala",
     "values": {
       "total-employed-population-aged-10-years-and-over": 144600,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 10.7,
+      "semi-government-employees-pct": 3.4,
+      "private-sector-employees-and-employers-pct": 16.1,
+      "own-account-workers-pct": 47.0,
+      "unpaid-family-workers-pct": 22.7
     }
   },
   {
@@ -208,11 +208,11 @@
     "region_name": "Ratnapura",
     "values": {
       "total-employed-population-aged-10-years-and-over": 375365,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 8.7,
+      "semi-government-employees-pct": 4.9,
+      "private-sector-employees-and-employers-pct": 45.5,
+      "own-account-workers-pct": 31.6,
+      "unpaid-family-workers-pct": 9.3
     }
   },
   {
@@ -220,11 +220,11 @@
     "region_name": "Kegalle",
     "values": {
       "total-employed-population-aged-10-years-and-over": 258980,
-      "government-employees": null,
-      "semi-government-employees": null,
-      "private-sector-employees-and-employers": null,
-      "own-account-workers": null,
-      "unpaid-family-workers": null
+      "government-employees-pct": 13.2,
+      "semi-government-employees-pct": 5.6,
+      "private-sector-employees-and-employers-pct": 53.0,
+      "own-account-workers-pct": 24.2,
+      "unpaid-family-workers-pct": 3.9
     }
   }
 ]

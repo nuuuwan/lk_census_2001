@@ -189,11 +189,11 @@
   "employment-status": [
     "district",
     "total-employed-population-aged-10-years-and-over",
-    "government-employees",
-    "semi-government-employees",
-    "private-sector-employees-and-employers",
-    "own-account-workers",
-    "unpaid-family-workers"
+    "government-employees-pct",
+    "semi-government-employees-pct",
+    "private-sector-employees-and-employers-pct",
+    "own-account-workers-pct",
+    "unpaid-family-workers-pct"
   ],
   "ethnicity": [
     "district",

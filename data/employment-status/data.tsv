@@ -1,20 +1,20 @@
-region_id	region_name	total-employed-population-aged-10-years-and-over	government-employees	semi-government-employees	private-sector-employees-and-employers	own-account-workers	unpaid-family-workers
-total	District-Total	5941574					
-LK-11	Colombo	855142					
-LK-12	Gampaha	756186					
-LK-13	Kalutara	356837					
-LK-21	Kandy	407554					
-LK-22	Matale	156179					
-LK-23	Nuwara Eliya	281546					
-LK-31	Galle	318680					
-LK-32	Matara	242175					
-LK-33	Hambantota	164923					
-LK-52	Ampara	162322					
-LK-61	Kurunegala	514553					
-LK-62	Puttalam	229425					
-LK-71	Anuradhapura	285806					
-LK-72	Polonnaruwa	137078					
-LK-81	Badulla	294223					
-LK-82	Moneragala	144600					
-LK-91	Ratnapura	375365					
-LK-92	Kegalle	258980					
+region_id	region_name	total-employed-population-aged-10-years-and-over	government-employees-pct	semi-government-employees-pct	private-sector-employees-and-employers-pct	own-account-workers-pct	unpaid-family-workers-pct
+total	District-Total	5941574	13.0	5.1	47.1	27.4	7.5
+LK-11	Colombo	855142	14.5	5.3	63.1	15.4	1.7
+LK-12	Gampaha	756186	11.9	5.2	63.1	17.8	2.0
+LK-13	Kalutara	356837	13.7	5.7	55.5	21.6	3.6
+LK-21	Kandy	407554	16.2	7.4	46.7	24.2	5.4
+LK-22	Matale	156179	12.2	4.9	33.9	35.9	13.1
+LK-23	Nuwara Eliya	281546	7.9	12.7	55.3	18.1	6.2
+LK-31	Galle	318680	14.0	3.6	49.8	25.1	7.6
+LK-32	Matara	242175	12.9	5.6	43.4	29.8	8.3
+LK-33	Hambantota	164923	12.6	2.9	25.5	48.7	10.3
+LK-52	Ampara	162322	17.6	2.6	31.3	40.0	8.6
+LK-61	Kurunegala	514553	13.0	3.1	36.4	36.9	10.6
+LK-62	Puttalam	229425	9.0	2.6	55.8	27.9	4.7
+LK-71	Anuradhapura	285806	16.8	2.5	17.6	43.1	20.0
+LK-72	Polonnaruwa	137078	15.0	2.1	20.3	45.6	17.1
+LK-81	Badulla	294223	12.4	6.3	35.1	31.3	15.0
+LK-82	Moneragala	144600	10.7	3.4	16.1	47.0	22.7
+LK-91	Ratnapura	375365	8.7	4.9	45.5	31.6	9.3
+LK-92	Kegalle	258980	13.2	5.6	53.0	24.2	3.9
