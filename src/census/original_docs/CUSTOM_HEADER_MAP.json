@@ -179,7 +179,7 @@
   ],
   "fertility-rates": ["district", "total", "urban", "rural", "estate"],
   "hand-disability-causes": [
-    "district",
+    "type",
     "sex",
     "total",
     "total-pct",
@@ -195,15 +195,15 @@
     "riot-and-violence-pct",
     "other-accident",
     "other-accident-pct",
-    "war-terrorism",
-    "war-terrorism-pct",
+    "war-or-terrorism",
+    "war-or-terrorism-pct",
     "other",
     "other-pct",
     "not-specified",
     "not-specified-pct"
   ],
   "hearing-disability-causes": [
-    "district",
+    "type",
     "sex",
     "total",
     "total-pct",
