@@ -9,6 +9,7 @@ class OriginalDocValidateMixin:
     @classmethod
     def validate_status(cls):
         docs = cls.list()
+        doc_ids = set()
         group_to_doc_id = {}
         for doc in docs:
             if os.path.exists(doc.data_file_path):
@@ -24,6 +25,9 @@ class OriginalDocValidateMixin:
                 group_to_doc_id[status] = []
 
             group_to_doc_id[status].append(doc.doc_id)
+            if doc.doc_id in doc_ids:
+                raise ValueError(f"Duplicate doc_id: {doc.doc_id}")
+            doc_ids.add(doc.doc_id)
 
         for group, doc_ids in group_to_doc_id.items():
             log.debug(f"{group}: {len(doc_ids)} docs")
