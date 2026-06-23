@@ -17,14 +17,14 @@
     "region_name": "Kegalle",
     "values": {
         "total-agricultural-and-fishery-workers": 62371,
-        "market-gardeners-and-crop-growers": null,
-        "market-oriented-animal-producers": null,
-        "market-oriented-crop-and-animal-producers": null,
-        "forestry-and-related-workers": null,
-        "fishery-workers-hunters-and-trappers": null,
-        "subsistence-agricultural-and-fishery-workers": null,
-        "subsistence-dairy-livestock-and-related-workers": null,
-        "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+        "market-gardeners-and-crop-growers-pct": 43.0,
+        "market-oriented-animal-producers-pct": 1.4,
+        "market-oriented-crop-and-animal-producers-pct": 0.0,
+        "forestry-and-related-workers-pct": 0.0,
+        "fishery-workers-hunters-and-trappers-pct": 0.1,
+        "subsistence-agricultural-and-fishery-workers-pct": 39.7,
+        "subsistence-dairy-livestock-and-related-workers-pct": 0.1,
+        "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 15.7
     }
 }
 ```

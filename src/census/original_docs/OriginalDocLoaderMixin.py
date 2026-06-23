@@ -40,3 +40,21 @@ class OriginalDocLoaderMixin:
         docs.sort(key=lambda doc: doc.doc_id)
         log.debug(f"Loaded {len(docs)} docs")
         return docs
+
+    @classmethod
+    def idx(cls):
+        docs = cls.list()
+        idx = {doc.doc_id: doc for doc in docs}
+        return idx
+
+    @classmethod
+    def from_doc_id(cls, doc_id):
+        idx = cls.idx()
+        return idx.get(doc_id, None)
+
+    @classmethod
+    def from_name(cls, name):
+        doc_id = cls.get_doc_id_from_name(name)
+        if not doc_id:
+            return None
+        return cls.from_doc_id(doc_id)

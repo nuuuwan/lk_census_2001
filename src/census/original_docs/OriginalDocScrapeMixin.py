@@ -65,9 +65,7 @@ class OriginalDocScrapeMixin:
         if i_frame:
             src = i_frame.get("src", "").strip()
             if src.endswith(".pdf"):
-                url_pdf = (
-                    src if src.startswith("http") else cls.URL_BASE + src
-                )
+                url_pdf = src if src.startswith("http") else cls.URL_BASE + src
                 return url_pdf
             else:
                 raise ValueError("Iframe src is not a PDF")
@@ -80,8 +78,11 @@ class OriginalDocScrapeMixin:
         for index_url in cls.INDEX_URLS:
             url_info_queue = cls.get_link_urls(index_url)
             for url, label in url_info_queue:
-                url_pdf = cls.get_url_pdf(url)
-                doc = cls(name=label, url=url_pdf)
+                doc = cls.from_name(label)
+                if not doc:
+                    log.debug('No existing doc found for label="{label}"')
+                    url_pdf = cls.get_url_pdf(url)
+                    doc = cls(name=label, url=url_pdf)
                 doc.build()
                 docs.append(doc)
                 i_doc = len(docs)

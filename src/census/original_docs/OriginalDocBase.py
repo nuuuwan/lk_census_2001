@@ -1,6 +1,6 @@
 import os
 from dataclasses import dataclass
-from functools import cached_property
+from functools import cache, cached_property
 
 from utils_future import JSONFile
 
@@ -13,27 +13,38 @@ class OriginalDocBase:
     def __str__(self) -> str:
         return f"📄 OriginalDoc({self.name, self.url})"
 
-    @cached_property
-    def long_doc_id(self) -> str:
-        doc_id = "".join(c for c in self.name if c.isalnum() or c.isspace())
-        doc_id = doc_id.strip().replace(" ", "-").lower()
-        return doc_id
+    @classmethod
+    def get_long_doc_id_from_name(cls, name: str) -> str:
+        long_doc_id = "".join(c for c in name if c.isalnum() or c.isspace())
+        long_doc_id = long_doc_id.strip().replace(" ", "-").lower()
+        return long_doc_id
 
     @cached_property
-    def short_name_map(self):
+    def long_doc_id(self) -> str:
+        return self.get_long_doc_id_from_name(self.name)
+
+    @classmethod
+    @cache
+    def get_long_doc_id_to_doc_id(cls):
         return JSONFile(
             os.path.join(
-                "src", "census", "original_docs", "SHORT_NAME_MAP.json"
+                "src", "census", "original_docs", "LONG_DOC_ID_TO_DOC_ID.json"
             )
         ).read()
 
     @cached_property
+    def long_doc_id_to_doc_id(self):
+        return self.get_long_doc_id_to_doc_id()
+
+    @classmethod
+    def get_doc_id_from_name(cls, name: str) -> str:
+        long_doc_id = cls.get_long_doc_id_from_name(name)
+        long_doc_id_to_doc_id = cls.get_long_doc_id_to_doc_id()
+        return long_doc_id_to_doc_id.get(long_doc_id, None)
+
+    @cached_property
     def doc_id(self) -> str:
-        short_name_map = self.short_name_map
-        if self.long_doc_id not in short_name_map:
-            print(f'"{self.long_doc_id}": "<short-name>",')
-            raise ValueError(f"No short name for '{self.long_doc_id}'")
-        return short_name_map[self.long_doc_id]
+        return self.get_doc_id_from_name(self.name)
 
     @cached_property
     def short_name(self) -> str:

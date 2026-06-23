@@ -4,14 +4,14 @@
     "region_name": "District-Total",
     "values": {
       "total-agricultural-and-fishery-workers": 1672965,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 64.3,
+      "market-oriented-animal-producers-pct": 1.6,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 2.7,
+      "subsistence-agricultural-and-fishery-workers-pct": 20.8,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.1,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 10.5
     }
   },
   {
@@ -19,14 +19,14 @@
     "region_name": "Colombo",
     "values": {
       "total-agricultural-and-fishery-workers": 18470,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 45.8,
+      "market-oriented-animal-producers-pct": 7.1,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 9.2,
+      "subsistence-agricultural-and-fishery-workers-pct": 22.6,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.7,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 14.6
     }
   },
   {
@@ -34,14 +34,14 @@
     "region_name": "Gampaha",
     "values": {
       "total-agricultural-and-fishery-workers": 37142,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 51.4,
+      "market-oriented-animal-producers-pct": 6.2,
+      "market-oriented-crop-and-animal-producers-pct": 0.1,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 19.1,
+      "subsistence-agricultural-and-fishery-workers-pct": 10.3,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.5,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 12.4
     }
   },
   {
@@ -49,14 +49,14 @@
     "region_name": "Kalutara",
     "values": {
       "total-agricultural-and-fishery-workers": 54749,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 42.4,
+      "market-oriented-animal-producers-pct": 2.5,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 3.6,
+      "subsistence-agricultural-and-fishery-workers-pct": 38.6,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.2,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 12.7
     }
   },
   {
@@ -64,14 +64,14 @@
     "region_name": "Kandy",
     "values": {
       "total-agricultural-and-fishery-workers": 88506,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 55.1,
+      "market-oriented-animal-producers-pct": 4.5,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 0.1,
+      "subsistence-agricultural-and-fishery-workers-pct": 24.1,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.2,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 16.0
     }
   },
   {
@@ -79,14 +79,14 @@
     "region_name": "Matale",
     "values": {
       "total-agricultural-and-fishery-workers": 61711,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 86.7,
+      "market-oriented-animal-producers-pct": 1.1,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 0.1,
+      "subsistence-agricultural-and-fishery-workers-pct": 6.3,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 5.8
     }
   },
   {
@@ -94,14 +94,14 @@
     "region_name": "Nuwara Eliya",
     "values": {
       "total-agricultural-and-fishery-workers": 171183,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 26.0,
+      "market-oriented-animal-producers-pct": 0.9,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 0.1,
+      "subsistence-agricultural-and-fishery-workers-pct": 51.5,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.1,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 21.5
     }
   },
   {
@@ -109,14 +109,14 @@
     "region_name": "Galle",
     "values": {
       "total-agricultural-and-fishery-workers": 93565,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 37.9,
+      "market-oriented-animal-producers-pct": 1.1,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 3.0,
+      "subsistence-agricultural-and-fishery-workers-pct": 46.2,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 11.8
     }
   },
   {
@@ -124,14 +124,14 @@
     "region_name": "Matara",
     "values": {
       "total-agricultural-and-fishery-workers": 88449,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 47.4,
+      "market-oriented-animal-producers-pct": 0.6,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 5.3,
+      "subsistence-agricultural-and-fishery-workers-pct": 36.6,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 10.1
     }
   },
   {
@@ -139,14 +139,14 @@
     "region_name": "Hambantota",
     "values": {
       "total-agricultural-and-fishery-workers": 68095,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 88.7,
+      "market-oriented-animal-producers-pct": 2.0,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 3.8,
+      "subsistence-agricultural-and-fishery-workers-pct": 2.4,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.1,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 3.1
     }
   },
   {
@@ -154,14 +154,14 @@
     "region_name": "Ampara",
     "values": {
       "total-agricultural-and-fishery-workers": 71505,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 75.6,
+      "market-oriented-animal-producers-pct": 0.8,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 3.9,
+      "subsistence-agricultural-and-fishery-workers-pct": 0.1,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.1,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 19.4
     }
   },
   {
@@ -169,14 +169,14 @@
     "region_name": "Kurunegala",
     "values": {
       "total-agricultural-and-fishery-workers": 166636,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 90.4,
+      "market-oriented-animal-producers-pct": 2.9,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 0.3,
+      "subsistence-agricultural-and-fishery-workers-pct": 2.6,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.1,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 3.6
     }
   },
   {
@@ -184,14 +184,14 @@
     "region_name": "Puttalam",
     "values": {
       "total-agricultural-and-fishery-workers": 58797,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 43.1,
+      "market-oriented-animal-producers-pct": 4.4,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 28.6,
+      "subsistence-agricultural-and-fishery-workers-pct": 4.8,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.4,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 18.6
     }
   },
   {
@@ -199,14 +199,14 @@
     "region_name": "Anuradhapura",
     "values": {
       "total-agricultural-and-fishery-workers": 149538,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 96.6,
+      "market-oriented-animal-producers-pct": 1.1,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 1.0,
+      "subsistence-agricultural-and-fishery-workers-pct": 0.0,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 1.3
     }
   },
   {
@@ -214,14 +214,14 @@
     "region_name": "Polonnaruwa",
     "values": {
       "total-agricultural-and-fishery-workers": 69769,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 95.8,
+      "market-oriented-animal-producers-pct": 0.5,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 1.5,
+      "subsistence-agricultural-and-fishery-workers-pct": 0.0,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 2.1
     }
   },
   {
@@ -229,14 +229,14 @@
     "region_name": "Badulla",
     "values": {
       "total-agricultural-and-fishery-workers": 162159,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 63.2,
+      "market-oriented-animal-producers-pct": 0.9,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 0.1,
+      "subsistence-agricultural-and-fishery-workers-pct": 24.1,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 11.5
     }
   },
   {
@@ -244,14 +244,14 @@
     "region_name": "Moneragala",
     "values": {
       "total-agricultural-and-fishery-workers": 87986,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 94.5,
+      "market-oriented-animal-producers-pct": 0.6,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 0.2,
+      "subsistence-agricultural-and-fishery-workers-pct": 1.8,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 2.8
     }
   },
   {
@@ -259,14 +259,14 @@
     "region_name": "Ratnapura",
     "values": {
       "total-agricultural-and-fishery-workers": 162334,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 53.8,
+      "market-oriented-animal-producers-pct": 0.4,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 0.1,
+      "subsistence-agricultural-and-fishery-workers-pct": 34.1,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.0,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 11.7
     }
   },
   {
@@ -274,14 +274,14 @@
     "region_name": "Kegalle",
     "values": {
       "total-agricultural-and-fishery-workers": 62371,
-      "market-gardeners-and-crop-growers": null,
-      "market-oriented-animal-producers": null,
-      "market-oriented-crop-and-animal-producers": null,
-      "forestry-and-related-workers": null,
-      "fishery-workers-hunters-and-trappers": null,
-      "subsistence-agricultural-and-fishery-workers": null,
-      "subsistence-dairy-livestock-and-related-workers": null,
-      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
+      "market-gardeners-and-crop-growers-pct": 43.0,
+      "market-oriented-animal-producers-pct": 1.4,
+      "market-oriented-crop-and-animal-producers-pct": 0.0,
+      "forestry-and-related-workers-pct": 0.0,
+      "fishery-workers-hunters-and-trappers-pct": 0.1,
+      "subsistence-agricultural-and-fishery-workers-pct": 39.7,
+      "subsistence-dairy-livestock-and-related-workers-pct": 0.1,
+      "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct": 15.7
     }
   }
 ]
