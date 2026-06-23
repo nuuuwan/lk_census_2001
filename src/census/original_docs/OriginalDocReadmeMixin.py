@@ -2,7 +2,7 @@ import json
 import os
 import random
 
-from utils_future import File, JSONFile, Log, Time, TimeFormat
+from utils_future import File, JSONFile, Log
 
 log = Log("OriginalDocReadmeMixin")
 
@@ -58,11 +58,8 @@ class OriginalDocReadmeMixin:
 
     @staticmethod
     def lines_for_header() -> list[str]:
-        time_str = TimeFormat.DATE.format(Time.now())
-        time_str = time_str.replace(" ", "_").replace("-", "--")
         return [
             "![CPH](https://img.shields.io/badge/CPH-2001-blue)",
-            f"![LastUpdated](https://img.shields.io/badge/last_updated-{time_str}-green)",
             "",
         ]
 
