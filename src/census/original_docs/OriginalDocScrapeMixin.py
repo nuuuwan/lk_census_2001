@@ -2,21 +2,19 @@ import re
 
 from bs4 import BeautifulSoup
 
-from census.original_docs.OriginalDocScrapeConstantsMixin import \
-    OriginalDocScrapeConstantsMixin
 from utils_future import WWW, Log
 
 log = Log("OriginalDocScrapeMixin")
 
 
-class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
+class OriginalDocScrapeMixin:
     URL_BASE = (
         "https://www.statistics.gov.lk" + "/Population/StaticalInformation/"
     )
 
     INDEX_URLS = [
         "https://www.statistics.gov.lk" + "/Population/PopHouStat_Population",
-        # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Housing",
+        "https://www.statistics.gov.lk" + "/Population/PopHouStat_Housing",
         # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Disability",
     ]
 
@@ -66,9 +64,7 @@ class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
         if i_frame:
             src = i_frame.get("src", "").strip()
             if src.endswith(".pdf"):
-                url_pdf = (
-                    src if src.startswith("http") else cls.URL_BASE + src
-                )
+                url_pdf = src if src.startswith("http") else cls.URL_BASE + src
                 return url_pdf
             else:
                 raise ValueError("Iframe src is not a PDF")
