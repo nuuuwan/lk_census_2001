@@ -117,9 +117,7 @@
   "educational-attainment": [
     "district",
     "population-aged-5-years-and-over",
-    "na",
     "completed-primary-education-passed-year-1-5-pct",
-    "na-2",
     "completed-lower-secondary-passed-year-6-8-pct",
     "completed-upper-secondary-passed-year-9-11-pct",
     "completed-tertiary-education-passed-gce-al-above-pct"
@@ -127,9 +125,9 @@
   "educational-enrollment": [
     "district",
     "population-aged-5-34-years",
-    "attending-school",
-    "attending-university",
-    "attending-vocational-or-technical-institution"
+    "attending-school-pct",
+    "attending-university-pct",
+    "attending-vocational-or-technical-institution-pct"
   ],
   "electricity-access": [
     "district",
