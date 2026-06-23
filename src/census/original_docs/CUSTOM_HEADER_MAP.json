@@ -1,5 +1,10 @@
 {
-  "age-structure": ["age-group", "total", "male", "female"],
+  "age-structure": [
+    "age-group",
+    "total",
+    "male",
+    "female"
+  ],
   "agricultural-occupations": [
     "district",
     "total-agricultural-and-fishery-workers",
@@ -114,6 +119,15 @@
     "70-74",
     "75-and-over"
   ],
+  "economically-not-active": [
+    "district",
+    "usually-not-economically-active-population-aged-10-years-and-over",
+    "students-pct",
+    "unable-or-too-old-to-work-pct",
+    "pension-recipients-and-pensioners-pct",
+    "household-work-pct",
+    "others-pct"
+  ],
   "educational-attainment": [
     "district",
     "population-aged-5-years-and-over",
@@ -140,6 +154,29 @@
     "rural-pct",
     "estate",
     "estate-pct"
+  ],
+  "employment-by-industry": [
+    "district",
+    "total-employed-population",
+    "agriculture-and-forestry",
+    "fishing",
+    "mining-and-quarrying",
+    "manufacturing",
+    "electricity-gas-and-water-supply",
+    "construction",
+    "wholesale-and-retail-trade",
+    "hotels-and-restaurants",
+    "transport-storage-and-communication",
+    "financial-intermediation",
+    "real-estate-renting-and-business-activities",
+    "public-administration-and-defence-compulsory-social-security",
+    "education",
+    "health-and-social-work",
+    "other-community-social-and-personal-service-activities",
+    "private-households-with-employed-persons",
+    "activitextraterritorial-organisations-and-bodies",
+    "industry-in-elementary-occupations-unidentifiable-or-inadequate",
+    "works-reporting-industry-unidentifiable-or-inadequate"
   ],
   "employment-sectors": [
     "district",
@@ -177,7 +214,13 @@
     "other",
     "other-pct"
   ],
-  "fertility-rates": ["district", "total", "urban", "rural", "estate"],
+  "fertility-rates": [
+    "district",
+    "total",
+    "urban",
+    "rural",
+    "estate"
+  ],
   "hand-disability-causes": [
     "type",
     "sex",
@@ -236,13 +279,6 @@
     "female-headed-households",
     "female-headed-households-pct"
   ],
-  "room-count": [
-    "district",
-    "total-occupied-housing-units",
-    "permanent",
-    "semi-permanent",
-    "improvised"
-  ],
   "housing-tenure": [
     "district",
     "total-occupied-housing-units",
@@ -271,38 +307,6 @@
     "urban",
     "rural",
     "estate"
-  ],
-  "economically-not-active": [
-    "district",
-    "usually-not-economically-active-population-aged-10-years-and-over",
-    "students-pct",
-    "unable-or-too-old-to-work-pct",
-    "pension-recipients-and-pensioners-pct",
-    "household-work-pct",
-    "others-pct"
-  ],
-  "employment-by-industry": [
-    "district",
-    "total-employed-population",
-    "agriculture-and-forestry",
-    "fishing",
-    "mining-and-quarrying",
-    "manufacturing",
-    "electricity-gas-and-water-supply",
-    "construction",
-    "wholesale-and-retail-trade",
-    "hotels-and-restaurants",
-    "transport-storage-and-communication",
-    "financial-intermediation",
-    "real-estate-renting-and-business-activities",
-    "public-administration-and-defence-compulsory-social-security",
-    "education",
-    "health-and-social-work",
-    "other-community-social-and-personal-service-activities",
-    "private-households-with-employed-persons",
-    "activitextraterritorial-organisations-and-bodies",
-    "industry-in-elementary-occupations-unidentifiable-or-inadequate",
-    "works-reporting-industry-unidentifiable-or-inadequate"
   ],
   "informal-housing": [
     "district",
@@ -340,17 +344,6 @@
     "other-pct",
     "not-specified",
     "not-specified-pct"
-  ],
-  "speaking-capacity": [
-    "district",
-    "sinhalese-speaking-tamil",
-    "sinhalese-speaking-english",
-    "sri-lanka-tamil-speaking-sinhala",
-    "sri-lanka-tamil-speaking-english",
-    "indian-tamil-speaking-sinhala",
-    "indian-tamil-speaking-english",
-    "sri-lanka-moor-speaking-sinhala",
-    "sri-lanka-moor-speaking-english"
   ],
   "literacy-rates": [
     "district",
@@ -439,14 +432,6 @@
     "elementary-occupations",
     "armed-forces-and-workers-not-identifiable-or-inadequate"
   ],
-  "population-overview": [
-    "district",
-    "total",
-    "male",
-    "female",
-    "sex-ratio",
-    "density"
-  ],
   "population-growth": [
     "district",
     "census-1981-population",
@@ -454,6 +439,14 @@
     "intercensal-increase",
     "intercensal-increase-pct",
     "annual-growth-rate"
+  ],
+  "population-overview": [
+    "district",
+    "total",
+    "male",
+    "female",
+    "sex-ratio",
+    "density"
   ],
   "religion": [
     "district",
@@ -472,15 +465,12 @@
     "other",
     "other-pct"
   ],
-  "toilets": [
+  "room-count": [
     "district",
     "total-occupied-housing-units",
-    "using-toilets-exclusively",
-    "using-toilets-exclusively-pct",
-    "hygienic-toilets",
-    "hygienic-toilets-pct",
-    "not-using-toilet",
-    "not-using-toilet-pct"
+    "permanent",
+    "semi-permanent",
+    "improvised"
   ],
   "school-attendance": [
     "district",
@@ -506,6 +496,27 @@
     "population-in-rural-sector",
     "population-in-estate-sector",
     "population-in-estate-sector"
+  ],
+  "speaking-capacity": [
+    "district",
+    "sinhalese-speaking-tamil",
+    "sinhalese-speaking-english",
+    "sri-lanka-tamil-speaking-sinhala",
+    "sri-lanka-tamil-speaking-english",
+    "indian-tamil-speaking-sinhala",
+    "indian-tamil-speaking-english",
+    "sri-lanka-moor-speaking-sinhala",
+    "sri-lanka-moor-speaking-english"
+  ],
+  "toilets": [
+    "district",
+    "total-occupied-housing-units",
+    "using-toilets-exclusively",
+    "using-toilets-exclusively-pct",
+    "hygienic-toilets",
+    "hygienic-toilets-pct",
+    "not-using-toilet",
+    "not-using-toilet-pct"
   ],
   "vision-disability-causes": [
     "sub-category",

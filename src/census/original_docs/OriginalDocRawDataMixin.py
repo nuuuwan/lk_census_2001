@@ -21,6 +21,10 @@ class OriginalDocRawDataMixin:
     def raw_data_file_path(self):
         return os.path.join(self.dir_data, "raw_data.json")
 
+    def clean_raw_data(self, data):
+        non_empty_rows = [item for item in data if str(item).strip()]
+        return non_empty_rows
+
     def build_raw_data(self, force=True) -> list:
         json_file = JSONFile(self.raw_data_file_path)
         if json_file.exists and not force:
@@ -35,7 +39,8 @@ class OriginalDocRawDataMixin:
             return []
 
         df = max(tables, key=lambda t: len(t.df)).df
-        data = df.values.tolist()
-        json_file.write(data)
-        log.debug(f"Wrote {len(data)} rows -> {json_file}")
-        return data
+        data_list = df.values.tolist()
+        data_list = [self.clean_raw_data(data) for data in data_list]
+        json_file.write(data_list)
+        log.debug(f"Wrote {len(data_list)} rows -> {json_file}")
+        return data_list
