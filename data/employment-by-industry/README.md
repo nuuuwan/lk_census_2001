@@ -28,7 +28,7 @@
         "transport-storage-and-communication": null,
         "financial-intermediation": null,
         "real-estate-renting-and-business-activities": null,
-        "public-administration-and-defence-compulsory-social-security": null,
+        "public-administration-and-defence-compulsory-social-security": 5.9,
         "education": null,
         "health-and-social-work": null,
         "other-community-social-and-personal-service-activities": null,

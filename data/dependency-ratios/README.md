@@ -20,9 +20,9 @@
         "aged-00-14": 4449026,
         "aged-15-59": 10916791,
         "aged-60-and-over": 1563872,
-        "dependency-ratio-total": null,
-        "dependency-ratio-young": null,
-        "dependency-ratio-old": null
+        "dependency-ratio-total": 55.1,
+        "dependency-ratio-young": 40.8,
+        "dependency-ratio-old": 14.3
     }
 }
 ```

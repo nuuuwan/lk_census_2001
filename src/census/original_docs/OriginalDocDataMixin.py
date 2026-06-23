@@ -2,8 +2,9 @@ import os
 import re
 from functools import cached_property
 
-from census.original_docs.OriginalDocDataConstanstsMixin import \
-    OriginalDocDataConstanstsMixin
+from census.original_docs.OriginalDocDataConstanstsMixin import (
+    OriginalDocDataConstanstsMixin,
+)
 from census.original_docs.RegionUtils import RegionUtils
 from utils_future import File, JSONFile, Log, Parse
 
@@ -67,7 +68,7 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
                 continue
 
             value = data[i_header]
-            if "pct" in header or "rate" in header:
+            if "pct" in header or "rate" in header or "ratio" in header:
                 values[header] = Parse.float(value)
             else:
                 values[header] = Parse.int(value)

@@ -19,7 +19,7 @@
         "total": 397375,
         "male": 202816,
         "female": 194559,
-        "sex-ratio": null,
+        "sex-ratio": 104.2,
         "density": 72
     }
 }
