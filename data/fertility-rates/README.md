@@ -16,7 +16,7 @@
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-        "total": null,
+        "total-rate": 3.1,
         "urban-rate": 2.6,
         "rural-rate": 3.2,
         "estate-rate": 2.9

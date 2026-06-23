@@ -216,7 +216,7 @@
   ],
   "fertility-rates": [
     "district",
-    "total",
+    "total-rate",
     "urban-rate",
     "rural-rate",
     "estate-rate"
