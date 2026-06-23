@@ -72,16 +72,17 @@ class OriginalDocRawDataMixin:
         data_list = self.clean_seperated_rows(data_list)
         return data_list
 
-    def build_raw_data(self, force=True) -> list:
+    def build_raw_data(self, force=False) -> list:
         json_file = JSONFile(self.raw_data_file_path)
         if json_file.exists and not force:
             log.debug(f"{json_file} exists")
             return json_file.read()
 
-        pdf_path = self.download_pdf()
-        tables = camelot.read_pdf(pdf_path, pages="all", flavor="stream")
+        tables = camelot.read_pdf(
+            self.pdf_file_path, pages="all", flavor="stream"
+        )
         if not tables:
-            log.warning(f"No tables found in {pdf_path}")
+            log.warning(f"No tables found in {self.pdf_file_path}")
             json_file.write([])
             return []
 

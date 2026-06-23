@@ -8,14 +8,14 @@
   "agricultural-occupations": [
     "district",
     "total-agricultural-and-fishery-workers",
-    "market-gardeners-and-crop-growers",
-    "market-oriented-animal-producers",
-    "market-oriented-crop-and-animal-producers",
-    "forestry-and-related-workers",
-    "fishery-workers-hunters-and-trappers",
-    "subsistence-agricultural-and-fishery-workers",
-    "subsistence-dairy-livestock-and-related-workers",
-    "unskilled-labourers-working-in-the-agricultural-and-fishery-sector"
+    "market-gardeners-and-crop-growers-pct",
+    "market-oriented-animal-producers-pct",
+    "market-oriented-crop-and-animal-producers-pct",
+    "forestry-and-related-workers-pct",
+    "fishery-workers-hunters-and-trappers-pct",
+    "subsistence-agricultural-and-fishery-workers-pct",
+    "subsistence-dairy-livestock-and-related-workers-pct",
+    "unskilled-labourers-working-in-the-agricultural-and-fishery-sector-pct"
   ],
   "construction-materials": [
     "district",
