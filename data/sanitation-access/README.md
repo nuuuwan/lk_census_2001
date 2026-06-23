@@ -1,7 +1,6 @@
 # Number and percentage of households using toilets exclusively, using hygienic toilets and households not using a toilet by district
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 
