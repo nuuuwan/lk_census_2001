@@ -5,7 +5,7 @@ from functools import cached_property
 from census.original_docs.OriginalDocDataConstanstsMixin import \
     OriginalDocDataConstanstsMixin
 from census.original_docs.RegionUtils import RegionUtils
-from utils_future import File, JSONFile, Log
+from utils_future import File, JSONFile, Log, Parse
 
 log = Log("OriginalDocDataMixin")
 
@@ -53,17 +53,6 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
             headers[0] = "district"
         return headers
 
-    def parse_float(self, value):
-        value = str(value).strip()
-        if value in ["-", ""]:
-            return 0
-        value = value.replace(",", "")
-        try:
-            return float(value)
-        except ValueError:
-            log.warning(f"Could not parse float from {value}")
-            return None
-
     def parse_raw_data_row(self, data, headers) -> dict:
         values = {}
         region_id, region_name = None, None
@@ -78,7 +67,11 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
                 continue
 
             value = data[i_header]
-            values[header] = self.parse_float(value)
+            if "pct" in header or "rate" in header:
+                values[header] = Parse.float(value)
+            else:
+                values[header] = Parse.int(value)
+                print(header, values[header])
 
         if len(headers) != len(values.keys()) + 1:
             log.error(f"{headers=}")
