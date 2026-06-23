@@ -16,7 +16,7 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "population-aged-5-34-years": 278345.0,
+        "population-aged-5-34-years": 278345,
         "attending-school-pct": 47.9,
         "attending-university-pct": 0.4,
         "attending-vocational-or-technical-institution-pct": 0.7

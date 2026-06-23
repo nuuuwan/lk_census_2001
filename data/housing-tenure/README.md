@@ -16,14 +16,14 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-occupied-housing-units": 128008.0,
-        "owned-by-member-of-household": 117954.0,
+        "total-occupied-housing-units": 128008,
+        "owned-by-member-of-household": 117954,
         "owned-by-member-of-household-pct": 92.1,
-        "rent-free": 2089.0,
+        "rent-free": 2089,
         "rent-free-pct": 1.6,
-        "rent-lease": 2407.0,
+        "rent-lease": 2407,
         "rent-lease-pct": 1.9,
-        "encroached": 2488.0,
+        "encroached": 2488,
         "encroached-pct": 1.9
     }
 }

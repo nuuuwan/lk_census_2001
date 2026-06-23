@@ -3,247 +3,247 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "total-population": 16929689.0,
-      "aged-00-14": 4449026.0,
-      "aged-15-59": 10916791.0,
-      "aged-60-and-over": 1563872.0,
-      "dependency-ratio-total": 55.1,
-      "dependency-ratio-young": 40.8,
-      "dependency-ratio-old": 14.3
+      "total-population": 16929689,
+      "aged-00-14": 4449026,
+      "aged-15-59": 10916791,
+      "aged-60-and-over": 1563872,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "total-population": 2251274.0,
-      "aged-00-14": 482280.0,
-      "aged-15-59": 1552727.0,
-      "aged-60-and-over": 216267.0,
-      "dependency-ratio-total": 45.0,
-      "dependency-ratio-young": 31.1,
-      "dependency-ratio-old": 13.9
+      "total-population": 2251274,
+      "aged-00-14": 482280,
+      "aged-15-59": 1552727,
+      "aged-60-and-over": 216267,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "total-population": 2063684.0,
-      "aged-00-14": 476269.0,
-      "aged-15-59": 1392743.0,
-      "aged-60-and-over": 194672.0,
-      "dependency-ratio-total": 48.2,
-      "dependency-ratio-young": 34.2,
-      "dependency-ratio-old": 14.0
+      "total-population": 2063684,
+      "aged-00-14": 476269,
+      "aged-15-59": 1392743,
+      "aged-60-and-over": 194672,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "total-population": 1066239.0,
-      "aged-00-14": 261436.0,
-      "aged-15-59": 684905.0,
-      "aged-60-and-over": 119898.0,
-      "dependency-ratio-total": 55.7,
-      "dependency-ratio-young": 38.2,
-      "dependency-ratio-old": 17.5
+      "total-population": 1066239,
+      "aged-00-14": 261436,
+      "aged-15-59": 684905,
+      "aged-60-and-over": 119898,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "total-population": 1279028.0,
-      "aged-00-14": 342228.0,
-      "aged-15-59": 813307.0,
-      "aged-60-and-over": 123493.0,
-      "dependency-ratio-total": 57.3,
-      "dependency-ratio-young": 42.1,
-      "dependency-ratio-old": 15.2
+      "total-population": 1279028,
+      "aged-00-14": 342228,
+      "aged-15-59": 813307,
+      "aged-60-and-over": 123493,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "total-population": 441328.0,
-      "aged-00-14": 121130.0,
-      "aged-15-59": 281566.0,
-      "aged-60-and-over": 38632.0,
-      "dependency-ratio-total": 56.7,
-      "dependency-ratio-young": 43.0,
-      "dependency-ratio-old": 13.7
+      "total-population": 441328,
+      "aged-00-14": 121130,
+      "aged-15-59": 281566,
+      "aged-60-and-over": 38632,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "total-population": 703610.0,
-      "aged-00-14": 202763.0,
-      "aged-15-59": 447858.0,
-      "aged-60-and-over": 52989.0,
-      "dependency-ratio-total": 57.1,
-      "dependency-ratio-young": 45.3,
-      "dependency-ratio-old": 11.8
+      "total-population": 703610,
+      "aged-00-14": 202763,
+      "aged-15-59": 447858,
+      "aged-60-and-over": 52989,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "total-population": 990487.0,
-      "aged-00-14": 269614.0,
-      "aged-15-59": 604376.0,
-      "aged-60-and-over": 116497.0,
-      "dependency-ratio-total": 63.9,
-      "dependency-ratio-young": 44.6,
-      "dependency-ratio-old": 19.3
+      "total-population": 990487,
+      "aged-00-14": 269614,
+      "aged-15-59": 604376,
+      "aged-60-and-over": 116497,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "total-population": 761370.0,
-      "aged-00-14": 211796.0,
-      "aged-15-59": 460668.0,
-      "aged-60-and-over": 88906.0,
-      "dependency-ratio-total": 65.3,
-      "dependency-ratio-young": 46.0,
-      "dependency-ratio-old": 19.3
+      "total-population": 761370,
+      "aged-00-14": 211796,
+      "aged-15-59": 460668,
+      "aged-60-and-over": 88906,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "total-population": 526414.0,
-      "aged-00-14": 155132.0,
-      "aged-15-59": 322132.0,
-      "aged-60-and-over": 49150.0,
-      "dependency-ratio-total": 63.4,
-      "dependency-ratio-young": 48.2,
-      "dependency-ratio-old": 15.3
+      "total-population": 526414,
+      "aged-00-14": 155132,
+      "aged-15-59": 322132,
+      "aged-60-and-over": 49150,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "total-population": 592997.0,
-      "aged-00-14": 190021.0,
-      "aged-15-59": 368680.0,
-      "aged-60-and-over": 34296.0,
-      "dependency-ratio-total": 60.8,
-      "dependency-ratio-young": 51.5,
-      "dependency-ratio-old": 9.3
+      "total-population": 592997,
+      "aged-00-14": 190021,
+      "aged-15-59": 368680,
+      "aged-60-and-over": 34296,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "total-population": 1460215.0,
-      "aged-00-14": 374644.0,
-      "aged-15-59": 944570.0,
-      "aged-60-and-over": 141001.0,
-      "dependency-ratio-total": 54.6,
-      "dependency-ratio-young": 39.7,
-      "dependency-ratio-old": 14.9
+      "total-population": 1460215,
+      "aged-00-14": 374644,
+      "aged-15-59": 944570,
+      "aged-60-and-over": 141001,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "total-population": 709677.0,
-      "aged-00-14": 208612.0,
-      "aged-15-59": 449322.0,
-      "aged-60-and-over": 51743.0,
-      "dependency-ratio-total": 57.9,
-      "dependency-ratio-young": 46.4,
-      "dependency-ratio-old": 11.5
+      "total-population": 709677,
+      "aged-00-14": 208612,
+      "aged-15-59": 449322,
+      "aged-60-and-over": 51743,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "total-population": 745693.0,
-      "aged-00-14": 215886.0,
-      "aged-15-59": 481220.0,
-      "aged-60-and-over": 48587.0,
-      "dependency-ratio-total": 55.0,
-      "dependency-ratio-young": 44.9,
-      "dependency-ratio-old": 10.1
+      "total-population": 745693,
+      "aged-00-14": 215886,
+      "aged-15-59": 481220,
+      "aged-60-and-over": 48587,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "total-population": 358984.0,
-      "aged-00-14": 101234.0,
-      "aged-15-59": 234863.0,
-      "aged-60-and-over": 22887.0,
-      "dependency-ratio-total": 52.8,
-      "dependency-ratio-young": 43.1,
-      "dependency-ratio-old": 9.7
+      "total-population": 358984,
+      "aged-00-14": 101234,
+      "aged-15-59": 234863,
+      "aged-60-and-over": 22887,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "total-population": 779983.0,
-      "aged-00-14": 231389.0,
-      "aged-15-59": 486842.0,
-      "aged-60-and-over": 61752.0,
-      "dependency-ratio-total": 60.2,
-      "dependency-ratio-young": 47.5,
-      "dependency-ratio-old": 12.7
+      "total-population": 779983,
+      "aged-00-14": 231389,
+      "aged-15-59": 486842,
+      "aged-60-and-over": 61752,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "total-population": 397375.0,
-      "aged-00-14": 126542.0,
-      "aged-15-59": 246006.0,
-      "aged-60-and-over": 24827.0,
-      "dependency-ratio-total": 61.5,
-      "dependency-ratio-young": 51.4,
-      "dependency-ratio-old": 10.1
+      "total-population": 397375,
+      "aged-00-14": 126542,
+      "aged-15-59": 246006,
+      "aged-60-and-over": 24827,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "total-population": 1015807.0,
-      "aged-00-14": 278075.0,
-      "aged-15-59": 645972.0,
-      "aged-60-and-over": 91760.0,
-      "dependency-ratio-total": 57.3,
-      "dependency-ratio-young": 43.0,
-      "dependency-ratio-old": 14.2
+      "total-population": 1015807,
+      "aged-00-14": 278075,
+      "aged-15-59": 645972,
+      "aged-60-and-over": 91760,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   },
   {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "total-population": 785524.0,
-      "aged-00-14": 199975.0,
-      "aged-15-59": 499034.0,
-      "aged-60-and-over": 86515.0,
-      "dependency-ratio-total": 57.4,
-      "dependency-ratio-young": 40.1,
-      "dependency-ratio-old": 17.3
+      "total-population": 785524,
+      "aged-00-14": 199975,
+      "aged-15-59": 499034,
+      "aged-60-and-over": 86515,
+      "dependency-ratio-total": null,
+      "dependency-ratio-young": null,
+      "dependency-ratio-old": null
     }
   }
 ]

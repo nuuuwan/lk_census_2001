@@ -16,15 +16,15 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-agricultural-and-fishery-workers": 68095.0,
-        "market-gardeners-and-crop-growers": 88.7,
-        "market-oriented-animal-producers": 2.0,
-        "market-oriented-crop-and-animal-producers": 0.0,
-        "forestry-and-related-workers": 0.0,
-        "fishery-workers-hunters-and-trappers": 3.8,
-        "subsistence-agricultural-and-fishery-workers": 2.4,
-        "subsistence-dairy-livestock-and-related-workers": 0.1,
-        "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": 3.1
+        "total-agricultural-and-fishery-workers": 68095,
+        "market-gardeners-and-crop-growers": null,
+        "market-oriented-animal-producers": null,
+        "market-oriented-crop-and-animal-producers": null,
+        "forestry-and-related-workers": null,
+        "fishery-workers-hunters-and-trappers": null,
+        "subsistence-agricultural-and-fishery-workers": null,
+        "subsistence-dairy-livestock-and-related-workers": null,
+        "unskilled-labourers-working-in-the-agricultural-and-fishery-sector": null
     }
 }
 ```

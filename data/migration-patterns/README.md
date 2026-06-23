@@ -16,14 +16,14 @@
     "region_id": "LK-42",
     "region_name": "Kilinochchi",
     "values": {
-        "usual-resident": 66.0,
-        "resident-since-birth": 20.0,
-        "total-migrants": 46.0,
-        "migrants-less-than-1-year": 3.0,
-        "migrants-1-4-years": 5.0,
-        "migrants-5-9-years": 8.0,
-        "migrants-10-years-and-more": 16.0,
-        "migrants-not-stated": 14.0
+        "usual-resident": 66,
+        "resident-since-birth": 20,
+        "total-migrants": 46,
+        "migrants-less-than-1-year": 3,
+        "migrants-1-4-years": 5,
+        "migrants-5-9-years": 8,
+        "migrants-10-years-and-more": 16,
+        "migrants-not-stated": 14
     }
 }
 ```

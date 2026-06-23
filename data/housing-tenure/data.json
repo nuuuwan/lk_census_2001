@@ -3,14 +3,14 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "total-occupied-housing-units": 4054186.0,
-      "owned-by-member-of-household": 3328206.0,
+      "total-occupied-housing-units": 4054186,
+      "owned-by-member-of-household": 3328206,
       "owned-by-member-of-household-pct": 82.1,
-      "rent-free": 285185.0,
+      "rent-free": 285185,
       "rent-free-pct": 7.0,
-      "rent-lease": 233146.0,
+      "rent-lease": 233146,
       "rent-lease-pct": 5.8,
-      "encroached": 55555.0,
+      "encroached": 55555,
       "encroached-pct": 1.4
     }
   },
@@ -18,14 +18,14 @@
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "total-occupied-housing-units": 493085.0,
-      "owned-by-member-of-household": 352140.0,
+      "total-occupied-housing-units": 493085,
+      "owned-by-member-of-household": 352140,
       "owned-by-member-of-household-pct": 71.4,
-      "rent-free": 26983.0,
+      "rent-free": 26983,
       "rent-free-pct": 5.5,
-      "rent-lease": 83508.0,
+      "rent-lease": 83508,
       "rent-lease-pct": 16.9,
-      "encroached": 8698.0,
+      "encroached": 8698,
       "encroached-pct": 1.8
     }
   },
@@ -33,14 +33,14 @@
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "total-occupied-housing-units": 487184.0,
-      "owned-by-member-of-household": 388431.0,
+      "total-occupied-housing-units": 487184,
+      "owned-by-member-of-household": 388431,
       "owned-by-member-of-household-pct": 79.7,
-      "rent-free": 21386.0,
+      "rent-free": 21386,
       "rent-free-pct": 4.4,
-      "rent-lease": 53677.0,
+      "rent-lease": 53677,
       "rent-lease-pct": 11.0,
-      "encroached": 6980.0,
+      "encroached": 6980,
       "encroached-pct": 1.4
     }
   },
@@ -48,14 +48,14 @@
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "total-occupied-housing-units": 250939.0,
-      "owned-by-member-of-household": 213525.0,
+      "total-occupied-housing-units": 250939,
+      "owned-by-member-of-household": 213525,
       "owned-by-member-of-household-pct": 85.1,
-      "rent-free": 14824.0,
+      "rent-free": 14824,
       "rent-free-pct": 5.9,
-      "rent-lease": 11181.0,
+      "rent-lease": 11181,
       "rent-lease-pct": 4.5,
-      "encroached": 2138.0,
+      "encroached": 2138,
       "encroached-pct": 0.9
     }
   },
@@ -63,14 +63,14 @@
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "total-occupied-housing-units": 299870.0,
-      "owned-by-member-of-household": 239230.0,
+      "total-occupied-housing-units": 299870,
+      "owned-by-member-of-household": 239230,
       "owned-by-member-of-household-pct": 79.8,
-      "rent-free": 26051.0,
+      "rent-free": 26051,
       "rent-free-pct": 8.7,
-      "rent-lease": 16609.0,
+      "rent-lease": 16609,
       "rent-lease-pct": 5.5,
-      "encroached": 4109.0,
+      "encroached": 4109,
       "encroached-pct": 1.4
     }
   },
@@ -78,14 +78,14 @@
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "total-occupied-housing-units": 110886.0,
-      "owned-by-member-of-household": 93981.0,
+      "total-occupied-housing-units": 110886,
+      "owned-by-member-of-household": 93981,
       "owned-by-member-of-household-pct": 84.8,
-      "rent-free": 7941.0,
+      "rent-free": 7941,
       "rent-free-pct": 7.2,
-      "rent-lease": 4101.0,
+      "rent-lease": 4101,
       "rent-lease-pct": 3.7,
-      "encroached": 1288.0,
+      "encroached": 1288,
       "encroached-pct": 1.2
     }
   },
@@ -93,14 +93,14 @@
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "total-occupied-housing-units": 169540.0,
-      "owned-by-member-of-household": 91830.0,
+      "total-occupied-housing-units": 169540,
+      "owned-by-member-of-household": 91830,
       "owned-by-member-of-household-pct": 54.2,
-      "rent-free": 56200.0,
+      "rent-free": 56200,
       "rent-free-pct": 33.1,
-      "rent-lease": 5977.0,
+      "rent-lease": 5977,
       "rent-lease-pct": 3.5,
-      "encroached": 1814.0,
+      "encroached": 1814,
       "encroached-pct": 1.1
     }
   },
@@ -108,14 +108,14 @@
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "total-occupied-housing-units": 233027.0,
-      "owned-by-member-of-household": 204506.0,
+      "total-occupied-housing-units": 233027,
+      "owned-by-member-of-household": 204506,
       "owned-by-member-of-household-pct": 87.8,
-      "rent-free": 10938.0,
+      "rent-free": 10938,
       "rent-free-pct": 4.7,
-      "rent-lease": 7616.0,
+      "rent-lease": 7616,
       "rent-lease-pct": 3.3,
-      "encroached": 2610.0,
+      "encroached": 2610,
       "encroached-pct": 1.1
     }
   },
@@ -123,14 +123,14 @@
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "total-occupied-housing-units": 177613.0,
-      "owned-by-member-of-household": 158496.0,
+      "total-occupied-housing-units": 177613,
+      "owned-by-member-of-household": 158496,
       "owned-by-member-of-household-pct": 89.2,
-      "rent-free": 7768.0,
+      "rent-free": 7768,
       "rent-free-pct": 4.4,
-      "rent-lease": 3751.0,
+      "rent-lease": 3751,
       "rent-lease-pct": 2.1,
-      "encroached": 2428.0,
+      "encroached": 2428,
       "encroached-pct": 1.4
     }
   },
@@ -138,14 +138,14 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "total-occupied-housing-units": 128008.0,
-      "owned-by-member-of-household": 117954.0,
+      "total-occupied-housing-units": 128008,
+      "owned-by-member-of-household": 117954,
       "owned-by-member-of-household-pct": 92.1,
-      "rent-free": 2089.0,
+      "rent-free": 2089,
       "rent-free-pct": 1.6,
-      "rent-lease": 2407.0,
+      "rent-lease": 2407,
       "rent-lease-pct": 1.9,
-      "encroached": 2488.0,
+      "encroached": 2488,
       "encroached-pct": 1.9
     }
   },
@@ -153,14 +153,14 @@
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "total-occupied-housing-units": 137741.0,
-      "owned-by-member-of-household": 121432.0,
+      "total-occupied-housing-units": 137741,
+      "owned-by-member-of-household": 121432,
       "owned-by-member-of-household-pct": 88.2,
-      "rent-free": 6632.0,
+      "rent-free": 6632,
       "rent-free-pct": 4.8,
-      "rent-lease": 2984.0,
+      "rent-lease": 2984,
       "rent-lease-pct": 2.2,
-      "encroached": 2165.0,
+      "encroached": 2165,
       "encroached-pct": 1.6
     }
   },
@@ -168,14 +168,14 @@
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "total-occupied-housing-units": 380213.0,
-      "owned-by-member-of-household": 345090.0,
+      "total-occupied-housing-units": 380213,
+      "owned-by-member-of-household": 345090,
       "owned-by-member-of-household-pct": 90.8,
-      "rent-free": 12913.0,
+      "rent-free": 12913,
       "rent-free-pct": 3.4,
-      "rent-lease": 8283.0,
+      "rent-lease": 8283,
       "rent-lease-pct": 2.2,
-      "encroached": 2765.0,
+      "encroached": 2765,
       "encroached-pct": 0.7
     }
   },
@@ -183,14 +183,14 @@
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "total-occupied-housing-units": 176544.0,
-      "owned-by-member-of-household": 147577.0,
+      "total-occupied-housing-units": 176544,
+      "owned-by-member-of-household": 147577,
       "owned-by-member-of-household-pct": 83.6,
-      "rent-free": 13099.0,
+      "rent-free": 13099,
       "rent-free-pct": 7.4,
-      "rent-lease": 5894.0,
+      "rent-lease": 5894,
       "rent-lease-pct": 3.3,
-      "encroached": 2180.0,
+      "encroached": 2180,
       "encroached-pct": 1.2
     }
   },
@@ -198,14 +198,14 @@
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "total-occupied-housing-units": 189699.0,
-      "owned-by-member-of-household": 171771.0,
+      "total-occupied-housing-units": 189699,
+      "owned-by-member-of-household": 171771,
       "owned-by-member-of-household-pct": 90.5,
-      "rent-free": 3969.0,
+      "rent-free": 3969,
       "rent-free-pct": 2.1,
-      "rent-lease": 5288.0,
+      "rent-lease": 5288,
       "rent-lease-pct": 2.8,
-      "encroached": 3114.0,
+      "encroached": 3114,
       "encroached-pct": 1.6
     }
   },
@@ -213,14 +213,14 @@
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "total-occupied-housing-units": 91718.0,
-      "owned-by-member-of-household": 82037.0,
+      "total-occupied-housing-units": 91718,
+      "owned-by-member-of-household": 82037,
       "owned-by-member-of-household-pct": 89.4,
-      "rent-free": 2260.0,
+      "rent-free": 2260,
       "rent-free-pct": 2.5,
-      "rent-lease": 2462.0,
+      "rent-lease": 2462,
       "rent-lease-pct": 2.7,
-      "encroached": 2078.0,
+      "encroached": 2078,
       "encroached-pct": 2.3
     }
   },
@@ -228,14 +228,14 @@
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "total-occupied-housing-units": 189925.0,
-      "owned-by-member-of-household": 138463.0,
+      "total-occupied-housing-units": 189925,
+      "owned-by-member-of-household": 138463,
       "owned-by-member-of-household-pct": 72.9,
-      "rent-free": 33535.0,
+      "rent-free": 33535,
       "rent-free-pct": 17.7,
-      "rent-lease": 6652.0,
+      "rent-lease": 6652,
       "rent-lease-pct": 3.5,
-      "encroached": 3203.0,
+      "encroached": 3203,
       "encroached-pct": 1.7
     }
   },
@@ -243,14 +243,14 @@
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "total-occupied-housing-units": 96598.0,
-      "owned-by-member-of-household": 87064.0,
+      "total-occupied-housing-units": 96598,
+      "owned-by-member-of-household": 87064,
       "owned-by-member-of-household-pct": 90.1,
-      "rent-free": 2930.0,
+      "rent-free": 2930,
       "rent-free-pct": 3.0,
-      "rent-lease": 2256.0,
+      "rent-lease": 2256,
       "rent-lease-pct": 2.3,
-      "encroached": 1853.0,
+      "encroached": 1853,
       "encroached-pct": 1.9
     }
   },
@@ -258,14 +258,14 @@
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "total-occupied-housing-units": 245743.0,
-      "owned-by-member-of-household": 204306.0,
+      "total-occupied-housing-units": 245743,
+      "owned-by-member-of-household": 204306,
       "owned-by-member-of-household-pct": 83.1,
-      "rent-free": 22085.0,
+      "rent-free": 22085,
       "rent-free-pct": 9.0,
-      "rent-lease": 6086.0,
+      "rent-lease": 6086,
       "rent-lease-pct": 2.5,
-      "encroached": 4466.0,
+      "encroached": 4466,
       "encroached-pct": 1.8
     }
   },
@@ -273,14 +273,14 @@
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "total-occupied-housing-units": 195853.0,
-      "owned-by-member-of-household": 170373.0,
+      "total-occupied-housing-units": 195853,
+      "owned-by-member-of-household": 170373,
       "owned-by-member-of-household-pct": 87.0,
-      "rent-free": 13582.0,
+      "rent-free": 13582,
       "rent-free-pct": 6.9,
-      "rent-lease": 4414.0,
+      "rent-lease": 4414,
       "rent-lease-pct": 2.3,
-      "encroached": 1178.0,
+      "encroached": 1178,
       "encroached-pct": 0.6
     }
   }

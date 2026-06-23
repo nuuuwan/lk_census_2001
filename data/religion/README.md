@@ -16,19 +16,19 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-population": 526414.0,
+        "total-population": 526414,
         "total-population-pct": 100.0,
-        "buddhist": 509987.0,
+        "buddhist": 509987,
         "buddhist-pct": 96.9,
-        "hindu": 1369.0,
+        "hindu": 1369,
         "hindu-pct": 0.3,
-        "islam": 13076.0,
+        "islam": 13076,
         "islam-pct": 2.5,
-        "roman-catholic": 924.0,
+        "roman-catholic": 924,
         "roman-catholic-pct": 0.2,
-        "other-christian": 949.0,
+        "other-christian": 949,
         "other-christian-pct": 0.2,
-        "other": 109.0,
+        "other": 109,
         "other-pct": 0.0
     }
 }

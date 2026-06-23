@@ -16,9 +16,9 @@
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-        "census-1981-population": 1390862.0,
-        "census-2001-population": 2063684.0,
-        "intercensal-increase": 672822.0,
+        "census-1981-population": 1390862,
+        "census-2001-population": 2063684,
+        "intercensal-increase": 672822,
         "intercensal-increase-pct": 48.4,
         "annual-growth-rate": 1.9
     }

@@ -16,7 +16,7 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-emploted-aged-10-years-and-over": 164923.0,
+        "total-emploted-aged-10-years-and-over": 164923,
         "total-rate": 43.5,
         "male-rate": 63.8,
         "female-rate": 23.3

@@ -3,364 +3,364 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "usual-resident": 16929689.0,
-      "resident-since-birth": 13532329.0,
-      "total-migrants": 3397360.0,
-      "migrants-less-than-1-year": 364648.0,
-      "migrants-1-4-years": 652617.0,
-      "migrants-5-9-years": 481947.0,
-      "migrants-10-years-and-more": 1639044.0,
-      "migrants-not-stated": 259104.0
+      "usual-resident": 16929689,
+      "resident-since-birth": 13532329,
+      "total-migrants": 3397360,
+      "migrants-less-than-1-year": 364648,
+      "migrants-1-4-years": 652617,
+      "migrants-5-9-years": 481947,
+      "migrants-10-years-and-more": 1639044,
+      "migrants-not-stated": 259104
     }
   },
   {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "usual-resident": 2239696.0,
-      "resident-since-birth": 1517117.0,
-      "total-migrants": 722579.0,
-      "migrants-less-than-1-year": 94122.0,
-      "migrants-1-4-years": 161114.0,
-      "migrants-5-9-years": 108793.0,
-      "migrants-10-years-and-more": 305984.0,
-      "migrants-not-stated": 52566.0
+      "usual-resident": 2239696,
+      "resident-since-birth": 1517117,
+      "total-migrants": 722579,
+      "migrants-less-than-1-year": 94122,
+      "migrants-1-4-years": 161114,
+      "migrants-5-9-years": 108793,
+      "migrants-10-years-and-more": 305984,
+      "migrants-not-stated": 52566
     }
   },
   {
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "usual-resident": 2060470.0,
-      "resident-since-birth": 1448241.0,
-      "total-migrants": 612229.0,
-      "migrants-less-than-1-year": 83331.0,
-      "migrants-1-4-years": 154664.0,
-      "migrants-5-9-years": 102170.0,
-      "migrants-10-years-and-more": 235453.0,
-      "migrants-not-stated": 36611.0
+      "usual-resident": 2060470,
+      "resident-since-birth": 1448241,
+      "total-migrants": 612229,
+      "migrants-less-than-1-year": 83331,
+      "migrants-1-4-years": 154664,
+      "migrants-5-9-years": 102170,
+      "migrants-10-years-and-more": 235453,
+      "migrants-not-stated": 36611
     }
   },
   {
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "usual-resident": 1065635.0,
-      "resident-since-birth": 881728.0,
-      "total-migrants": 183907.0,
-      "migrants-less-than-1-year": 21491.0,
-      "migrants-1-4-years": 39594.0,
-      "migrants-5-9-years": 31448.0,
-      "migrants-10-years-and-more": 78565.0,
-      "migrants-not-stated": 12809.0
+      "usual-resident": 1065635,
+      "resident-since-birth": 881728,
+      "total-migrants": 183907,
+      "migrants-less-than-1-year": 21491,
+      "migrants-1-4-years": 39594,
+      "migrants-5-9-years": 31448,
+      "migrants-10-years-and-more": 78565,
+      "migrants-not-stated": 12809
     }
   },
   {
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "usual-resident": 1276202.0,
-      "resident-since-birth": 1078530.0,
-      "total-migrants": 197672.0,
-      "migrants-less-than-1-year": 21784.0,
-      "migrants-1-4-years": 41376.0,
-      "migrants-5-9-years": 30117.0,
-      "migrants-10-years-and-more": 91402.0,
-      "migrants-not-stated": 12993.0
+      "usual-resident": 1276202,
+      "resident-since-birth": 1078530,
+      "total-migrants": 197672,
+      "migrants-less-than-1-year": 21784,
+      "migrants-1-4-years": 41376,
+      "migrants-5-9-years": 30117,
+      "migrants-10-years-and-more": 91402,
+      "migrants-not-stated": 12993
     }
   },
   {
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "usual-resident": 439031.0,
-      "resident-since-birth": 344400.0,
-      "total-migrants": 94631.0,
-      "migrants-less-than-1-year": 8412.0,
-      "migrants-1-4-years": 15245.0,
-      "migrants-5-9-years": 12596.0,
-      "migrants-10-years-and-more": 52196.0,
-      "migrants-not-stated": 6182.0
+      "usual-resident": 439031,
+      "resident-since-birth": 344400,
+      "total-migrants": 94631,
+      "migrants-less-than-1-year": 8412,
+      "migrants-1-4-years": 15245,
+      "migrants-5-9-years": 12596,
+      "migrants-10-years-and-more": 52196,
+      "migrants-not-stated": 6182
     }
   },
   {
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "usual-resident": 702689.0,
-      "resident-since-birth": 605163.0,
-      "total-migrants": 97526.0,
-      "migrants-less-than-1-year": 5978.0,
-      "migrants-1-4-years": 14024.0,
-      "migrants-5-9-years": 11589.0,
-      "migrants-10-years-and-more": 54548.0,
-      "migrants-not-stated": 11387.0
+      "usual-resident": 702689,
+      "resident-since-birth": 605163,
+      "total-migrants": 97526,
+      "migrants-less-than-1-year": 5978,
+      "migrants-1-4-years": 14024,
+      "migrants-5-9-years": 11589,
+      "migrants-10-years-and-more": 54548,
+      "migrants-not-stated": 11387
     }
   },
   {
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "usual-resident": 989769.0,
-      "resident-since-birth": 885411.0,
-      "total-migrants": 104358.0,
-      "migrants-less-than-1-year": 13392.0,
-      "migrants-1-4-years": 21334.0,
-      "migrants-5-9-years": 15168.0,
-      "migrants-10-years-and-more": 45946.0,
-      "migrants-not-stated": 8518.0
+      "usual-resident": 989769,
+      "resident-since-birth": 885411,
+      "total-migrants": 104358,
+      "migrants-less-than-1-year": 13392,
+      "migrants-1-4-years": 21334,
+      "migrants-5-9-years": 15168,
+      "migrants-10-years-and-more": 45946,
+      "migrants-not-stated": 8518
     }
   },
   {
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "usual-resident": 760990.0,
-      "resident-since-birth": 678288.0,
-      "total-migrants": 82702.0,
-      "migrants-less-than-1-year": 9509.0,
-      "migrants-1-4-years": 17045.0,
-      "migrants-5-9-years": 12725.0,
-      "migrants-10-years-and-more": 36419.0,
-      "migrants-not-stated": 7004.0
+      "usual-resident": 760990,
+      "resident-since-birth": 678288,
+      "total-migrants": 82702,
+      "migrants-less-than-1-year": 9509,
+      "migrants-1-4-years": 17045,
+      "migrants-5-9-years": 12725,
+      "migrants-10-years-and-more": 36419,
+      "migrants-not-stated": 7004
     }
   },
   {
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "usual-resident": 525913.0,
-      "resident-since-birth": 448664.0,
-      "total-migrants": 77249.0,
-      "migrants-less-than-1-year": 6886.0,
-      "migrants-1-4-years": 12360.0,
-      "migrants-5-9-years": 9538.0,
-      "migrants-10-years-and-more": 42788.0,
-      "migrants-not-stated": 5677.0
+      "usual-resident": 525913,
+      "resident-since-birth": 448664,
+      "total-migrants": 77249,
+      "migrants-less-than-1-year": 6886,
+      "migrants-1-4-years": 12360,
+      "migrants-5-9-years": 9538,
+      "migrants-10-years-and-more": 42788,
+      "migrants-not-stated": 5677
     }
   },
   {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "values": {
-      "usual-resident": 1721.0,
-      "resident-since-birth": 643.0,
-      "total-migrants": 1078.0,
-      "migrants-less-than-1-year": 265.0,
-      "migrants-1-4-years": 328.0,
-      "migrants-5-9-years": 229.0,
-      "migrants-10-years-and-more": 104.0,
-      "migrants-not-stated": 152.0
+      "usual-resident": 1721,
+      "resident-since-birth": 643,
+      "total-migrants": 1078,
+      "migrants-less-than-1-year": 265,
+      "migrants-1-4-years": 328,
+      "migrants-5-9-years": 229,
+      "migrants-10-years-and-more": 104,
+      "migrants-not-stated": 152
     }
   },
   {
     "region_id": "LK-43",
     "region_name": "Mannar",
     "values": {
-      "usual-resident": 480.0,
-      "resident-since-birth": 99.0,
-      "total-migrants": 381.0,
-      "migrants-less-than-1-year": 127.0,
-      "migrants-1-4-years": 125.0,
-      "migrants-5-9-years": 52.0,
-      "migrants-10-years-and-more": 33.0,
-      "migrants-not-stated": 44.0
+      "usual-resident": 480,
+      "resident-since-birth": 99,
+      "total-migrants": 381,
+      "migrants-less-than-1-year": 127,
+      "migrants-1-4-years": 125,
+      "migrants-5-9-years": 52,
+      "migrants-10-years-and-more": 33,
+      "migrants-not-stated": 44
     }
   },
   {
     "region_id": "LK-44",
     "region_name": "Vavuniya",
     "values": {
-      "usual-resident": 912.0,
-      "resident-since-birth": 178.0,
-      "total-migrants": 734.0,
-      "migrants-less-than-1-year": 121.0,
-      "migrants-1-4-years": 308.0,
-      "migrants-5-9-years": 117.0,
-      "migrants-10-years-and-more": 106.0,
-      "migrants-not-stated": 82.0
+      "usual-resident": 912,
+      "resident-since-birth": 178,
+      "total-migrants": 734,
+      "migrants-less-than-1-year": 121,
+      "migrants-1-4-years": 308,
+      "migrants-5-9-years": 117,
+      "migrants-10-years-and-more": 106,
+      "migrants-not-stated": 82
     }
   },
   {
     "region_id": "LK-45",
     "region_name": "Mullaitivu",
     "values": {
-      "usual-resident": 106.0,
-      "resident-since-birth": 26.0,
-      "total-migrants": 80.0,
-      "migrants-less-than-1-year": 13.0,
-      "migrants-1-4-years": 23.0,
-      "migrants-5-9-years": 20.0,
-      "migrants-10-years-and-more": 14.0,
-      "migrants-not-stated": 10.0
+      "usual-resident": 106,
+      "resident-since-birth": 26,
+      "total-migrants": 80,
+      "migrants-less-than-1-year": 13,
+      "migrants-1-4-years": 23,
+      "migrants-5-9-years": 20,
+      "migrants-10-years-and-more": 14,
+      "migrants-not-stated": 10
     }
   },
   {
     "region_id": "LK-42",
     "region_name": "Kilinochchi",
     "values": {
-      "usual-resident": 66.0,
-      "resident-since-birth": 20.0,
-      "total-migrants": 46.0,
-      "migrants-less-than-1-year": 3.0,
-      "migrants-1-4-years": 5.0,
-      "migrants-5-9-years": 8.0,
-      "migrants-10-years-and-more": 16.0,
-      "migrants-not-stated": 14.0
+      "usual-resident": 66,
+      "resident-since-birth": 20,
+      "total-migrants": 46,
+      "migrants-less-than-1-year": 3,
+      "migrants-1-4-years": 5,
+      "migrants-5-9-years": 8,
+      "migrants-10-years-and-more": 16,
+      "migrants-not-stated": 14
     }
   },
   {
     "region_id": "LK-51",
     "region_name": "Batticaloa",
     "values": {
-      "usual-resident": 1495.0,
-      "resident-since-birth": 860.0,
-      "total-migrants": 635.0,
-      "migrants-less-than-1-year": 212.0,
-      "migrants-1-4-years": 100.0,
-      "migrants-5-9-years": 70.0,
-      "migrants-10-years-and-more": 136.0,
-      "migrants-not-stated": 117.0
+      "usual-resident": 1495,
+      "resident-since-birth": 860,
+      "total-migrants": 635,
+      "migrants-less-than-1-year": 212,
+      "migrants-1-4-years": 100,
+      "migrants-5-9-years": 70,
+      "migrants-10-years-and-more": 136,
+      "migrants-not-stated": 117
     }
   },
   {
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "usual-resident": 592596.0,
-      "resident-since-birth": 488706.0,
-      "total-migrants": 103890.0,
-      "migrants-less-than-1-year": 6636.0,
-      "migrants-1-4-years": 11796.0,
-      "migrants-5-9-years": 12183.0,
-      "migrants-10-years-and-more": 66535.0,
-      "migrants-not-stated": 6740.0
+      "usual-resident": 592596,
+      "resident-since-birth": 488706,
+      "total-migrants": 103890,
+      "migrants-less-than-1-year": 6636,
+      "migrants-1-4-years": 11796,
+      "migrants-5-9-years": 12183,
+      "migrants-10-years-and-more": 66535,
+      "migrants-not-stated": 6740
     }
   },
   {
     "region_id": "LK-53",
     "region_name": "Trincomalee",
     "values": {
-      "usual-resident": 1562.0,
-      "resident-since-birth": 664.0,
-      "total-migrants": 898.0,
-      "migrants-less-than-1-year": 137.0,
-      "migrants-1-4-years": 229.0,
-      "migrants-5-9-years": 110.0,
-      "migrants-10-years-and-more": 274.0,
-      "migrants-not-stated": 148.0
+      "usual-resident": 1562,
+      "resident-since-birth": 664,
+      "total-migrants": 898,
+      "migrants-less-than-1-year": 137,
+      "migrants-1-4-years": 229,
+      "migrants-5-9-years": 110,
+      "migrants-10-years-and-more": 274,
+      "migrants-not-stated": 148
     }
   },
   {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "usual-resident": 1458385.0,
-      "resident-since-birth": 1266821.0,
-      "total-migrants": 191564.0,
-      "migrants-less-than-1-year": 17659.0,
-      "migrants-1-4-years": 36093.0,
-      "migrants-5-9-years": 27914.0,
-      "migrants-10-years-and-more": 97788.0,
-      "migrants-not-stated": 12110.0
+      "usual-resident": 1458385,
+      "resident-since-birth": 1266821,
+      "total-migrants": 191564,
+      "migrants-less-than-1-year": 17659,
+      "migrants-1-4-years": 36093,
+      "migrants-5-9-years": 27914,
+      "migrants-10-years-and-more": 97788,
+      "migrants-not-stated": 12110
     }
   },
   {
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "usual-resident": 709002.0,
-      "resident-since-birth": 553167.0,
-      "total-migrants": 155835.0,
-      "migrants-less-than-1-year": 12772.0,
-      "migrants-1-4-years": 22402.0,
-      "migrants-5-9-years": 17994.0,
-      "migrants-10-years-and-more": 91626.0,
-      "migrants-not-stated": 11041.0
+      "usual-resident": 709002,
+      "resident-since-birth": 553167,
+      "total-migrants": 155835,
+      "migrants-less-than-1-year": 12772,
+      "migrants-1-4-years": 22402,
+      "migrants-5-9-years": 17994,
+      "migrants-10-years-and-more": 91626,
+      "migrants-not-stated": 11041
     }
   },
   {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "usual-resident": 742535.0,
-      "resident-since-birth": 563992.0,
-      "total-migrants": 178543.0,
-      "migrants-less-than-1-year": 14240.0,
-      "migrants-1-4-years": 23614.0,
-      "migrants-5-9-years": 18126.0,
-      "migrants-10-years-and-more": 111070.0,
-      "migrants-not-stated": 11493.0
+      "usual-resident": 742535,
+      "resident-since-birth": 563992,
+      "total-migrants": 178543,
+      "migrants-less-than-1-year": 14240,
+      "migrants-1-4-years": 23614,
+      "migrants-5-9-years": 18126,
+      "migrants-10-years-and-more": 111070,
+      "migrants-not-stated": 11493
     }
   },
   {
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "usual-resident": 358804.0,
-      "resident-since-birth": 219193.0,
-      "total-migrants": 139611.0,
-      "migrants-less-than-1-year": 8799.0,
-      "migrants-1-4-years": 15231.0,
-      "migrants-5-9-years": 15887.0,
-      "migrants-10-years-and-more": 91410.0,
-      "migrants-not-stated": 8284.0
+      "usual-resident": 358804,
+      "resident-since-birth": 219193,
+      "total-migrants": 139611,
+      "migrants-less-than-1-year": 8799,
+      "migrants-1-4-years": 15231,
+      "migrants-5-9-years": 15887,
+      "migrants-10-years-and-more": 91410,
+      "migrants-not-stated": 8284
     }
   },
   {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "usual-resident": 778422.0,
-      "resident-since-birth": 686415.0,
-      "total-migrants": 92007.0,
-      "migrants-less-than-1-year": 10029.0,
-      "migrants-1-4-years": 15707.0,
-      "migrants-5-9-years": 12156.0,
-      "migrants-10-years-and-more": 45645.0,
-      "migrants-not-stated": 8470.0
+      "usual-resident": 778422,
+      "resident-since-birth": 686415,
+      "total-migrants": 92007,
+      "migrants-less-than-1-year": 10029,
+      "migrants-1-4-years": 15707,
+      "migrants-5-9-years": 12156,
+      "migrants-10-years-and-more": 45645,
+      "migrants-not-stated": 8470
     }
   },
   {
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "usual-resident": 396521.0,
-      "resident-since-birth": 295879.0,
-      "total-migrants": 100642.0,
-      "migrants-less-than-1-year": 5316.0,
-      "migrants-1-4-years": 11214.0,
-      "migrants-5-9-years": 11115.0,
-      "migrants-10-years-and-more": 67360.0,
-      "migrants-not-stated": 5637.0
+      "usual-resident": 396521,
+      "resident-since-birth": 295879,
+      "total-migrants": 100642,
+      "migrants-less-than-1-year": 5316,
+      "migrants-1-4-years": 11214,
+      "migrants-5-9-years": 11115,
+      "migrants-10-years-and-more": 67360,
+      "migrants-not-stated": 5637
     }
   },
   {
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "usual-resident": 1016221.0,
-      "resident-since-birth": 889945.0,
-      "total-migrants": 126276.0,
-      "migrants-less-than-1-year": 10090.0,
-      "migrants-1-4-years": 19112.0,
-      "migrants-5-9-years": 14793.0,
-      "migrants-10-years-and-more": 72669.0,
-      "migrants-not-stated": 9612.0
+      "usual-resident": 1016221,
+      "resident-since-birth": 889945,
+      "total-migrants": 126276,
+      "migrants-less-than-1-year": 10090,
+      "migrants-1-4-years": 19112,
+      "migrants-5-9-years": 14793,
+      "migrants-10-years-and-more": 72669,
+      "migrants-not-stated": 9612
     }
   },
   {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "usual-resident": 784371.0,
-      "resident-since-birth": 677473.0,
-      "total-migrants": 106898.0,
-      "migrants-less-than-1-year": 8854.0,
-      "migrants-1-4-years": 18475.0,
-      "migrants-5-9-years": 16151.0,
-      "migrants-10-years-and-more": 49291.0,
-      "migrants-not-stated": 14127.0
+      "usual-resident": 784371,
+      "resident-since-birth": 677473,
+      "total-migrants": 106898,
+      "migrants-less-than-1-year": 8854,
+      "migrants-1-4-years": 18475,
+      "migrants-5-9-years": 16151,
+      "migrants-10-years-and-more": 49291,
+      "migrants-not-stated": 14127
     }
   }
 ]

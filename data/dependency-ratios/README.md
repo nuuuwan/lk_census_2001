@@ -16,13 +16,13 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-population": 526414.0,
-        "aged-00-14": 155132.0,
-        "aged-15-59": 322132.0,
-        "aged-60-and-over": 49150.0,
-        "dependency-ratio-total": 63.4,
-        "dependency-ratio-young": 48.2,
-        "dependency-ratio-old": 15.3
+        "total-population": 526414,
+        "aged-00-14": 155132,
+        "aged-15-59": 322132,
+        "aged-60-and-over": 49150,
+        "dependency-ratio-total": null,
+        "dependency-ratio-young": null,
+        "dependency-ratio-old": null
     }
 }
 ```

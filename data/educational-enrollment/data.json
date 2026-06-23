@@ -3,7 +3,7 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "population-aged-5-34-years": 8877901.0,
+      "population-aged-5-34-years": 8877901,
       "attending-school-pct": 40.5,
       "attending-university-pct": 0.7,
       "attending-vocational-or-technical-institution-pct": 0.8
@@ -13,7 +13,7 @@
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "population-aged-5-34-years": 1170059.0,
+      "population-aged-5-34-years": 1170059,
       "attending-school-pct": 32.0,
       "attending-university-pct": 1.6,
       "attending-vocational-or-technical-institution-pct": 1.2
@@ -23,7 +23,7 @@
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "population-aged-5-34-years": 1087709.0,
+      "population-aged-5-34-years": 1087709,
       "attending-school-pct": 34.2,
       "attending-university-pct": 0.8,
       "attending-vocational-or-technical-institution-pct": 1.0
@@ -33,7 +33,7 @@
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "population-aged-5-34-years": 535701.0,
+      "population-aged-5-34-years": 535701,
       "attending-school-pct": 38.3,
       "attending-university-pct": 0.6,
       "attending-vocational-or-technical-institution-pct": 1.0
@@ -43,7 +43,7 @@
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "population-aged-5-34-years": 657483.0,
+      "population-aged-5-34-years": 657483,
       "attending-school-pct": 43.9,
       "attending-university-pct": 1.4,
       "attending-vocational-or-technical-institution-pct": 0.9
@@ -53,7 +53,7 @@
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "population-aged-5-34-years": 230178.0,
+      "population-aged-5-34-years": 230178,
       "attending-school-pct": 43.3,
       "attending-university-pct": 0.3,
       "attending-vocational-or-technical-institution-pct": 0.6
@@ -63,7 +63,7 @@
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "population-aged-5-34-years": 371123.0,
+      "population-aged-5-34-years": 371123,
       "attending-school-pct": 41.9,
       "attending-university-pct": 0.2,
       "attending-vocational-or-technical-institution-pct": 0.5
@@ -73,7 +73,7 @@
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "population-aged-5-34-years": 502392.0,
+      "population-aged-5-34-years": 502392,
       "attending-school-pct": 44.0,
       "attending-university-pct": 0.6,
       "attending-vocational-or-technical-institution-pct": 0.9
@@ -83,7 +83,7 @@
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "population-aged-5-34-years": 385708.0,
+      "population-aged-5-34-years": 385708,
       "attending-school-pct": 46.5,
       "attending-university-pct": 1.1,
       "attending-vocational-or-technical-institution-pct": 0.8
@@ -93,7 +93,7 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "population-aged-5-34-years": 278345.0,
+      "population-aged-5-34-years": 278345,
       "attending-school-pct": 47.9,
       "attending-university-pct": 0.4,
       "attending-vocational-or-technical-institution-pct": 0.7
@@ -103,7 +103,7 @@
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "population-aged-5-34-years": 343530.0,
+      "population-aged-5-34-years": 343530,
       "attending-school-pct": 43.1,
       "attending-university-pct": 0.4,
       "attending-vocational-or-technical-institution-pct": 0.6
@@ -113,7 +113,7 @@
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "population-aged-5-34-years": 741085.0,
+      "population-aged-5-34-years": 741085,
       "attending-school-pct": 43.0,
       "attending-university-pct": 0.5,
       "attending-vocational-or-technical-institution-pct": 0.6
@@ -123,7 +123,7 @@
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "population-aged-5-34-years": 393135.0,
+      "population-aged-5-34-years": 393135,
       "attending-school-pct": 39.1,
       "attending-university-pct": 0.2,
       "attending-vocational-or-technical-institution-pct": 0.3
@@ -133,7 +133,7 @@
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "population-aged-5-34-years": 415629.0,
+      "population-aged-5-34-years": 415629,
       "attending-school-pct": 42.3,
       "attending-university-pct": 0.4,
       "attending-vocational-or-technical-institution-pct": 0.6
@@ -143,7 +143,7 @@
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "population-aged-5-34-years": 200116.0,
+      "population-aged-5-34-years": 200116,
       "attending-school-pct": 40.4,
       "attending-university-pct": 0.2,
       "attending-vocational-or-technical-institution-pct": 0.7
@@ -153,7 +153,7 @@
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "population-aged-5-34-years": 416460.0,
+      "population-aged-5-34-years": 416460,
       "attending-school-pct": 45.0,
       "attending-university-pct": 0.2,
       "attending-vocational-or-technical-institution-pct": 0.8
@@ -163,7 +163,7 @@
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "population-aged-5-34-years": 225977.0,
+      "population-aged-5-34-years": 225977,
       "attending-school-pct": 47.1,
       "attending-university-pct": 0.3,
       "attending-vocational-or-technical-institution-pct": 0.5
@@ -173,7 +173,7 @@
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "population-aged-5-34-years": 539907.0,
+      "population-aged-5-34-years": 539907,
       "attending-school-pct": 42.2,
       "attending-university-pct": 0.4,
       "attending-vocational-or-technical-institution-pct": 0.5
@@ -183,7 +183,7 @@
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "population-aged-5-34-years": 383364.0,
+      "population-aged-5-34-years": 383364,
       "attending-school-pct": 43.4,
       "attending-university-pct": 0.5,
       "attending-vocational-or-technical-institution-pct": 0.7

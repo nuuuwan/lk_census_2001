@@ -16,11 +16,11 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-employed-population-aged-10-years-and-over": 164923.0,
-        "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 14.5,
-        "service-workers-market-and-sales-workers-and-private-business-owners": 12.7,
-        "production-and-related-workers": 22.5,
-        "armed-forces-and-workers-not-identifiable-or-inadequate": 9.0
+        "total-employed-population-aged-10-years-and-over": 164923,
+        "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+        "service-workers-market-and-sales-workers-and-private-business-owners": null,
+        "production-and-related-workers": null,
+        "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
 }
 ```

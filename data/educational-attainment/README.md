@@ -16,7 +16,7 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "population-aged-5-years-and-over": 480166.0,
+        "population-aged-5-years-and-over": 480166,
         "completed-primary-education-passed-year-1-5-pct": 26.7,
         "completed-lower-secondary-passed-year-6-8-pct": 19.6,
         "completed-upper-secondary-passed-year-9-11-pct": 36.9,

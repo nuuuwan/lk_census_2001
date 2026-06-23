@@ -16,12 +16,12 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-population": 526414.0,
-        "population-in-urban-sector": 21571.0,
+        "total-population": 526414,
+        "population-in-urban-sector": 21571,
         "population-in-urban-sector-pct": 4.1,
-        "population-in-rural-sector": 503410.0,
+        "population-in-rural-sector": 503410,
         "population-in-rural-sector-pct": 95.6,
-        "population-in-estate-sector": 1433.0,
+        "population-in-estate-sector": 1433,
         "population-in-estate-sector-pct": 0.3
     }
 }

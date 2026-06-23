@@ -16,14 +16,14 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "sinhalese-speaking-tamil": 1.0,
-        "sinhalese-speaking-english": 6.1,
-        "sri-lanka-tamil-speaking-sinhala": 89.3,
-        "sri-lanka-tamil-speaking-english": 6.7,
-        "indian-tamil-speaking-sinhala": 84.7,
-        "indian-tamil-speaking-english": 7.1,
-        "sri-lanka-moor-speaking-sinhala": 94.9,
-        "sri-lanka-moor-speaking-english": 27.9
+        "sinhalese-speaking-tamil": null,
+        "sinhalese-speaking-english": null,
+        "sri-lanka-tamil-speaking-sinhala": null,
+        "sri-lanka-tamil-speaking-english": null,
+        "indian-tamil-speaking-sinhala": null,
+        "indian-tamil-speaking-english": null,
+        "sri-lanka-moor-speaking-sinhala": null,
+        "sri-lanka-moor-speaking-english": null
     }
 }
 ```

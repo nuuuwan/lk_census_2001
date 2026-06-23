@@ -16,12 +16,12 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-employed-population-aged-10-years-and-over": 164923.0,
-        "government-employees": 12.6,
-        "semi-government-employees": 2.9,
-        "private-sector-employees-and-employers": 25.5,
-        "own-account-workers": 48.7,
-        "unpaid-family-workers": 10.3
+        "total-employed-population-aged-10-years-and-over": 164923,
+        "government-employees": null,
+        "semi-government-employees": null,
+        "private-sector-employees-and-employers": null,
+        "own-account-workers": null,
+        "unpaid-family-workers": null
     }
 }
 ```

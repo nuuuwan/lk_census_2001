@@ -16,10 +16,10 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total": 3.4,
-        "urban": 2.7,
-        "rural": 3.4,
-        "estate": 2.5
+        "total": null,
+        "urban": null,
+        "rural": null,
+        "estate": null
     }
 }
 ```

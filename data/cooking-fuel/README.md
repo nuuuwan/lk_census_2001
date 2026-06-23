@@ -16,12 +16,12 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-occupied-housing-units": 128008.0,
-        "firewood": 120500.0,
+        "total-occupied-housing-units": 128008,
+        "firewood": 120500,
         "firewood-pct": 94.1,
-        "lp-gas": 5699.0,
+        "lp-gas": 5699,
         "lp-gas-pct": 4.5,
-        "kerosene": 429.0,
+        "kerosene": 429,
         "kerosene-pct": 0.3
     }
 }

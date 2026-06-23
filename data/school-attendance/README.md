@@ -16,11 +16,11 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "aged-06-09-years": 96.0,
-        "aged-10-14-years": 95.1,
-        "aged-15-19-years": 59.3,
-        "aged-06-14-years": 95.5,
-        "aged-06-19-years": 82.7
+        "aged-06-09-years": null,
+        "aged-10-14-years": null,
+        "aged-15-19-years": null,
+        "aged-06-14-years": null,
+        "aged-06-19-years": null
     }
 }
 ```

@@ -16,12 +16,12 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-occupied-housing-units": 128008.0,
-        "using-toilets-exclusively": 107323.0,
+        "total-occupied-housing-units": 128008,
+        "using-toilets-exclusively": 107323,
         "using-toilets-exclusively-pct": 83.8,
-        "hygienic-toilets": 74225.0,
+        "hygienic-toilets": 74225,
         "hygienic-toilets-pct": 58.0,
-        "not-using-toilet": 2868.0,
+        "not-using-toilet": 2868,
         "not-using-toilet-pct": 2.2
     }
 }

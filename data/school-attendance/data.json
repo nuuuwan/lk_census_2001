@@ -3,209 +3,209 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "aged-06-09-years": 94.4,
-      "aged-10-14-years": 92.2,
-      "aged-15-19-years": 52.6,
-      "aged-06-14-years": 93.2,
-      "aged-06-19-years": 77.9
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "aged-06-09-years": 93.2,
-      "aged-10-14-years": 90.3,
-      "aged-15-19-years": 46.3,
-      "aged-06-14-years": 91.6,
-      "aged-06-19-years": 72.9
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "aged-06-09-years": 95.6,
-      "aged-10-14-years": 93.3,
-      "aged-15-19-years": 46.0,
-      "aged-06-14-years": 94.3,
-      "aged-06-19-years": 74.5
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "aged-06-09-years": 93.8,
-      "aged-10-14-years": 91.2,
-      "aged-15-19-years": 51.5,
-      "aged-06-14-years": 92.3,
-      "aged-06-19-years": 76.6
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "aged-06-09-years": 94.8,
-      "aged-10-14-years": 93.2,
-      "aged-15-19-years": 60.0,
-      "aged-06-14-years": 93.9,
-      "aged-06-19-years": 81.3
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "aged-06-09-years": 95.4,
-      "aged-10-14-years": 93.7,
-      "aged-15-19-years": 54.2,
-      "aged-06-14-years": 94.5,
-      "aged-06-19-years": 79.3
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "aged-06-09-years": 91.0,
-      "aged-10-14-years": 88.7,
-      "aged-15-19-years": 50.9,
-      "aged-06-14-years": 89.7,
-      "aged-06-19-years": 75.8
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "aged-06-09-years": 95.0,
-      "aged-10-14-years": 93.4,
-      "aged-15-19-years": 55.8,
-      "aged-06-14-years": 94.1,
-      "aged-06-19-years": 80.2
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "aged-06-09-years": 94.8,
-      "aged-10-14-years": 93.6,
-      "aged-15-19-years": 60.5,
-      "aged-06-14-years": 94.1,
-      "aged-06-19-years": 82.0
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "aged-06-09-years": 96.0,
-      "aged-10-14-years": 95.1,
-      "aged-15-19-years": 59.3,
-      "aged-06-14-years": 95.5,
-      "aged-06-19-years": 82.7
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "aged-06-09-years": 92.8,
-      "aged-10-14-years": 90.0,
-      "aged-15-19-years": 50.8,
-      "aged-06-14-years": 91.3,
-      "aged-06-19-years": 76.5
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "aged-06-09-years": 95.3,
-      "aged-10-14-years": 93.6,
-      "aged-15-19-years": 57.6,
-      "aged-06-14-years": 94.4,
-      "aged-06-19-years": 80.3
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "aged-06-09-years": 93.5,
-      "aged-10-14-years": 88.9,
-      "aged-15-19-years": 41.9,
-      "aged-06-14-years": 91.0,
-      "aged-06-19-years": 72.5
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "aged-06-09-years": 95.6,
-      "aged-10-14-years": 93.9,
-      "aged-15-19-years": 53.1,
-      "aged-06-14-years": 94.7,
-      "aged-06-19-years": 79.7
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "aged-06-09-years": 94.5,
-      "aged-10-14-years": 92.1,
-      "aged-15-19-years": 47.4,
-      "aged-06-14-years": 93.1,
-      "aged-06-19-years": 76.4
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "aged-06-09-years": 93.9,
-      "aged-10-14-years": 92.1,
-      "aged-15-19-years": 57.6,
-      "aged-06-14-years": 92.9,
-      "aged-06-19-years": 80.5
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "aged-06-09-years": 95.6,
-      "aged-10-14-years": 94.1,
-      "aged-15-19-years": 56.2,
-      "aged-06-14-years": 94.7,
-      "aged-06-19-years": 81.5
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "aged-06-09-years": 93.3,
-      "aged-10-14-years": 90.8,
-      "aged-15-19-years": 51.8,
-      "aged-06-14-years": 91.9,
-      "aged-06-19-years": 77.2
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   },
   {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "aged-06-09-years": 94.7,
-      "aged-10-14-years": 93.2,
-      "aged-15-19-years": 58.4,
-      "aged-06-14-years": 93.9,
-      "aged-06-19-years": 80.7
+      "aged-06-09-years": null,
+      "aged-10-14-years": null,
+      "aged-15-19-years": null,
+      "aged-06-14-years": null,
+      "aged-06-19-years": null
     }
   }
 ]

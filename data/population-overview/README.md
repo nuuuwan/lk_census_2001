@@ -16,11 +16,11 @@
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-        "total": 2063684.0,
-        "male": 1007702.0,
-        "female": 1055982.0,
-        "sex-ratio": 95.4,
-        "density": 1539.0
+        "total": 2063684,
+        "male": 1007702,
+        "female": 1055982,
+        "sex-ratio": null,
+        "density": 1539
     }
 }
 ```

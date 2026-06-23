@@ -3,7 +3,7 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "total-emploted-aged-10-years-and-over": 5941574.0,
+      "total-emploted-aged-10-years-and-over": 5941574,
       "total-rate": 46.6,
       "male-rate": 65.5,
       "female-rate": 28.1
@@ -13,7 +13,7 @@
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "total-emploted-aged-10-years-and-over": 855142.0,
+      "total-emploted-aged-10-years-and-over": 855142,
       "total-rate": 48.4,
       "male-rate": 67.6,
       "female-rate": 28.6
@@ -23,7 +23,7 @@
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "total-emploted-aged-10-years-and-over": 756186.0,
+      "total-emploted-aged-10-years-and-over": 756186,
       "total-rate": 47.7,
       "male-rate": 67.3,
       "female-rate": 29.4
@@ -33,7 +33,7 @@
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "total-emploted-aged-10-years-and-over": 356837.0,
+      "total-emploted-aged-10-years-and-over": 356837,
       "total-rate": 44.9,
       "male-rate": 64.1,
       "female-rate": 26.4
@@ -43,7 +43,7 @@
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "total-emploted-aged-10-years-and-over": 407554.0,
+      "total-emploted-aged-10-years-and-over": 407554,
       "total-rate": 42.9,
       "male-rate": 62.0,
       "female-rate": 25.0
@@ -53,7 +53,7 @@
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "total-emploted-aged-10-years-and-over": 156179.0,
+      "total-emploted-aged-10-years-and-over": 156179,
       "total-rate": 46.8,
       "male-rate": 67.0,
       "female-rate": 26.9
@@ -63,7 +63,7 @@
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "total-emploted-aged-10-years-and-over": 281546.0,
+      "total-emploted-aged-10-years-and-over": 281546,
       "total-rate": 53.2,
       "male-rate": 63.5,
       "female-rate": 43.1
@@ -73,7 +73,7 @@
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "total-emploted-aged-10-years-and-over": 318680.0,
+      "total-emploted-aged-10-years-and-over": 318680,
       "total-rate": 44.0,
       "male-rate": 61.8,
       "female-rate": 27.5
@@ -83,7 +83,7 @@
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "total-emploted-aged-10-years-and-over": 242175.0,
+      "total-emploted-aged-10-years-and-over": 242175,
       "total-rate": 43.8,
       "male-rate": 61.4,
       "female-rate": 27.7
@@ -93,7 +93,7 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "total-emploted-aged-10-years-and-over": 164923.0,
+      "total-emploted-aged-10-years-and-over": 164923,
       "total-rate": 43.5,
       "male-rate": 63.8,
       "female-rate": 23.3
@@ -103,7 +103,7 @@
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "total-emploted-aged-10-years-and-over": 162322.0,
+      "total-emploted-aged-10-years-and-over": 162322,
       "total-rate": 39.5,
       "male-rate": 63.6,
       "female-rate": 15.2
@@ -113,7 +113,7 @@
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "total-emploted-aged-10-years-and-over": 514553.0,
+      "total-emploted-aged-10-years-and-over": 514553,
       "total-rate": 46.2,
       "male-rate": 66.6,
       "female-rate": 26.4
@@ -123,7 +123,7 @@
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "total-emploted-aged-10-years-and-over": 229425.0,
+      "total-emploted-aged-10-years-and-over": 229425,
       "total-rate": 43.7,
       "male-rate": 67.0,
       "female-rate": 20.9
@@ -133,7 +133,7 @@
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "total-emploted-aged-10-years-and-over": 285806.0,
+      "total-emploted-aged-10-years-and-over": 285806,
       "total-rate": 50.4,
       "male-rate": 68.7,
       "female-rate": 31.3
@@ -143,7 +143,7 @@
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "total-emploted-aged-10-years-and-over": 137078.0,
+      "total-emploted-aged-10-years-and-over": 137078,
       "total-rate": 50.2,
       "male-rate": 72.0,
       "female-rate": 26.0
@@ -153,7 +153,7 @@
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "total-emploted-aged-10-years-and-over": 294223.0,
+      "total-emploted-aged-10-years-and-over": 294223,
       "total-rate": 50.7,
       "male-rate": 65.2,
       "female-rate": 36.6
@@ -163,7 +163,7 @@
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "total-emploted-aged-10-years-and-over": 144600.0,
+      "total-emploted-aged-10-years-and-over": 144600,
       "total-rate": 49.2,
       "male-rate": 67.1,
       "female-rate": 30.6
@@ -173,7 +173,7 @@
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "total-emploted-aged-10-years-and-over": 375365.0,
+      "total-emploted-aged-10-years-and-over": 375365,
       "total-rate": 48.8,
       "male-rate": 66.3,
       "female-rate": 31.1
@@ -183,7 +183,7 @@
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "total-emploted-aged-10-years-and-over": 258980.0,
+      "total-emploted-aged-10-years-and-over": 258980,
       "total-rate": 44.4,
       "male-rate": 63.2,
       "female-rate": 26.7

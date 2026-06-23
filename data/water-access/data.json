@@ -3,10 +3,10 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "total-occupied-housing-units": 4054186.0,
-      "pipe-borne-water": 1089879.0,
+      "total-occupied-housing-units": 4054186,
+      "pipe-borne-water": 1089879,
       "pipe-borne-water-pct": 26.9,
-      "safe-water": 3316815.0,
+      "safe-water": 3316815,
       "safe-water-pct": 81.8
     }
   },
@@ -14,10 +14,10 @@
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "total-occupied-housing-units": 493085.0,
-      "pipe-borne-water": 307322.0,
+      "total-occupied-housing-units": 493085,
+      "pipe-borne-water": 307322,
       "pipe-borne-water-pct": 62.3,
-      "safe-water": 470952.0,
+      "safe-water": 470952,
       "safe-water-pct": 95.5
     }
   },
@@ -25,10 +25,10 @@
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "total-occupied-housing-units": 487184.0,
-      "pipe-borne-water": 108422.0,
+      "total-occupied-housing-units": 487184,
+      "pipe-borne-water": 108422,
       "pipe-borne-water-pct": 22.3,
-      "safe-water": 445432.0,
+      "safe-water": 445432,
       "safe-water-pct": 91.4
     }
   },
@@ -36,10 +36,10 @@
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "total-occupied-housing-units": 250939.0,
-      "pipe-borne-water": 46495.0,
+      "total-occupied-housing-units": 250939,
+      "pipe-borne-water": 46495,
       "pipe-borne-water-pct": 18.5,
-      "safe-water": 210772.0,
+      "safe-water": 210772,
       "safe-water-pct": 84.0
     }
   },
@@ -47,10 +47,10 @@
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "total-occupied-housing-units": 299870.0,
-      "pipe-borne-water": 115022.0,
+      "total-occupied-housing-units": 299870,
+      "pipe-borne-water": 115022,
       "pipe-borne-water-pct": 38.4,
-      "safe-water": 244357.0,
+      "safe-water": 244357,
       "safe-water-pct": 81.5
     }
   },
@@ -58,10 +58,10 @@
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "total-occupied-housing-units": 110886.0,
-      "pipe-borne-water": 24830.0,
+      "total-occupied-housing-units": 110886,
+      "pipe-borne-water": 24830,
       "pipe-borne-water-pct": 22.4,
-      "safe-water": 89249.0,
+      "safe-water": 89249,
       "safe-water-pct": 80.5
     }
   },
@@ -69,10 +69,10 @@
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "total-occupied-housing-units": 169540.0,
-      "pipe-borne-water": 85586.0,
+      "total-occupied-housing-units": 169540,
+      "pipe-borne-water": 85586,
       "pipe-borne-water-pct": 50.5,
-      "safe-water": 115079.0,
+      "safe-water": 115079,
       "safe-water-pct": 67.9
     }
   },
@@ -80,10 +80,10 @@
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "total-occupied-housing-units": 233027.0,
-      "pipe-borne-water": 44334.0,
+      "total-occupied-housing-units": 233027,
+      "pipe-borne-water": 44334,
       "pipe-borne-water-pct": 19.0,
-      "safe-water": 189283.0,
+      "safe-water": 189283,
       "safe-water-pct": 81.2
     }
   },
@@ -91,10 +91,10 @@
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "total-occupied-housing-units": 177613.0,
-      "pipe-borne-water": 49703.0,
+      "total-occupied-housing-units": 177613,
+      "pipe-borne-water": 49703,
       "pipe-borne-water-pct": 28.0,
-      "safe-water": 137502.0,
+      "safe-water": 137502,
       "safe-water-pct": 77.4
     }
   },
@@ -102,10 +102,10 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "total-occupied-housing-units": 128008.0,
-      "pipe-borne-water": 42704.0,
+      "total-occupied-housing-units": 128008,
+      "pipe-borne-water": 42704,
       "pipe-borne-water-pct": 33.4,
-      "safe-water": 106758.0,
+      "safe-water": 106758,
       "safe-water-pct": 83.4
     }
   },
@@ -113,10 +113,10 @@
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "total-occupied-housing-units": 137741.0,
-      "pipe-borne-water": 13439.0,
+      "total-occupied-housing-units": 137741,
+      "pipe-borne-water": 13439,
       "pipe-borne-water-pct": 9.8,
-      "safe-water": 117669.0,
+      "safe-water": 117669,
       "safe-water-pct": 85.4
     }
   },
@@ -124,10 +124,10 @@
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "total-occupied-housing-units": 380213.0,
-      "pipe-borne-water": 14795.0,
+      "total-occupied-housing-units": 380213,
+      "pipe-borne-water": 14795,
       "pipe-borne-water-pct": 3.9,
-      "safe-water": 323114.0,
+      "safe-water": 323114,
       "safe-water-pct": 85.0
     }
   },
@@ -135,10 +135,10 @@
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "total-occupied-housing-units": 176544.0,
-      "pipe-borne-water": 19899.0,
+      "total-occupied-housing-units": 176544,
+      "pipe-borne-water": 19899,
       "pipe-borne-water-pct": 11.3,
-      "safe-water": 159325.0,
+      "safe-water": 159325,
       "safe-water-pct": 90.2
     }
   },
@@ -146,10 +146,10 @@
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "total-occupied-housing-units": 189699.0,
-      "pipe-borne-water": 18137.0,
+      "total-occupied-housing-units": 189699,
+      "pipe-borne-water": 18137,
       "pipe-borne-water-pct": 9.6,
-      "safe-water": 157565.0,
+      "safe-water": 157565,
       "safe-water-pct": 83.1
     }
   },
@@ -157,10 +157,10 @@
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "total-occupied-housing-units": 91718.0,
-      "pipe-borne-water": 10000.0,
+      "total-occupied-housing-units": 91718,
+      "pipe-borne-water": 10000,
       "pipe-borne-water-pct": 10.9,
-      "safe-water": 69041.0,
+      "safe-water": 69041,
       "safe-water-pct": 75.3
     }
   },
@@ -168,10 +168,10 @@
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "total-occupied-housing-units": 189925.0,
-      "pipe-borne-water": 71667.0,
+      "total-occupied-housing-units": 189925,
+      "pipe-borne-water": 71667,
       "pipe-borne-water-pct": 37.7,
-      "safe-water": 133391.0,
+      "safe-water": 133391,
       "safe-water-pct": 70.2
     }
   },
@@ -179,10 +179,10 @@
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "total-occupied-housing-units": 96598.0,
-      "pipe-borne-water": 13472.0,
+      "total-occupied-housing-units": 96598,
+      "pipe-borne-water": 13472,
       "pipe-borne-water-pct": 13.9,
-      "safe-water": 61278.0,
+      "safe-water": 61278,
       "safe-water-pct": 63.4
     }
   },
@@ -190,10 +190,10 @@
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "total-occupied-housing-units": 245743.0,
-      "pipe-borne-water": 68415.0,
+      "total-occupied-housing-units": 245743,
+      "pipe-borne-water": 68415,
       "pipe-borne-water-pct": 27.8,
-      "safe-water": 150709.0,
+      "safe-water": 150709,
       "safe-water-pct": 61.3
     }
   },
@@ -201,10 +201,10 @@
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "total-occupied-housing-units": 195853.0,
-      "pipe-borne-water": 35637.0,
+      "total-occupied-housing-units": 195853,
+      "pipe-borne-water": 35637,
       "pipe-borne-water-pct": 18.2,
-      "safe-water": 135339.0,
+      "safe-water": 135339,
       "safe-water-pct": 69.1
     }
   }

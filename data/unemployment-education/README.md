@@ -21,9 +21,9 @@
         "female-rate": 17.4,
         "passed-year-0-4-rate": 2.0,
         "passed-year-5-9-rate": 10.2,
-        "passed-gce-ol": 17.8,
-        "passed-gce-al": 21.6,
-        "degree-and-above": 9.8
+        "passed-gce-ol": null,
+        "passed-gce-al": null,
+        "degree-and-above": null
     }
 }
 ```

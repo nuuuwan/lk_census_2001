@@ -128,7 +128,7 @@
       "female-rate": 82.9,
       "urban-rate": 88.9,
       "rural-rate": 85.2,
-      "estate-rate": 0
+      "estate-rate": null
     }
   },
   {
@@ -174,7 +174,7 @@
       "total-rate": 90.0,
       "male-rate": 91.2,
       "female-rate": 88.7,
-      "urban-rate": 0,
+      "urban-rate": null,
       "rural-rate": 90.0,
       "estate-rate": 93.2
     }
@@ -198,7 +198,7 @@
       "total-rate": 86.0,
       "male-rate": 88.1,
       "female-rate": 83.8,
-      "urban-rate": 0,
+      "urban-rate": null,
       "rural-rate": 86.2,
       "estate-rate": 77.2
     }

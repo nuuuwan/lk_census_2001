@@ -16,10 +16,10 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-occupied-housing-units": 128008.0,
-        "pipe-borne-water": 42704.0,
+        "total-occupied-housing-units": 128008,
+        "pipe-borne-water": 42704,
         "pipe-borne-water-pct": 33.4,
-        "safe-water": 106758.0,
+        "safe-water": 106758,
         "safe-water-pct": 83.4
     }
 }

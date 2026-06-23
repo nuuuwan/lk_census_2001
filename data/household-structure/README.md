@@ -16,12 +16,12 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total": 128008.0,
-        "urban": 4523.0,
-        "rural": 123398.0,
-        "estate": 87.0,
-        "average-household-size": 4.2,
-        "female-headed-households": 25504.0,
+        "total": 128008,
+        "urban": 4523,
+        "rural": 123398,
+        "estate": 87,
+        "average-household-size": null,
+        "female-headed-households": 25504,
         "female-headed-households-pct": 19.9
     }
 }

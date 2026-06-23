@@ -16,10 +16,10 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-occupied-housing-units": 126362.0,
-        "urban": 4369.0,
-        "rural": 121905.0,
-        "estate": 88.0
+        "total-occupied-housing-units": 126362,
+        "urban": 4369,
+        "rural": 121905,
+        "estate": 88
     }
 }
 ```

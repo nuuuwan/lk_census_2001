@@ -3,209 +3,209 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 5941574.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 18.2,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 17.6,
-      "production-and-related-workers": 25.0,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 11.0
+      "total-employed-population-aged-10-years-and-over": 5941574,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 855142.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 30.9,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 24.7,
-      "production-and-related-workers": 30.9,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 11.3
+      "total-employed-population-aged-10-years-and-over": 855142,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 756186.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 22.8,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 20.0,
-      "production-and-related-workers": 41.8,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 10.5
+      "total-employed-population-aged-10-years-and-over": 756186,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 356837.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 21.3,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 20.5,
-      "production-and-related-workers": 30.9,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 12.0
+      "total-employed-population-aged-10-years-and-over": 356837,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 407554.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 20.8,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 22.1,
-      "production-and-related-workers": 23.3,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 12.1
+      "total-employed-population-aged-10-years-and-over": 407554,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 156179.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 14.4,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 16.3,
-      "production-and-related-workers": 18.1,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 11.7
+      "total-employed-population-aged-10-years-and-over": 156179,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 281546.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 8.7,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 11.7,
-      "production-and-related-workers": 10.4,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 8.4
+      "total-employed-population-aged-10-years-and-over": 281546,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 318680.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 18.5,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 15.4,
-      "production-and-related-workers": 24.6,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 12.1
+      "total-employed-population-aged-10-years-and-over": 318680,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 242175.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 16.5,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 15.4,
-      "production-and-related-workers": 23.4,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 8.3
+      "total-employed-population-aged-10-years-and-over": 242175,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 164923.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 14.5,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 12.7,
-      "production-and-related-workers": 22.5,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 9.0
+      "total-employed-population-aged-10-years-and-over": 164923,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 162322.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 13.5,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 19.2,
-      "production-and-related-workers": 14.9,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 8.3
+      "total-employed-population-aged-10-years-and-over": 162322,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 514553.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 15.3,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 16.3,
-      "production-and-related-workers": 24.5,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 11.5
+      "total-employed-population-aged-10-years-and-over": 514553,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 229425.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 12.0,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 19.7,
-      "production-and-related-workers": 29.6,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 13.1
+      "total-employed-population-aged-10-years-and-over": 229425,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 285806.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 11.1,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 13.2,
-      "production-and-related-workers": 11.7,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 11.6
+      "total-employed-population-aged-10-years-and-over": 285806,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 137078.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 9.4,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 14.2,
-      "production-and-related-workers": 11.6,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 13.8
+      "total-employed-population-aged-10-years-and-over": 137078,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 294223.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 12.7,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 11.9,
-      "production-and-related-workers": 10.7,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 9.5
+      "total-employed-population-aged-10-years-and-over": 294223,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 144600.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 9.7,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 11.1,
-      "production-and-related-workers": 10.8,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 7.5
+      "total-employed-population-aged-10-years-and-over": 144600,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 375365.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 12.7,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 12.0,
-      "production-and-related-workers": 21.7,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 10.4
+      "total-employed-population-aged-10-years-and-over": 375365,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   },
   {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "total-employed-population-aged-10-years-and-over": 258980.0,
-      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": 15.9,
-      "service-workers-market-and-sales-workers-and-private-business-owners": 16.4,
-      "production-and-related-workers": 29.5,
-      "armed-forces-and-workers-not-identifiable-or-inadequate": 14.1
+      "total-employed-population-aged-10-years-and-over": 258980,
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks": null,
+      "service-workers-market-and-sales-workers-and-private-business-owners": null,
+      "production-and-related-workers": null,
+      "armed-forces-and-workers-not-identifiable-or-inadequate": null
     }
   }
 ]

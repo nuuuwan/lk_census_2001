@@ -16,7 +16,7 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "usually-not-economically-active-population-aged-10-years-and-over": 240681.0,
+        "usually-not-economically-active-population-aged-10-years-and-over": 240681,
         "students-pct": 38.3,
         "unable-or-too-old-to-work-pct": 8.8,
         "pension-recipients-and-pensioners-pct": 1.8,

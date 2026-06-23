@@ -3,12 +3,12 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "total-occupied-housing-units": 4054186.0,
-      "firewood": 3242693.0,
+      "total-occupied-housing-units": 4054186,
+      "firewood": 3242693,
       "firewood-pct": 80.0,
-      "lp-gas": 600110.0,
+      "lp-gas": 600110,
       "lp-gas-pct": 14.8,
-      "kerosene": 123777.0,
+      "kerosene": 123777,
       "kerosene-pct": 3.1
     }
   },
@@ -16,12 +16,12 @@
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "total-occupied-housing-units": 493085.0,
-      "firewood": 167171.0,
+      "total-occupied-housing-units": 493085,
+      "firewood": 167171,
       "firewood-pct": 33.9,
-      "lp-gas": 238322.0,
+      "lp-gas": 238322,
       "lp-gas-pct": 48.3,
-      "kerosene": 67194.0,
+      "kerosene": 67194,
       "kerosene-pct": 13.6
     }
   },
@@ -29,12 +29,12 @@
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "total-occupied-housing-units": 487184.0,
-      "firewood": 325498.0,
+      "total-occupied-housing-units": 487184,
+      "firewood": 325498,
       "firewood-pct": 66.8,
-      "lp-gas": 118810.0,
+      "lp-gas": 118810,
       "lp-gas-pct": 24.4,
-      "kerosene": 29492.0,
+      "kerosene": 29492,
       "kerosene-pct": 6.1
     }
   },
@@ -42,12 +42,12 @@
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "total-occupied-housing-units": 250939.0,
-      "firewood": 200912.0,
+      "total-occupied-housing-units": 250939,
+      "firewood": 200912,
       "firewood-pct": 80.1,
-      "lp-gas": 41692.0,
+      "lp-gas": 41692,
       "lp-gas-pct": 16.6,
-      "kerosene": 3671.0,
+      "kerosene": 3671,
       "kerosene-pct": 1.5
     }
   },
@@ -55,12 +55,12 @@
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "total-occupied-housing-units": 299870.0,
-      "firewood": 248519.0,
+      "total-occupied-housing-units": 299870,
+      "firewood": 248519,
       "firewood-pct": 82.9,
-      "lp-gas": 41399.0,
+      "lp-gas": 41399,
       "lp-gas-pct": 13.8,
-      "kerosene": 3954.0,
+      "kerosene": 3954,
       "kerosene-pct": 1.3
     }
   },
@@ -68,12 +68,12 @@
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "total-occupied-housing-units": 110886.0,
-      "firewood": 102081.0,
+      "total-occupied-housing-units": 110886,
+      "firewood": 102081,
       "firewood-pct": 92.1,
-      "lp-gas": 6897.0,
+      "lp-gas": 6897,
       "lp-gas-pct": 6.2,
-      "kerosene": 631.0,
+      "kerosene": 631,
       "kerosene-pct": 0.6
     }
   },
@@ -81,12 +81,12 @@
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "total-occupied-housing-units": 169540.0,
-      "firewood": 148156.0,
+      "total-occupied-housing-units": 169540,
+      "firewood": 148156,
       "firewood-pct": 87.4,
-      "lp-gas": 11844.0,
+      "lp-gas": 11844,
       "lp-gas-pct": 7.0,
-      "kerosene": 3726.0,
+      "kerosene": 3726,
       "kerosene-pct": 2.2
     }
   },
@@ -94,12 +94,12 @@
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "total-occupied-housing-units": 233027.0,
-      "firewood": 200988.0,
+      "total-occupied-housing-units": 233027,
+      "firewood": 200988,
       "firewood-pct": 86.3,
-      "lp-gas": 26750.0,
+      "lp-gas": 26750,
       "lp-gas-pct": 11.5,
-      "kerosene": 2002.0,
+      "kerosene": 2002,
       "kerosene-pct": 0.9
     }
   },
@@ -107,12 +107,12 @@
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "total-occupied-housing-units": 177613.0,
-      "firewood": 158039.0,
+      "total-occupied-housing-units": 177613,
+      "firewood": 158039,
       "firewood-pct": 89.0,
-      "lp-gas": 16407.0,
+      "lp-gas": 16407,
       "lp-gas-pct": 9.2,
-      "kerosene": 1070.0,
+      "kerosene": 1070,
       "kerosene-pct": 0.6
     }
   },
@@ -120,12 +120,12 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "total-occupied-housing-units": 128008.0,
-      "firewood": 120500.0,
+      "total-occupied-housing-units": 128008,
+      "firewood": 120500,
       "firewood-pct": 94.1,
-      "lp-gas": 5699.0,
+      "lp-gas": 5699,
       "lp-gas-pct": 4.5,
-      "kerosene": 429.0,
+      "kerosene": 429,
       "kerosene-pct": 0.3
     }
   },
@@ -133,12 +133,12 @@
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "total-occupied-housing-units": 137741.0,
-      "firewood": 118468.0,
+      "total-occupied-housing-units": 137741,
+      "firewood": 118468,
       "firewood-pct": 86.0,
-      "lp-gas": 10953.0,
+      "lp-gas": 10953,
       "lp-gas-pct": 8.0,
-      "kerosene": 2718.0,
+      "kerosene": 2718,
       "kerosene-pct": 2.0
     }
   },
@@ -146,12 +146,12 @@
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "total-occupied-housing-units": 380213.0,
-      "firewood": 358604.0,
+      "total-occupied-housing-units": 380213,
+      "firewood": 358604,
       "firewood-pct": 94.3,
-      "lp-gas": 16381.0,
+      "lp-gas": 16381,
       "lp-gas-pct": 4.3,
-      "kerosene": 986.0,
+      "kerosene": 986,
       "kerosene-pct": 0.3
     }
   },
@@ -159,12 +159,12 @@
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "total-occupied-housing-units": 176544.0,
-      "firewood": 156112.0,
+      "total-occupied-housing-units": 176544,
+      "firewood": 156112,
       "firewood-pct": 88.4,
-      "lp-gas": 14063.0,
+      "lp-gas": 14063,
       "lp-gas-pct": 8.0,
-      "kerosene": 3459.0,
+      "kerosene": 3459,
       "kerosene-pct": 2.0
     }
   },
@@ -172,12 +172,12 @@
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "total-occupied-housing-units": 189699.0,
-      "firewood": 175422.0,
+      "total-occupied-housing-units": 189699,
+      "firewood": 175422,
       "firewood-pct": 92.5,
-      "lp-gas": 10532.0,
+      "lp-gas": 10532,
       "lp-gas-pct": 5.6,
-      "kerosene": 884.0,
+      "kerosene": 884,
       "kerosene-pct": 0.5
     }
   },
@@ -185,12 +185,12 @@
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "total-occupied-housing-units": 91718.0,
-      "firewood": 86052.0,
+      "total-occupied-housing-units": 91718,
+      "firewood": 86052,
       "firewood-pct": 93.8,
-      "lp-gas": 3670.0,
+      "lp-gas": 3670,
       "lp-gas-pct": 4.0,
-      "kerosene": 365.0,
+      "kerosene": 365,
       "kerosene-pct": 0.4
     }
   },
@@ -198,12 +198,12 @@
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "total-occupied-housing-units": 189925.0,
-      "firewood": 172447.0,
+      "total-occupied-housing-units": 189925,
+      "firewood": 172447,
       "firewood-pct": 90.8,
-      "lp-gas": 11999.0,
+      "lp-gas": 11999,
       "lp-gas-pct": 6.3,
-      "kerosene": 1248.0,
+      "kerosene": 1248,
       "kerosene-pct": 0.7
     }
   },
@@ -211,12 +211,12 @@
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "total-occupied-housing-units": 96598.0,
-      "firewood": 92222.0,
+      "total-occupied-housing-units": 96598,
+      "firewood": 92222,
       "firewood-pct": 95.5,
-      "lp-gas": 2523.0,
+      "lp-gas": 2523,
       "lp-gas-pct": 2.6,
-      "kerosene": 254.0,
+      "kerosene": 254,
       "kerosene-pct": 0.3
     }
   },
@@ -224,12 +224,12 @@
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "total-occupied-housing-units": 245743.0,
-      "firewood": 228272.0,
+      "total-occupied-housing-units": 245743,
+      "firewood": 228272,
       "firewood-pct": 92.9,
-      "lp-gas": 12814.0,
+      "lp-gas": 12814,
       "lp-gas-pct": 5.2,
-      "kerosene": 1075.0,
+      "kerosene": 1075,
       "kerosene-pct": 0.4
     }
   },
@@ -237,12 +237,12 @@
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "total-occupied-housing-units": 195853.0,
-      "firewood": 183230.0,
+      "total-occupied-housing-units": 195853,
+      "firewood": 183230,
       "firewood-pct": 93.6,
-      "lp-gas": 9355.0,
+      "lp-gas": 9355,
       "lp-gas-pct": 4.8,
-      "kerosene": 619.0,
+      "kerosene": 619,
       "kerosene-pct": 0.3
     }
   }

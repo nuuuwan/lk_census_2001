@@ -15,19 +15,19 @@
 {
     "row_id": "male",
     "values": {
-        "total": 16591.0,
+        "total": 16591,
         "total-rate": 165.2,
-        "seeing": 3474.0,
+        "seeing": 3474,
         "seeing-rate": 34.6,
-        "hearing-or-speaking": 4284.0,
+        "hearing-or-speaking": 4284,
         "hearing-or-speaking-rate": 42.6,
-        "hands": 3376.0,
+        "hands": 3376,
         "hands-rate": 33.6,
-        "legs": 6249.0,
+        "legs": 6249,
         "legs-rate": 62.2,
-        "other-physical-disability": 743.0,
+        "other-physical-disability": 743,
         "other-physical-disability-rate": 7.4,
-        "mental-disability": 4033.0,
+        "mental-disability": 4033,
         "mental-disability-rate": 40.2
     }
 }

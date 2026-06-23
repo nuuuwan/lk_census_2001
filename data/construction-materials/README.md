@@ -16,12 +16,12 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-occupied-housing-units": 126362.0,
-        "outer-walls-bricks-cabooks-cement-blocks-stones": 94041.0,
+        "total-occupied-housing-units": 126362,
+        "outer-walls-bricks-cabooks-cement-blocks-stones": 94041,
         "outer-walls-bricks-cabooks-cement-blocks-stones-pct": 74.4,
-        "floor-cement-tile-terrazo-granite": 84961.0,
+        "floor-cement-tile-terrazo-granite": 84961,
         "floor-cement-tile-terrazo-granite-pct": 67.2,
-        "roof-tile-asbestos-concrete-metal-sheets": 99305.0,
+        "roof-tile-asbestos-concrete-metal-sheets": 99305,
         "roof-tile-asbestos-concrete-metal-sheets-pct": 78.6
     }
 }

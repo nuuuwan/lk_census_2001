@@ -16,8 +16,8 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-housing-units": 126362.0,
-        "huts-and-shanties": 877.0,
+        "total-housing-units": 126362,
+        "huts-and-shanties": 877,
         "huts-and-shanties-pct": 0.7
     }
 }

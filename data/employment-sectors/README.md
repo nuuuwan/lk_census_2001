@@ -16,10 +16,10 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "total-employed-population-aged-10-years-and-over": 164923.0,
-        "agricultural-and-fishery-workers-including-unskilled-labourers": 68095.0,
+        "total-employed-population-aged-10-years-and-over": 164923,
+        "agricultural-and-fishery-workers-including-unskilled-labourers": 68095,
         "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 41.3,
-        "non-agricultural-and-fishery-workers": 96828.0,
+        "non-agricultural-and-fishery-workers": 96828,
         "non-agricultural-and-fishery-workers-pct": 58.7
     }
 }
