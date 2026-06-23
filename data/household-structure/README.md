@@ -20,7 +20,7 @@
         "urban": 9545,
         "rural": 71496,
         "estate": 88499,
-        "average-household-size": null,
+        "average-household-size": 4.3,
         "female-headed-households": 30810,
         "female-headed-households-pct": 18.2
     }

@@ -68,7 +68,12 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
                 continue
 
             value = data[i_header]
-            if "pct" in header or "rate" in header or "ratio" in header:
+            if (
+                "pct" in header
+                or "rate" in header
+                or "ratio" in header
+                or "average" in header
+            ):
                 values[header] = Parse.float(value)
             else:
                 values[header] = Parse.int(value)

@@ -7,7 +7,7 @@
       "urban": 511717,
       "rural": 3320198,
       "estate": 222271,
-      "average-household-size": null,
+      "average-household-size": 4.2,
       "female-headed-households": 814725,
       "female-headed-households-pct": 20.1
     }
@@ -20,7 +20,7 @@
       "urban": 254576,
       "rural": 236651,
       "estate": 1858,
-      "average-household-size": null,
+      "average-household-size": 4.4,
       "female-headed-households": 105140,
       "female-headed-households-pct": 21.3
     }
@@ -33,7 +33,7 @@
       "urban": 64254,
       "rural": 422722,
       "estate": 208,
-      "average-household-size": null,
+      "average-household-size": 4.2,
       "female-headed-households": 98424,
       "female-headed-households-pct": 20.2
     }
@@ -46,7 +46,7 @@
       "urban": 22018,
       "rural": 219320,
       "estate": 9601,
-      "average-household-size": null,
+      "average-household-size": 4.3,
       "female-headed-households": 48830,
       "female-headed-households-pct": 19.5
     }
@@ -59,7 +59,7 @@
       "urban": 31683,
       "rural": 244976,
       "estate": 23211,
-      "average-household-size": null,
+      "average-household-size": 4.3,
       "female-headed-households": 66914,
       "female-headed-households-pct": 22.3
     }
@@ -72,7 +72,7 @@
       "urban": 7460,
       "rural": 97769,
       "estate": 5657,
-      "average-household-size": null,
+      "average-household-size": 4.0,
       "female-headed-households": 23014,
       "female-headed-households-pct": 20.8
     }
@@ -85,7 +85,7 @@
       "urban": 9545,
       "rural": 71496,
       "estate": 88499,
-      "average-household-size": null,
+      "average-household-size": 4.3,
       "female-headed-households": 30810,
       "female-headed-households-pct": 18.2
     }
@@ -98,7 +98,7 @@
       "urban": 21256,
       "rural": 207441,
       "estate": 4330,
-      "average-household-size": null,
+      "average-household-size": 4.3,
       "female-headed-households": 50163,
       "female-headed-households-pct": 21.5
     }
@@ -111,7 +111,7 @@
       "urban": 13176,
       "rural": 159718,
       "estate": 4719,
-      "average-household-size": null,
+      "average-household-size": 4.4,
       "female-headed-households": 39188,
       "female-headed-households-pct": 22.1
     }
@@ -124,7 +124,7 @@
       "urban": 4523,
       "rural": 123398,
       "estate": 87,
-      "average-household-size": null,
+      "average-household-size": 4.2,
       "female-headed-households": 25504,
       "female-headed-households-pct": 19.9
     }
@@ -137,7 +137,7 @@
       "urban": 25115,
       "rural": 112626,
       "estate": null,
-      "average-household-size": null,
+      "average-household-size": 4.2,
       "female-headed-households": 27505,
       "female-headed-households-pct": 20.0
     }
@@ -150,7 +150,7 @@
       "urban": 6511,
       "rural": 371906,
       "estate": 1796,
-      "average-household-size": null,
+      "average-household-size": 3.9,
       "female-headed-households": 79141,
       "female-headed-households-pct": 20.8
     }
@@ -163,7 +163,7 @@
       "urban": 14208,
       "rural": 161713,
       "estate": 623,
-      "average-household-size": null,
+      "average-household-size": 4.1,
       "female-headed-households": 35162,
       "female-headed-households-pct": 19.9
     }
@@ -176,7 +176,7 @@
       "urban": 11030,
       "rural": 178427,
       "estate": 242,
-      "average-household-size": null,
+      "average-household-size": 3.9,
       "female-headed-households": 36560,
       "female-headed-households-pct": 19.3
     }
@@ -189,7 +189,7 @@
       "urban": null,
       "rural": 91620,
       "estate": 98,
-      "average-household-size": null,
+      "average-household-size": 3.9,
       "female-headed-households": 17164,
       "female-headed-households-pct": 18.7
     }
@@ -202,7 +202,7 @@
       "urban": 10849,
       "rural": 139571,
       "estate": 39505,
-      "average-household-size": null,
+      "average-household-size": 4.2,
       "female-headed-households": 34959,
       "female-headed-households-pct": 18.4
     }
@@ -215,7 +215,7 @@
       "urban": null,
       "rural": 94295,
       "estate": 2303,
-      "average-household-size": null,
+      "average-household-size": 4.2,
       "female-headed-households": 14556,
       "female-headed-households-pct": 15.1
     }
@@ -228,7 +228,7 @@
       "urban": 12059,
       "rural": 208081,
       "estate": 25603,
-      "average-household-size": null,
+      "average-household-size": 4.2,
       "female-headed-households": 40151,
       "female-headed-households-pct": 16.3
     }
@@ -241,7 +241,7 @@
       "urban": 3454,
       "rural": 178468,
       "estate": 13931,
-      "average-household-size": null,
+      "average-household-size": 4.1,
       "female-headed-households": 41540,
       "female-headed-households-pct": 21.2
     }
