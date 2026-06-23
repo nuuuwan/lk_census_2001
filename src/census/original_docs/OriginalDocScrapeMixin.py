@@ -2,9 +2,8 @@ import re
 
 from bs4 import BeautifulSoup
 
-from census.original_docs.OriginalDocScrapeConstantsMixin import (
-    OriginalDocScrapeConstantsMixin,
-)
+from census.original_docs.OriginalDocScrapeConstantsMixin import \
+    OriginalDocScrapeConstantsMixin
 from utils_future import WWW, Log
 
 log = Log("OriginalDocScrapeMixin")
@@ -67,7 +66,9 @@ class OriginalDocScrapeMixin(OriginalDocScrapeConstantsMixin):
         if i_frame:
             src = i_frame.get("src", "").strip()
             if src.endswith(".pdf"):
-                url_pdf = src if src.startswith("http") else cls.URL_BASE + src
+                url_pdf = (
+                    src if src.startswith("http") else cls.URL_BASE + src
+                )
                 return url_pdf
             else:
                 raise ValueError("Iframe src is not a PDF")
