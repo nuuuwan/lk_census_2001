@@ -1,11 +1,51 @@
 {
-  "fertility-rates": ["district", "total", "urban", "rural", "estate"],
-  "housing-density": [
+  "age-structure": [
+    "age-in-years",
+    "total",
+    "male",
+    "female"
+  ],
+  "agricultural-occupations": [
     "district",
-    "occupied-housing-units",
-    "permanent",
-    "semi-permanent",
-    "improvised"
+    "total-agricultural-and-fishery-workers",
+    "market-gardeners-and-crop-growers",
+    "market-oriented-animal-producers",
+    "market-oriented-crop-and-animal-producers",
+    "forestry-and-related-workers",
+    "fishery-workers-hunters-and-trappers",
+    "subsistence-agricultural-and-fishery-workers",
+    "subsistence-dairy-livestock-and-related-workers",
+    "activities-not-elsewhere-classified"
+  ],
+  "construction-materials": [
+    "district",
+    "total-occupied-housing-units",
+    "permanent-outer-walls-no",
+    "permanent-outer-walls-pct",
+    "permanent-floor-no",
+    "permanent-floor-pct",
+    "permanent-roof-no",
+    "permanent-roof-pct"
+  ],
+  "cooking-fuel": [
+    "district",
+    "total-housing-units",
+    "firewood-no",
+    "firewood-pct",
+    "lp-gas-no",
+    "lp-gas-pct",
+    "kerosene-no",
+    "kerosene-pct"
+  ],
+  "dependency-ratios": [
+    "district",
+    "total-population",
+    "aged-0-14",
+    "aged-15-59",
+    "aged-60-and-over",
+    "total-dependency-ratio",
+    "young-dependency-ratio",
+    "old-dependency-ratio"
   ],
   "disability-demographics": [
     "age-group-and-sex",
@@ -35,250 +75,25 @@
     "mental-disability-no",
     "mental-disability-rate"
   ],
-  "labor-participation": [
-    "district",
-    "aged-10-years-and-over",
-    "total",
-    "male",
-    "female"
-  ],
-  "literacy-rates": [
-    "district",
-    "total",
-    "male",
-    "na",
-    "female",
-    "urban",
-    "rural",
-    "estate"
-  ],
-  "employment-sectors": [
-    "district",
-    "total-employed-population-aged-10-years-and-over",
-    "agricultural-and-fishery-workers-including-unskilled-labourers-no",
-    "na",
-    "agricultural-and-fishery-workers-including-unskilled-labourers",
-    "non-agricultural-and-fishery-workers-no",
-    "na-2",
-    "non-agricultural-and-fishery-workers"
-  ],
-  "electricity-access": [
-    "district",
-    "total-housing-units",
-    "total-electricity-no",
-    "total-electricity-pct",
-    "urban-electricity-no",
-    "urban-electricity-pct",
-    "rural-electricity-no",
-    "rural-electricity-pct",
-    "estate-electricity-no",
-    "estate-electricity-pct"
-  ],
-  "cooking-fuel": [
-    "district",
-    "total-housing-units",
-    "firewood-no",
-    "firewood-pct",
-    "lp-gas-no",
-    "lp-gas-pct",
-    "kerosene-no",
-    "kerosene-pct"
-  ],
-  "water-access": [
-    "district",
-    "total-housing-units",
-    "pipe-borne-water-no",
-    "pipe-borne-water-pct",
-    "safe-water-no",
-    "safe-water-pct"
-  ],
-  "sanitation-access": [
-    "district",
-    "total-housing-units",
-    "using-toilets-no",
-    "using-toilets-pct",
-    "exclusive-hygienic-toilets-no",
-    "exclusive-hygienic-toilets-pct",
-    "not-using-toilet-no",
-    "not-using-toilet-pct"
-  ],
-  "informal-housing": [
-    "district",
-    "total-housing-units",
-    "huts-and-shanties-no",
-    "huts-and-shanties-pct"
-  ],
-  "construction-materials": [
-    "district",
-    "total-occupied-housing-units",
-    "permanent-outer-walls-no",
-    "permanent-outer-walls-pct",
-    "permanent-floor-no",
-    "permanent-floor-pct",
-    "permanent-roof-no",
-    "permanent-roof-pct"
-  ],
-  "housing-types": [
-    "district",
-    "total-occupied-housing-units",
-    "permanent-no",
-    "permanent",
-    "semi-permanent-no",
-    "semi-permanent",
-    "improvised-no",
-    "improvised"
-  ],
-  "religious-composition": [
-    "district",
-    "total-population-no",
-    "total-population-pct",
-    "buddhist-no",
-    "buddhist",
-    "hindu-no",
-    "hindu",
-    "islam-no",
-    "islam",
-    "roman-catholic-no",
-    "roman-catholic",
-    "other-christian-no",
-    "other-christian",
-    "other-no",
-    "other"
-  ],
-  "sectoral-distribution": [
+  "district-age-distribution": [
     "district",
     "total-population",
-    "population-in-urban-sector-no",
-    "population-in-urban-sector",
-    "population-in-rural-sector-no",
-    "population-in-rural-sector",
-    "population-in-estate-sector-no",
-    "population-in-estate-sector"
-  ],
-  "household-structure": [
-    "district",
-    "total-households",
-    "urban-households",
-    "rural-households",
-    "estate-households",
-    "average-household-size",
-    "female-headed-households-no",
-    "female-headed-households-pct"
-  ],
-  "housing-units": [
-    "district",
-    "total-occupied-housing-units",
-    "urban",
-    "rural",
-    "estate"
-  ],
-  "school-enrollment": [
-    "district",
-    "na",
-    "total",
-    "urban",
-    "na-2",
-    "rural",
-    "estate"
-  ],
-  "industry-employment": [
-    "district",
-    "total-employed-population",
-    "agriculture-and-forestry",
-    "fishing",
-    "mining-and-quarrying",
-    "manufacturing",
-    "electricity-gas-and-water-supply",
-    "construction",
-    "wholesale-and-retail-trade",
-    "hotels-and-restaurants",
-    "transport-storage-and-communication",
-    "financial-intermediation",
-    "real-estate-renting-and-business-activities",
-    "public-administration-and-defence-compulsory-social-security",
-    "education",
-    "health-and-social-work",
-    "other-community-social-and-personal-service-activities",
-    "private-households-with-employed-persons",
-    "activities-of-extraterritorial-organisations",
-    "not-classified",
-    "not-stated"
-  ],
-  "occupational-distribution": [
-    "district",
-    "aged-10-years-and-over",
-    "officials-and-managers",
-    "professionals",
-    "technicians-and-associate-professionals",
-    "clerks",
-    "shop-and-market-sales-workers",
-    "agricultural-and-fishery-workers",
-    "craft-and-related-workers",
-    "plant-and-machine-operators-and-assemblers",
-    "elementary-occupations",
-    "private-business-owners",
-    "occupations-unidentifiable-or-inadequate"
-  ],
-  "employment-status": [
-    "district",
-    "total-employed-population-aged-10-years-and-over",
-    "government-employees",
-    "semi-government-employees",
-    "private-sector-employees-and-employers",
-    "own-account-workers",
-    "unpaid-family-workers"
-  ],
-  "agricultural-occupations": [
-    "district",
-    "total-agricultural-and-fishery-workers",
-    "market-gardeners-and-crop-growers",
-    "market-oriented-animal-producers",
-    "market-oriented-crop-and-animal-producers",
-    "forestry-and-related-workers",
-    "fishery-workers-hunters-and-trappers",
-    "subsistence-agricultural-and-fishery-workers",
-    "subsistence-dairy-livestock-and-related-workers",
-    "activities-not-elsewhere-classified"
-  ],
-  "non-agricultural-employment": [
-    "district",
-    "aged-10-years-and-over",
-    "technicians-and-clerks",
-    "private-business-owners",
-    "workers",
-    "occupations-unidentifiable-or-inadequate"
-  ],
-  "housing-tenure": [
-    "district",
-    "total-households-in-occupied-housing-units",
-    "owned-by-member-of-household-no",
-    "owned-by-member-of-household-pct",
-    "rent-free-no",
-    "rent-free-pct",
-    "rent-lease-no",
-    "rent-lease-pct",
-    "encroached-no",
-    "encroached-pct"
-  ],
-  "inactive-population": [
-    "district",
-    "aged-10-years-and-over",
-    "students",
-    "unable-to-work",
-    "pension-recipients-and-pensioners",
-    "household-work",
-    "others"
-  ],
-  "linguistic-capacity": [
-    "district",
-    "sinhalese-population-sinhala-language",
-    "sinhalese-population-english-language",
-    "sri-lanka-tamil-population-tamil-language",
-    "sri-lanka-tamil-population-english-language",
-    "sri-lanka-tamil-population-sinhala-language",
-    "indian-tamil-population-english-language",
-    "indian-tamil-population-sinhala-language",
-    "sri-lanka-moor-population-english-language"
+    "0-4",
+    "5-9",
+    "10-14",
+    "15-19",
+    "20-24",
+    "25-29",
+    "30-34",
+    "35-39",
+    "40-44",
+    "45-49",
+    "50-54",
+    "55-59",
+    "60-64",
+    "65-69",
+    "70-74",
+    "75-and-over"
   ],
   "educational-attainment": [
     "district",
@@ -297,13 +112,58 @@
     "attending-university",
     "attending-vocational-or-technical-institution"
   ],
-  "school-attendance": [
+  "electricity-access": [
     "district",
-    "aged-6-9-years",
-    "aged-10-14-years",
-    "aged-15-19-years",
-    "aged-6-14-years",
-    "aged-6-19-years"
+    "total-housing-units",
+    "total-electricity-no",
+    "total-electricity-pct",
+    "urban-electricity-no",
+    "urban-electricity-pct",
+    "rural-electricity-no",
+    "rural-electricity-pct",
+    "estate-electricity-no",
+    "estate-electricity-pct"
+  ],
+  "employment-sectors": [
+    "district",
+    "total-employed-population-aged-10-years-and-over",
+    "agricultural-and-fishery-workers-including-unskilled-labourers-no",
+    "na",
+    "agricultural-and-fishery-workers-including-unskilled-labourers",
+    "non-agricultural-and-fishery-workers-no",
+    "na-2",
+    "non-agricultural-and-fishery-workers"
+  ],
+  "employment-status": [
+    "district",
+    "total-employed-population-aged-10-years-and-over",
+    "government-employees",
+    "semi-government-employees",
+    "private-sector-employees-and-employers",
+    "own-account-workers",
+    "unpaid-family-workers"
+  ],
+  "ethnicity": [
+    "district",
+    "total-population",
+    "total-population-pct",
+    "sinhalese-no",
+    "sinhalese-pct",
+    "sri-lanka-tamil-no",
+    "sri-lanka-tamil-pct",
+    "indian-tamil-no",
+    "indian-tamil-pct",
+    "sri-lanka-moor-no",
+    "sri-lanka-moor-pct",
+    "burgher-no",
+    "burgher-pct"
+  ],
+  "fertility-rates": [
+    "district",
+    "total",
+    "urban",
+    "rural",
+    "estate"
   ],
   "hand-disability-causes": [
     "district",
@@ -353,6 +213,97 @@
     "not-specified-no",
     "not-specified-pct"
   ],
+  "household-structure": [
+    "district",
+    "total-households",
+    "urban-households",
+    "rural-households",
+    "estate-households",
+    "average-household-size",
+    "female-headed-households-no",
+    "female-headed-households-pct"
+  ],
+  "housing-density": [
+    "district",
+    "occupied-housing-units",
+    "permanent",
+    "semi-permanent",
+    "improvised"
+  ],
+  "housing-tenure": [
+    "district",
+    "total-households-in-occupied-housing-units",
+    "owned-by-member-of-household-no",
+    "owned-by-member-of-household-pct",
+    "rent-free-no",
+    "rent-free-pct",
+    "rent-lease-no",
+    "rent-lease-pct",
+    "encroached-no",
+    "encroached-pct"
+  ],
+  "housing-types": [
+    "district",
+    "total-occupied-housing-units",
+    "permanent-no",
+    "permanent",
+    "semi-permanent-no",
+    "semi-permanent",
+    "improvised-no",
+    "improvised"
+  ],
+  "housing-units": [
+    "district",
+    "total-occupied-housing-units",
+    "urban",
+    "rural",
+    "estate"
+  ],
+  "inactive-population": [
+    "district",
+    "aged-10-years-and-over",
+    "students",
+    "unable-to-work",
+    "pension-recipients-and-pensioners",
+    "household-work",
+    "others"
+  ],
+  "industry-employment": [
+    "district",
+    "total-employed-population",
+    "agriculture-and-forestry",
+    "fishing",
+    "mining-and-quarrying",
+    "manufacturing",
+    "electricity-gas-and-water-supply",
+    "construction",
+    "wholesale-and-retail-trade",
+    "hotels-and-restaurants",
+    "transport-storage-and-communication",
+    "financial-intermediation",
+    "real-estate-renting-and-business-activities",
+    "public-administration-and-defence-compulsory-social-security",
+    "education",
+    "health-and-social-work",
+    "other-community-social-and-personal-service-activities",
+    "private-households-with-employed-persons",
+    "activities-of-extraterritorial-organisations",
+    "not-classified",
+    "not-stated"
+  ],
+  "informal-housing": [
+    "district",
+    "total-housing-units",
+    "huts-and-shanties-no",
+    "huts-and-shanties-pct"
+  ],
+  "labor-participation": [
+    "district",
+    "aged-10-years-and-over",
+    "total",
+    "male",
+    "female"
+  ],
   "leg-disability-causes": [
     "district",
     "total-no",
@@ -379,29 +330,42 @@
     "na-3",
     "not-specified-pct"
   ],
-  "vision-disability-causes": [
+  "linguistic-capacity": [
     "district",
-    "sex",
-    "total-no",
-    "total-pct",
-    "congenital-no",
-    "congenital-pct",
-    "illness-no",
-    "illness-pct",
-    "road-traffic-accident-no",
-    "road-traffic-accident-pct",
-    "occupational-accident-no",
-    "occupational-accident-pct",
-    "riot-and-violence-no",
-    "riot-and-violence-pct",
-    "other-accident-no",
-    "other-accident-pct",
-    "war-terrorism-no",
-    "war-terrorism-pct",
-    "other-no",
-    "other-pct",
-    "not-specified-no",
-    "not-specified-pct"
+    "sinhalese-population-sinhala-language",
+    "sinhalese-population-english-language",
+    "sri-lanka-tamil-population-tamil-language",
+    "sri-lanka-tamil-population-english-language",
+    "sri-lanka-tamil-population-sinhala-language",
+    "indian-tamil-population-english-language",
+    "indian-tamil-population-sinhala-language",
+    "sri-lanka-moor-population-english-language"
+  ],
+  "literacy-rates": [
+    "district",
+    "total",
+    "male",
+    "na",
+    "female",
+    "urban",
+    "rural",
+    "estate"
+  ],
+  "marital-status": [
+    "district",
+    "total-population",
+    "never-married-no",
+    "never-married-pct",
+    "married-total-no",
+    "married-total-pct",
+    "married-registered-no",
+    "married-registered-pct",
+    "married-customary-no",
+    "married-customary-pct",
+    "widowed-no",
+    "widowed-pct",
+    "divorced-no",
+    "divorced-pct"
   ],
   "mental-disability-causes": [
     "district",
@@ -427,26 +391,39 @@
     "not-specified-no",
     "not-specified-pct"
   ],
-  "age-structure": ["age-in-years", "total", "male", "female"],
-  "district-age-distribution": [
+  "migration-patterns": [
     "district",
     "total-population",
-    "0-4",
-    "5-9",
-    "10-14",
-    "15-19",
-    "20-24",
-    "25-29",
-    "30-34",
-    "35-39",
-    "40-44",
-    "45-49",
-    "50-54",
-    "55-59",
-    "60-64",
-    "65-69",
-    "70-74",
-    "75-and-over"
+    "resident-since-birth",
+    "total-migrants",
+    "migrants-less-than-1-year",
+    "migrants-1-4-years",
+    "migrants-5-9-years",
+    "migrants-10-years-and-more",
+    "migrants-not-stated"
+  ],
+  "non-agricultural-employment": [
+    "district",
+    "aged-10-years-and-over",
+    "technicians-and-clerks",
+    "private-business-owners",
+    "workers",
+    "occupations-unidentifiable-or-inadequate"
+  ],
+  "occupational-distribution": [
+    "district",
+    "aged-10-years-and-over",
+    "officials-and-managers",
+    "professionals",
+    "technicians-and-associate-professionals",
+    "clerks",
+    "shop-and-market-sales-workers",
+    "agricultural-and-fishery-workers",
+    "craft-and-related-workers",
+    "plant-and-machine-operators-and-assemblers",
+    "elementary-occupations",
+    "private-business-owners",
+    "occupations-unidentifiable-or-inadequate"
   ],
   "population-density": [
     "district",
@@ -464,56 +441,90 @@
     "intercensal-increase-pct",
     "annual-growth-rate"
   ],
-  "migration-patterns": [
+  "religious-composition": [
     "district",
-    "total-population",
-    "resident-since-birth",
-    "total-migrants",
-    "migrants-less-than-1-year",
-    "migrants-1-4-years",
-    "migrants-5-9-years",
-    "migrants-10-years-and-more",
-    "migrants-not-stated"
-  ],
-  "dependency-ratios": [
-    "district",
-    "total-population",
-    "aged-0-14",
-    "aged-15-59",
-    "aged-60-and-over",
-    "total-dependency-ratio",
-    "young-dependency-ratio",
-    "old-dependency-ratio"
-  ],
-  "marital-status": [
-    "district",
-    "total-population",
-    "never-married-no",
-    "never-married-pct",
-    "married-total-no",
-    "married-total-pct",
-    "married-registered-no",
-    "married-registered-pct",
-    "married-customary-no",
-    "married-customary-pct",
-    "widowed-no",
-    "widowed-pct",
-    "divorced-no",
-    "divorced-pct"
-  ],
-  "ethnicity": [
-    "district",
-    "total-population",
+    "total-population-no",
     "total-population-pct",
-    "sinhalese-no",
-    "sinhalese-pct",
-    "sri-lanka-tamil-no",
-    "sri-lanka-tamil-pct",
-    "indian-tamil-no",
-    "indian-tamil-pct",
-    "sri-lanka-moor-no",
-    "sri-lanka-moor-pct",
-    "burgher-no",
-    "burgher-pct"
+    "buddhist-no",
+    "buddhist",
+    "hindu-no",
+    "hindu",
+    "islam-no",
+    "islam",
+    "roman-catholic-no",
+    "roman-catholic",
+    "other-christian-no",
+    "other-christian",
+    "other-no",
+    "other"
+  ],
+  "sanitation-access": [
+    "district",
+    "total-housing-units",
+    "using-toilets-no",
+    "using-toilets-pct",
+    "exclusive-hygienic-toilets-no",
+    "exclusive-hygienic-toilets-pct",
+    "not-using-toilet-no",
+    "not-using-toilet-pct"
+  ],
+  "school-attendance": [
+    "district",
+    "aged-6-9-years",
+    "aged-10-14-years",
+    "aged-15-19-years",
+    "aged-6-14-years",
+    "aged-6-19-years"
+  ],
+  "school-enrollment": [
+    "district",
+    "na",
+    "total",
+    "urban",
+    "na-2",
+    "rural",
+    "estate"
+  ],
+  "sectoral-distribution": [
+    "district",
+    "total-population",
+    "population-in-urban-sector-no",
+    "population-in-urban-sector",
+    "population-in-rural-sector-no",
+    "population-in-rural-sector",
+    "population-in-estate-sector-no",
+    "population-in-estate-sector"
+  ],
+  "vision-disability-causes": [
+    "district",
+    "sex",
+    "total-no",
+    "total-pct",
+    "congenital-no",
+    "congenital-pct",
+    "illness-no",
+    "illness-pct",
+    "road-traffic-accident-no",
+    "road-traffic-accident-pct",
+    "occupational-accident-no",
+    "occupational-accident-pct",
+    "riot-and-violence-no",
+    "riot-and-violence-pct",
+    "other-accident-no",
+    "other-accident-pct",
+    "war-terrorism-no",
+    "war-terrorism-pct",
+    "other-no",
+    "other-pct",
+    "not-specified-no",
+    "not-specified-pct"
+  ],
+  "water-access": [
+    "district",
+    "total-housing-units",
+    "pipe-borne-water-no",
+    "pipe-borne-water-pct",
+    "safe-water-no",
+    "safe-water-pct"
   ]
 }
