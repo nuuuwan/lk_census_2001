@@ -13,7 +13,7 @@ class OriginalDocScrapeMixin:
     )
 
     INDEX_URLS = [
-        "https://www.statistics.gov.lk" + "/Population/PopHouStat_Population",
+        # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Population",
         "https://www.statistics.gov.lk" + "/Population/PopHouStat_Housing",
         # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Disability",
     ]
@@ -64,7 +64,9 @@ class OriginalDocScrapeMixin:
         if i_frame:
             src = i_frame.get("src", "").strip()
             if src.endswith(".pdf"):
-                url_pdf = src if src.startswith("http") else cls.URL_BASE + src
+                url_pdf = (
+                    src if src.startswith("http") else cls.URL_BASE + src
+                )
                 return url_pdf
             else:
                 raise ValueError("Iframe src is not a PDF")
