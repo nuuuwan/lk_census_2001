@@ -6,7 +6,10 @@
       "population-aged-5-34-years": 1170059
     },
     "total": 1170059,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-12",
@@ -15,7 +18,10 @@
       "population-aged-5-34-years": 1087709
     },
     "total": 1087709,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-13",
@@ -24,7 +30,10 @@
       "population-aged-5-34-years": 535701
     },
     "total": 535701,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-21",
@@ -33,7 +42,10 @@
       "population-aged-5-34-years": 657483
     },
     "total": 657483,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-22",
@@ -42,7 +54,10 @@
       "population-aged-5-34-years": 230178
     },
     "total": 230178,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-23",
@@ -51,7 +66,10 @@
       "population-aged-5-34-years": 371123
     },
     "total": 371123,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-31",
@@ -60,7 +78,10 @@
       "population-aged-5-34-years": 502392
     },
     "total": 502392,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-32",
@@ -69,7 +90,10 @@
       "population-aged-5-34-years": 385708
     },
     "total": 385708,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-33",
@@ -78,7 +102,10 @@
       "population-aged-5-34-years": 278345
     },
     "total": 278345,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-52",
@@ -87,7 +114,10 @@
       "population-aged-5-34-years": 343530
     },
     "total": 343530,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-61",
@@ -96,7 +126,10 @@
       "population-aged-5-34-years": 741085
     },
     "total": 741085,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-62",
@@ -105,7 +138,10 @@
       "population-aged-5-34-years": 393135
     },
     "total": 393135,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-71",
@@ -114,7 +150,10 @@
       "population-aged-5-34-years": 415629
     },
     "total": 415629,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-72",
@@ -123,7 +162,10 @@
       "population-aged-5-34-years": 200116
     },
     "total": 200116,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-81",
@@ -132,7 +174,10 @@
       "population-aged-5-34-years": 416460
     },
     "total": 416460,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-82",
@@ -141,7 +186,10 @@
       "population-aged-5-34-years": 225977
     },
     "total": 225977,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-91",
@@ -150,7 +198,10 @@
       "population-aged-5-34-years": 539907
     },
     "total": 539907,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   },
   {
     "region_id": "LK-92",
@@ -159,6 +210,9 @@
       "population-aged-5-34-years": 383364
     },
     "total": 383364,
-    "total_from_source": null
+    "total_from_source": null,
+    "pct_values": {
+      "population-aged-5-34-years": 1.0
+    }
   }
 ]

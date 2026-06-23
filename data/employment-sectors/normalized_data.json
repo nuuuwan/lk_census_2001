@@ -7,7 +7,11 @@
       "non-agricultural-and-fishery-workers": 836672
     },
     "total": 855142,
-    "total_from_source": 855142
+    "total_from_source": 855142,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.0216,
+      "non-agricultural-and-fishery-workers": 0.9784
+    }
   },
   {
     "region_id": "LK-12",
@@ -17,7 +21,11 @@
       "non-agricultural-and-fishery-workers": 719044
     },
     "total": 756186,
-    "total_from_source": 756186
+    "total_from_source": 756186,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.0491,
+      "non-agricultural-and-fishery-workers": 0.9509
+    }
   },
   {
     "region_id": "LK-13",
@@ -27,7 +35,11 @@
       "non-agricultural-and-fishery-workers": 302088
     },
     "total": 356837,
-    "total_from_source": 356837
+    "total_from_source": 356837,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.1534,
+      "non-agricultural-and-fishery-workers": 0.8466
+    }
   },
   {
     "region_id": "LK-21",
@@ -37,7 +49,11 @@
       "non-agricultural-and-fishery-workers": 319048
     },
     "total": 407554,
-    "total_from_source": 407554
+    "total_from_source": 407554,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.2172,
+      "non-agricultural-and-fishery-workers": 0.7828
+    }
   },
   {
     "region_id": "LK-22",
@@ -47,7 +63,11 @@
       "non-agricultural-and-fishery-workers": 94468
     },
     "total": 156179,
-    "total_from_source": 156179
+    "total_from_source": 156179,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.3951,
+      "non-agricultural-and-fishery-workers": 0.6049
+    }
   },
   {
     "region_id": "LK-23",
@@ -57,7 +77,11 @@
       "non-agricultural-and-fishery-workers": 110363
     },
     "total": 281546,
-    "total_from_source": 281546
+    "total_from_source": 281546,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.608,
+      "non-agricultural-and-fishery-workers": 0.392
+    }
   },
   {
     "region_id": "LK-31",
@@ -67,7 +91,11 @@
       "non-agricultural-and-fishery-workers": 225115
     },
     "total": 318680,
-    "total_from_source": 318680
+    "total_from_source": 318680,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.2936,
+      "non-agricultural-and-fishery-workers": 0.7064
+    }
   },
   {
     "region_id": "LK-32",
@@ -77,7 +105,11 @@
       "non-agricultural-and-fishery-workers": 153726
     },
     "total": 242175,
-    "total_from_source": 242175
+    "total_from_source": 242175,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.3652,
+      "non-agricultural-and-fishery-workers": 0.6348
+    }
   },
   {
     "region_id": "LK-33",
@@ -87,7 +119,11 @@
       "non-agricultural-and-fishery-workers": 96828
     },
     "total": 164923,
-    "total_from_source": 164923
+    "total_from_source": 164923,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.4129,
+      "non-agricultural-and-fishery-workers": 0.5871
+    }
   },
   {
     "region_id": "LK-52",
@@ -97,7 +133,11 @@
       "non-agricultural-and-fishery-workers": 90817
     },
     "total": 162322,
-    "total_from_source": 162322
+    "total_from_source": 162322,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.4405,
+      "non-agricultural-and-fishery-workers": 0.5595
+    }
   },
   {
     "region_id": "LK-61",
@@ -107,7 +147,11 @@
       "non-agricultural-and-fishery-workers": 347917
     },
     "total": 514553,
-    "total_from_source": 514553
+    "total_from_source": 514553,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.3238,
+      "non-agricultural-and-fishery-workers": 0.6762
+    }
   },
   {
     "region_id": "LK-62",
@@ -117,7 +161,11 @@
       "non-agricultural-and-fishery-workers": 170628
     },
     "total": 229425,
-    "total_from_source": 229425
+    "total_from_source": 229425,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.2563,
+      "non-agricultural-and-fishery-workers": 0.7437
+    }
   },
   {
     "region_id": "LK-71",
@@ -127,7 +175,11 @@
       "non-agricultural-and-fishery-workers": 136268
     },
     "total": 285806,
-    "total_from_source": 285806
+    "total_from_source": 285806,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.5232,
+      "non-agricultural-and-fishery-workers": 0.4768
+    }
   },
   {
     "region_id": "LK-72",
@@ -137,7 +189,11 @@
       "non-agricultural-and-fishery-workers": 67309
     },
     "total": 137078,
-    "total_from_source": 137078
+    "total_from_source": 137078,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.509,
+      "non-agricultural-and-fishery-workers": 0.491
+    }
   },
   {
     "region_id": "LK-81",
@@ -147,7 +203,11 @@
       "non-agricultural-and-fishery-workers": 132064
     },
     "total": 294223,
-    "total_from_source": 294223
+    "total_from_source": 294223,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.5511,
+      "non-agricultural-and-fishery-workers": 0.4489
+    }
   },
   {
     "region_id": "LK-82",
@@ -157,7 +217,11 @@
       "non-agricultural-and-fishery-workers": 56614
     },
     "total": 144600,
-    "total_from_source": 144600
+    "total_from_source": 144600,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.6085,
+      "non-agricultural-and-fishery-workers": 0.3915
+    }
   },
   {
     "region_id": "LK-91",
@@ -167,7 +231,11 @@
       "non-agricultural-and-fishery-workers": 213031
     },
     "total": 375365,
-    "total_from_source": 375365
+    "total_from_source": 375365,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.4325,
+      "non-agricultural-and-fishery-workers": 0.5675
+    }
   },
   {
     "region_id": "LK-92",
@@ -177,6 +245,10 @@
       "non-agricultural-and-fishery-workers": 196609
     },
     "total": 258980,
-    "total_from_source": 258980
+    "total_from_source": 258980,
+    "pct_values": {
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 0.2408,
+      "non-agricultural-and-fishery-workers": 0.7592
+    }
   }
 ]

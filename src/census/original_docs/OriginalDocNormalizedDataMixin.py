@@ -21,19 +21,33 @@ class OriginalDocNormalizedDataMixin:
         if region_id == "LK":
             region_id = "LK-from-source"
 
-        values = {}
+        values_from_values = {}
+        pct_values_from_pct_values = {}
         total_from_source = None
         for k, v in row["values"].items():
             if k in ["region_id", "region_name"]:
                 continue
-            elif "pct" in k:
-                continue
+            elif "-pct" in k:
+                pct_values_from_pct_values[k] = v / 100.0
             elif "total" in k:
                 total_from_source = v
             else:
-                values[k] = v
+                values_from_values[k] = v
 
-        total = sum(values.values())
+        if values_from_values:
+            total = sum(values_from_values.values())
+            values = values_from_values
+        elif pct_values_from_pct_values and total_from_source:
+            values = {
+                k.replace("-pct", ""): int(round(v * total_from_source, 0))
+                for k, v in pct_values_from_pct_values.items()
+            }
+            total = total_from_source
+        else:
+            log.warning(
+                f"Could not normalize row for {region_id}: {row['values']}"
+            )
+            return None
 
         if total != total_from_source:
             log.warning(
@@ -41,12 +55,15 @@ class OriginalDocNormalizedDataMixin:
                 + f" {total} != {total_from_source}"
             )
 
+        pct_values = {k: round(v / total, 4) for k, v in values.items()}
+
         return dict(
             region_id=row["region_id"],
             region_name=row["region_name"],
             values=values,
             total=total,
             total_from_source=total_from_source,
+            pct_values=pct_values,
         )
 
     def build_normalized_by_region(self, data_list):

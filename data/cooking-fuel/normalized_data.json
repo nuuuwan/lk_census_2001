@@ -8,7 +8,12 @@
       "kerosene": 67194
     },
     "total": 472687,
-    "total_from_source": 493085
+    "total_from_source": 493085,
+    "pct_values": {
+      "firewood": 0.3537,
+      "lp-gas": 0.5042,
+      "kerosene": 0.1422
+    }
   },
   {
     "region_id": "LK-12",
@@ -19,7 +24,12 @@
       "kerosene": 29492
     },
     "total": 473800,
-    "total_from_source": 487184
+    "total_from_source": 487184,
+    "pct_values": {
+      "firewood": 0.687,
+      "lp-gas": 0.2508,
+      "kerosene": 0.0622
+    }
   },
   {
     "region_id": "LK-13",
@@ -30,7 +40,12 @@
       "kerosene": 3671
     },
     "total": 246275,
-    "total_from_source": 250939
+    "total_from_source": 250939,
+    "pct_values": {
+      "firewood": 0.8158,
+      "lp-gas": 0.1693,
+      "kerosene": 0.0149
+    }
   },
   {
     "region_id": "LK-21",
@@ -41,7 +56,12 @@
       "kerosene": 3954
     },
     "total": 293872,
-    "total_from_source": 299870
+    "total_from_source": 299870,
+    "pct_values": {
+      "firewood": 0.8457,
+      "lp-gas": 0.1409,
+      "kerosene": 0.0135
+    }
   },
   {
     "region_id": "LK-22",
@@ -52,7 +72,12 @@
       "kerosene": 631
     },
     "total": 109609,
-    "total_from_source": 110886
+    "total_from_source": 110886,
+    "pct_values": {
+      "firewood": 0.9313,
+      "lp-gas": 0.0629,
+      "kerosene": 0.0058
+    }
   },
   {
     "region_id": "LK-23",
@@ -63,7 +88,12 @@
       "kerosene": 3726
     },
     "total": 163726,
-    "total_from_source": 169540
+    "total_from_source": 169540,
+    "pct_values": {
+      "firewood": 0.9049,
+      "lp-gas": 0.0723,
+      "kerosene": 0.0228
+    }
   },
   {
     "region_id": "LK-31",
@@ -74,7 +104,12 @@
       "kerosene": 2002
     },
     "total": 229740,
-    "total_from_source": 233027
+    "total_from_source": 233027,
+    "pct_values": {
+      "firewood": 0.8748,
+      "lp-gas": 0.1164,
+      "kerosene": 0.0087
+    }
   },
   {
     "region_id": "LK-32",
@@ -85,7 +120,12 @@
       "kerosene": 1070
     },
     "total": 175516,
-    "total_from_source": 177613
+    "total_from_source": 177613,
+    "pct_values": {
+      "firewood": 0.9004,
+      "lp-gas": 0.0935,
+      "kerosene": 0.0061
+    }
   },
   {
     "region_id": "LK-33",
@@ -96,7 +136,12 @@
       "kerosene": 429
     },
     "total": 126628,
-    "total_from_source": 128008
+    "total_from_source": 128008,
+    "pct_values": {
+      "firewood": 0.9516,
+      "lp-gas": 0.045,
+      "kerosene": 0.0034
+    }
   },
   {
     "region_id": "LK-52",
@@ -107,7 +152,12 @@
       "kerosene": 2718
     },
     "total": 132139,
-    "total_from_source": 137741
+    "total_from_source": 137741,
+    "pct_values": {
+      "firewood": 0.8965,
+      "lp-gas": 0.0829,
+      "kerosene": 0.0206
+    }
   },
   {
     "region_id": "LK-61",
@@ -118,7 +168,12 @@
       "kerosene": 986
     },
     "total": 375971,
-    "total_from_source": 380213
+    "total_from_source": 380213,
+    "pct_values": {
+      "firewood": 0.9538,
+      "lp-gas": 0.0436,
+      "kerosene": 0.0026
+    }
   },
   {
     "region_id": "LK-62",
@@ -129,7 +184,12 @@
       "kerosene": 3459
     },
     "total": 173634,
-    "total_from_source": 176544
+    "total_from_source": 176544,
+    "pct_values": {
+      "firewood": 0.8991,
+      "lp-gas": 0.081,
+      "kerosene": 0.0199
+    }
   },
   {
     "region_id": "LK-71",
@@ -140,7 +200,12 @@
       "kerosene": 884
     },
     "total": 186838,
-    "total_from_source": 189699
+    "total_from_source": 189699,
+    "pct_values": {
+      "firewood": 0.9389,
+      "lp-gas": 0.0564,
+      "kerosene": 0.0047
+    }
   },
   {
     "region_id": "LK-72",
@@ -151,7 +216,12 @@
       "kerosene": 365
     },
     "total": 90087,
-    "total_from_source": 91718
+    "total_from_source": 91718,
+    "pct_values": {
+      "firewood": 0.9552,
+      "lp-gas": 0.0407,
+      "kerosene": 0.0041
+    }
   },
   {
     "region_id": "LK-81",
@@ -162,7 +232,12 @@
       "kerosene": 1248
     },
     "total": 185694,
-    "total_from_source": 189925
+    "total_from_source": 189925,
+    "pct_values": {
+      "firewood": 0.9287,
+      "lp-gas": 0.0646,
+      "kerosene": 0.0067
+    }
   },
   {
     "region_id": "LK-82",
@@ -173,7 +248,12 @@
       "kerosene": 254
     },
     "total": 94999,
-    "total_from_source": 96598
+    "total_from_source": 96598,
+    "pct_values": {
+      "firewood": 0.9708,
+      "lp-gas": 0.0266,
+      "kerosene": 0.0027
+    }
   },
   {
     "region_id": "LK-91",
@@ -184,7 +264,12 @@
       "kerosene": 1075
     },
     "total": 242161,
-    "total_from_source": 245743
+    "total_from_source": 245743,
+    "pct_values": {
+      "firewood": 0.9426,
+      "lp-gas": 0.0529,
+      "kerosene": 0.0044
+    }
   },
   {
     "region_id": "LK-92",
@@ -195,6 +280,11 @@
       "kerosene": 619
     },
     "total": 193204,
-    "total_from_source": 195853
+    "total_from_source": 195853,
+    "pct_values": {
+      "firewood": 0.9484,
+      "lp-gas": 0.0484,
+      "kerosene": 0.0032
+    }
   }
 ]

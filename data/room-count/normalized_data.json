@@ -8,7 +8,12 @@
       "improvised-average": 1.4
     },
     "total": 7.799999999999999,
-    "total_from_source": 3.9
+    "total_from_source": 3.9,
+    "pct_values": {
+      "permanent-average": 0.5256,
+      "semi-permanent-average": 0.2949,
+      "improvised-average": 0.1795
+    }
   },
   {
     "region_id": "LK-12",
@@ -19,7 +24,12 @@
       "improvised-average": 1.3
     },
     "total": 8.5,
-    "total_from_source": 3.9
+    "total_from_source": 3.9,
+    "pct_values": {
+      "permanent-average": 0.4941,
+      "semi-permanent-average": 0.3529,
+      "improvised-average": 0.1529
+    }
   },
   {
     "region_id": "LK-13",
@@ -30,7 +40,12 @@
       "improvised-average": 1.2
     },
     "total": 7.8999999999999995,
-    "total_from_source": 3.9
+    "total_from_source": 3.9,
+    "pct_values": {
+      "permanent-average": 0.5443,
+      "semi-permanent-average": 0.3038,
+      "improvised-average": 0.1519
+    }
   },
   {
     "region_id": "LK-21",
@@ -41,7 +56,12 @@
       "improvised-average": 1.3
     },
     "total": 8.9,
-    "total_from_source": 4.2
+    "total_from_source": 4.2,
+    "pct_values": {
+      "permanent-average": 0.5281,
+      "semi-permanent-average": 0.3258,
+      "improvised-average": 0.1461
+    }
   },
   {
     "region_id": "LK-22",
@@ -52,7 +72,12 @@
       "improvised-average": 1.4
     },
     "total": 9.5,
-    "total_from_source": 4.1
+    "total_from_source": 4.1,
+    "pct_values": {
+      "permanent-average": 0.5158,
+      "semi-permanent-average": 0.3368,
+      "improvised-average": 0.1474
+    }
   },
   {
     "region_id": "LK-23",
@@ -63,7 +88,12 @@
       "improvised-average": 1.7
     },
     "total": 8.3,
-    "total_from_source": 3.4
+    "total_from_source": 3.4,
+    "pct_values": {
+      "permanent-average": 0.4699,
+      "semi-permanent-average": 0.3253,
+      "improvised-average": 0.2048
+    }
   },
   {
     "region_id": "LK-31",
@@ -74,7 +104,12 @@
       "improvised-average": 1.3
     },
     "total": 8.3,
-    "total_from_source": 3.9
+    "total_from_source": 3.9,
+    "pct_values": {
+      "permanent-average": 0.5301,
+      "semi-permanent-average": 0.3133,
+      "improvised-average": 0.1566
+    }
   },
   {
     "region_id": "LK-32",
@@ -85,7 +120,12 @@
       "improvised-average": 1.4
     },
     "total": 8.799999999999999,
-    "total_from_source": 4.1
+    "total_from_source": 4.1,
+    "pct_values": {
+      "permanent-average": 0.5227,
+      "semi-permanent-average": 0.3182,
+      "improvised-average": 0.1591
+    }
   },
   {
     "region_id": "LK-33",
@@ -96,7 +136,12 @@
       "improvised-average": 1.3
     },
     "total": 8.7,
-    "total_from_source": 3.8
+    "total_from_source": 3.8,
+    "pct_values": {
+      "permanent-average": 0.5172,
+      "semi-permanent-average": 0.3333,
+      "improvised-average": 0.1494
+    }
   },
   {
     "region_id": "LK-52",
@@ -107,7 +152,12 @@
       "improvised-average": 1.2
     },
     "total": 7.6,
-    "total_from_source": 3.4
+    "total_from_source": 3.4,
+    "pct_values": {
+      "permanent-average": 0.5132,
+      "semi-permanent-average": 0.3289,
+      "improvised-average": 0.1579
+    }
   },
   {
     "region_id": "LK-61",
@@ -118,7 +168,12 @@
       "improvised-average": 1.6
     },
     "total": 9.600000000000001,
-    "total_from_source": 4.2
+    "total_from_source": 4.2,
+    "pct_values": {
+      "permanent-average": 0.5104,
+      "semi-permanent-average": 0.3229,
+      "improvised-average": 0.1667
+    }
   },
   {
     "region_id": "LK-62",
@@ -129,7 +184,12 @@
       "improvised-average": 1.6
     },
     "total": 8.2,
-    "total_from_source": 3.5
+    "total_from_source": 3.5,
+    "pct_values": {
+      "permanent-average": 0.5122,
+      "semi-permanent-average": 0.2927,
+      "improvised-average": 0.1951
+    }
   },
   {
     "region_id": "LK-71",
@@ -140,7 +200,12 @@
       "improvised-average": 1.4
     },
     "total": 8.9,
-    "total_from_source": 3.8
+    "total_from_source": 3.8,
+    "pct_values": {
+      "permanent-average": 0.5056,
+      "semi-permanent-average": 0.3371,
+      "improvised-average": 0.1573
+    }
   },
   {
     "region_id": "LK-72",
@@ -151,7 +216,12 @@
       "improvised-average": 1.2
     },
     "total": 8.4,
-    "total_from_source": 3.8
+    "total_from_source": 3.8,
+    "pct_values": {
+      "permanent-average": 0.5238,
+      "semi-permanent-average": 0.3333,
+      "improvised-average": 0.1429
+    }
   },
   {
     "region_id": "LK-81",
@@ -162,7 +232,12 @@
       "improvised-average": 1.3
     },
     "total": 9.0,
-    "total_from_source": 4.1
+    "total_from_source": 4.1,
+    "pct_values": {
+      "permanent-average": 0.5222,
+      "semi-permanent-average": 0.3333,
+      "improvised-average": 0.1444
+    }
   },
   {
     "region_id": "LK-82",
@@ -173,7 +248,12 @@
       "improvised-average": 1.5
     },
     "total": 9.0,
-    "total_from_source": 3.7
+    "total_from_source": 3.7,
+    "pct_values": {
+      "permanent-average": 0.5111,
+      "semi-permanent-average": 0.3222,
+      "improvised-average": 0.1667
+    }
   },
   {
     "region_id": "LK-91",
@@ -184,7 +264,12 @@
       "improvised-average": 1.4
     },
     "total": 8.2,
-    "total_from_source": 3.6
+    "total_from_source": 3.6,
+    "pct_values": {
+      "permanent-average": 0.5122,
+      "semi-permanent-average": 0.3171,
+      "improvised-average": 0.1707
+    }
   },
   {
     "region_id": "LK-92",
@@ -195,6 +280,11 @@
       "improvised-average": 1.5
     },
     "total": 9.0,
-    "total_from_source": 4.1
+    "total_from_source": 4.1,
+    "pct_values": {
+      "permanent-average": 0.5222,
+      "semi-permanent-average": 0.3111,
+      "improvised-average": 0.1667
+    }
   }
 ]

@@ -12,7 +12,16 @@
       "migrants-not-stated": 52566
     },
     "total": 4479392,
-    "total_from_source": 722579
+    "total_from_source": 722579,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.3387,
+      "migrants-less-than-1-year": 0.021,
+      "migrants-1-4-years": 0.036,
+      "migrants-5-9-years": 0.0243,
+      "migrants-10-years-and-more": 0.0683,
+      "migrants-not-stated": 0.0117
+    }
   },
   {
     "region_id": "LK-12",
@@ -27,7 +36,16 @@
       "migrants-not-stated": 36611
     },
     "total": 4120940,
-    "total_from_source": 612229
+    "total_from_source": 612229,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.3514,
+      "migrants-less-than-1-year": 0.0202,
+      "migrants-1-4-years": 0.0375,
+      "migrants-5-9-years": 0.0248,
+      "migrants-10-years-and-more": 0.0571,
+      "migrants-not-stated": 0.0089
+    }
   },
   {
     "region_id": "LK-13",
@@ -42,7 +60,16 @@
       "migrants-not-stated": 12809
     },
     "total": 2131270,
-    "total_from_source": 183907
+    "total_from_source": 183907,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4137,
+      "migrants-less-than-1-year": 0.0101,
+      "migrants-1-4-years": 0.0186,
+      "migrants-5-9-years": 0.0148,
+      "migrants-10-years-and-more": 0.0369,
+      "migrants-not-stated": 0.006
+    }
   },
   {
     "region_id": "LK-21",
@@ -57,7 +84,16 @@
       "migrants-not-stated": 12993
     },
     "total": 2552404,
-    "total_from_source": 197672
+    "total_from_source": 197672,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4226,
+      "migrants-less-than-1-year": 0.0085,
+      "migrants-1-4-years": 0.0162,
+      "migrants-5-9-years": 0.0118,
+      "migrants-10-years-and-more": 0.0358,
+      "migrants-not-stated": 0.0051
+    }
   },
   {
     "region_id": "LK-22",
@@ -72,7 +108,16 @@
       "migrants-not-stated": 6182
     },
     "total": 878062,
-    "total_from_source": 94631
+    "total_from_source": 94631,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.3922,
+      "migrants-less-than-1-year": 0.0096,
+      "migrants-1-4-years": 0.0174,
+      "migrants-5-9-years": 0.0143,
+      "migrants-10-years-and-more": 0.0594,
+      "migrants-not-stated": 0.007
+    }
   },
   {
     "region_id": "LK-23",
@@ -87,7 +132,16 @@
       "migrants-not-stated": 11387
     },
     "total": 1405378,
-    "total_from_source": 97526
+    "total_from_source": 97526,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4306,
+      "migrants-less-than-1-year": 0.0043,
+      "migrants-1-4-years": 0.01,
+      "migrants-5-9-years": 0.0082,
+      "migrants-10-years-and-more": 0.0388,
+      "migrants-not-stated": 0.0081
+    }
   },
   {
     "region_id": "LK-31",
@@ -102,7 +156,16 @@
       "migrants-not-stated": 8518
     },
     "total": 1979538,
-    "total_from_source": 104358
+    "total_from_source": 104358,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4473,
+      "migrants-less-than-1-year": 0.0068,
+      "migrants-1-4-years": 0.0108,
+      "migrants-5-9-years": 0.0077,
+      "migrants-10-years-and-more": 0.0232,
+      "migrants-not-stated": 0.0043
+    }
   },
   {
     "region_id": "LK-32",
@@ -117,7 +180,16 @@
       "migrants-not-stated": 7004
     },
     "total": 1521980,
-    "total_from_source": 82702
+    "total_from_source": 82702,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4457,
+      "migrants-less-than-1-year": 0.0062,
+      "migrants-1-4-years": 0.0112,
+      "migrants-5-9-years": 0.0084,
+      "migrants-10-years-and-more": 0.0239,
+      "migrants-not-stated": 0.0046
+    }
   },
   {
     "region_id": "LK-33",
@@ -132,7 +204,16 @@
       "migrants-not-stated": 5677
     },
     "total": 1051826,
-    "total_from_source": 77249
+    "total_from_source": 77249,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4266,
+      "migrants-less-than-1-year": 0.0065,
+      "migrants-1-4-years": 0.0118,
+      "migrants-5-9-years": 0.0091,
+      "migrants-10-years-and-more": 0.0407,
+      "migrants-not-stated": 0.0054
+    }
   },
   {
     "region_id": "LK-41",
@@ -147,7 +228,16 @@
       "migrants-not-stated": 152
     },
     "total": 3442,
-    "total_from_source": 1078
+    "total_from_source": 1078,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.1868,
+      "migrants-less-than-1-year": 0.077,
+      "migrants-1-4-years": 0.0953,
+      "migrants-5-9-years": 0.0665,
+      "migrants-10-years-and-more": 0.0302,
+      "migrants-not-stated": 0.0442
+    }
   },
   {
     "region_id": "LK-43",
@@ -162,7 +252,16 @@
       "migrants-not-stated": 44
     },
     "total": 960,
-    "total_from_source": 381
+    "total_from_source": 381,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.1031,
+      "migrants-less-than-1-year": 0.1323,
+      "migrants-1-4-years": 0.1302,
+      "migrants-5-9-years": 0.0542,
+      "migrants-10-years-and-more": 0.0344,
+      "migrants-not-stated": 0.0458
+    }
   },
   {
     "region_id": "LK-44",
@@ -177,7 +276,16 @@
       "migrants-not-stated": 82
     },
     "total": 1824,
-    "total_from_source": 734
+    "total_from_source": 734,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.0976,
+      "migrants-less-than-1-year": 0.0663,
+      "migrants-1-4-years": 0.1689,
+      "migrants-5-9-years": 0.0641,
+      "migrants-10-years-and-more": 0.0581,
+      "migrants-not-stated": 0.045
+    }
   },
   {
     "region_id": "LK-45",
@@ -192,7 +300,16 @@
       "migrants-not-stated": 10
     },
     "total": 212,
-    "total_from_source": 80
+    "total_from_source": 80,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.1226,
+      "migrants-less-than-1-year": 0.0613,
+      "migrants-1-4-years": 0.1085,
+      "migrants-5-9-years": 0.0943,
+      "migrants-10-years-and-more": 0.066,
+      "migrants-not-stated": 0.0472
+    }
   },
   {
     "region_id": "LK-42",
@@ -207,7 +324,16 @@
       "migrants-not-stated": 14
     },
     "total": 132,
-    "total_from_source": 46
+    "total_from_source": 46,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.1515,
+      "migrants-less-than-1-year": 0.0227,
+      "migrants-1-4-years": 0.0379,
+      "migrants-5-9-years": 0.0606,
+      "migrants-10-years-and-more": 0.1212,
+      "migrants-not-stated": 0.1061
+    }
   },
   {
     "region_id": "LK-51",
@@ -222,7 +348,16 @@
       "migrants-not-stated": 117
     },
     "total": 2990,
-    "total_from_source": 635
+    "total_from_source": 635,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.2876,
+      "migrants-less-than-1-year": 0.0709,
+      "migrants-1-4-years": 0.0334,
+      "migrants-5-9-years": 0.0234,
+      "migrants-10-years-and-more": 0.0455,
+      "migrants-not-stated": 0.0391
+    }
   },
   {
     "region_id": "LK-52",
@@ -237,7 +372,16 @@
       "migrants-not-stated": 6740
     },
     "total": 1185192,
-    "total_from_source": 103890
+    "total_from_source": 103890,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4123,
+      "migrants-less-than-1-year": 0.0056,
+      "migrants-1-4-years": 0.01,
+      "migrants-5-9-years": 0.0103,
+      "migrants-10-years-and-more": 0.0561,
+      "migrants-not-stated": 0.0057
+    }
   },
   {
     "region_id": "LK-53",
@@ -252,7 +396,16 @@
       "migrants-not-stated": 148
     },
     "total": 3124,
-    "total_from_source": 898
+    "total_from_source": 898,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.2125,
+      "migrants-less-than-1-year": 0.0439,
+      "migrants-1-4-years": 0.0733,
+      "migrants-5-9-years": 0.0352,
+      "migrants-10-years-and-more": 0.0877,
+      "migrants-not-stated": 0.0474
+    }
   },
   {
     "region_id": "LK-61",
@@ -267,7 +420,16 @@
       "migrants-not-stated": 12110
     },
     "total": 2916770,
-    "total_from_source": 191564
+    "total_from_source": 191564,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4343,
+      "migrants-less-than-1-year": 0.0061,
+      "migrants-1-4-years": 0.0124,
+      "migrants-5-9-years": 0.0096,
+      "migrants-10-years-and-more": 0.0335,
+      "migrants-not-stated": 0.0042
+    }
   },
   {
     "region_id": "LK-62",
@@ -282,7 +444,16 @@
       "migrants-not-stated": 11041
     },
     "total": 1418004,
-    "total_from_source": 155835
+    "total_from_source": 155835,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.3901,
+      "migrants-less-than-1-year": 0.009,
+      "migrants-1-4-years": 0.0158,
+      "migrants-5-9-years": 0.0127,
+      "migrants-10-years-and-more": 0.0646,
+      "migrants-not-stated": 0.0078
+    }
   },
   {
     "region_id": "LK-71",
@@ -297,7 +468,16 @@
       "migrants-not-stated": 11493
     },
     "total": 1485070,
-    "total_from_source": 178543
+    "total_from_source": 178543,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.3798,
+      "migrants-less-than-1-year": 0.0096,
+      "migrants-1-4-years": 0.0159,
+      "migrants-5-9-years": 0.0122,
+      "migrants-10-years-and-more": 0.0748,
+      "migrants-not-stated": 0.0077
+    }
   },
   {
     "region_id": "LK-72",
@@ -312,7 +492,16 @@
       "migrants-not-stated": 8284
     },
     "total": 717608,
-    "total_from_source": 139611
+    "total_from_source": 139611,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.3054,
+      "migrants-less-than-1-year": 0.0123,
+      "migrants-1-4-years": 0.0212,
+      "migrants-5-9-years": 0.0221,
+      "migrants-10-years-and-more": 0.1274,
+      "migrants-not-stated": 0.0115
+    }
   },
   {
     "region_id": "LK-81",
@@ -327,7 +516,16 @@
       "migrants-not-stated": 8470
     },
     "total": 1556844,
-    "total_from_source": 92007
+    "total_from_source": 92007,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4409,
+      "migrants-less-than-1-year": 0.0064,
+      "migrants-1-4-years": 0.0101,
+      "migrants-5-9-years": 0.0078,
+      "migrants-10-years-and-more": 0.0293,
+      "migrants-not-stated": 0.0054
+    }
   },
   {
     "region_id": "LK-82",
@@ -342,7 +540,16 @@
       "migrants-not-stated": 5637
     },
     "total": 793042,
-    "total_from_source": 100642
+    "total_from_source": 100642,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.3731,
+      "migrants-less-than-1-year": 0.0067,
+      "migrants-1-4-years": 0.0141,
+      "migrants-5-9-years": 0.014,
+      "migrants-10-years-and-more": 0.0849,
+      "migrants-not-stated": 0.0071
+    }
   },
   {
     "region_id": "LK-91",
@@ -357,7 +564,16 @@
       "migrants-not-stated": 9612
     },
     "total": 2032442,
-    "total_from_source": 126276
+    "total_from_source": 126276,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4379,
+      "migrants-less-than-1-year": 0.005,
+      "migrants-1-4-years": 0.0094,
+      "migrants-5-9-years": 0.0073,
+      "migrants-10-years-and-more": 0.0358,
+      "migrants-not-stated": 0.0047
+    }
   },
   {
     "region_id": "LK-92",
@@ -372,6 +588,15 @@
       "migrants-not-stated": 14127
     },
     "total": 1568742,
-    "total_from_source": 106898
+    "total_from_source": 106898,
+    "pct_values": {
+      "usual-resident": 0.5,
+      "resident-since-birth": 0.4319,
+      "migrants-less-than-1-year": 0.0056,
+      "migrants-1-4-years": 0.0118,
+      "migrants-5-9-years": 0.0103,
+      "migrants-10-years-and-more": 0.0314,
+      "migrants-not-stated": 0.009
+    }
   }
 ]

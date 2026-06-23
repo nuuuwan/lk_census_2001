@@ -8,7 +8,12 @@
       "population-in-estate-sector": 7314
     },
     "total": 2251274,
-    "total_from_source": 2251274
+    "total_from_source": 2251274,
+    "pct_values": {
+      "population-in-urban-sector": 0.5462,
+      "population-in-rural-sector": 0.4506,
+      "population-in-estate-sector": 0.0032
+    }
   },
   {
     "region_id": "LK-12",
@@ -19,7 +24,12 @@
       "population-in-estate-sector": 723
     },
     "total": 2063684,
-    "total_from_source": 2063684
+    "total_from_source": 2063684,
+    "pct_values": {
+      "population-in-urban-sector": 0.1458,
+      "population-in-rural-sector": 0.8538,
+      "population-in-estate-sector": 0.0004
+    }
   },
   {
     "region_id": "LK-13",
@@ -30,7 +40,12 @@
       "population-in-estate-sector": 37574
     },
     "total": 1066239,
-    "total_from_source": 1066239
+    "total_from_source": 1066239,
+    "pct_values": {
+      "population-in-urban-sector": 0.1062,
+      "population-in-rural-sector": 0.8586,
+      "population-in-estate-sector": 0.0352
+    }
   },
   {
     "region_id": "LK-21",
@@ -41,7 +56,12 @@
       "population-in-estate-sector": 92869
     },
     "total": 1279028,
-    "total_from_source": 1279028
+    "total_from_source": 1279028,
+    "pct_values": {
+      "population-in-urban-sector": 0.122,
+      "population-in-rural-sector": 0.8054,
+      "population-in-estate-sector": 0.0726
+    }
   },
   {
     "region_id": "LK-22",
@@ -52,7 +72,12 @@
       "population-in-estate-sector": 21757
     },
     "total": 441328,
-    "total_from_source": 441328
+    "total_from_source": 441328,
+    "pct_values": {
+      "population-in-urban-sector": 0.0818,
+      "population-in-rural-sector": 0.8689,
+      "population-in-estate-sector": 0.0493
+    }
   },
   {
     "region_id": "LK-23",
@@ -63,7 +88,12 @@
       "population-in-estate-sector": 376878
     },
     "total": 703610,
-    "total_from_source": 703610
+    "total_from_source": 703610,
+    "pct_values": {
+      "population-in-urban-sector": 0.0612,
+      "population-in-rural-sector": 0.4031,
+      "population-in-estate-sector": 0.5356
+    }
   },
   {
     "region_id": "LK-31",
@@ -74,7 +104,12 @@
       "population-in-estate-sector": 17257
     },
     "total": 990487,
-    "total_from_source": 990487
+    "total_from_source": 990487,
+    "pct_values": {
+      "population-in-urban-sector": 0.111,
+      "population-in-rural-sector": 0.8716,
+      "population-in-estate-sector": 0.0174
+    }
   },
   {
     "region_id": "LK-32",
@@ -85,7 +120,12 @@
       "population-in-estate-sector": 20510
     },
     "total": 761370,
-    "total_from_source": 761370
+    "total_from_source": 761370,
+    "pct_values": {
+      "population-in-urban-sector": 0.0845,
+      "population-in-rural-sector": 0.8885,
+      "population-in-estate-sector": 0.0269
+    }
   },
   {
     "region_id": "LK-33",
@@ -96,7 +136,12 @@
       "population-in-estate-sector": 1433
     },
     "total": 526414,
-    "total_from_source": 526414
+    "total_from_source": 526414,
+    "pct_values": {
+      "population-in-urban-sector": 0.041,
+      "population-in-rural-sector": 0.9563,
+      "population-in-estate-sector": 0.0027
+    }
   },
   {
     "region_id": "LK-52",
@@ -107,7 +152,12 @@
       "population-in-estate-sector": 0
     },
     "total": 592997,
-    "total_from_source": 592997
+    "total_from_source": 592997,
+    "pct_values": {
+      "population-in-urban-sector": 0.1898,
+      "population-in-rural-sector": 0.8102,
+      "population-in-estate-sector": 0.0
+    }
   },
   {
     "region_id": "LK-61",
@@ -118,7 +168,12 @@
       "population-in-estate-sector": 6643
     },
     "total": 1460215,
-    "total_from_source": 1460215
+    "total_from_source": 1460215,
+    "pct_values": {
+      "population-in-urban-sector": 0.0238,
+      "population-in-rural-sector": 0.9717,
+      "population-in-estate-sector": 0.0045
+    }
   },
   {
     "region_id": "LK-62",
@@ -129,7 +184,12 @@
       "population-in-estate-sector": 2173
     },
     "total": 709677,
-    "total_from_source": 709677
+    "total_from_source": 709677,
+    "pct_values": {
+      "population-in-urban-sector": 0.092,
+      "population-in-rural-sector": 0.9049,
+      "population-in-estate-sector": 0.0031
+    }
   },
   {
     "region_id": "LK-71",
@@ -140,7 +200,12 @@
       "population-in-estate-sector": 969
     },
     "total": 745693,
-    "total_from_source": 745693
+    "total_from_source": 745693,
+    "pct_values": {
+      "population-in-urban-sector": 0.0713,
+      "population-in-rural-sector": 0.9274,
+      "population-in-estate-sector": 0.0013
+    }
   },
   {
     "region_id": "LK-72",
@@ -151,7 +216,12 @@
       "population-in-estate-sector": 305
     },
     "total": 358984,
-    "total_from_source": 358984
+    "total_from_source": 358984,
+    "pct_values": {
+      "population-in-urban-sector": 0.0,
+      "population-in-rural-sector": 0.9992,
+      "population-in-estate-sector": 0.0008
+    }
   },
   {
     "region_id": "LK-81",
@@ -162,7 +232,12 @@
       "population-in-estate-sector": 161269
     },
     "total": 779983,
-    "total_from_source": 779983
+    "total_from_source": 779983,
+    "pct_values": {
+      "population-in-urban-sector": 0.0661,
+      "population-in-rural-sector": 0.7272,
+      "population-in-estate-sector": 0.2068
+    }
   },
   {
     "region_id": "LK-82",
@@ -173,7 +248,12 @@
       "population-in-estate-sector": 9149
     },
     "total": 397375,
-    "total_from_source": 397375
+    "total_from_source": 397375,
+    "pct_values": {
+      "population-in-urban-sector": 0.0,
+      "population-in-rural-sector": 0.977,
+      "population-in-estate-sector": 0.023
+    }
   },
   {
     "region_id": "LK-91",
@@ -184,7 +264,12 @@
       "population-in-estate-sector": 102384
     },
     "total": 1015807,
-    "total_from_source": 1015807
+    "total_from_source": 1015807,
+    "pct_values": {
+      "population-in-urban-sector": 0.0573,
+      "population-in-rural-sector": 0.8419,
+      "population-in-estate-sector": 0.1008
+    }
   },
   {
     "region_id": "LK-92",
@@ -195,6 +280,11 @@
       "population-in-estate-sector": 55471
     },
     "total": 785524,
-    "total_from_source": 785524
+    "total_from_source": 785524,
+    "pct_values": {
+      "population-in-urban-sector": 0.0218,
+      "population-in-rural-sector": 0.9076,
+      "population-in-estate-sector": 0.0706
+    }
   }
 ]

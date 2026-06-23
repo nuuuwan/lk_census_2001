@@ -9,7 +9,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.3
     },
     "total": 97.8,
-    "total_from_source": 855142
+    "total_from_source": 855142,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.316,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2526,
+      "production-and-related-workers-rate": 0.316,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1155
+    }
   },
   {
     "region_id": "LK-12",
@@ -21,7 +27,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 10.5
     },
     "total": 95.1,
-    "total_from_source": 756186
+    "total_from_source": 756186,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2397,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2103,
+      "production-and-related-workers-rate": 0.4395,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1104
+    }
   },
   {
     "region_id": "LK-13",
@@ -33,7 +45,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12.0
     },
     "total": 84.7,
-    "total_from_source": 356837
+    "total_from_source": 356837,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2515,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.242,
+      "production-and-related-workers-rate": 0.3648,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1417
+    }
   },
   {
     "region_id": "LK-21",
@@ -45,7 +63,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12.1
     },
     "total": 78.3,
-    "total_from_source": 407554
+    "total_from_source": 407554,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2656,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2822,
+      "production-and-related-workers-rate": 0.2976,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1545
+    }
   },
   {
     "region_id": "LK-22",
@@ -57,7 +81,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.7
     },
     "total": 60.5,
-    "total_from_source": 156179
+    "total_from_source": 156179,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.238,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2694,
+      "production-and-related-workers-rate": 0.2992,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1934
+    }
   },
   {
     "region_id": "LK-23",
@@ -69,7 +99,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8.4
     },
     "total": 39.2,
-    "total_from_source": 281546
+    "total_from_source": 281546,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2219,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2985,
+      "production-and-related-workers-rate": 0.2653,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.2143
+    }
   },
   {
     "region_id": "LK-31",
@@ -81,7 +117,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 12.1
     },
     "total": 70.6,
-    "total_from_source": 318680
+    "total_from_source": 318680,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.262,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2181,
+      "production-and-related-workers-rate": 0.3484,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1714
+    }
   },
   {
     "region_id": "LK-32",
@@ -93,7 +135,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8.3
     },
     "total": 63.6,
-    "total_from_source": 242175
+    "total_from_source": 242175,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2594,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2421,
+      "production-and-related-workers-rate": 0.3679,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1305
+    }
   },
   {
     "region_id": "LK-33",
@@ -105,7 +153,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 9.0
     },
     "total": 58.7,
-    "total_from_source": 164923
+    "total_from_source": 164923,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.247,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2164,
+      "production-and-related-workers-rate": 0.3833,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1533
+    }
   },
   {
     "region_id": "LK-52",
@@ -117,7 +171,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 8.3
     },
     "total": 55.9,
-    "total_from_source": 162322
+    "total_from_source": 162322,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2415,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.3435,
+      "production-and-related-workers-rate": 0.2665,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1485
+    }
   },
   {
     "region_id": "LK-61",
@@ -129,7 +189,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.5
     },
     "total": 67.6,
-    "total_from_source": 514553
+    "total_from_source": 514553,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2263,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2411,
+      "production-and-related-workers-rate": 0.3624,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1701
+    }
   },
   {
     "region_id": "LK-62",
@@ -141,7 +207,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 13.1
     },
     "total": 74.4,
-    "total_from_source": 229425
+    "total_from_source": 229425,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.1613,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2648,
+      "production-and-related-workers-rate": 0.3978,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1761
+    }
   },
   {
     "region_id": "LK-71",
@@ -153,7 +225,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 11.6
     },
     "total": 47.599999999999994,
-    "total_from_source": 285806
+    "total_from_source": 285806,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2332,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2773,
+      "production-and-related-workers-rate": 0.2458,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.2437
+    }
   },
   {
     "region_id": "LK-72",
@@ -165,7 +243,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 13.8
     },
     "total": 49.0,
-    "total_from_source": 137078
+    "total_from_source": 137078,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.1918,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2898,
+      "production-and-related-workers-rate": 0.2367,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.2816
+    }
   },
   {
     "region_id": "LK-81",
@@ -177,7 +261,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 9.5
     },
     "total": 44.8,
-    "total_from_source": 294223
+    "total_from_source": 294223,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2835,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2656,
+      "production-and-related-workers-rate": 0.2388,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.2121
+    }
   },
   {
     "region_id": "LK-82",
@@ -189,7 +279,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 7.5
     },
     "total": 39.1,
-    "total_from_source": 144600
+    "total_from_source": 144600,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2481,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2839,
+      "production-and-related-workers-rate": 0.2762,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1918
+    }
   },
   {
     "region_id": "LK-91",
@@ -201,7 +297,13 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 10.4
     },
     "total": 56.8,
-    "total_from_source": 375365
+    "total_from_source": 375365,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2236,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2113,
+      "production-and-related-workers-rate": 0.382,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1831
+    }
   },
   {
     "region_id": "LK-92",
@@ -213,6 +315,12 @@
       "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 14.1
     },
     "total": 75.9,
-    "total_from_source": 258980
+    "total_from_source": 258980,
+    "pct_values": {
+      "legislators-senior-officials-administrators-professionals-technicians-and-clerks-rate": 0.2095,
+      "service-workers-market-and-sales-workers-and-private-business-owners-rate": 0.2161,
+      "production-and-related-workers-rate": 0.3887,
+      "armed-forces-and-workers-not-identifiable-or-inadequate-rate": 0.1858
+    }
   }
 ]

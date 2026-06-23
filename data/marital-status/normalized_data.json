@@ -12,7 +12,16 @@
       "seperated-not-legally": 8974.0
     },
     "total": 2227899.0,
-    "total_from_source": 1053168
+    "total_from_source": 1053168,
+    "pct_values": {
+      "never-married": 0.4892,
+      "married-registered": 0.452,
+      "married-customary": 0.0207,
+      "widowed": 0.0316,
+      "divorced": 0.0016,
+      "legally-separated": 0.0009,
+      "seperated-not-legally": 0.004
+    }
   },
   {
     "region_id": "LK-12",
@@ -27,7 +36,16 @@
       "seperated-not-legally": 10199.0
     },
     "total": 2046538.0,
-    "total_from_source": 965569
+    "total_from_source": 965569,
+    "pct_values": {
+      "never-married": 0.4853,
+      "married-registered": 0.4491,
+      "married-customary": 0.0227,
+      "widowed": 0.0355,
+      "divorced": 0.0015,
+      "legally-separated": 0.0009,
+      "seperated-not-legally": 0.005
+    }
   },
   {
     "region_id": "LK-13",
@@ -42,7 +60,16 @@
       "seperated-not-legally": 4781.0
     },
     "total": 1049892.0,
-    "total_from_source": 504338
+    "total_from_source": 504338,
+    "pct_values": {
+      "never-married": 0.4789,
+      "married-registered": 0.4598,
+      "married-customary": 0.0206,
+      "widowed": 0.034,
+      "divorced": 0.0014,
+      "legally-separated": 0.0008,
+      "seperated-not-legally": 0.0046
+    }
   },
   {
     "region_id": "LK-21",
@@ -57,7 +84,16 @@
       "seperated-not-legally": 4462.0
     },
     "total": 1263678.0,
-    "total_from_source": 577870
+    "total_from_source": 577870,
+    "pct_values": {
+      "never-married": 0.5037,
+      "married-registered": 0.4335,
+      "married-customary": 0.0238,
+      "widowed": 0.0333,
+      "divorced": 0.0013,
+      "legally-separated": 0.0009,
+      "seperated-not-legally": 0.0035
+    }
   },
   {
     "region_id": "LK-22",
@@ -72,7 +108,16 @@
       "seperated-not-legally": 2145.0
     },
     "total": 437993.0,
-    "total_from_source": 205416
+    "total_from_source": 205416,
+    "pct_values": {
+      "never-married": 0.4866,
+      "married-registered": 0.4432,
+      "married-customary": 0.0258,
+      "widowed": 0.037,
+      "divorced": 0.0015,
+      "legally-separated": 0.001,
+      "seperated-not-legally": 0.0049
+    }
   },
   {
     "region_id": "LK-23",
@@ -87,7 +132,16 @@
       "seperated-not-legally": 1985.0
     },
     "total": 694669.0,
-    "total_from_source": 322197
+    "total_from_source": 322197,
+    "pct_values": {
+      "never-married": 0.5016,
+      "married-registered": 0.4178,
+      "married-customary": 0.046,
+      "widowed": 0.03,
+      "divorced": 0.001,
+      "legally-separated": 0.0007,
+      "seperated-not-legally": 0.0029
+    }
   },
   {
     "region_id": "LK-31",
@@ -102,7 +156,16 @@
       "seperated-not-legally": 4506.0
     },
     "total": 982642.0,
-    "total_from_source": 451845
+    "total_from_source": 451845,
+    "pct_values": {
+      "never-married": 0.5016,
+      "married-registered": 0.4418,
+      "married-customary": 0.018,
+      "widowed": 0.0322,
+      "divorced": 0.0011,
+      "legally-separated": 0.0007,
+      "seperated-not-legally": 0.0046
+    }
   },
   {
     "region_id": "LK-32",
@@ -117,7 +180,16 @@
       "seperated-not-legally": 3387.0
     },
     "total": 755450.0,
-    "total_from_source": 339535
+    "total_from_source": 339535,
+    "pct_values": {
+      "never-married": 0.5124,
+      "married-registered": 0.4323,
+      "married-customary": 0.0172,
+      "widowed": 0.0317,
+      "divorced": 0.0012,
+      "legally-separated": 0.0008,
+      "seperated-not-legally": 0.0045
+    }
   },
   {
     "region_id": "LK-33",
@@ -132,7 +204,16 @@
       "seperated-not-legally": 2675.0
     },
     "total": 521985.0,
-    "total_from_source": 234267
+    "total_from_source": 234267,
+    "pct_values": {
+      "never-married": 0.5147,
+      "married-registered": 0.4287,
+      "married-customary": 0.0201,
+      "widowed": 0.0293,
+      "divorced": 0.0012,
+      "legally-separated": 0.0009,
+      "seperated-not-legally": 0.0051
+    }
   },
   {
     "region_id": "LK-52",
@@ -147,7 +228,16 @@
       "seperated-not-legally": 2113.0
     },
     "total": 587073.0,
-    "total_from_source": 250239
+    "total_from_source": 250239,
+    "pct_values": {
+      "never-married": 0.5367,
+      "married-registered": 0.3949,
+      "married-customary": 0.0313,
+      "widowed": 0.0296,
+      "divorced": 0.002,
+      "legally-separated": 0.0018,
+      "seperated-not-legally": 0.0036
+    }
   },
   {
     "region_id": "LK-61",
@@ -162,7 +252,16 @@
       "seperated-not-legally": 9930.0
     },
     "total": 1442739.0,
-    "total_from_source": 697227
+    "total_from_source": 697227,
+    "pct_values": {
+      "never-married": 0.4647,
+      "married-registered": 0.4641,
+      "married-customary": 0.0192,
+      "widowed": 0.0416,
+      "divorced": 0.0021,
+      "legally-separated": 0.0014,
+      "seperated-not-legally": 0.0069
+    }
   },
   {
     "region_id": "LK-62",
@@ -177,7 +276,16 @@
       "seperated-not-legally": 5253.0
     },
     "total": 700892.0,
-    "total_from_source": 323844
+    "total_from_source": 323844,
+    "pct_values": {
+      "never-married": 0.4908,
+      "married-registered": 0.433,
+      "married-customary": 0.029,
+      "widowed": 0.0369,
+      "divorced": 0.0016,
+      "legally-separated": 0.0012,
+      "seperated-not-legally": 0.0075
+    }
   },
   {
     "region_id": "LK-71",
@@ -192,7 +300,16 @@
       "seperated-not-legally": 4173.0
     },
     "total": 738987.0,
-    "total_from_source": 348638
+    "total_from_source": 348638,
+    "pct_values": {
+      "never-married": 0.4882,
+      "married-registered": 0.4486,
+      "married-customary": 0.0232,
+      "widowed": 0.0321,
+      "divorced": 0.0014,
+      "legally-separated": 0.0009,
+      "seperated-not-legally": 0.0056
+    }
   },
   {
     "region_id": "LK-72",
@@ -207,7 +324,16 @@
       "seperated-not-legally": 1647.0
     },
     "total": 355924.0,
-    "total_from_source": 171057
+    "total_from_source": 171057,
+    "pct_values": {
+      "never-married": 0.4858,
+      "married-registered": 0.4583,
+      "married-customary": 0.0223,
+      "widowed": 0.0269,
+      "divorced": 0.0012,
+      "legally-separated": 0.0008,
+      "seperated-not-legally": 0.0046
+    }
   },
   {
     "region_id": "LK-81",
@@ -222,7 +348,16 @@
       "seperated-not-legally": 2440.0
     },
     "total": 769747.0,
-    "total_from_source": 355063
+    "total_from_source": 355063,
+    "pct_values": {
+      "never-married": 0.5061,
+      "married-registered": 0.4351,
+      "married-customary": 0.0262,
+      "widowed": 0.028,
+      "divorced": 0.0009,
+      "legally-separated": 0.0006,
+      "seperated-not-legally": 0.0032
+    }
   },
   {
     "region_id": "LK-82",
@@ -237,7 +372,16 @@
       "seperated-not-legally": 1507.0
     },
     "total": 393414.0,
-    "total_from_source": 176112
+    "total_from_source": 176112,
+    "pct_values": {
+      "never-married": 0.5237,
+      "married-registered": 0.4285,
+      "married-customary": 0.0192,
+      "widowed": 0.0234,
+      "divorced": 0.0008,
+      "legally-separated": 0.0006,
+      "seperated-not-legally": 0.0038
+    }
   },
   {
     "region_id": "LK-91",
@@ -252,7 +396,16 @@
       "seperated-not-legally": 5136.0
     },
     "total": 1003817.0,
-    "total_from_source": 466868
+    "total_from_source": 466868,
+    "pct_values": {
+      "never-married": 0.5009,
+      "married-registered": 0.4349,
+      "married-customary": 0.0302,
+      "widowed": 0.0268,
+      "divorced": 0.0012,
+      "legally-separated": 0.0009,
+      "seperated-not-legally": 0.0051
+    }
   },
   {
     "region_id": "LK-92",
@@ -267,6 +420,15 @@
       "seperated-not-legally": 3553.0
     },
     "total": 776753.0,
-    "total_from_source": 374450
+    "total_from_source": 374450,
+    "pct_values": {
+      "never-married": 0.4764,
+      "married-registered": 0.4582,
+      "married-customary": 0.0239,
+      "widowed": 0.0342,
+      "divorced": 0.0015,
+      "legally-separated": 0.0012,
+      "seperated-not-legally": 0.0046
+    }
   }
 ]

@@ -12,7 +12,16 @@
       "other": 14043
     },
     "total": 2251274,
-    "total_from_source": 2251274
+    "total_from_source": 2251274,
+    "pct_values": {
+      "sinhalese": 0.766,
+      "sri-lanka-tamil": 0.11,
+      "indian-tamil": 0.011,
+      "sri-lanka-moor": 0.0901,
+      "burgher": 0.007,
+      "malay": 0.0097,
+      "other": 0.0062
+    }
   },
   {
     "region_id": "LK-12",
@@ -27,7 +36,16 @@
       "other": 9735
     },
     "total": 2063684,
-    "total_from_source": 2063684
+    "total_from_source": 2063684,
+    "pct_values": {
+      "sinhalese": 0.9098,
+      "sri-lanka-tamil": 0.0316,
+      "indian-tamil": 0.0037,
+      "sri-lanka-moor": 0.0381,
+      "burgher": 0.0054,
+      "malay": 0.0066,
+      "other": 0.0047
+    }
   },
   {
     "region_id": "LK-13",
@@ -42,7 +60,16 @@
       "other": 663
     },
     "total": 1066239,
-    "total_from_source": 1066239
+    "total_from_source": 1066239,
+    "pct_values": {
+      "sinhalese": 0.8712,
+      "sri-lanka-tamil": 0.0119,
+      "indian-tamil": 0.0271,
+      "sri-lanka-moor": 0.0875,
+      "burgher": 0.0008,
+      "malay": 0.0009,
+      "other": 0.0006
+    }
   },
   {
     "region_id": "LK-21",
@@ -57,7 +84,16 @@
       "other": 2609
     },
     "total": 1279028,
-    "total_from_source": 1279028
+    "total_from_source": 1279028,
+    "pct_values": {
+      "sinhalese": 0.7411,
+      "sri-lanka-tamil": 0.0407,
+      "indian-tamil": 0.081,
+      "sri-lanka-moor": 0.1314,
+      "burgher": 0.0017,
+      "malay": 0.0021,
+      "other": 0.002
+    }
   },
   {
     "region_id": "LK-22",
@@ -72,7 +108,16 @@
       "other": 549
     },
     "total": 441328,
-    "total_from_source": 441328
+    "total_from_source": 441328,
+    "pct_values": {
+      "sinhalese": 0.8012,
+      "sri-lanka-tamil": 0.0551,
+      "indian-tamil": 0.0532,
+      "sri-lanka-moor": 0.0872,
+      "burgher": 0.0009,
+      "malay": 0.0012,
+      "other": 0.0012
+    }
   },
   {
     "region_id": "LK-23",
@@ -87,7 +132,16 @@
       "other": 847
     },
     "total": 703610,
-    "total_from_source": 703610
+    "total_from_source": 703610,
+    "pct_values": {
+      "sinhalese": 0.4017,
+      "sri-lanka-tamil": 0.0655,
+      "indian-tamil": 0.5057,
+      "sri-lanka-moor": 0.0235,
+      "burgher": 0.0009,
+      "malay": 0.0015,
+      "other": 0.0012
+    }
   },
   {
     "region_id": "LK-31",
@@ -102,7 +156,16 @@
       "other": 308
     },
     "total": 990487,
-    "total_from_source": 990487
+    "total_from_source": 990487,
+    "pct_values": {
+      "sinhalese": 0.9437,
+      "sri-lanka-tamil": 0.0112,
+      "indian-tamil": 0.0094,
+      "sri-lanka-moor": 0.035,
+      "burgher": 0.0002,
+      "malay": 0.0002,
+      "other": 0.0003
+    }
   },
   {
     "region_id": "LK-32",
@@ -117,7 +180,16 @@
       "other": 164
     },
     "total": 761370,
-    "total_from_source": 761370
+    "total_from_source": 761370,
+    "pct_values": {
+      "sinhalese": 0.9417,
+      "sri-lanka-tamil": 0.0068,
+      "indian-tamil": 0.0219,
+      "sri-lanka-moor": 0.0291,
+      "burgher": 0.0002,
+      "malay": 0.0001,
+      "other": 0.0002
+    }
   },
   {
     "region_id": "LK-33",
@@ -132,7 +204,16 @@
       "other": 167
     },
     "total": 526414,
-    "total_from_source": 526414
+    "total_from_source": 526414,
+    "pct_values": {
+      "sinhalese": 0.9707,
+      "sri-lanka-tamil": 0.0036,
+      "indian-tamil": 0.0008,
+      "sri-lanka-moor": 0.0107,
+      "burgher": 0.0002,
+      "malay": 0.0138,
+      "other": 0.0003
+    }
   },
   {
     "region_id": "LK-52",
@@ -147,7 +228,16 @@
       "other": 482
     },
     "total": 592997,
-    "total_from_source": 592997
+    "total_from_source": 592997,
+    "pct_values": {
+      "sinhalese": 0.399,
+      "sri-lanka-tamil": 0.1841,
+      "indian-tamil": 0.0012,
+      "sri-lanka-moor": 0.4125,
+      "burgher": 0.002,
+      "malay": 0.0004,
+      "other": 0.0008
+    }
   },
   {
     "region_id": "LK-61",
@@ -162,7 +252,16 @@
       "other": 1114
     },
     "total": 1460215,
-    "total_from_source": 1460215
+    "total_from_source": 1460215,
+    "pct_values": {
+      "sinhalese": 0.9185,
+      "sri-lanka-tamil": 0.012,
+      "indian-tamil": 0.002,
+      "sri-lanka-moor": 0.0647,
+      "burgher": 0.0004,
+      "malay": 0.0015,
+      "other": 0.0008
+    }
   },
   {
     "region_id": "LK-62",
@@ -177,7 +276,16 @@
       "other": 1179
     },
     "total": 709677,
-    "total_from_source": 709677
+    "total_from_source": 709677,
+    "pct_values": {
+      "sinhalese": 0.7371,
+      "sri-lanka-tamil": 0.0677,
+      "indian-tamil": 0.0031,
+      "sri-lanka-moor": 0.1876,
+      "burgher": 0.001,
+      "malay": 0.0017,
+      "other": 0.0017
+    }
   },
   {
     "region_id": "LK-71",
@@ -192,7 +300,16 @@
       "other": 1657
     },
     "total": 745693,
-    "total_from_source": 745693
+    "total_from_source": 745693,
+    "pct_values": {
+      "sinhalese": 0.9066,
+      "sri-lanka-tamil": 0.0068,
+      "indian-tamil": 0.0006,
+      "sri-lanka-moor": 0.0831,
+      "burgher": 0.0002,
+      "malay": 0.0004,
+      "other": 0.0022
+    }
   },
   {
     "region_id": "LK-72",
@@ -207,7 +324,16 @@
       "other": 168
     },
     "total": 358984,
-    "total_from_source": 358984
+    "total_from_source": 358984,
+    "pct_values": {
+      "sinhalese": 0.9037,
+      "sri-lanka-tamil": 0.0196,
+      "indian-tamil": 0.0005,
+      "sri-lanka-moor": 0.0754,
+      "burgher": 0.0002,
+      "malay": 0.0001,
+      "other": 0.0005
+    }
   },
   {
     "region_id": "LK-81",
@@ -222,7 +348,16 @@
       "other": 960
     },
     "total": 779983,
-    "total_from_source": 779983
+    "total_from_source": 779983,
+    "pct_values": {
+      "sinhalese": 0.7241,
+      "sri-lanka-tamil": 0.0379,
+      "indian-tamil": 0.184,
+      "sri-lanka-moor": 0.0497,
+      "burgher": 0.0007,
+      "malay": 0.0023,
+      "other": 0.0012
+    }
   },
   {
     "region_id": "LK-82",
@@ -237,7 +372,16 @@
       "other": 386
     },
     "total": 397375,
-    "total_from_source": 397375
+    "total_from_source": 397375,
+    "pct_values": {
+      "sinhalese": 0.9454,
+      "sri-lanka-tamil": 0.0145,
+      "indian-tamil": 0.0189,
+      "sri-lanka-moor": 0.0196,
+      "burgher": 0.0003,
+      "malay": 0.0003,
+      "other": 0.001
+    }
   },
   {
     "region_id": "LK-91",
@@ -252,7 +396,16 @@
       "other": 982
     },
     "total": 1015807,
-    "total_from_source": 1015807
+    "total_from_source": 1015807,
+    "pct_values": {
+      "sinhalese": 0.8683,
+      "sri-lanka-tamil": 0.0283,
+      "indian-tamil": 0.0813,
+      "sri-lanka-moor": 0.0204,
+      "burgher": 0.0003,
+      "malay": 0.0004,
+      "other": 0.001
+    }
   },
   {
     "region_id": "LK-92",
@@ -267,6 +420,15 @@
       "other": 861
     },
     "total": 785524,
-    "total_from_source": 785524
+    "total_from_source": 785524,
+    "pct_values": {
+      "sinhalese": 0.8589,
+      "sri-lanka-tamil": 0.019,
+      "indian-tamil": 0.0563,
+      "sri-lanka-moor": 0.0642,
+      "burgher": 0.0002,
+      "malay": 0.0004,
+      "other": 0.0011
+    }
   }
 ]

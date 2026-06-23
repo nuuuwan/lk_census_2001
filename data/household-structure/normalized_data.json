@@ -10,7 +10,14 @@
       "female-headed-households": 105140
     },
     "total": 598229.4,
-    "total_from_source": 493085
+    "total_from_source": 493085,
+    "pct_values": {
+      "urban": 0.4255,
+      "rural": 0.3956,
+      "estate": 0.0031,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1758
+    }
   },
   {
     "region_id": "LK-12",
@@ -23,7 +30,14 @@
       "female-headed-households": 98424
     },
     "total": 585612.2,
-    "total_from_source": 487184
+    "total_from_source": 487184,
+    "pct_values": {
+      "urban": 0.1097,
+      "rural": 0.7218,
+      "estate": 0.0004,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1681
+    }
   },
   {
     "region_id": "LK-13",
@@ -36,7 +50,14 @@
       "female-headed-households": 48830
     },
     "total": 299773.3,
-    "total_from_source": 250939
+    "total_from_source": 250939,
+    "pct_values": {
+      "urban": 0.0734,
+      "rural": 0.7316,
+      "estate": 0.032,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1629
+    }
   },
   {
     "region_id": "LK-21",
@@ -49,7 +70,14 @@
       "female-headed-households": 66914
     },
     "total": 366788.3,
-    "total_from_source": 299870
+    "total_from_source": 299870,
+    "pct_values": {
+      "urban": 0.0864,
+      "rural": 0.6679,
+      "estate": 0.0633,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1824
+    }
   },
   {
     "region_id": "LK-22",
@@ -62,7 +90,14 @@
       "female-headed-households": 23014
     },
     "total": 133904.0,
-    "total_from_source": 110886
+    "total_from_source": 110886,
+    "pct_values": {
+      "urban": 0.0557,
+      "rural": 0.7301,
+      "estate": 0.0422,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1719
+    }
   },
   {
     "region_id": "LK-23",
@@ -75,7 +110,14 @@
       "female-headed-households": 30810
     },
     "total": 200354.3,
-    "total_from_source": 169540
+    "total_from_source": 169540,
+    "pct_values": {
+      "urban": 0.0476,
+      "rural": 0.3568,
+      "estate": 0.4417,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1538
+    }
   },
   {
     "region_id": "LK-31",
@@ -88,7 +130,14 @@
       "female-headed-households": 50163
     },
     "total": 283194.3,
-    "total_from_source": 233027
+    "total_from_source": 233027,
+    "pct_values": {
+      "urban": 0.0751,
+      "rural": 0.7325,
+      "estate": 0.0153,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1771
+    }
   },
   {
     "region_id": "LK-32",
@@ -101,7 +150,14 @@
       "female-headed-households": 39188
     },
     "total": 216805.4,
-    "total_from_source": 177613
+    "total_from_source": 177613,
+    "pct_values": {
+      "urban": 0.0608,
+      "rural": 0.7367,
+      "estate": 0.0218,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1808
+    }
   },
   {
     "region_id": "LK-33",
@@ -114,7 +170,14 @@
       "female-headed-households": 25504
     },
     "total": 153516.2,
-    "total_from_source": 128008
+    "total_from_source": 128008,
+    "pct_values": {
+      "urban": 0.0295,
+      "rural": 0.8038,
+      "estate": 0.0006,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1661
+    }
   },
   {
     "region_id": "LK-52",
@@ -127,7 +190,14 @@
       "female-headed-households": 27505
     },
     "total": 165250.2,
-    "total_from_source": 137741
+    "total_from_source": 137741,
+    "pct_values": {
+      "urban": 0.152,
+      "rural": 0.6815,
+      "estate": 0.0,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1664
+    }
   },
   {
     "region_id": "LK-61",
@@ -140,7 +210,14 @@
       "female-headed-households": 79141
     },
     "total": 459357.9,
-    "total_from_source": 380213
+    "total_from_source": 380213,
+    "pct_values": {
+      "urban": 0.0142,
+      "rural": 0.8096,
+      "estate": 0.0039,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1723
+    }
   },
   {
     "region_id": "LK-62",
@@ -153,7 +230,14 @@
       "female-headed-households": 35162
     },
     "total": 211710.1,
-    "total_from_source": 176544
+    "total_from_source": 176544,
+    "pct_values": {
+      "urban": 0.0671,
+      "rural": 0.7638,
+      "estate": 0.0029,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1661
+    }
   },
   {
     "region_id": "LK-71",
@@ -166,7 +250,14 @@
       "female-headed-households": 36560
     },
     "total": 226262.9,
-    "total_from_source": 189699
+    "total_from_source": 189699,
+    "pct_values": {
+      "urban": 0.0487,
+      "rural": 0.7886,
+      "estate": 0.0011,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1616
+    }
   },
   {
     "region_id": "LK-72",
@@ -179,7 +270,14 @@
       "female-headed-households": 17164
     },
     "total": 108885.9,
-    "total_from_source": 91718
+    "total_from_source": 91718,
+    "pct_values": {
+      "urban": 0.0,
+      "rural": 0.8414,
+      "estate": 0.0009,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1576
+    }
   },
   {
     "region_id": "LK-81",
@@ -192,7 +290,14 @@
       "female-headed-households": 34959
     },
     "total": 224888.2,
-    "total_from_source": 189925
+    "total_from_source": 189925,
+    "pct_values": {
+      "urban": 0.0482,
+      "rural": 0.6206,
+      "estate": 0.1757,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1555
+    }
   },
   {
     "region_id": "LK-82",
@@ -205,7 +310,14 @@
       "female-headed-households": 14556
     },
     "total": 111158.2,
-    "total_from_source": 96598
+    "total_from_source": 96598,
+    "pct_values": {
+      "urban": 0.0,
+      "rural": 0.8483,
+      "estate": 0.0207,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1309
+    }
   },
   {
     "region_id": "LK-91",
@@ -218,7 +330,14 @@
       "female-headed-households": 40151
     },
     "total": 285898.2,
-    "total_from_source": 245743
+    "total_from_source": 245743,
+    "pct_values": {
+      "urban": 0.0422,
+      "rural": 0.7278,
+      "estate": 0.0896,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.1404
+    }
   },
   {
     "region_id": "LK-92",
@@ -231,6 +350,13 @@
       "female-headed-households": 41540
     },
     "total": 237397.1,
-    "total_from_source": 195853
+    "total_from_source": 195853,
+    "pct_values": {
+      "urban": 0.0145,
+      "rural": 0.7518,
+      "estate": 0.0587,
+      "average-household-size": 0.0,
+      "female-headed-households": 0.175
+    }
   }
 ]

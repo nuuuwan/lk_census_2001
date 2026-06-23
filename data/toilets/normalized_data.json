@@ -8,7 +8,12 @@
       "not-using-toilet": 1411
     },
     "total": 753058,
-    "total_from_source": 493085
+    "total_from_source": 493085,
+    "pct_values": {
+      "using-toilets-exclusively": 0.4919,
+      "hygienic-toilets": 0.5062,
+      "not-using-toilet": 0.0019
+    }
   },
   {
     "region_id": "LK-12",
@@ -19,7 +24,12 @@
       "not-using-toilet": 3912
     },
     "total": 773728,
-    "total_from_source": 487184
+    "total_from_source": 487184,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5057,
+      "hygienic-toilets": 0.4892,
+      "not-using-toilet": 0.0051
+    }
   },
   {
     "region_id": "LK-13",
@@ -30,7 +40,12 @@
       "not-using-toilet": 4393
     },
     "total": 406434,
-    "total_from_source": 250939
+    "total_from_source": 250939,
+    "pct_values": {
+      "using-toilets-exclusively": 0.507,
+      "hygienic-toilets": 0.4822,
+      "not-using-toilet": 0.0108
+    }
   },
   {
     "region_id": "LK-21",
@@ -41,7 +56,12 @@
       "not-using-toilet": 7022
     },
     "total": 446579,
-    "total_from_source": 299870
+    "total_from_source": 299870,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5511,
+      "hygienic-toilets": 0.4331,
+      "not-using-toilet": 0.0157
+    }
   },
   {
     "region_id": "LK-22",
@@ -52,7 +72,12 @@
       "not-using-toilet": 3169
     },
     "total": 144282,
-    "total_from_source": 110886
+    "total_from_source": 110886,
+    "pct_values": {
+      "using-toilets-exclusively": 0.6184,
+      "hygienic-toilets": 0.3596,
+      "not-using-toilet": 0.022
+    }
   },
   {
     "region_id": "LK-23",
@@ -63,7 +88,12 @@
       "not-using-toilet": 18739
     },
     "total": 199052,
-    "total_from_source": 169540
+    "total_from_source": 169540,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5542,
+      "hygienic-toilets": 0.3516,
+      "not-using-toilet": 0.0941
+    }
   },
   {
     "region_id": "LK-31",
@@ -74,7 +104,12 @@
       "not-using-toilet": 6435
     },
     "total": 371360,
-    "total_from_source": 233027
+    "total_from_source": 233027,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5168,
+      "hygienic-toilets": 0.4659,
+      "not-using-toilet": 0.0173
+    }
   },
   {
     "region_id": "LK-32",
@@ -85,7 +120,12 @@
       "not-using-toilet": 2000
     },
     "total": 295599,
-    "total_from_source": 177613
+    "total_from_source": 177613,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5113,
+      "hygienic-toilets": 0.4819,
+      "not-using-toilet": 0.0068
+    }
   },
   {
     "region_id": "LK-33",
@@ -96,7 +136,12 @@
       "not-using-toilet": 2868
     },
     "total": 184416,
-    "total_from_source": 128008
+    "total_from_source": 128008,
+    "pct_values": {
+      "using-toilets-exclusively": 0.582,
+      "hygienic-toilets": 0.4025,
+      "not-using-toilet": 0.0156
+    }
   },
   {
     "region_id": "LK-52",
@@ -107,7 +152,12 @@
       "not-using-toilet": 27657
     },
     "total": 187724,
-    "total_from_source": 137741
+    "total_from_source": 137741,
+    "pct_values": {
+      "using-toilets-exclusively": 0.4902,
+      "hygienic-toilets": 0.3625,
+      "not-using-toilet": 0.1473
+    }
   },
   {
     "region_id": "LK-61",
@@ -118,7 +168,12 @@
       "not-using-toilet": 24156
     },
     "total": 586355,
-    "total_from_source": 380213
+    "total_from_source": 380213,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5133,
+      "hygienic-toilets": 0.4455,
+      "not-using-toilet": 0.0412
+    }
   },
   {
     "region_id": "LK-62",
@@ -129,7 +184,12 @@
       "not-using-toilet": 21487
     },
     "total": 268457,
-    "total_from_source": 176544
+    "total_from_source": 176544,
+    "pct_values": {
+      "using-toilets-exclusively": 0.4711,
+      "hygienic-toilets": 0.4489,
+      "not-using-toilet": 0.08
+    }
   },
   {
     "region_id": "LK-71",
@@ -140,7 +200,12 @@
       "not-using-toilet": 24046
     },
     "total": 253801,
-    "total_from_source": 189699
+    "total_from_source": 189699,
+    "pct_values": {
+      "using-toilets-exclusively": 0.547,
+      "hygienic-toilets": 0.3582,
+      "not-using-toilet": 0.0947
+    }
   },
   {
     "region_id": "LK-72",
@@ -151,7 +216,12 @@
       "not-using-toilet": 5793
     },
     "total": 127007,
-    "total_from_source": 91718
+    "total_from_source": 91718,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5685,
+      "hygienic-toilets": 0.3859,
+      "not-using-toilet": 0.0456
+    }
   },
   {
     "region_id": "LK-81",
@@ -162,7 +232,12 @@
       "not-using-toilet": 7269
     },
     "total": 262020,
-    "total_from_source": 189925
+    "total_from_source": 189925,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5777,
+      "hygienic-toilets": 0.3945,
+      "not-using-toilet": 0.0277
+    }
   },
   {
     "region_id": "LK-82",
@@ -173,7 +248,12 @@
       "not-using-toilet": 5475
     },
     "total": 130435,
-    "total_from_source": 96598
+    "total_from_source": 96598,
+    "pct_values": {
+      "using-toilets-exclusively": 0.6327,
+      "hygienic-toilets": 0.3253,
+      "not-using-toilet": 0.042
+    }
   },
   {
     "region_id": "LK-91",
@@ -184,7 +264,12 @@
       "not-using-toilet": 7212
     },
     "total": 369491,
-    "total_from_source": 245743
+    "total_from_source": 245743,
+    "pct_values": {
+      "using-toilets-exclusively": 0.545,
+      "hygienic-toilets": 0.4355,
+      "not-using-toilet": 0.0195
+    }
   },
   {
     "region_id": "LK-92",
@@ -195,6 +280,11 @@
       "not-using-toilet": 4915
     },
     "total": 300303,
-    "total_from_source": 195853
+    "total_from_source": 195853,
+    "pct_values": {
+      "using-toilets-exclusively": 0.5546,
+      "hygienic-toilets": 0.429,
+      "not-using-toilet": 0.0164
+    }
   }
 ]

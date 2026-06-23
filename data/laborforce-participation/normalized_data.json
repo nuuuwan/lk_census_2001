@@ -7,7 +7,11 @@
       "female-rate": 28.6
     },
     "total": 96.19999999999999,
-    "total_from_source": 48.4
+    "total_from_source": 48.4,
+    "pct_values": {
+      "male-rate": 0.7027,
+      "female-rate": 0.2973
+    }
   },
   {
     "region_id": "LK-12",
@@ -17,7 +21,11 @@
       "female-rate": 29.4
     },
     "total": 96.69999999999999,
-    "total_from_source": 47.7
+    "total_from_source": 47.7,
+    "pct_values": {
+      "male-rate": 0.696,
+      "female-rate": 0.304
+    }
   },
   {
     "region_id": "LK-13",
@@ -27,7 +35,11 @@
       "female-rate": 26.4
     },
     "total": 90.5,
-    "total_from_source": 44.9
+    "total_from_source": 44.9,
+    "pct_values": {
+      "male-rate": 0.7083,
+      "female-rate": 0.2917
+    }
   },
   {
     "region_id": "LK-21",
@@ -37,7 +49,11 @@
       "female-rate": 25.0
     },
     "total": 87.0,
-    "total_from_source": 42.9
+    "total_from_source": 42.9,
+    "pct_values": {
+      "male-rate": 0.7126,
+      "female-rate": 0.2874
+    }
   },
   {
     "region_id": "LK-22",
@@ -47,7 +63,11 @@
       "female-rate": 26.9
     },
     "total": 93.9,
-    "total_from_source": 46.8
+    "total_from_source": 46.8,
+    "pct_values": {
+      "male-rate": 0.7135,
+      "female-rate": 0.2865
+    }
   },
   {
     "region_id": "LK-23",
@@ -57,7 +77,11 @@
       "female-rate": 43.1
     },
     "total": 106.6,
-    "total_from_source": 53.2
+    "total_from_source": 53.2,
+    "pct_values": {
+      "male-rate": 0.5957,
+      "female-rate": 0.4043
+    }
   },
   {
     "region_id": "LK-31",
@@ -67,7 +91,11 @@
       "female-rate": 27.5
     },
     "total": 89.3,
-    "total_from_source": 44.0
+    "total_from_source": 44.0,
+    "pct_values": {
+      "male-rate": 0.692,
+      "female-rate": 0.308
+    }
   },
   {
     "region_id": "LK-32",
@@ -77,7 +105,11 @@
       "female-rate": 27.7
     },
     "total": 89.1,
-    "total_from_source": 43.8
+    "total_from_source": 43.8,
+    "pct_values": {
+      "male-rate": 0.6891,
+      "female-rate": 0.3109
+    }
   },
   {
     "region_id": "LK-33",
@@ -87,7 +119,11 @@
       "female-rate": 23.3
     },
     "total": 87.1,
-    "total_from_source": 43.5
+    "total_from_source": 43.5,
+    "pct_values": {
+      "male-rate": 0.7325,
+      "female-rate": 0.2675
+    }
   },
   {
     "region_id": "LK-52",
@@ -97,7 +133,11 @@
       "female-rate": 15.2
     },
     "total": 78.8,
-    "total_from_source": 39.5
+    "total_from_source": 39.5,
+    "pct_values": {
+      "male-rate": 0.8071,
+      "female-rate": 0.1929
+    }
   },
   {
     "region_id": "LK-61",
@@ -107,7 +147,11 @@
       "female-rate": 26.4
     },
     "total": 93.0,
-    "total_from_source": 46.2
+    "total_from_source": 46.2,
+    "pct_values": {
+      "male-rate": 0.7161,
+      "female-rate": 0.2839
+    }
   },
   {
     "region_id": "LK-62",
@@ -117,7 +161,11 @@
       "female-rate": 20.9
     },
     "total": 87.9,
-    "total_from_source": 43.7
+    "total_from_source": 43.7,
+    "pct_values": {
+      "male-rate": 0.7622,
+      "female-rate": 0.2378
+    }
   },
   {
     "region_id": "LK-71",
@@ -127,7 +175,11 @@
       "female-rate": 31.3
     },
     "total": 100.0,
-    "total_from_source": 50.4
+    "total_from_source": 50.4,
+    "pct_values": {
+      "male-rate": 0.687,
+      "female-rate": 0.313
+    }
   },
   {
     "region_id": "LK-72",
@@ -137,7 +189,11 @@
       "female-rate": 26.0
     },
     "total": 98.0,
-    "total_from_source": 50.2
+    "total_from_source": 50.2,
+    "pct_values": {
+      "male-rate": 0.7347,
+      "female-rate": 0.2653
+    }
   },
   {
     "region_id": "LK-81",
@@ -147,7 +203,11 @@
       "female-rate": 36.6
     },
     "total": 101.80000000000001,
-    "total_from_source": 50.7
+    "total_from_source": 50.7,
+    "pct_values": {
+      "male-rate": 0.6405,
+      "female-rate": 0.3595
+    }
   },
   {
     "region_id": "LK-82",
@@ -157,7 +217,11 @@
       "female-rate": 30.6
     },
     "total": 97.69999999999999,
-    "total_from_source": 49.2
+    "total_from_source": 49.2,
+    "pct_values": {
+      "male-rate": 0.6868,
+      "female-rate": 0.3132
+    }
   },
   {
     "region_id": "LK-91",
@@ -167,7 +231,11 @@
       "female-rate": 31.1
     },
     "total": 97.4,
-    "total_from_source": 48.8
+    "total_from_source": 48.8,
+    "pct_values": {
+      "male-rate": 0.6807,
+      "female-rate": 0.3193
+    }
   },
   {
     "region_id": "LK-92",
@@ -177,6 +245,10 @@
       "female-rate": 26.7
     },
     "total": 89.9,
-    "total_from_source": 44.4
+    "total_from_source": 44.4,
+    "pct_values": {
+      "male-rate": 0.703,
+      "female-rate": 0.297
+    }
   }
 ]

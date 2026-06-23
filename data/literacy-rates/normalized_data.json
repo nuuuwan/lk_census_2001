@@ -10,7 +10,14 @@
       "estate-rate": 82.0
     },
     "total": 461.0,
-    "total_from_source": 94.7
+    "total_from_source": 94.7,
+    "pct_values": {
+      "male-rate": 0.2067,
+      "female-rate": 0.2039,
+      "urban-rate": 0.2024,
+      "rural-rate": 0.2091,
+      "estate-rate": 0.1779
+    }
   },
   {
     "region_id": "LK-12",
@@ -23,7 +30,14 @@
       "estate-rate": 88.0
     },
     "total": 468.2,
-    "total_from_source": 95.4
+    "total_from_source": 95.4,
+    "pct_values": {
+      "male-rate": 0.2044,
+      "female-rate": 0.2031,
+      "urban-rate": 0.2001,
+      "rural-rate": 0.2044,
+      "estate-rate": 0.188
+    }
   },
   {
     "region_id": "LK-13",
@@ -36,7 +50,14 @@
       "estate-rate": 77.5
     },
     "total": 451.1,
-    "total_from_source": 93.2
+    "total_from_source": 93.2,
+    "pct_values": {
+      "male-rate": 0.2077,
+      "female-rate": 0.2053,
+      "urban-rate": 0.2075,
+      "rural-rate": 0.2077,
+      "estate-rate": 0.1718
+    }
   },
   {
     "region_id": "LK-21",
@@ -49,7 +70,14 @@
       "estate-rate": 74.6
     },
     "total": 441.6,
-    "total_from_source": 90.5
+    "total_from_source": 90.5,
+    "pct_values": {
+      "male-rate": 0.2092,
+      "female-rate": 0.2009,
+      "urban-rate": 0.2144,
+      "rural-rate": 0.2065,
+      "estate-rate": 0.1689
+    }
   },
   {
     "region_id": "LK-22",
@@ -62,7 +90,14 @@
       "estate-rate": 75.7
     },
     "total": 434.70000000000005,
-    "total_from_source": 88.3
+    "total_from_source": 88.3,
+    "pct_values": {
+      "male-rate": 0.2075,
+      "female-rate": 0.1988,
+      "urban-rate": 0.216,
+      "rural-rate": 0.2036,
+      "estate-rate": 0.1741
+    }
   },
   {
     "region_id": "LK-23",
@@ -75,7 +110,14 @@
       "estate-rate": 76.6
     },
     "total": 423.7,
-    "total_from_source": 82.6
+    "total_from_source": 82.6,
+    "pct_values": {
+      "male-rate": 0.2068,
+      "female-rate": 0.1834,
+      "urban-rate": 0.2193,
+      "rural-rate": 0.2098,
+      "estate-rate": 0.1808
+    }
   },
   {
     "region_id": "LK-31",
@@ -88,7 +130,14 @@
       "estate-rate": 64.3
     },
     "total": 436.4,
-    "total_from_source": 92.3
+    "total_from_source": 92.3,
+    "pct_values": {
+      "male-rate": 0.2136,
+      "female-rate": 0.2097,
+      "urban-rate": 0.2175,
+      "rural-rate": 0.212,
+      "estate-rate": 0.1473
+    }
   },
   {
     "region_id": "LK-32",
@@ -101,7 +150,14 @@
       "estate-rate": 53.3
     },
     "total": 420.8,
-    "total_from_source": 90.3
+    "total_from_source": 90.3,
+    "pct_values": {
+      "male-rate": 0.2184,
+      "female-rate": 0.2113,
+      "urban-rate": 0.2279,
+      "rural-rate": 0.2158,
+      "estate-rate": 0.1267
+    }
   },
   {
     "region_id": "LK-33",
@@ -114,7 +170,14 @@
       "estate-rate": 57.2
     },
     "total": 417.6,
-    "total_from_source": 88.9
+    "total_from_source": 88.9,
+    "pct_values": {
+      "male-rate": 0.2177,
+      "female-rate": 0.2083,
+      "urban-rate": 0.2241,
+      "rural-rate": 0.2129,
+      "estate-rate": 0.137
+    }
   },
   {
     "region_id": "LK-52",
@@ -127,7 +190,14 @@
       "estate-rate": 0
     },
     "total": 345.90000000000003,
-    "total_from_source": 85.9
+    "total_from_source": 85.9,
+    "pct_values": {
+      "male-rate": 0.257,
+      "female-rate": 0.2397,
+      "urban-rate": 0.257,
+      "rural-rate": 0.2463,
+      "estate-rate": 0.0
+    }
   },
   {
     "region_id": "LK-61",
@@ -140,7 +210,14 @@
       "estate-rate": 81.0
     },
     "total": 453.9,
-    "total_from_source": 92.7
+    "total_from_source": 92.7,
+    "pct_values": {
+      "male-rate": 0.2069,
+      "female-rate": 0.2016,
+      "urban-rate": 0.2089,
+      "rural-rate": 0.2042,
+      "estate-rate": 0.1785
+    }
   },
   {
     "region_id": "LK-62",
@@ -153,7 +230,14 @@
       "estate-rate": 82.2
     },
     "total": 443.0,
-    "total_from_source": 90.7
+    "total_from_source": 90.7,
+    "pct_values": {
+      "male-rate": 0.2059,
+      "female-rate": 0.2038,
+      "urban-rate": 0.1993,
+      "rural-rate": 0.2054,
+      "estate-rate": 0.1856
+    }
   },
   {
     "region_id": "LK-71",
@@ -166,7 +250,14 @@
       "estate-rate": 96.4
     },
     "total": 463.2,
-    "total_from_source": 90.5
+    "total_from_source": 90.5,
+    "pct_values": {
+      "male-rate": 0.1986,
+      "female-rate": 0.1917,
+      "urban-rate": 0.2073,
+      "rural-rate": 0.1943,
+      "estate-rate": 0.2081
+    }
   },
   {
     "region_id": "LK-72",
@@ -179,7 +270,14 @@
       "estate-rate": 93.2
     },
     "total": 363.1,
-    "total_from_source": 90.0
+    "total_from_source": 90.0,
+    "pct_values": {
+      "male-rate": 0.2512,
+      "female-rate": 0.2443,
+      "urban-rate": 0.0,
+      "rural-rate": 0.2479,
+      "estate-rate": 0.2567
+    }
   },
   {
     "region_id": "LK-81",
@@ -192,7 +290,14 @@
       "estate-rate": 75.8
     },
     "total": 427.3,
-    "total_from_source": 85.2
+    "total_from_source": 85.2,
+    "pct_values": {
+      "male-rate": 0.2081,
+      "female-rate": 0.1912,
+      "urban-rate": 0.2195,
+      "rural-rate": 0.2038,
+      "estate-rate": 0.1774
+    }
   },
   {
     "region_id": "LK-82",
@@ -205,7 +310,14 @@
       "estate-rate": 77.2
     },
     "total": 335.3,
-    "total_from_source": 86.0
+    "total_from_source": 86.0,
+    "pct_values": {
+      "male-rate": 0.2627,
+      "female-rate": 0.2499,
+      "urban-rate": 0.0,
+      "rural-rate": 0.2571,
+      "estate-rate": 0.2302
+    }
   },
   {
     "region_id": "LK-91",
@@ -218,7 +330,14 @@
       "estate-rate": 72.3
     },
     "total": 433.0,
-    "total_from_source": 88.4
+    "total_from_source": 88.4,
+    "pct_values": {
+      "male-rate": 0.2088,
+      "female-rate": 0.1991,
+      "urban-rate": 0.2178,
+      "rural-rate": 0.2074,
+      "estate-rate": 0.167
+    }
   },
   {
     "region_id": "LK-92",
@@ -231,6 +350,13 @@
       "estate-rate": 75.0
     },
     "total": 444.9,
-    "total_from_source": 91.4
+    "total_from_source": 91.4,
+    "pct_values": {
+      "male-rate": 0.209,
+      "female-rate": 0.2018,
+      "urban-rate": 0.2126,
+      "rural-rate": 0.2079,
+      "estate-rate": 0.1686
+    }
   }
 ]

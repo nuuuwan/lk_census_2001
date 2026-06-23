@@ -7,7 +7,11 @@
       "safe-water": 470952
     },
     "total": 778274,
-    "total_from_source": 493085
+    "total_from_source": 493085,
+    "pct_values": {
+      "pipe-borne-water": 0.3949,
+      "safe-water": 0.6051
+    }
   },
   {
     "region_id": "LK-12",
@@ -17,7 +21,11 @@
       "safe-water": 445432
     },
     "total": 553854,
-    "total_from_source": 487184
+    "total_from_source": 487184,
+    "pct_values": {
+      "pipe-borne-water": 0.1958,
+      "safe-water": 0.8042
+    }
   },
   {
     "region_id": "LK-13",
@@ -27,7 +35,11 @@
       "safe-water": 210772
     },
     "total": 257267,
-    "total_from_source": 250939
+    "total_from_source": 250939,
+    "pct_values": {
+      "pipe-borne-water": 0.1807,
+      "safe-water": 0.8193
+    }
   },
   {
     "region_id": "LK-21",
@@ -37,7 +49,11 @@
       "safe-water": 244357
     },
     "total": 359379,
-    "total_from_source": 299870
+    "total_from_source": 299870,
+    "pct_values": {
+      "pipe-borne-water": 0.3201,
+      "safe-water": 0.6799
+    }
   },
   {
     "region_id": "LK-22",
@@ -47,7 +63,11 @@
       "safe-water": 89249
     },
     "total": 114079,
-    "total_from_source": 110886
+    "total_from_source": 110886,
+    "pct_values": {
+      "pipe-borne-water": 0.2177,
+      "safe-water": 0.7823
+    }
   },
   {
     "region_id": "LK-23",
@@ -57,7 +77,11 @@
       "safe-water": 115079
     },
     "total": 200665,
-    "total_from_source": 169540
+    "total_from_source": 169540,
+    "pct_values": {
+      "pipe-borne-water": 0.4265,
+      "safe-water": 0.5735
+    }
   },
   {
     "region_id": "LK-31",
@@ -67,7 +91,11 @@
       "safe-water": 189283
     },
     "total": 233617,
-    "total_from_source": 233027
+    "total_from_source": 233027,
+    "pct_values": {
+      "pipe-borne-water": 0.1898,
+      "safe-water": 0.8102
+    }
   },
   {
     "region_id": "LK-32",
@@ -77,7 +105,11 @@
       "safe-water": 137502
     },
     "total": 187205,
-    "total_from_source": 177613
+    "total_from_source": 177613,
+    "pct_values": {
+      "pipe-borne-water": 0.2655,
+      "safe-water": 0.7345
+    }
   },
   {
     "region_id": "LK-33",
@@ -87,7 +119,11 @@
       "safe-water": 106758
     },
     "total": 149462,
-    "total_from_source": 128008
+    "total_from_source": 128008,
+    "pct_values": {
+      "pipe-borne-water": 0.2857,
+      "safe-water": 0.7143
+    }
   },
   {
     "region_id": "LK-52",
@@ -97,7 +133,11 @@
       "safe-water": 117669
     },
     "total": 131108,
-    "total_from_source": 137741
+    "total_from_source": 137741,
+    "pct_values": {
+      "pipe-borne-water": 0.1025,
+      "safe-water": 0.8975
+    }
   },
   {
     "region_id": "LK-61",
@@ -107,7 +147,11 @@
       "safe-water": 323114
     },
     "total": 337909,
-    "total_from_source": 380213
+    "total_from_source": 380213,
+    "pct_values": {
+      "pipe-borne-water": 0.0438,
+      "safe-water": 0.9562
+    }
   },
   {
     "region_id": "LK-62",
@@ -117,7 +161,11 @@
       "safe-water": 159325
     },
     "total": 179224,
-    "total_from_source": 176544
+    "total_from_source": 176544,
+    "pct_values": {
+      "pipe-borne-water": 0.111,
+      "safe-water": 0.889
+    }
   },
   {
     "region_id": "LK-71",
@@ -127,7 +175,11 @@
       "safe-water": 157565
     },
     "total": 175702,
-    "total_from_source": 189699
+    "total_from_source": 189699,
+    "pct_values": {
+      "pipe-borne-water": 0.1032,
+      "safe-water": 0.8968
+    }
   },
   {
     "region_id": "LK-72",
@@ -137,7 +189,11 @@
       "safe-water": 69041
     },
     "total": 79041,
-    "total_from_source": 91718
+    "total_from_source": 91718,
+    "pct_values": {
+      "pipe-borne-water": 0.1265,
+      "safe-water": 0.8735
+    }
   },
   {
     "region_id": "LK-81",
@@ -147,7 +203,11 @@
       "safe-water": 133391
     },
     "total": 205058,
-    "total_from_source": 189925
+    "total_from_source": 189925,
+    "pct_values": {
+      "pipe-borne-water": 0.3495,
+      "safe-water": 0.6505
+    }
   },
   {
     "region_id": "LK-82",
@@ -157,7 +217,11 @@
       "safe-water": 61278
     },
     "total": 74750,
-    "total_from_source": 96598
+    "total_from_source": 96598,
+    "pct_values": {
+      "pipe-borne-water": 0.1802,
+      "safe-water": 0.8198
+    }
   },
   {
     "region_id": "LK-91",
@@ -167,7 +231,11 @@
       "safe-water": 150709
     },
     "total": 219124,
-    "total_from_source": 245743
+    "total_from_source": 245743,
+    "pct_values": {
+      "pipe-borne-water": 0.3122,
+      "safe-water": 0.6878
+    }
   },
   {
     "region_id": "LK-92",
@@ -177,6 +245,10 @@
       "safe-water": 135339
     },
     "total": 170976,
-    "total_from_source": 195853
+    "total_from_source": 195853,
+    "pct_values": {
+      "pipe-borne-water": 0.2084,
+      "safe-water": 0.7916
+    }
   }
 ]

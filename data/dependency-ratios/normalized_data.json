@@ -10,7 +10,14 @@
       "dependency-ratio-old": 13.9
     },
     "total": 2251319.0,
-    "total_from_source": 45.0
+    "total_from_source": 45.0,
+    "pct_values": {
+      "aged-00-14": 0.2142,
+      "aged-15-59": 0.6897,
+      "aged-60-and-over": 0.0961,
+      "dependency-ratio-young": 0.0,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-12",
@@ -23,7 +30,14 @@
       "dependency-ratio-old": 14.0
     },
     "total": 2063732.2,
-    "total_from_source": 48.2
+    "total_from_source": 48.2,
+    "pct_values": {
+      "aged-00-14": 0.2308,
+      "aged-15-59": 0.6749,
+      "aged-60-and-over": 0.0943,
+      "dependency-ratio-young": 0.0,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-13",
@@ -36,7 +50,14 @@
       "dependency-ratio-old": 17.5
     },
     "total": 1066294.7,
-    "total_from_source": 55.7
+    "total_from_source": 55.7,
+    "pct_values": {
+      "aged-00-14": 0.2452,
+      "aged-15-59": 0.6423,
+      "aged-60-and-over": 0.1124,
+      "dependency-ratio-young": 0.0,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-21",
@@ -49,7 +70,14 @@
       "dependency-ratio-old": 15.2
     },
     "total": 1279085.3,
-    "total_from_source": 57.3
+    "total_from_source": 57.3,
+    "pct_values": {
+      "aged-00-14": 0.2676,
+      "aged-15-59": 0.6359,
+      "aged-60-and-over": 0.0965,
+      "dependency-ratio-young": 0.0,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-22",
@@ -62,7 +90,14 @@
       "dependency-ratio-old": 13.7
     },
     "total": 441384.7,
-    "total_from_source": 56.7
+    "total_from_source": 56.7,
+    "pct_values": {
+      "aged-00-14": 0.2744,
+      "aged-15-59": 0.6379,
+      "aged-60-and-over": 0.0875,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-23",
@@ -75,7 +110,14 @@
       "dependency-ratio-old": 11.8
     },
     "total": 703667.1000000001,
-    "total_from_source": 57.1
+    "total_from_source": 57.1,
+    "pct_values": {
+      "aged-00-14": 0.2882,
+      "aged-15-59": 0.6365,
+      "aged-60-and-over": 0.0753,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-31",
@@ -88,7 +130,14 @@
       "dependency-ratio-old": 19.3
     },
     "total": 990550.9,
-    "total_from_source": 63.9
+    "total_from_source": 63.9,
+    "pct_values": {
+      "aged-00-14": 0.2722,
+      "aged-15-59": 0.6101,
+      "aged-60-and-over": 0.1176,
+      "dependency-ratio-young": 0.0,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-32",
@@ -101,7 +150,14 @@
       "dependency-ratio-old": 19.3
     },
     "total": 761435.3,
-    "total_from_source": 65.3
+    "total_from_source": 65.3,
+    "pct_values": {
+      "aged-00-14": 0.2782,
+      "aged-15-59": 0.605,
+      "aged-60-and-over": 0.1168,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-33",
@@ -114,7 +170,14 @@
       "dependency-ratio-old": 15.3
     },
     "total": 526477.5,
-    "total_from_source": 63.4
+    "total_from_source": 63.4,
+    "pct_values": {
+      "aged-00-14": 0.2947,
+      "aged-15-59": 0.6119,
+      "aged-60-and-over": 0.0934,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-52",
@@ -127,7 +190,14 @@
       "dependency-ratio-old": 9.3
     },
     "total": 593057.8,
-    "total_from_source": 60.8
+    "total_from_source": 60.8,
+    "pct_values": {
+      "aged-00-14": 0.3204,
+      "aged-15-59": 0.6217,
+      "aged-60-and-over": 0.0578,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-61",
@@ -140,7 +210,14 @@
       "dependency-ratio-old": 14.9
     },
     "total": 1460269.5999999999,
-    "total_from_source": 54.6
+    "total_from_source": 54.6,
+    "pct_values": {
+      "aged-00-14": 0.2566,
+      "aged-15-59": 0.6468,
+      "aged-60-and-over": 0.0966,
+      "dependency-ratio-young": 0.0,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-62",
@@ -153,7 +230,14 @@
       "dependency-ratio-old": 11.5
     },
     "total": 709734.9,
-    "total_from_source": 57.9
+    "total_from_source": 57.9,
+    "pct_values": {
+      "aged-00-14": 0.2939,
+      "aged-15-59": 0.6331,
+      "aged-60-and-over": 0.0729,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-71",
@@ -166,7 +250,14 @@
       "dependency-ratio-old": 10.1
     },
     "total": 745748.0,
-    "total_from_source": 55.0
+    "total_from_source": 55.0,
+    "pct_values": {
+      "aged-00-14": 0.2895,
+      "aged-15-59": 0.6453,
+      "aged-60-and-over": 0.0652,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-72",
@@ -179,7 +270,14 @@
       "dependency-ratio-old": 9.7
     },
     "total": 359036.8,
-    "total_from_source": 52.8
+    "total_from_source": 52.8,
+    "pct_values": {
+      "aged-00-14": 0.282,
+      "aged-15-59": 0.6541,
+      "aged-60-and-over": 0.0637,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-81",
@@ -192,7 +290,14 @@
       "dependency-ratio-old": 12.7
     },
     "total": 780043.2,
-    "total_from_source": 60.2
+    "total_from_source": 60.2,
+    "pct_values": {
+      "aged-00-14": 0.2966,
+      "aged-15-59": 0.6241,
+      "aged-60-and-over": 0.0792,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-82",
@@ -205,7 +310,14 @@
       "dependency-ratio-old": 10.1
     },
     "total": 397436.5,
-    "total_from_source": 61.5
+    "total_from_source": 61.5,
+    "pct_values": {
+      "aged-00-14": 0.3184,
+      "aged-15-59": 0.619,
+      "aged-60-and-over": 0.0625,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-91",
@@ -218,7 +330,14 @@
       "dependency-ratio-old": 14.2
     },
     "total": 1015864.2,
-    "total_from_source": 57.3
+    "total_from_source": 57.3,
+    "pct_values": {
+      "aged-00-14": 0.2737,
+      "aged-15-59": 0.6359,
+      "aged-60-and-over": 0.0903,
+      "dependency-ratio-young": 0.0,
+      "dependency-ratio-old": 0.0
+    }
   },
   {
     "region_id": "LK-92",
@@ -231,6 +350,13 @@
       "dependency-ratio-old": 17.3
     },
     "total": 785581.4,
-    "total_from_source": 57.4
+    "total_from_source": 57.4,
+    "pct_values": {
+      "aged-00-14": 0.2546,
+      "aged-15-59": 0.6352,
+      "aged-60-and-over": 0.1101,
+      "dependency-ratio-young": 0.0001,
+      "dependency-ratio-old": 0.0
+    }
   }
 ]

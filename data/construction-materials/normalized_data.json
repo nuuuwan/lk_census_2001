@@ -8,7 +8,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 452227
     },
     "total": 1311476,
-    "total_from_source": 473045
+    "total_from_source": 473045,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3123,
+      "floor-cement-tile-terrazo-granite": 0.3429,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3448
+    }
   },
   {
     "region_id": "LK-12",
@@ -19,7 +24,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 442704
     },
     "total": 1266214,
-    "total_from_source": 475847
+    "total_from_source": 475847,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3045,
+      "floor-cement-tile-terrazo-granite": 0.3458,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3496
+    }
   },
   {
     "region_id": "LK-13",
@@ -30,7 +40,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 231884
     },
     "total": 638554,
-    "total_from_source": 245784
+    "total_from_source": 245784,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.2963,
+      "floor-cement-tile-terrazo-granite": 0.3406,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3631
+    }
   },
   {
     "region_id": "LK-21",
@@ -41,7 +56,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 281855
     },
     "total": 742119,
-    "total_from_source": 291454
+    "total_from_source": 291454,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3253,
+      "floor-cement-tile-terrazo-granite": 0.2949,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3798
+    }
   },
   {
     "region_id": "LK-22",
@@ -52,7 +72,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 96209
     },
     "total": 241365,
-    "total_from_source": 108566
+    "total_from_source": 108566,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3262,
+      "floor-cement-tile-terrazo-granite": 0.2752,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3986
+    }
   },
   {
     "region_id": "LK-23",
@@ -63,7 +88,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 156083
     },
     "total": 393969,
-    "total_from_source": 164886
+    "total_from_source": 164886,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3196,
+      "floor-cement-tile-terrazo-granite": 0.2842,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3962
+    }
   },
   {
     "region_id": "LK-31",
@@ -74,7 +104,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 214913
     },
     "total": 575494,
-    "total_from_source": 229521
+    "total_from_source": 229521,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.2937,
+      "floor-cement-tile-terrazo-granite": 0.3329,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3734
+    }
   },
   {
     "region_id": "LK-32",
@@ -85,7 +120,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 164506
     },
     "total": 438941,
-    "total_from_source": 174712
+    "total_from_source": 174712,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3117,
+      "floor-cement-tile-terrazo-granite": 0.3135,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3748
+    }
   },
   {
     "region_id": "LK-33",
@@ -96,7 +136,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 99305
     },
     "total": 278307,
-    "total_from_source": 126362
+    "total_from_source": 126362,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3379,
+      "floor-cement-tile-terrazo-granite": 0.3053,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3568
+    }
   },
   {
     "region_id": "LK-52",
@@ -107,7 +152,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 109563
     },
     "total": 305780,
-    "total_from_source": 132371
+    "total_from_source": 132371,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3226,
+      "floor-cement-tile-terrazo-granite": 0.3191,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3583
+    }
   },
   {
     "region_id": "LK-61",
@@ -118,7 +168,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 284262
     },
     "total": 831075,
-    "total_from_source": 376352
+    "total_from_source": 376352,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3347,
+      "floor-cement-tile-terrazo-granite": 0.3232,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.342
+    }
   },
   {
     "region_id": "LK-62",
@@ -129,7 +184,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 115633
     },
     "total": 377970,
-    "total_from_source": 174737
+    "total_from_source": 174737,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3082,
+      "floor-cement-tile-terrazo-granite": 0.3859,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3059
+    }
   },
   {
     "region_id": "LK-71",
@@ -140,7 +200,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 154479
     },
     "total": 394319,
-    "total_from_source": 186697
+    "total_from_source": 186697,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3339,
+      "floor-cement-tile-terrazo-granite": 0.2743,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3918
+    }
   },
   {
     "region_id": "LK-72",
@@ -151,7 +216,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 75062
     },
     "total": 201944,
-    "total_from_source": 90999
+    "total_from_source": 90999,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3307,
+      "floor-cement-tile-terrazo-granite": 0.2976,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3717
+    }
   },
   {
     "region_id": "LK-81",
@@ -162,7 +232,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 177335
     },
     "total": 429614,
-    "total_from_source": 185268
+    "total_from_source": 185268,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3039,
+      "floor-cement-tile-terrazo-granite": 0.2834,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.4128
+    }
   },
   {
     "region_id": "LK-82",
@@ -173,7 +248,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 81107
     },
     "total": 191867,
-    "total_from_source": 95966
+    "total_from_source": 95966,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.318,
+      "floor-cement-tile-terrazo-granite": 0.2593,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.4227
+    }
   },
   {
     "region_id": "LK-91",
@@ -184,7 +264,12 @@
       "roof-tile-asbestos-concrete-metal-sheets": 226472
     },
     "total": 561505,
-    "total_from_source": 242882
+    "total_from_source": 242882,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.2883,
+      "floor-cement-tile-terrazo-granite": 0.3084,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.4033
+    }
   },
   {
     "region_id": "LK-92",
@@ -195,6 +280,11 @@
       "roof-tile-asbestos-concrete-metal-sheets": 175417
     },
     "total": 466648,
-    "total_from_source": 193578
+    "total_from_source": 193578,
+    "pct_values": {
+      "outer-walls-bricks-cabooks-cement-blocks-stones": 0.3155,
+      "floor-cement-tile-terrazo-granite": 0.3086,
+      "roof-tile-asbestos-concrete-metal-sheets": 0.3759
+    }
   }
 ]

@@ -6,7 +6,10 @@
       "huts-and-shanties": 7278
     },
     "total": 7278,
-    "total_from_source": 473045
+    "total_from_source": 473045,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-12",
@@ -15,7 +18,10 @@
       "huts-and-shanties": 3012
     },
     "total": 3012,
-    "total_from_source": 475847
+    "total_from_source": 475847,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-13",
@@ -24,7 +30,10 @@
       "huts-and-shanties": 1013
     },
     "total": 1013,
-    "total_from_source": 245784
+    "total_from_source": 245784,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-21",
@@ -33,7 +42,10 @@
       "huts-and-shanties": 996
     },
     "total": 996,
-    "total_from_source": 291454
+    "total_from_source": 291454,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-22",
@@ -42,7 +54,10 @@
       "huts-and-shanties": 449
     },
     "total": 449,
-    "total_from_source": 108566
+    "total_from_source": 108566,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-23",
@@ -51,7 +66,10 @@
       "huts-and-shanties": 1549
     },
     "total": 1549,
-    "total_from_source": 164886
+    "total_from_source": 164886,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-31",
@@ -60,7 +78,10 @@
       "huts-and-shanties": 991
     },
     "total": 991,
-    "total_from_source": 229521
+    "total_from_source": 229521,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-32",
@@ -69,7 +90,10 @@
       "huts-and-shanties": 741
     },
     "total": 741,
-    "total_from_source": 174712
+    "total_from_source": 174712,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-33",
@@ -78,7 +102,10 @@
       "huts-and-shanties": 877
     },
     "total": 877,
-    "total_from_source": 126362
+    "total_from_source": 126362,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-52",
@@ -87,7 +114,10 @@
       "huts-and-shanties": 4513
     },
     "total": 4513,
-    "total_from_source": 132371
+    "total_from_source": 132371,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-61",
@@ -96,7 +126,10 @@
       "huts-and-shanties": 2388
     },
     "total": 2388,
-    "total_from_source": 376352
+    "total_from_source": 376352,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-62",
@@ -105,7 +138,10 @@
       "huts-and-shanties": 4919
     },
     "total": 4919,
-    "total_from_source": 174737
+    "total_from_source": 174737,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-71",
@@ -114,7 +150,10 @@
       "huts-and-shanties": 852
     },
     "total": 852,
-    "total_from_source": 186697
+    "total_from_source": 186697,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-72",
@@ -123,7 +162,10 @@
       "huts-and-shanties": 503
     },
     "total": 503,
-    "total_from_source": 90999
+    "total_from_source": 90999,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-81",
@@ -132,7 +174,10 @@
       "huts-and-shanties": 783
     },
     "total": 783,
-    "total_from_source": 185268
+    "total_from_source": 185268,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-82",
@@ -141,7 +186,10 @@
       "huts-and-shanties": 743
     },
     "total": 743,
-    "total_from_source": 95966
+    "total_from_source": 95966,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-91",
@@ -150,7 +198,10 @@
       "huts-and-shanties": 745
     },
     "total": 745,
-    "total_from_source": 242882
+    "total_from_source": 242882,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   },
   {
     "region_id": "LK-92",
@@ -159,6 +210,9 @@
       "huts-and-shanties": 836
     },
     "total": 836,
-    "total_from_source": 193578
+    "total_from_source": 193578,
+    "pct_values": {
+      "huts-and-shanties": 1.0
+    }
   }
 ]

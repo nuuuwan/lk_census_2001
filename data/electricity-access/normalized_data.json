@@ -9,7 +9,13 @@
       "estate": 666
     },
     "total": 847808,
-    "total_from_source": 493085
+    "total_from_source": 493085,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.255,
+      "rural": 0.2442,
+      "estate": 0.0008
+    }
   },
   {
     "region_id": "LK-12",
@@ -21,7 +27,13 @@
       "estate": 40
     },
     "total": 808652,
-    "total_from_source": 487184
+    "total_from_source": 487184,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0687,
+      "rural": 0.4313,
+      "estate": 0.0
+    }
   },
   {
     "region_id": "LK-13",
@@ -33,7 +45,13 @@
       "estate": 2371
     },
     "total": 360436,
-    "total_from_source": 250939
+    "total_from_source": 250939,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0542,
+      "rural": 0.4392,
+      "estate": 0.0066
+    }
   },
   {
     "region_id": "LK-21",
@@ -45,7 +63,13 @@
       "estate": 6825
     },
     "total": 422576,
-    "total_from_source": 299870
+    "total_from_source": 299870,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0664,
+      "rural": 0.4174,
+      "estate": 0.0162
+    }
   },
   {
     "region_id": "LK-22",
@@ -57,7 +81,13 @@
       "estate": 1330
     },
     "total": 112088,
-    "total_from_source": 110886
+    "total_from_source": 110886,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0579,
+      "rural": 0.4302,
+      "estate": 0.0119
+    }
   },
   {
     "region_id": "LK-23",
@@ -69,7 +99,13 @@
       "estate": 40465
     },
     "total": 182022,
-    "total_from_source": 169540
+    "total_from_source": 169540,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.043,
+      "rural": 0.2347,
+      "estate": 0.2223
+    }
   },
   {
     "region_id": "LK-31",
@@ -81,7 +117,13 @@
       "estate": 1488
     },
     "total": 338338,
-    "total_from_source": 233027
+    "total_from_source": 233027,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0555,
+      "rural": 0.4401,
+      "estate": 0.0044
+    }
   },
   {
     "region_id": "LK-32",
@@ -93,7 +135,13 @@
       "estate": 1370
     },
     "total": 254124,
-    "total_from_source": 177613
+    "total_from_source": 177613,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0474,
+      "rural": 0.4472,
+      "estate": 0.0054
+    }
   },
   {
     "region_id": "LK-33",
@@ -105,7 +153,13 @@
       "estate": 80
     },
     "total": 124374,
-    "total_from_source": 128008
+    "total_from_source": 128008,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0316,
+      "rural": 0.4677,
+      "estate": 0.0006
+    }
   },
   {
     "region_id": "LK-52",
@@ -117,7 +171,13 @@
       "estate": 0
     },
     "total": 137332,
-    "total_from_source": 137741
+    "total_from_source": 137741,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.1377,
+      "rural": 0.3623,
+      "estate": 0.0
+    }
   },
   {
     "region_id": "LK-61",
@@ -129,7 +189,13 @@
       "estate": 474
     },
     "total": 387920,
-    "total_from_source": 380213
+    "total_from_source": 380213,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0143,
+      "rural": 0.4845,
+      "estate": 0.0012
+    }
   },
   {
     "region_id": "LK-62",
@@ -141,7 +207,13 @@
       "estate": 346
     },
     "total": 184854,
-    "total_from_source": 176544
+    "total_from_source": 176544,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0598,
+      "rural": 0.4383,
+      "estate": 0.0019
+    }
   },
   {
     "region_id": "LK-71",
@@ -153,7 +225,13 @@
       "estate": 198
     },
     "total": 184296,
-    "total_from_source": 189699
+    "total_from_source": 189699,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0513,
+      "rural": 0.4476,
+      "estate": 0.0011
+    }
   },
   {
     "region_id": "LK-72",
@@ -165,7 +243,13 @@
       "estate": 91
     },
     "total": 82798,
-    "total_from_source": 91718
+    "total_from_source": 91718,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0,
+      "rural": 0.4989,
+      "estate": 0.0011
+    }
   },
   {
     "region_id": "LK-81",
@@ -177,7 +261,13 @@
       "estate": 19176
     },
     "total": 223924,
-    "total_from_source": 189925
+    "total_from_source": 189925,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0429,
+      "rural": 0.3714,
+      "estate": 0.0856
+    }
   },
   {
     "region_id": "LK-82",
@@ -189,7 +279,13 @@
       "estate": 675
     },
     "total": 61022,
-    "total_from_source": 96598
+    "total_from_source": 96598,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0,
+      "rural": 0.4889,
+      "estate": 0.0111
+    }
   },
   {
     "region_id": "LK-91",
@@ -201,7 +297,13 @@
       "estate": 5485
     },
     "total": 221896,
-    "total_from_source": 245743
+    "total_from_source": 245743,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0466,
+      "rural": 0.4287,
+      "estate": 0.0247
+    }
   },
   {
     "region_id": "LK-92",
@@ -213,6 +315,12 @@
       "estate": 3169
     },
     "total": 221778,
-    "total_from_source": 195853
+    "total_from_source": 195853,
+    "pct_values": {
+      "using-electricity": 0.5,
+      "urban": 0.0136,
+      "rural": 0.4721,
+      "estate": 0.0143
+    }
   }
 ]
