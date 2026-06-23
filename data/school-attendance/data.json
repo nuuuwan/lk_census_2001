@@ -3,209 +3,209 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 94.4,
+      "aged-10-14-years-pct": 92.2,
+      "aged-15-19-years-pct": 52.6,
+      "aged-06-14-years-pct": 93.2,
+      "aged-06-19-years-pct": 77.9
     }
   },
   {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 93.2,
+      "aged-10-14-years-pct": 90.3,
+      "aged-15-19-years-pct": 46.3,
+      "aged-06-14-years-pct": 91.6,
+      "aged-06-19-years-pct": 72.9
     }
   },
   {
     "region_id": "LK-12",
     "region_name": "Gampaha",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 95.6,
+      "aged-10-14-years-pct": 93.3,
+      "aged-15-19-years-pct": 46.0,
+      "aged-06-14-years-pct": 94.3,
+      "aged-06-19-years-pct": 74.5
     }
   },
   {
     "region_id": "LK-13",
     "region_name": "Kalutara",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 93.8,
+      "aged-10-14-years-pct": 91.2,
+      "aged-15-19-years-pct": 51.5,
+      "aged-06-14-years-pct": 92.3,
+      "aged-06-19-years-pct": 76.6
     }
   },
   {
     "region_id": "LK-21",
     "region_name": "Kandy",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 94.8,
+      "aged-10-14-years-pct": 93.2,
+      "aged-15-19-years-pct": 60.0,
+      "aged-06-14-years-pct": 93.9,
+      "aged-06-19-years-pct": 81.3
     }
   },
   {
     "region_id": "LK-22",
     "region_name": "Matale",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 95.4,
+      "aged-10-14-years-pct": 93.7,
+      "aged-15-19-years-pct": 54.2,
+      "aged-06-14-years-pct": 94.5,
+      "aged-06-19-years-pct": 79.3
     }
   },
   {
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 91.0,
+      "aged-10-14-years-pct": 88.7,
+      "aged-15-19-years-pct": 50.9,
+      "aged-06-14-years-pct": 89.7,
+      "aged-06-19-years-pct": 75.8
     }
   },
   {
     "region_id": "LK-31",
     "region_name": "Galle",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 95.0,
+      "aged-10-14-years-pct": 93.4,
+      "aged-15-19-years-pct": 55.8,
+      "aged-06-14-years-pct": 94.1,
+      "aged-06-19-years-pct": 80.2
     }
   },
   {
     "region_id": "LK-32",
     "region_name": "Matara",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 94.8,
+      "aged-10-14-years-pct": 93.6,
+      "aged-15-19-years-pct": 60.5,
+      "aged-06-14-years-pct": 94.1,
+      "aged-06-19-years-pct": 82.0
     }
   },
   {
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 96.0,
+      "aged-10-14-years-pct": 95.1,
+      "aged-15-19-years-pct": 59.3,
+      "aged-06-14-years-pct": 95.5,
+      "aged-06-19-years-pct": 82.7
     }
   },
   {
     "region_id": "LK-52",
     "region_name": "Ampara",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 92.8,
+      "aged-10-14-years-pct": 90.0,
+      "aged-15-19-years-pct": 50.8,
+      "aged-06-14-years-pct": 91.3,
+      "aged-06-19-years-pct": 76.5
     }
   },
   {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 95.3,
+      "aged-10-14-years-pct": 93.6,
+      "aged-15-19-years-pct": 57.6,
+      "aged-06-14-years-pct": 94.4,
+      "aged-06-19-years-pct": 80.3
     }
   },
   {
     "region_id": "LK-62",
     "region_name": "Puttalam",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 93.5,
+      "aged-10-14-years-pct": 88.9,
+      "aged-15-19-years-pct": 41.9,
+      "aged-06-14-years-pct": 91.0,
+      "aged-06-19-years-pct": 72.5
     }
   },
   {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 95.6,
+      "aged-10-14-years-pct": 93.9,
+      "aged-15-19-years-pct": 53.1,
+      "aged-06-14-years-pct": 94.7,
+      "aged-06-19-years-pct": 79.7
     }
   },
   {
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 94.5,
+      "aged-10-14-years-pct": 92.1,
+      "aged-15-19-years-pct": 47.4,
+      "aged-06-14-years-pct": 93.1,
+      "aged-06-19-years-pct": 76.4
     }
   },
   {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 93.9,
+      "aged-10-14-years-pct": 92.1,
+      "aged-15-19-years-pct": 57.6,
+      "aged-06-14-years-pct": 92.9,
+      "aged-06-19-years-pct": 80.5
     }
   },
   {
     "region_id": "LK-82",
     "region_name": "Moneragala",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 95.6,
+      "aged-10-14-years-pct": 94.1,
+      "aged-15-19-years-pct": 56.2,
+      "aged-06-14-years-pct": 94.7,
+      "aged-06-19-years-pct": 81.5
     }
   },
   {
     "region_id": "LK-91",
     "region_name": "Ratnapura",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 93.3,
+      "aged-10-14-years-pct": 90.8,
+      "aged-15-19-years-pct": 51.8,
+      "aged-06-14-years-pct": 91.9,
+      "aged-06-19-years-pct": 77.2
     }
   },
   {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "values": {
-      "aged-06-09-years": null,
-      "aged-10-14-years": null,
-      "aged-15-19-years": null,
-      "aged-06-14-years": null,
-      "aged-06-19-years": null
+      "aged-06-09-years-pct": 94.7,
+      "aged-10-14-years-pct": 93.2,
+      "aged-15-19-years-pct": 58.4,
+      "aged-06-14-years-pct": 93.9,
+      "aged-06-19-years-pct": 80.7
     }
   }
 ]

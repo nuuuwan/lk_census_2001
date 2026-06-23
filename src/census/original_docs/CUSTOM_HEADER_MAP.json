@@ -474,11 +474,11 @@
   ],
   "school-attendance": [
     "district",
-    "aged-06-09-years",
-    "aged-10-14-years",
-    "aged-15-19-years",
-    "aged-06-14-years",
-    "aged-06-19-years"
+    "aged-06-09-years-pct",
+    "aged-10-14-years-pct",
+    "aged-15-19-years-pct",
+    "aged-06-14-years-pct",
+    "aged-06-19-years-pct"
   ],
   "school-not-attending": [
     "district",

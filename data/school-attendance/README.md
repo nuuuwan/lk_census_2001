@@ -16,11 +16,11 @@
     "region_id": "LK-81",
     "region_name": "Badulla",
     "values": {
-        "aged-06-09-years": null,
-        "aged-10-14-years": null,
-        "aged-15-19-years": null,
-        "aged-06-14-years": null,
-        "aged-06-19-years": null
+        "aged-06-09-years-pct": 93.9,
+        "aged-10-14-years-pct": 92.1,
+        "aged-15-19-years-pct": 57.6,
+        "aged-06-14-years-pct": 92.9,
+        "aged-06-19-years-pct": 80.5
     }
 }
 ```
