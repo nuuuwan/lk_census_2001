@@ -1,7 +1,6 @@
 # Percentage of population aged 10 years and over in major ethnic groups by district and ability to speak, Sinhala, Tamil and English languages
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 

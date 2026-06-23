@@ -1,7 +1,6 @@
 # Percentage of population aged 5 years and over by district and educational attainment
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 

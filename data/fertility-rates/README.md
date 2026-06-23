@@ -1,7 +1,6 @@
 # Average children born alive per ever married woman aged 15 years and over by district and sector
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 

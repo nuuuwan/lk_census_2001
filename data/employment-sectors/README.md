@@ -1,7 +1,6 @@
 # Number and percentage of agricultural and fishery workers and non-agricultural and fishery workers by district
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 
