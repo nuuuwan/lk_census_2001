@@ -145,11 +145,9 @@
     "district",
     "total-employed-population-aged-10-years-and-over",
     "agricultural-and-fishery-workers-including-unskilled-labourers",
-    "na",
-    "agricultural-and-fishery-workers-including-unskilled-labourers",
+    "agricultural-and-fishery-workers-including-unskilled-labourers-pct",
     "non-agricultural-and-fishery-workers",
-    "na-2",
-    "non-agricultural-and-fishery-workers"
+    "non-agricultural-and-fishery-workers-pct"
   ],
   "employment-status": [
     "district",
