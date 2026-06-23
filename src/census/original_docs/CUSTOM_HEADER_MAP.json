@@ -72,9 +72,9 @@
   ],
   "district-age-distribution": [
     "district",
-    "total-population",
-    "0-4",
-    "5-9",
+    "total",
+    "00-04",
+    "05-09",
     "10-14",
     "15-19",
     "20-24",
@@ -94,11 +94,11 @@
     "district",
     "population-aged-5-years-and-over",
     "na",
-    "percentage-completed-primary-education-passed-year-1-5",
+    "completed-primary-education-passed-year-1-5-pct",
     "na-2",
-    "percentage-completed-lower-secondary-passed-year-6-8",
-    "percentage-completed-upper-secondary-passed-year-9-11",
-    "percentage-completed-tertiary-education-passed-gce-al-above"
+    "completed-lower-secondary-passed-year-6-8-pct",
+    "completed-upper-secondary-passed-year-9-11-pct",
+    "completed-tertiary-education-passed-gce-al-above-pct"
   ],
   "educational-enrollment": [
     "district",
