@@ -11,7 +11,13 @@ class OriginalDocDataConstanstsMixin:
 
     @cached_property
     def custom_header_map(self):
-        return JSONFile(self.CUSTOM_HEADER_MAP_PATH).read()
+        custom_header_map_file = JSONFile(self.CUSTOM_HEADER_MAP_PATH)
+        custom_header_map = custom_header_map_file.read()
+        custom_header_map = dict(
+            sorted(custom_header_map.items(), key=lambda x: x[0])
+        )
+        custom_header_map_file.write(custom_header_map)
+        return custom_header_map_file.read()
 
     def get_custom_headers(self):
         return self.custom_header_map.get(self.doc_id, None)
