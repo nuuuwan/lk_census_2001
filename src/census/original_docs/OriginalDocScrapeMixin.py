@@ -14,8 +14,9 @@ class OriginalDocScrapeMixin:
 
     INDEX_URLS = [
         # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Population",
-        "https://www.statistics.gov.lk" + "/Population/PopHouStat_Housing",
-        # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Disability",
+        # "https://www.statistics.gov.lk" + "/Population/PopHouStat_Housing",
+        "https://www.statistics.gov.lk"
+        + "/Population/PopHouStat_Disability",
     ]
 
     @staticmethod
@@ -25,6 +26,7 @@ class OriginalDocScrapeMixin:
             + "/Population/StaticalInformation/CPH2001/",
             "https://www.statistics.gov.lk" + "/Population/p",
             "https://www.statistics.gov.lk" + "/Population/Housing/p",
+            "https://www.statistics.gov.lk" + "/Population/Disability/p",
         ]:
             if url.startswith(prefix):
                 return True
