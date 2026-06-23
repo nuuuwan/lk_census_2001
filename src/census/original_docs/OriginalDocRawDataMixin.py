@@ -95,3 +95,6 @@ class OriginalDocRawDataMixin:
         json_file.write(data_list)
         log.debug(f"Wrote {len(data_list)} rows -> {json_file}")
         return data_list
+
+    def get_raw_data_list(self):
+        return JSONFile(self.raw_data_file_path).read()

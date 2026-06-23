@@ -105,7 +105,7 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
         return None
 
     def parse_raw_data_by_district(self):
-        raw_rows = JSONFile(self.raw_data_file_path).read()
+        raw_rows = self.get_raw_data_list()
         raw_header_rows, raw_data_rows = (
             self.split_raw_header_and_raw_data_rows(raw_rows)
         )
@@ -132,7 +132,8 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
         log.debug(f"Wrote {len(data_list)} rows to {data_file}")
 
     def is_by_district(self):
-        raw_data_content = File(self.raw_data_file_path).read().lower()
+        raw_data_list = JSONFile(self.raw_data_file_path).read()
+        raw_data_content = str(raw_data_list).lower()
         return (
             "colombo" in raw_data_content
             and "gampaha" in raw_data_content
@@ -148,3 +149,9 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
         if self.is_by_district():
             return self.parse_raw_data_by_district()
         log.warning(f"Unknown doc_id format for parsing: {self.doc_id}")
+
+    def get_data_list(self):
+        data_file = JSONFile(self.data_file_path)
+        if not data_file.exists:
+            return None
+        return JSONFile(self.data_file_path).read()
