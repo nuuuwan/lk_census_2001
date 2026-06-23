@@ -310,15 +310,16 @@
     "huts-and-shanties",
     "huts-and-shanties-pct"
   ],
-  "labor-participation": [
+  "laborforce-participation": [
     "district",
-    "aged-10-years-and-over",
-    "total",
-    "male",
-    "female"
+    "total-emploted-aged-10-years-and-over",
+    "total-rate",
+    "male-rate",
+    "female-rate"
   ],
   "leg-disability-causes": [
-    "district",
+    "sub-category",
+    "sex",
     "total",
     "total-pct",
     "congenital",
@@ -328,10 +329,8 @@
     "road-traffic-accident",
     "road-traffic-accident-pct",
     "occupational-accident",
-    "na",
     "occupational-accident-pct",
     "riot-and-violence",
-    "na-2",
     "riot-and-violence-pct",
     "other-accident",
     "other-accident-pct",
@@ -340,7 +339,6 @@
     "other",
     "other-pct",
     "not-specified",
-    "na-3",
     "not-specified-pct"
   ],
   "linguistic-capacity": [

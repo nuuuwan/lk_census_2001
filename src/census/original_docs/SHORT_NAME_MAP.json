@@ -3,7 +3,7 @@
   "average-rooms-per-occupied-housing-unit-by-district-and-type-of-housing-unit": "room-count",
   "disabled-persons-by-type-of-disability-age-and-sex": "disability-demographics",
   "disabled-persons-by-type-of-disability-sex-rate-per-10000-population-and-district": "disability-prevalence",
-  "labour-force-participation-rates-by-district-and-sex": "labor-participation",
+  "labour-force-participation-rates-by-district-and-sex": "laborforce-participation",
   "literacy-rates-by-district-sex-and-sector": "literacy-rates",
   "number-and-percentage-of-agricultural-and-fishery-workers-and-nonagricultural-and-fishery-workers-by-district": "employment-sectors",
   "number-and-percentage-of-households-using-electricity-for-lighting-by-district-and-sector": "electricity-access",
