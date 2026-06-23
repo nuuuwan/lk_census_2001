@@ -5,7 +5,7 @@
     "values": {
       "total": 91.1,
       "male": 92.6,
-      "na": null,
+      "na": 0,
       "female": 89.7,
       "urban": 93.4,
       "rural": 91.7,
@@ -18,7 +18,7 @@
     "values": {
       "total": 94.7,
       "male": 95.3,
-      "na": null,
+      "na": 0,
       "female": 94.0,
       "urban": 93.3,
       "rural": 96.4,
@@ -31,7 +31,7 @@
     "values": {
       "total": 95.4,
       "male": 95.7,
-      "na": null,
+      "na": 0,
       "female": 95.1,
       "urban": 93.7,
       "rural": 95.7,
@@ -44,7 +44,7 @@
     "values": {
       "total": 93.2,
       "male": 93.7,
-      "na": null,
+      "na": 0,
       "female": 92.6,
       "urban": 93.6,
       "rural": 93.7,
@@ -57,7 +57,7 @@
     "values": {
       "total": 90.5,
       "male": 92.4,
-      "na": null,
+      "na": 0,
       "female": 88.7,
       "urban": 94.7,
       "rural": 91.2,
@@ -70,7 +70,7 @@
     "values": {
       "total": 88.3,
       "male": 90.2,
-      "na": null,
+      "na": 0,
       "female": 86.4,
       "urban": 93.9,
       "rural": 88.5,
@@ -83,7 +83,7 @@
     "values": {
       "total": 82.6,
       "male": 87.6,
-      "na": null,
+      "na": 0,
       "female": 77.7,
       "urban": 92.9,
       "rural": 88.9,
@@ -96,7 +96,7 @@
     "values": {
       "total": 92.3,
       "male": 93.2,
-      "na": null,
+      "na": 0,
       "female": 91.5,
       "urban": 94.9,
       "rural": 92.5,
@@ -109,7 +109,7 @@
     "values": {
       "total": 90.3,
       "male": 91.9,
-      "na": null,
+      "na": 0,
       "female": 88.9,
       "urban": 95.9,
       "rural": 90.8,
@@ -122,7 +122,7 @@
     "values": {
       "total": 88.9,
       "male": 90.9,
-      "na": null,
+      "na": 0,
       "female": 87.0,
       "urban": 93.6,
       "rural": 88.9,
@@ -135,7 +135,7 @@
     "values": {
       "total": 85.9,
       "male": 88.9,
-      "na": null,
+      "na": 0,
       "female": 82.9,
       "urban": 88.9,
       "rural": 85.2,
@@ -148,7 +148,7 @@
     "values": {
       "total": 92.7,
       "male": 93.9,
-      "na": null,
+      "na": 0,
       "female": 91.5,
       "urban": 94.8,
       "rural": 92.7,
@@ -161,7 +161,7 @@
     "values": {
       "total": 90.7,
       "male": 91.2,
-      "na": null,
+      "na": 0,
       "female": 90.3,
       "urban": 88.3,
       "rural": 91.0,
@@ -174,7 +174,7 @@
     "values": {
       "total": 90.5,
       "male": 92.0,
-      "na": null,
+      "na": 0,
       "female": 88.8,
       "urban": 96.0,
       "rural": 90.0,
@@ -187,7 +187,7 @@
     "values": {
       "total": 90.0,
       "male": 91.2,
-      "na": null,
+      "na": 0,
       "female": 88.7,
       "urban": 0,
       "rural": 90.0,
@@ -200,7 +200,7 @@
     "values": {
       "total": 85.2,
       "male": 88.9,
-      "na": null,
+      "na": 0,
       "female": 81.7,
       "urban": 93.8,
       "rural": 87.1,
@@ -213,7 +213,7 @@
     "values": {
       "total": 86.0,
       "male": 88.1,
-      "na": null,
+      "na": 0,
       "female": 83.8,
       "urban": 0,
       "rural": 86.2,
@@ -226,7 +226,7 @@
     "values": {
       "total": 88.4,
       "male": 90.4,
-      "na": null,
+      "na": 0,
       "female": 86.2,
       "urban": 94.3,
       "rural": 89.8,
@@ -239,7 +239,7 @@
     "values": {
       "total": 91.4,
       "male": 93.0,
-      "na": null,
+      "na": 0,
       "female": 89.8,
       "urban": 94.6,
       "rural": 92.5,

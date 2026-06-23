@@ -26,6 +26,6 @@ class OriginalDocValidateMixin:
             group_to_doc_id[status].append(doc.doc_id)
 
         for group, doc_ids in group_to_doc_id.items():
-            log.info(f"{group}: {len(doc_ids)} docs")
+            log.debug(f"{group}: {len(doc_ids)} docs")
             for doc_id in doc_ids:
                 log.debug(f"\t{doc_id}")

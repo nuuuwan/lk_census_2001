@@ -300,11 +300,11 @@
     "region_id": "total",
     "region_name": "District-Total",
     "values": {
-      "census-1981-population": null,
-      "census-2001-population": null,
-      "intercensal-increase-no": null,
-      "intercensal-increase-pct": null,
-      "annual-growth-rate": null
+      "census-1981-population": 0,
+      "census-2001-population": 0,
+      "intercensal-increase-no": 0,
+      "intercensal-increase-pct": 0,
+      "annual-growth-rate": 0
     }
   }
 ]

@@ -2,8 +2,9 @@ import os
 import re
 from functools import cached_property
 
-from census.original_docs.OriginalDocDataConstanstsMixin import \
-    OriginalDocDataConstanstsMixin
+from census.original_docs.OriginalDocDataConstanstsMixin import (
+    OriginalDocDataConstanstsMixin,
+)
 from census.original_docs.RegionUtils import RegionUtils
 from utils_future import File, JSONFile, Log
 
@@ -55,7 +56,7 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
 
     def parse_float(self, value):
         value = str(value).strip()
-        if value == "-":
+        if value in ["-", ""]:
             return 0
         value = value.replace(",", "")
         try:
@@ -118,7 +119,7 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
 
         data_file = JSONFile(self.data_file_path)
         data_file.write(data_list)
-        log.info(f"Wrote {len(data_list)} rows to {data_file}")
+        log.debug(f"Wrote {len(data_list)} rows to {data_file}")
 
     def is_by_district(self):
         raw_data_content = File(self.raw_data_file_path).read().lower()

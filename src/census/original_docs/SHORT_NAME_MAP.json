@@ -40,5 +40,8 @@
   "population-by-district-size-intercensal-increase-and-average-growth-rates-census-1981-and-census-2001": "population-growth",
   "populationresident-since-birth-migrants-and-duration-of-residence-by-district-of-usual-residence": "migration-patterns",
   "totalyoung-and-old-dependency-ratios-by-district": "dependency-ratios",
-  "persons-with-other-physical-disability-by-sector-cause-of-disability-and-sex": "disability-sector"
+  "persons-with-other-physical-disability-by-sector-cause-of-disability-and-sex": "disability-sector",
+  "number-and-percentage-of-population-by-district-and-marital-status": "marital-status",
+  "number-and-percentage-of-population-by-district-and-ethnic-group": "ethnicity",
+  "unemployment-rates-by-district-and-level-of-education": "unemployment-education"
 }

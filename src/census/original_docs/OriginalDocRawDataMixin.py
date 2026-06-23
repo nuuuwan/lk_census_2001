@@ -37,5 +37,5 @@ class OriginalDocRawDataMixin:
         df = max(tables, key=lambda t: len(t.df)).df
         data = df.values.tolist()
         json_file.write(data)
-        log.info(f"Wrote {len(data)} rows -> {json_file}")
+        log.debug(f"Wrote {len(data)} rows -> {json_file}")
         return data

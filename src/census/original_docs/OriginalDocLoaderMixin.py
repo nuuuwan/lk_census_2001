@@ -21,7 +21,7 @@ class OriginalDocLoaderMixin:
                 url=self.url,
             )
         )
-        log.info(f"Wrote {metadata_file}")
+        log.debug(f"Wrote {metadata_file}")
 
     @classmethod
     def list(cls):

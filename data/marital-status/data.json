@@ -1,0 +1,363 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-population": 16929689.0,
+      "never-married-no": 8264148.0,
+      "never-married-pct": 48.8,
+      "married-total-no": 7817703.0,
+      "married-total-pct": 46.2,
+      "married-registered-no": 7420794.0,
+      "married-registered-pct": 43.8,
+      "married-customary-no": 396909.0,
+      "married-customary-pct": 2.3,
+      "widowed-no": 549594.0,
+      "widowed-pct": 3.2,
+      "divorced-no": 23820.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-population": 2251274.0,
+      "never-married-no": 1089815.0,
+      "never-married-pct": 48.4,
+      "married-total-no": 1053168.0,
+      "married-total-pct": 46.8,
+      "married-registered-no": 1006987.0,
+      "married-registered-pct": 44.7,
+      "married-customary-no": 46181.0,
+      "married-customary-pct": 2.1,
+      "widowed-no": 70407.0,
+      "widowed-pct": 3.1,
+      "divorced-no": 3533.0,
+      "divorced-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-population": 2063684.0,
+      "never-married-no": 993155.0,
+      "never-married-pct": 48.1,
+      "married-total-no": 965569.0,
+      "married-total-pct": 46.8,
+      "married-registered-no": 919064.0,
+      "married-registered-pct": 44.5,
+      "married-customary-no": 46505.0,
+      "married-customary-pct": 2.3,
+      "widowed-no": 72719.0,
+      "widowed-pct": 3.5,
+      "divorced-no": 3020.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-population": 1066239.0,
+      "never-married-no": 502754.0,
+      "never-married-pct": 47.2,
+      "married-total-no": 504338.0,
+      "married-total-pct": 47.3,
+      "married-registered-no": 482697.0,
+      "married-registered-pct": 45.3,
+      "married-customary-no": 21641.0,
+      "married-customary-pct": 2.0,
+      "widowed-no": 35663.0,
+      "widowed-pct": 3.3,
+      "divorced-no": 1469.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-population": 1279028.0,
+      "never-married-no": 636485.0,
+      "never-married-pct": 49.8,
+      "married-total-no": 577870.0,
+      "married-total-pct": 45.2,
+      "married-registered-no": 547749.0,
+      "married-registered-pct": 42.8,
+      "married-customary-no": 30121.0,
+      "married-customary-pct": 2.4,
+      "widowed-no": 42121.0,
+      "widowed-pct": 3.3,
+      "divorced-no": 1663.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-population": 441328.0,
+      "never-married-no": 213130.0,
+      "never-married-pct": 48.3,
+      "married-total-no": 205416.0,
+      "married-total-pct": 46.5,
+      "married-registered-no": 194098.0,
+      "married-registered-pct": 44.0,
+      "married-customary-no": 11318.0,
+      "married-customary-pct": 2.6,
+      "widowed-no": 16214.0,
+      "widowed-pct": 3.7,
+      "divorced-no": 646.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-population": 703610.0,
+      "never-married-no": 348465.0,
+      "never-married-pct": 49.5,
+      "married-total-no": 322197.0,
+      "married-total-pct": 45.8,
+      "married-registered-no": 290260.0,
+      "married-registered-pct": 41.3,
+      "married-customary-no": 31937.0,
+      "married-customary-pct": 4.5,
+      "widowed-no": 20870.0,
+      "widowed-pct": 3.0,
+      "divorced-no": 683.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-population": 990487.0,
+      "never-married-no": 492852.0,
+      "never-married-pct": 49.8,
+      "married-total-no": 451845.0,
+      "married-total-pct": 45.6,
+      "married-registered-no": 434167.0,
+      "married-registered-pct": 43.8,
+      "married-customary-no": 17678.0,
+      "married-customary-pct": 1.8,
+      "widowed-no": 31599.0,
+      "widowed-pct": 3.2,
+      "divorced-no": 1128.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-population": 761370.0,
+      "never-married-no": 387128.0,
+      "never-married-pct": 50.8,
+      "married-total-no": 339535.0,
+      "married-total-pct": 44.6,
+      "married-registered-no": 326553.0,
+      "married-registered-pct": 42.9,
+      "married-customary-no": 12982.0,
+      "married-customary-pct": 1.7,
+      "widowed-no": 23941.0,
+      "widowed-pct": 3.1,
+      "divorced-no": 881.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-population": 526414.0,
+      "never-married-no": 268662.0,
+      "never-married-pct": 51.0,
+      "married-total-no": 234267.0,
+      "married-total-pct": 44.5,
+      "married-registered-no": 223790.0,
+      "married-registered-pct": 42.5,
+      "married-customary-no": 10477.0,
+      "married-customary-pct": 2.0,
+      "widowed-no": 15273.0,
+      "widowed-pct": 2.9,
+      "divorced-no": 636.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-population": 592997.0,
+      "never-married-no": 315106.0,
+      "never-married-pct": 53.1,
+      "married-total-no": 250239.0,
+      "married-total-pct": 42.2,
+      "married-registered-no": 231836.0,
+      "married-registered-pct": 39.1,
+      "married-customary-no": 18403.0,
+      "married-customary-pct": 3.1,
+      "widowed-no": 17393.0,
+      "widowed-pct": 2.9,
+      "divorced-no": 1170.0,
+      "divorced-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-population": 1460215.0,
+      "never-married-no": 670500.0,
+      "never-married-pct": 45.9,
+      "married-total-no": 697227.0,
+      "married-total-pct": 47.7,
+      "married-registered-no": 669514.0,
+      "married-registered-pct": 45.9,
+      "married-customary-no": 27713.0,
+      "married-customary-pct": 1.9,
+      "widowed-no": 60001.0,
+      "widowed-pct": 4.1,
+      "divorced-no": 3034.0,
+      "divorced-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-population": 709677.0,
+      "never-married-no": 343972.0,
+      "never-married-pct": 48.5,
+      "married-total-no": 323844.0,
+      "married-total-pct": 45.6,
+      "married-registered-no": 303488.0,
+      "married-registered-pct": 42.8,
+      "married-customary-no": 20356.0,
+      "married-customary-pct": 2.9,
+      "widowed-no": 25862.0,
+      "widowed-pct": 3.6,
+      "divorced-no": 1140.0,
+      "divorced-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-population": 745693.0,
+      "never-married-no": 360760.0,
+      "never-married-pct": 48.4,
+      "married-total-no": 348638.0,
+      "married-total-pct": 46.8,
+      "married-registered-no": 331511.0,
+      "married-registered-pct": 44.5,
+      "married-customary-no": 17127.0,
+      "married-customary-pct": 2.3,
+      "widowed-no": 23725.0,
+      "widowed-pct": 3.2,
+      "divorced-no": 998.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-population": 358984.0,
+      "never-married-no": 172910.0,
+      "never-married-pct": 48.2,
+      "married-total-no": 171057.0,
+      "married-total-pct": 47.7,
+      "married-registered-no": 163109.0,
+      "married-registered-pct": 45.4,
+      "married-customary-no": 7948.0,
+      "married-customary-pct": 2.2,
+      "widowed-no": 9586.0,
+      "widowed-pct": 2.7,
+      "divorced-no": 429.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-population": 779983.0,
+      "never-married-no": 389551.0,
+      "never-married-pct": 49.9,
+      "married-total-no": 355063.0,
+      "married-total-pct": 45.5,
+      "married-registered-no": 334923.0,
+      "married-registered-pct": 42.9,
+      "married-customary-no": 20140.0,
+      "married-customary-pct": 2.6,
+      "widowed-no": 21518.0,
+      "widowed-pct": 2.8,
+      "divorced-no": 691.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-population": 397375.0,
+      "never-married-no": 206034.0,
+      "never-married-pct": 51.8,
+      "married-total-no": 176112.0,
+      "married-total-pct": 44.3,
+      "married-registered-no": 168570.0,
+      "married-registered-pct": 42.4,
+      "married-customary-no": 7542.0,
+      "married-customary-pct": 1.9,
+      "widowed-no": 9198.0,
+      "widowed-pct": 2.3,
+      "divorced-no": 333.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-population": 1015807.0,
+      "never-married-no": 502797.0,
+      "never-married-pct": 49.5,
+      "married-total-no": 466868.0,
+      "married-total-pct": 46.0,
+      "married-registered-no": 436594.0,
+      "married-registered-pct": 43.0,
+      "married-customary-no": 30274.0,
+      "married-customary-pct": 3.0,
+      "widowed-no": 26940.0,
+      "widowed-pct": 2.7,
+      "divorced-no": 1173.0,
+      "divorced-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-population": 785524.0,
+      "never-married-no": 370072.0,
+      "never-married-pct": 47.1,
+      "married-total-no": 374450.0,
+      "married-total-pct": 47.7,
+      "married-registered-no": 355884.0,
+      "married-registered-pct": 45.3,
+      "married-customary-no": 18566.0,
+      "married-customary-pct": 2.4,
+      "widowed-no": 26564.0,
+      "widowed-pct": 3.4,
+      "divorced-no": 1193.0,
+      "divorced-pct": 0.2
+    }
+  }
+]

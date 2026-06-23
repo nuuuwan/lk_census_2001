@@ -484,5 +484,36 @@
     "total-dependency-ratio",
     "young-dependency-ratio",
     "old-dependency-ratio"
+  ],
+  "marital-status": [
+    "district",
+    "total-population",
+    "never-married-no",
+    "never-married-pct",
+    "married-total-no",
+    "married-total-pct",
+    "married-registered-no",
+    "married-registered-pct",
+    "married-customary-no",
+    "married-customary-pct",
+    "widowed-no",
+    "widowed-pct",
+    "divorced-no",
+    "divorced-pct"
+  ],
+  "ethnicity": [
+    "district",
+    "total-population",
+    "total-population-pct",
+    "sinhalese-no",
+    "sinhalese-pct",
+    "sri-lanka-tamil-no",
+    "sri-lanka-tamil-pct",
+    "indian-tamil-no",
+    "indian-tamil-pct",
+    "sri-lanka-moor-no",
+    "sri-lanka-moor-pct",
+    "burgher-no",
+    "burgher-pct"
   ]
 }

@@ -1,7 +1,7 @@
 # Percentage of children aged 6-14 years not attending school by district and sector
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 
@@ -17,10 +17,10 @@
     "region_id": "LK-33",
     "region_name": "Hambantota",
     "values": {
-        "na": null,
+        "na": 0,
         "total": 4.1,
         "urban": 8.5,
-        "na-2": null,
+        "na-2": 0,
         "rural": 4.0,
         "estate": 20.0
     }

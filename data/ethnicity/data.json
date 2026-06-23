@@ -1,0 +1,344 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-population": 16929689.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 13876245.0,
+      "sinhalese-pct": 82.0,
+      "sri-lanka-tamil-no": 732149.0,
+      "sri-lanka-tamil-pct": 4.3,
+      "indian-tamil-no": 855025.0,
+      "indian-tamil-pct": 5.1,
+      "sri-lanka-moor-no": 1339331.0,
+      "sri-lanka-moor-pct": 7.9,
+      "burgher-no": 35283.0,
+      "burgher-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-population": 2251274.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 1724459.0,
+      "sinhalese-pct": 76.6,
+      "sri-lanka-tamil-no": 247739.0,
+      "sri-lanka-tamil-pct": 11.0,
+      "indian-tamil-no": 24821.0,
+      "indian-tamil-pct": 1.1,
+      "sri-lanka-moor-no": 202731.0,
+      "sri-lanka-moor-pct": 9.0,
+      "burgher-no": 15703.0,
+      "burgher-pct": 0.7
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-population": 2063684.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 1877545.0,
+      "sinhalese-pct": 91.0,
+      "sri-lanka-tamil-no": 65302.0,
+      "sri-lanka-tamil-pct": 3.2,
+      "indian-tamil-no": 7621.0,
+      "indian-tamil-pct": 0.4,
+      "sri-lanka-moor-no": 78705.0,
+      "sri-lanka-moor-pct": 3.8,
+      "burgher-no": 11093.0,
+      "burgher-pct": 0.5
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-population": 1066239.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 928914.0,
+      "sinhalese-pct": 87.1,
+      "sri-lanka-tamil-no": 12665.0,
+      "sri-lanka-tamil-pct": 1.2,
+      "indian-tamil-no": 28895.0,
+      "indian-tamil-pct": 2.7,
+      "sri-lanka-moor-no": 93293.0,
+      "sri-lanka-moor-pct": 8.7,
+      "burgher-no": 836.0,
+      "burgher-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-population": 1279028.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 947900.0,
+      "sinhalese-pct": 74.1,
+      "sri-lanka-tamil-no": 52052.0,
+      "sri-lanka-tamil-pct": 4.1,
+      "indian-tamil-no": 103622.0,
+      "indian-tamil-pct": 8.1,
+      "sri-lanka-moor-no": 168049.0,
+      "sri-lanka-moor-pct": 13.1,
+      "burgher-no": 2128.0,
+      "burgher-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-population": 441328.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 353579.0,
+      "sinhalese-pct": 80.1,
+      "sri-lanka-tamil-no": 24320.0,
+      "sri-lanka-tamil-pct": 5.5,
+      "indian-tamil-no": 23493.0,
+      "indian-tamil-pct": 5.3,
+      "sri-lanka-moor-no": 38462.0,
+      "sri-lanka-moor-pct": 8.7,
+      "burgher-no": 402.0,
+      "burgher-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-population": 703610.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 282621.0,
+      "sinhalese-pct": 40.2,
+      "sri-lanka-tamil-no": 46066.0,
+      "sri-lanka-tamil-pct": 6.5,
+      "indian-tamil-no": 355830.0,
+      "indian-tamil-pct": 50.6,
+      "sri-lanka-moor-no": 16555.0,
+      "sri-lanka-moor-pct": 2.4,
+      "burgher-no": 632.0,
+      "burgher-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-population": 990487.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 934751.0,
+      "sinhalese-pct": 94.4,
+      "sri-lanka-tamil-no": 11079.0,
+      "sri-lanka-tamil-pct": 1.1,
+      "indian-tamil-no": 9275.0,
+      "indian-tamil-pct": 0.9,
+      "sri-lanka-moor-no": 34688.0,
+      "sri-lanka-moor-pct": 3.5,
+      "burgher-no": 208.0,
+      "burgher-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-population": 761370.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 716974.0,
+      "sinhalese-pct": 94.2,
+      "sri-lanka-tamil-no": 5161.0,
+      "sri-lanka-tamil-pct": 0.7,
+      "indian-tamil-no": 16672.0,
+      "indian-tamil-pct": 2.2,
+      "sri-lanka-moor-no": 22133.0,
+      "sri-lanka-moor-pct": 2.9,
+      "burgher-no": 179.0,
+      "burgher-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-population": 526414.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 510965.0,
+      "sinhalese-pct": 97.1,
+      "sri-lanka-tamil-no": 1869.0,
+      "sri-lanka-tamil-pct": 0.4,
+      "indian-tamil-no": 424.0,
+      "indian-tamil-pct": 0.1,
+      "sri-lanka-moor-no": 5646.0,
+      "sri-lanka-moor-pct": 1.1,
+      "burgher-no": 88.0,
+      "burgher-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-population": 592997.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 236583.0,
+      "sinhalese-pct": 39.9,
+      "sri-lanka-tamil-no": 109188.0,
+      "sri-lanka-tamil-pct": 18.4,
+      "indian-tamil-no": 715.0,
+      "indian-tamil-pct": 0.1,
+      "sri-lanka-moor-no": 244620.0,
+      "sri-lanka-moor-pct": 41.3,
+      "burgher-no": 1184.0,
+      "burgher-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-population": 1460215.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 1341237.0,
+      "sinhalese-pct": 91.9,
+      "sri-lanka-tamil-no": 17585.0,
+      "sri-lanka-tamil-pct": 1.2,
+      "indian-tamil-no": 2972.0,
+      "indian-tamil-pct": 0.2,
+      "sri-lanka-moor-no": 94544.0,
+      "sri-lanka-moor-pct": 6.5,
+      "burgher-no": 613.0,
+      "burgher-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-population": 709677.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 523116.0,
+      "sinhalese-pct": 73.7,
+      "sri-lanka-tamil-no": 48072.0,
+      "sri-lanka-tamil-pct": 6.8,
+      "indian-tamil-no": 2227.0,
+      "indian-tamil-pct": 0.3,
+      "sri-lanka-moor-no": 133134.0,
+      "sri-lanka-moor-pct": 18.8,
+      "burgher-no": 735.0,
+      "burgher-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-population": 745693.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 676073.0,
+      "sinhalese-pct": 90.7,
+      "sri-lanka-tamil-no": 5073.0,
+      "sri-lanka-tamil-pct": 0.7,
+      "indian-tamil-no": 443.0,
+      "indian-tamil-pct": 0.1,
+      "sri-lanka-moor-no": 61989.0,
+      "sri-lanka-moor-pct": 8.3,
+      "burgher-no": 179.0,
+      "burgher-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-population": 358984.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 324403.0,
+      "sinhalese-pct": 90.4,
+      "sri-lanka-tamil-no": 7034.0,
+      "sri-lanka-tamil-pct": 2.0,
+      "indian-tamil-no": 194.0,
+      "indian-tamil-pct": 0.1,
+      "sri-lanka-moor-no": 27075.0,
+      "sri-lanka-moor-pct": 7.5,
+      "burgher-no": 62.0,
+      "burgher-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-population": 779983.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 564752.0,
+      "sinhalese-pct": 72.4,
+      "sri-lanka-tamil-no": 29542.0,
+      "sri-lanka-tamil-pct": 3.8,
+      "indian-tamil-no": 143535.0,
+      "indian-tamil-pct": 18.4,
+      "sri-lanka-moor-no": 38798.0,
+      "sri-lanka-moor-pct": 5.0,
+      "burgher-no": 583.0,
+      "burgher-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-population": 397375.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 375691.0,
+      "sinhalese-pct": 94.5,
+      "sri-lanka-tamil-no": 5754.0,
+      "sri-lanka-tamil-pct": 1.4,
+      "indian-tamil-no": 7493.0,
+      "indian-tamil-pct": 1.9,
+      "sri-lanka-moor-no": 7800.0,
+      "sri-lanka-moor-pct": 2.0,
+      "burgher-no": 124.0,
+      "burgher-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-population": 1015807.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 882017.0,
+      "sinhalese-pct": 86.8,
+      "sri-lanka-tamil-no": 28740.0,
+      "sri-lanka-tamil-pct": 2.8,
+      "indian-tamil-no": 82591.0,
+      "indian-tamil-pct": 8.1,
+      "sri-lanka-moor-no": 20690.0,
+      "sri-lanka-moor-pct": 2.0,
+      "burgher-no": 343.0,
+      "burgher-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-population": 785524.0,
+      "total-population-pct": 100.0,
+      "sinhalese-no": 674665.0,
+      "sinhalese-pct": 85.9,
+      "sri-lanka-tamil-no": 14908.0,
+      "sri-lanka-tamil-pct": 1.9,
+      "indian-tamil-no": 44202.0,
+      "indian-tamil-pct": 5.6,
+      "sri-lanka-moor-no": 50419.0,
+      "sri-lanka-moor-pct": 6.4,
+      "burgher-no": 191.0,
+      "burgher-pct": 0.0
+    }
+  }
+]

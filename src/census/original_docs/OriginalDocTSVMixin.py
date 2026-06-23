@@ -27,4 +27,4 @@ class OriginalDocTSVMixin:
             tsv_data_list = [self.to_tsv_data(data) for data in data_list]
             tsv_file = TSVFile(self.tsv_file_path)
             tsv_file.write(tsv_data_list)
-            log.info(f"Wrote {tsv_file}")
+            log.debug(f"Wrote {tsv_file}")

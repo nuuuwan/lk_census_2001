@@ -1,7 +1,7 @@
 # literacy rates by district, sex and sector
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 
@@ -19,7 +19,7 @@
     "values": {
         "total": 88.9,
         "male": 90.9,
-        "na": null,
+        "na": 0,
         "female": 87.0,
         "urban": 93.6,
         "rural": 88.9,

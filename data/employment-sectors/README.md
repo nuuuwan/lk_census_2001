@@ -1,7 +1,7 @@
 # Number and percentage of agricultural and fishery workers and non-agricultural and fishery workers by district
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 
@@ -19,10 +19,10 @@
     "values": {
         "total-employed-population-aged-10-years-and-over": 164923.0,
         "agricultural-and-fishery-workers-including-unskilled-labourers-no": 68095.0,
-        "na": null,
+        "na": 0,
         "agricultural-and-fishery-workers-including-unskilled-labourers": 41.3,
         "non-agricultural-and-fishery-workers-no": 96828.0,
-        "na-2": null,
+        "na-2": 0,
         "non-agricultural-and-fishery-workers": 58.7
     }
 }

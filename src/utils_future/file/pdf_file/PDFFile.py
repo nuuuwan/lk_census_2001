@@ -18,4 +18,4 @@ class PDFFile(File, PDFTextMixin, PDFFileCompressMixin):
         page = doc[i_page]
         pix = page.get_pixmap()
         pix.save(image_path)
-        log.info(f"Wrote image {self} to {image_path}")
+        log.debug(f"Wrote image {self} to {image_path}")

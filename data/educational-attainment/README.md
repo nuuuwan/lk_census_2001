@@ -1,7 +1,7 @@
 # Percentage of population aged 5 years and over by district and educational attainment
 
 ![CPH](https://img.shields.io/badge/CPH-2001-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23-green)
 
 ## File Formats
 
@@ -18,9 +18,9 @@
     "region_name": "Hambantota",
     "values": {
         "population-aged-5-years-and-over": 480166.0,
-        "na": null,
+        "na": 0,
         "percentage-completed-primary-education-passed-year-1-5": 26.7,
-        "na-2": null,
+        "na-2": 0,
         "percentage-completed-lower-secondary-passed-year-6-8": 19.6,
         "percentage-completed-upper-secondary-passed-year-9-11": 36.9,
         "percentage-completed-tertiary-education-passed-gce-al-above": 7.6

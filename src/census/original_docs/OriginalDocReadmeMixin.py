@@ -89,7 +89,7 @@ class OriginalDocReadmeMixin:
         )
         readme_file = File(self.readme_file_path())
         readme_file.write("\n".join(lines))
-        log.info(f"Wrote {readme_file}")
+        log.debug(f"Wrote {readme_file}")
 
     @classmethod
     def build_global_readme(cls):
@@ -123,4 +123,4 @@ class OriginalDocReadmeMixin:
 
         readme_file = File(cls.GLOBAL_README_PATH)
         readme_file.write("\n".join(lines))
-        log.info(f"Wrote {readme_file}")
+        log.debug(f"Wrote {readme_file}")

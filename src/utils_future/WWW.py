@@ -13,7 +13,7 @@ log = Log("WWW")
 class WWW:
     T_TIMEOUT = 120
     MIN_TEXT_FILE_SIZE = 100
-    T_SELENIUM_WAIT = 10
+    T_SELENIUM_WAIT = 20
 
     def __init__(
         self,
@@ -54,7 +54,7 @@ class WWW:
         if temp_text_file.exists:
             return temp_text_file.read()
 
-        log.info(f"Fetching {self}")
+        log.debug(f"Fetching {self}")
         html = self._fetch_html_with_selenium()
         temp_text_file.write(html)
         if temp_text_file.size < WWW.MIN_TEXT_FILE_SIZE:
@@ -68,4 +68,4 @@ class WWW:
         with open(dest_path, "wb") as f:
             for chunk in response.iter_content(chunk_size=8192):
                 f.write(chunk)
-        log.info(f"Wrote {self} to {File(dest_path)}")
+        log.debug(f"Wrote {self} to {File(dest_path)}")
