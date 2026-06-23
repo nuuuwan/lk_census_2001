@@ -1,0 +1,37 @@
+# Percentage of population aged 10 years and over in major ethnic groups by district and ability to speak, Sinhala, Tamil and English languages
+
+![CPH](https://img.shields.io/badge/CPH-2001-blue)
+
+## File Formats
+
+- [📄 JSON Data](../../data/speaking-capacity/data.json)
+- [📄 TSV Data](../../data/speaking-capacity/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/speaking-capacity/raw_data.json)
+- [📜 Original PDF](../../data/speaking-capacity/original.pdf)
+
+## Example JSON Row
+
+```json
+{
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+        "sinhalese-speaking-tamil": 1.0,
+        "sinhalese-speaking-english": 6.1,
+        "sri-lanka-tamil-speaking-sinhala": 89.3,
+        "sri-lanka-tamil-speaking-english": 6.7,
+        "indian-tamil-speaking-sinhala": 84.7,
+        "indian-tamil-speaking-english": 7.1,
+        "sri-lanka-moor-speaking-sinhala": 94.9,
+        "sri-lanka-moor-speaking-english": 27.9
+    }
+}
+```
+
+## Source
+
+- *[https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p11Speaking.pdf](https://www.statistics.gov.lk/Resource/en/Population/PopHouStat/PDF/Population/p9p11Speaking.pdf)*
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

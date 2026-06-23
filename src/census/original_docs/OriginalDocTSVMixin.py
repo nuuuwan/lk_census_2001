@@ -12,13 +12,21 @@ class OriginalDocTSVMixin:
         return os.path.join(self.dir_data, "data.tsv")
 
     def to_tsv_data(self, data: dict) -> dict:
-        return (
-            dict(
-                region_id=data["region_id"],
-                region_name=data["region_name"],
+        if "region_id" in data:
+            return (
+                dict(
+                    region_id=data["region_id"],
+                    region_name=data["region_name"],
+                )
+                | data["values"]
             )
-            | data["values"]
-        )
+        else:
+            return (
+                dict(
+                    row_id=data["row_id"],
+                )
+                | data["values"]
+            )
 
     def build_tsv(self):
         data_file = JSONFile(self.data_file_path)

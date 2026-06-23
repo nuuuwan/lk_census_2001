@@ -491,11 +491,11 @@
     "district",
     "total-population",
     "population-in-urban-sector",
-    "population-in-urban-sector",
+    "population-in-urban-sector-pct",
     "population-in-rural-sector",
-    "population-in-rural-sector",
+    "population-in-rural-sector-pct",
     "population-in-estate-sector",
-    "population-in-estate-sector"
+    "population-in-estate-sector-pct"
   ],
   "speaking-capacity": [
     "district",
@@ -517,6 +517,17 @@
     "hygienic-toilets-pct",
     "not-using-toilet",
     "not-using-toilet-pct"
+  ],
+  "unemployment-education": [
+    "district",
+    "total-rate",
+    "male-rate",
+    "female-rate",
+    "passed-year-0-4-rate",
+    "passed-year-5-9-rate",
+    "passed-gce-ol",
+    "passed-gce-al",
+    "degree-and-above"
   ],
   "vision-disability-causes": [
     "sub-category",

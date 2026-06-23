@@ -1,0 +1,192 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-pct": 6.3,
+      "urban-pct": 8.1,
+      "rural-pct": 5.4,
+      "estate-pct": 14.7
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-pct": 7.7,
+      "urban-pct": 9.7,
+      "rural-pct": 5.2,
+      "estate-pct": 11.8
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-pct": 5.2,
+      "urban-pct": 7.4,
+      "rural-pct": 4.8,
+      "estate-pct": 9.4
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-pct": 7.1,
+      "urban-pct": 7.8,
+      "rural-pct": 6.6,
+      "estate-pct": 15.8
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-pct": 5.5,
+      "urban-pct": 5.6,
+      "rural-pct": 4.8,
+      "estate-pct": 12.6
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-pct": 5.1,
+      "urban-pct": 5.2,
+      "rural-pct": 4.7,
+      "estate-pct": 11.3
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-pct": 9.7,
+      "urban-pct": 7.1,
+      "rural-pct": 4.8,
+      "estate-pct": 13.6
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-pct": 5.2,
+      "urban-pct": 5.2,
+      "rural-pct": 4.9,
+      "estate-pct": 21.3
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-pct": 5.3,
+      "urban-pct": 4.5,
+      "rural-pct": 4.2,
+      "estate-pct": 37.7
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-pct": 4.1,
+      "urban-pct": 8.5,
+      "rural-pct": 4.0,
+      "estate-pct": 20.0
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-pct": 7.7,
+      "urban-pct": 7.1,
+      "rural-pct": 7.9,
+      "estate-pct": 0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-pct": 5.2,
+      "urban-pct": 9.3,
+      "rural-pct": 5.1,
+      "estate-pct": 8.6
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-pct": 8.3,
+      "urban-pct": 10.3,
+      "rural-pct": 8.1,
+      "estate-pct": 17.3
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-pct": 4.9,
+      "urban-pct": 4.8,
+      "rural-pct": 4.9,
+      "estate-pct": 1.3
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-pct": 6.2,
+      "urban-pct": 0,
+      "rural-pct": 6.2,
+      "estate-pct": 4.8
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-pct": 6.6,
+      "urban-pct": 4.6,
+      "rural-pct": 5.3,
+      "estate-pct": 11.9
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-pct": 4.9,
+      "urban-pct": 0,
+      "rural-pct": 4.7,
+      "estate-pct": 14.2
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-pct": 7.7,
+      "urban-pct": 6.2,
+      "rural-pct": 6.3,
+      "estate-pct": 20.8
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-pct": 5.6,
+      "urban-pct": 8.1,
+      "rural-pct": 4.9,
+      "estate-pct": 14.1
+    }
+  }
+]

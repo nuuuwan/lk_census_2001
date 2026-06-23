@@ -1,0 +1,249 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-occupied-housing-units": 3969027.0,
+      "permanent": 2771860.0,
+      "permanent-pct": 69.8,
+      "semi-permanent": 1123003.0,
+      "semi-permanent-pct": 28.3,
+      "improvised": 33799.0,
+      "improvised-pct": 0.9
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-occupied-housing-units": 473045.0,
+      "permanent": 408473.0,
+      "permanent-pct": 86.3,
+      "semi-permanent": 54234.0,
+      "semi-permanent-pct": 11.5,
+      "improvised": 1293.0,
+      "improvised-pct": 0.3
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-occupied-housing-units": 475847.0,
+      "permanent": 380985.0,
+      "permanent-pct": 80.1,
+      "semi-permanent": 83351.0,
+      "semi-permanent-pct": 17.5,
+      "improvised": 5251.0,
+      "improvised-pct": 1.1
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-occupied-housing-units": 245784.0,
+      "permanent": 193973.0,
+      "permanent-pct": 78.9,
+      "semi-permanent": 48347.0,
+      "semi-permanent-pct": 19.7,
+      "improvised": 1094.0,
+      "improvised-pct": 0.4
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-occupied-housing-units": 291454.0,
+      "permanent": 211576.0,
+      "permanent-pct": 72.6,
+      "semi-permanent": 76634.0,
+      "semi-permanent-pct": 26.3,
+      "improvised": 430.0,
+      "improvised-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-occupied-housing-units": 108566.0,
+      "permanent": 61990.0,
+      "permanent-pct": 57.1,
+      "semi-permanent": 45588.0,
+      "semi-permanent-pct": 42.0,
+      "improvised": 461.0,
+      "improvised-pct": 0.4
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-occupied-housing-units": 164886.0,
+      "permanent": 106766.0,
+      "permanent-pct": 64.8,
+      "semi-permanent": 54618.0,
+      "semi-permanent-pct": 33.1,
+      "improvised": 300.0,
+      "improvised-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-occupied-housing-units": 229521.0,
+      "permanent": 166119.0,
+      "permanent-pct": 72.4,
+      "semi-permanent": 60304.0,
+      "semi-permanent-pct": 26.3,
+      "improvised": 1722.0,
+      "improvised-pct": 0.8
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-occupied-housing-units": 174712.0,
+      "permanent": 126683.0,
+      "permanent-pct": 72.5,
+      "semi-permanent": 46118.0,
+      "semi-permanent-pct": 26.4,
+      "improvised": 1096.0,
+      "improvised-pct": 0.6
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-occupied-housing-units": 126362.0,
+      "permanent": 75720.0,
+      "permanent-pct": 59.9,
+      "semi-permanent": 49367.0,
+      "semi-permanent-pct": 39.1,
+      "improvised": 590.0,
+      "improvised-pct": 0.5
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-occupied-housing-units": 132371.0,
+      "permanent": 87347.0,
+      "permanent-pct": 66.0,
+      "semi-permanent": 39806.0,
+      "semi-permanent-pct": 30.1,
+      "improvised": 3917.0,
+      "improvised-pct": 3.0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-occupied-housing-units": 376352.0,
+      "permanent": 241602.0,
+      "permanent-pct": 64.2,
+      "semi-permanent": 127978.0,
+      "semi-permanent-pct": 34.0,
+      "improvised": 4493.0,
+      "improvised-pct": 1.2
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-occupied-housing-units": 174737.0,
+      "permanent": 107965.0,
+      "permanent-pct": 61.8,
+      "semi-permanent": 55263.0,
+      "semi-permanent-pct": 31.6,
+      "improvised": 9908.0,
+      "improvised-pct": 5.7
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-occupied-housing-units": 186697.0,
+      "permanent": 99710.0,
+      "permanent-pct": 53.4,
+      "semi-permanent": 84703.0,
+      "semi-permanent-pct": 45.4,
+      "improvised": 853.0,
+      "improvised-pct": 0.5
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-occupied-housing-units": 90999.0,
+      "permanent": 54193.0,
+      "permanent-pct": 59.6,
+      "semi-permanent": 35566.0,
+      "semi-permanent-pct": 39.1,
+      "improvised": 431.0,
+      "improvised-pct": 0.5
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-occupied-housing-units": 185268.0,
+      "permanent": 120557.0,
+      "permanent-pct": 65.1,
+      "semi-permanent": 62426.0,
+      "semi-permanent-pct": 33.7,
+      "improvised": 194.0,
+      "improvised-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-occupied-housing-units": 95966.0,
+      "permanent": 46691.0,
+      "permanent-pct": 48.7,
+      "semi-permanent": 48327.0,
+      "semi-permanent-pct": 50.4,
+      "improvised": 380.0,
+      "improvised-pct": 0.4
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-occupied-housing-units": 242882.0,
+      "permanent": 148266.0,
+      "permanent-pct": 61.0,
+      "semi-permanent": 92413.0,
+      "semi-permanent-pct": 38.0,
+      "improvised": 406.0,
+      "improvised-pct": 0.2
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-occupied-housing-units": 193578.0,
+      "permanent": 133244.0,
+      "permanent-pct": 68.8,
+      "semi-permanent": 57960.0,
+      "semi-permanent-pct": 29.9,
+      "improvised": 980.0,
+      "improvised-pct": 0.5
+    }
+  }
+]

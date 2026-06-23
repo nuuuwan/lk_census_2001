@@ -1,0 +1,211 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 5941574.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 1672965.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 28.2,
+      "non-agricultural-and-fishery-workers": 4268609.0,
+      "non-agricultural-and-fishery-workers-pct": 71.8
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 855142.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 18470.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 2.2,
+      "non-agricultural-and-fishery-workers": 836672.0,
+      "non-agricultural-and-fishery-workers-pct": 97.8
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 756186.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 37142.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 4.9,
+      "non-agricultural-and-fishery-workers": 719044.0,
+      "non-agricultural-and-fishery-workers-pct": 95.1
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 356837.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 54749.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 15.3,
+      "non-agricultural-and-fishery-workers": 302088.0,
+      "non-agricultural-and-fishery-workers-pct": 84.7
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 407554.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 88506.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 21.7,
+      "non-agricultural-and-fishery-workers": 319048.0,
+      "non-agricultural-and-fishery-workers-pct": 78.3
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 156179.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 61711.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 39.5,
+      "non-agricultural-and-fishery-workers": 94468.0,
+      "non-agricultural-and-fishery-workers-pct": 60.5
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 281546.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 171183.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 60.8,
+      "non-agricultural-and-fishery-workers": 110363.0,
+      "non-agricultural-and-fishery-workers-pct": 39.2
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 318680.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 93565.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 29.4,
+      "non-agricultural-and-fishery-workers": 225115.0,
+      "non-agricultural-and-fishery-workers-pct": 70.6
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 242175.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 88449.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 36.5,
+      "non-agricultural-and-fishery-workers": 153726.0,
+      "non-agricultural-and-fishery-workers-pct": 63.5
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 164923.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 68095.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 41.3,
+      "non-agricultural-and-fishery-workers": 96828.0,
+      "non-agricultural-and-fishery-workers-pct": 58.7
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 162322.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 71505.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 44.1,
+      "non-agricultural-and-fishery-workers": 90817.0,
+      "non-agricultural-and-fishery-workers-pct": 55.9
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 514553.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 166636.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 32.4,
+      "non-agricultural-and-fishery-workers": 347917.0,
+      "non-agricultural-and-fishery-workers-pct": 67.6
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 229425.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 58797.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 25.6,
+      "non-agricultural-and-fishery-workers": 170628.0,
+      "non-agricultural-and-fishery-workers-pct": 74.4
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 285806.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 149538.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 52.3,
+      "non-agricultural-and-fishery-workers": 136268.0,
+      "non-agricultural-and-fishery-workers-pct": 47.7
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 137078.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 69769.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 50.9,
+      "non-agricultural-and-fishery-workers": 67309.0,
+      "non-agricultural-and-fishery-workers-pct": 49.1
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 294223.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 162159.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 55.1,
+      "non-agricultural-and-fishery-workers": 132064.0,
+      "non-agricultural-and-fishery-workers-pct": 44.9
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 144600.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 87986.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 60.8,
+      "non-agricultural-and-fishery-workers": 56614.0,
+      "non-agricultural-and-fishery-workers-pct": 39.2
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 375365.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 162334.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 43.2,
+      "non-agricultural-and-fishery-workers": 213031.0,
+      "non-agricultural-and-fishery-workers-pct": 56.8
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-employed-population-aged-10-years-and-over": 258980.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers": 62371.0,
+      "agricultural-and-fishery-workers-including-unskilled-labourers-pct": 24.1,
+      "non-agricultural-and-fishery-workers": 196609.0,
+      "non-agricultural-and-fishery-workers-pct": 75.9
+    }
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "sinhalese-speaking-tamil": 4.0,
+      "sinhalese-speaking-english": 13.2,
+      "sri-lanka-tamil-speaking-sinhala": 64.6,
+      "sri-lanka-tamil-speaking-english": 24.1,
+      "indian-tamil-speaking-sinhala": 50.8,
+      "indian-tamil-speaking-english": 8.7,
+      "sri-lanka-moor-speaking-sinhala": 60.9,
+      "sri-lanka-moor-speaking-english": 20.6
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "sinhalese-speaking-tamil": 5.1,
+      "sinhalese-speaking-english": 28.8,
+      "sri-lanka-tamil-speaking-sinhala": 74.0,
+      "sri-lanka-tamil-speaking-english": 38.9,
+      "indian-tamil-speaking-sinhala": 82.3,
+      "indian-tamil-speaking-english": 28.9,
+      "sri-lanka-moor-speaking-sinhala": 86.1,
+      "sri-lanka-moor-speaking-english": 44.7
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "sinhalese-speaking-tamil": 3.2,
+      "sinhalese-speaking-english": 17.1,
+      "sri-lanka-tamil-speaking-sinhala": 84.0,
+      "sri-lanka-tamil-speaking-english": 32.4,
+      "indian-tamil-speaking-sinhala": 85.6,
+      "indian-tamil-speaking-english": 25.4,
+      "sri-lanka-moor-speaking-sinhala": 80.8,
+      "sri-lanka-moor-speaking-english": 24.3
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "sinhalese-speaking-tamil": 2.6,
+      "sinhalese-speaking-english": 14.1,
+      "sri-lanka-tamil-speaking-sinhala": 82.6,
+      "sri-lanka-tamil-speaking-english": 11.7,
+      "indian-tamil-speaking-sinhala": 81.9,
+      "indian-tamil-speaking-english": 6.2,
+      "sri-lanka-moor-speaking-sinhala": 77.2,
+      "sri-lanka-moor-speaking-english": 18.2
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "sinhalese-speaking-tamil": 7.3,
+      "sinhalese-speaking-english": 17.1,
+      "sri-lanka-tamil-speaking-sinhala": 74.9,
+      "sri-lanka-tamil-speaking-english": 25.9,
+      "indian-tamil-speaking-sinhala": 57.0,
+      "indian-tamil-speaking-english": 10.1,
+      "sri-lanka-moor-speaking-sinhala": 70.7,
+      "sri-lanka-moor-speaking-english": 26.2
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "sinhalese-speaking-tamil": 5.2,
+      "sinhalese-speaking-english": 9.4,
+      "sri-lanka-tamil-speaking-sinhala": 76.3,
+      "sri-lanka-tamil-speaking-english": 19.6,
+      "indian-tamil-speaking-sinhala": 65.1,
+      "indian-tamil-speaking-english": 7.4,
+      "sri-lanka-moor-speaking-sinhala": 71.5,
+      "sri-lanka-moor-speaking-english": 25.9
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "sinhalese-speaking-tamil": 16.8,
+      "sinhalese-speaking-english": 10.9,
+      "sri-lanka-tamil-speaking-sinhala": 52.6,
+      "sri-lanka-tamil-speaking-english": 18.7,
+      "indian-tamil-speaking-sinhala": 35.0,
+      "indian-tamil-speaking-english": 8.6,
+      "sri-lanka-moor-speaking-sinhala": 72.1,
+      "sri-lanka-moor-speaking-english": 22.2
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "sinhalese-speaking-tamil": 1.4,
+      "sinhalese-speaking-english": 12.3,
+      "sri-lanka-tamil-speaking-sinhala": 87.0,
+      "sri-lanka-tamil-speaking-english": 6.0,
+      "indian-tamil-speaking-sinhala": 88.0,
+      "indian-tamil-speaking-english": 3.2,
+      "sri-lanka-moor-speaking-sinhala": 86.3,
+      "sri-lanka-moor-speaking-english": 23.2
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "sinhalese-speaking-tamil": 1.5,
+      "sinhalese-speaking-english": 8.9,
+      "sri-lanka-tamil-speaking-sinhala": 85.4,
+      "sri-lanka-tamil-speaking-english": 4.3,
+      "indian-tamil-speaking-sinhala": 74.6,
+      "indian-tamil-speaking-english": 1.9,
+      "sri-lanka-moor-speaking-sinhala": 84.4,
+      "sri-lanka-moor-speaking-english": 19.7
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "sinhalese-speaking-tamil": 1.0,
+      "sinhalese-speaking-english": 6.1,
+      "sri-lanka-tamil-speaking-sinhala": 89.3,
+      "sri-lanka-tamil-speaking-english": 6.7,
+      "indian-tamil-speaking-sinhala": 84.7,
+      "indian-tamil-speaking-english": 7.1,
+      "sri-lanka-moor-speaking-sinhala": 94.9,
+      "sri-lanka-moor-speaking-english": 27.9
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "sinhalese-speaking-tamil": 5.3,
+      "sinhalese-speaking-english": 4.9,
+      "sri-lanka-tamil-speaking-sinhala": 9.7,
+      "sri-lanka-tamil-speaking-english": 7.6,
+      "indian-tamil-speaking-sinhala": 32.8,
+      "indian-tamil-speaking-english": 8.9,
+      "sri-lanka-moor-speaking-sinhala": 10.6,
+      "sri-lanka-moor-speaking-english": 8.1
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "sinhalese-speaking-tamil": 1.7,
+      "sinhalese-speaking-english": 8.4,
+      "sri-lanka-tamil-speaking-sinhala": 88.7,
+      "sri-lanka-tamil-speaking-english": 11.9,
+      "indian-tamil-speaking-sinhala": 86.4,
+      "indian-tamil-speaking-english": 13.5,
+      "sri-lanka-moor-speaking-sinhala": 80.7,
+      "sri-lanka-moor-speaking-english": 15.0
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "sinhalese-speaking-tamil": 6.0,
+      "sinhalese-speaking-english": 8.2,
+      "sri-lanka-tamil-speaking-sinhala": 67.1,
+      "sri-lanka-tamil-speaking-english": 9.6,
+      "indian-tamil-speaking-sinhala": 67.0,
+      "indian-tamil-speaking-english": 6.2,
+      "sri-lanka-moor-speaking-sinhala": 33.3,
+      "sri-lanka-moor-speaking-english": 7.0
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "sinhalese-speaking-tamil": 2.3,
+      "sinhalese-speaking-english": 6.5,
+      "sri-lanka-tamil-speaking-sinhala": 80.4,
+      "sri-lanka-tamil-speaking-english": 11.8,
+      "indian-tamil-speaking-sinhala": 82.2,
+      "indian-tamil-speaking-english": 14.9,
+      "sri-lanka-moor-speaking-sinhala": 60.8,
+      "sri-lanka-moor-speaking-english": 10.6
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "sinhalese-speaking-tamil": 2.8,
+      "sinhalese-speaking-english": 6.7,
+      "sri-lanka-tamil-speaking-sinhala": 43.6,
+      "sri-lanka-tamil-speaking-english": 3.3,
+      "indian-tamil-speaking-sinhala": 53.7,
+      "indian-tamil-speaking-english": 7.9,
+      "sri-lanka-moor-speaking-sinhala": 41.6,
+      "sri-lanka-moor-speaking-english": 5.3
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "sinhalese-speaking-tamil": 10.1,
+      "sinhalese-speaking-english": 9.8,
+      "sri-lanka-tamil-speaking-sinhala": 67.6,
+      "sri-lanka-tamil-speaking-english": 19.6,
+      "indian-tamil-speaking-sinhala": 46.1,
+      "indian-tamil-speaking-english": 8.2,
+      "sri-lanka-moor-speaking-sinhala": 80.2,
+      "sri-lanka-moor-speaking-english": 17.8
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "sinhalese-speaking-tamil": 2.9,
+      "sinhalese-speaking-english": 5.1,
+      "sri-lanka-tamil-speaking-sinhala": 68.3,
+      "sri-lanka-tamil-speaking-english": 7.0,
+      "indian-tamil-speaking-sinhala": 56.1,
+      "indian-tamil-speaking-english": 4.5,
+      "sri-lanka-moor-speaking-sinhala": 78.1,
+      "sri-lanka-moor-speaking-english": 8.3
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "sinhalese-speaking-tamil": 4.0,
+      "sinhalese-speaking-english": 7.3,
+      "sri-lanka-tamil-speaking-sinhala": 77.3,
+      "sri-lanka-tamil-speaking-english": 10.2,
+      "indian-tamil-speaking-sinhala": 68.4,
+      "indian-tamil-speaking-english": 4.9,
+      "sri-lanka-moor-speaking-sinhala": 90.4,
+      "sri-lanka-moor-speaking-english": 21.7
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "sinhalese-speaking-tamil": 3.4,
+      "sinhalese-speaking-english": 9.4,
+      "sri-lanka-tamil-speaking-sinhala": 80.4,
+      "sri-lanka-tamil-speaking-english": 10.5,
+      "indian-tamil-speaking-sinhala": 71.7,
+      "indian-tamil-speaking-english": 5.6,
+      "sri-lanka-moor-speaking-sinhala": 79.5,
+      "sri-lanka-moor-speaking-english": 23.9
+    }
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-occupied-housing-units": 4054186.0,
+      "using-toilets-exclusively": 3196227.0,
+      "using-toilets-exclusively-pct": 78.8,
+      "hygienic-toilets": 2685915.0,
+      "hygienic-toilets-pct": 66.3,
+      "not-using-toilet": 177959.0,
+      "not-using-toilet-pct": 4.4
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-occupied-housing-units": 493085.0,
+      "using-toilets-exclusively": 370456.0,
+      "using-toilets-exclusively-pct": 75.1,
+      "hygienic-toilets": 381191.0,
+      "hygienic-toilets-pct": 77.3,
+      "not-using-toilet": 1411.0,
+      "not-using-toilet-pct": 0.3
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-occupied-housing-units": 487184.0,
+      "using-toilets-exclusively": 391309.0,
+      "using-toilets-exclusively-pct": 80.3,
+      "hygienic-toilets": 378507.0,
+      "hygienic-toilets-pct": 77.7,
+      "not-using-toilet": 3912.0,
+      "not-using-toilet-pct": 0.8
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-occupied-housing-units": 250939.0,
+      "using-toilets-exclusively": 206047.0,
+      "using-toilets-exclusively-pct": 82.1,
+      "hygienic-toilets": 195994.0,
+      "hygienic-toilets-pct": 78.1,
+      "not-using-toilet": 4393.0,
+      "not-using-toilet-pct": 1.8
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-occupied-housing-units": 299870.0,
+      "using-toilets-exclusively": 246132.0,
+      "using-toilets-exclusively-pct": 82.1,
+      "hygienic-toilets": 193425.0,
+      "hygienic-toilets-pct": 64.5,
+      "not-using-toilet": 7022.0,
+      "not-using-toilet-pct": 2.3
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-occupied-housing-units": 110886.0,
+      "using-toilets-exclusively": 89229.0,
+      "using-toilets-exclusively-pct": 80.5,
+      "hygienic-toilets": 51884.0,
+      "hygienic-toilets-pct": 46.8,
+      "not-using-toilet": 3169.0,
+      "not-using-toilet-pct": 2.9
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-occupied-housing-units": 169540.0,
+      "using-toilets-exclusively": 110323.0,
+      "using-toilets-exclusively-pct": 65.1,
+      "hygienic-toilets": 69990.0,
+      "hygienic-toilets-pct": 41.3,
+      "not-using-toilet": 18739.0,
+      "not-using-toilet-pct": 11.1
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-occupied-housing-units": 233027.0,
+      "using-toilets-exclusively": 191922.0,
+      "using-toilets-exclusively-pct": 82.4,
+      "hygienic-toilets": 173003.0,
+      "hygienic-toilets-pct": 74.2,
+      "not-using-toilet": 6435.0,
+      "not-using-toilet-pct": 2.8
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-occupied-housing-units": 177613.0,
+      "using-toilets-exclusively": 151140.0,
+      "using-toilets-exclusively-pct": 85.1,
+      "hygienic-toilets": 142459.0,
+      "hygienic-toilets-pct": 80.2,
+      "not-using-toilet": 2000.0,
+      "not-using-toilet-pct": 1.1
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-occupied-housing-units": 128008.0,
+      "using-toilets-exclusively": 107323.0,
+      "using-toilets-exclusively-pct": 83.8,
+      "hygienic-toilets": 74225.0,
+      "hygienic-toilets-pct": 58.0,
+      "not-using-toilet": 2868.0,
+      "not-using-toilet-pct": 2.2
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-occupied-housing-units": 137741.0,
+      "using-toilets-exclusively": 92019.0,
+      "using-toilets-exclusively-pct": 66.8,
+      "hygienic-toilets": 68048.0,
+      "hygienic-toilets-pct": 49.4,
+      "not-using-toilet": 27657.0,
+      "not-using-toilet-pct": 20.1
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-occupied-housing-units": 380213.0,
+      "using-toilets-exclusively": 300982.0,
+      "using-toilets-exclusively-pct": 79.2,
+      "hygienic-toilets": 261217.0,
+      "hygienic-toilets-pct": 68.7,
+      "not-using-toilet": 24156.0,
+      "not-using-toilet-pct": 6.4
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-occupied-housing-units": 176544.0,
+      "using-toilets-exclusively": 126466.0,
+      "using-toilets-exclusively-pct": 71.6,
+      "hygienic-toilets": 120504.0,
+      "hygienic-toilets-pct": 68.3,
+      "not-using-toilet": 21487.0,
+      "not-using-toilet-pct": 12.2
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-occupied-housing-units": 189699.0,
+      "using-toilets-exclusively": 138832.0,
+      "using-toilets-exclusively-pct": 73.2,
+      "hygienic-toilets": 90923.0,
+      "hygienic-toilets-pct": 47.9,
+      "not-using-toilet": 24046.0,
+      "not-using-toilet-pct": 12.7
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-occupied-housing-units": 91718.0,
+      "using-toilets-exclusively": 72205.0,
+      "using-toilets-exclusively-pct": 78.7,
+      "hygienic-toilets": 49009.0,
+      "hygienic-toilets-pct": 53.4,
+      "not-using-toilet": 5793.0,
+      "not-using-toilet-pct": 6.3
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-occupied-housing-units": 189925.0,
+      "using-toilets-exclusively": 151381.0,
+      "using-toilets-exclusively-pct": 79.7,
+      "hygienic-toilets": 103370.0,
+      "hygienic-toilets-pct": 54.4,
+      "not-using-toilet": 7269.0,
+      "not-using-toilet-pct": 3.8
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-occupied-housing-units": 96598.0,
+      "using-toilets-exclusively": 82529.0,
+      "using-toilets-exclusively-pct": 85.4,
+      "hygienic-toilets": 42431.0,
+      "hygienic-toilets-pct": 43.9,
+      "not-using-toilet": 5475.0,
+      "not-using-toilet-pct": 5.7
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-occupied-housing-units": 245743.0,
+      "using-toilets-exclusively": 201370.0,
+      "using-toilets-exclusively-pct": 81.9,
+      "hygienic-toilets": 160909.0,
+      "hygienic-toilets-pct": 65.5,
+      "not-using-toilet": 7212.0,
+      "not-using-toilet-pct": 2.9
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-occupied-housing-units": 195853.0,
+      "using-toilets-exclusively": 166562.0,
+      "using-toilets-exclusively-pct": 85.0,
+      "hygienic-toilets": 128826.0,
+      "hygienic-toilets-pct": 65.8,
+      "not-using-toilet": 4915.0,
+      "not-using-toilet-pct": 2.5
+    }
+  }
+]

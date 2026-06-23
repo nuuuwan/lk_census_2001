@@ -1,0 +1,173 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-housing-units": 3969027.0,
+      "huts-and-shanties": 33188.0,
+      "huts-and-shanties-pct": 0.8
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-housing-units": 473045.0,
+      "huts-and-shanties": 7278.0,
+      "huts-and-shanties-pct": 1.5
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-housing-units": 475847.0,
+      "huts-and-shanties": 3012.0,
+      "huts-and-shanties-pct": 0.6
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-housing-units": 245784.0,
+      "huts-and-shanties": 1013.0,
+      "huts-and-shanties-pct": 0.4
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-housing-units": 291454.0,
+      "huts-and-shanties": 996.0,
+      "huts-and-shanties-pct": 0.3
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-housing-units": 108566.0,
+      "huts-and-shanties": 449.0,
+      "huts-and-shanties-pct": 0.4
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-housing-units": 164886.0,
+      "huts-and-shanties": 1549.0,
+      "huts-and-shanties-pct": 0.9
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-housing-units": 229521.0,
+      "huts-and-shanties": 991.0,
+      "huts-and-shanties-pct": 0.4
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-housing-units": 174712.0,
+      "huts-and-shanties": 741.0,
+      "huts-and-shanties-pct": 0.4
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-housing-units": 126362.0,
+      "huts-and-shanties": 877.0,
+      "huts-and-shanties-pct": 0.7
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-housing-units": 132371.0,
+      "huts-and-shanties": 4513.0,
+      "huts-and-shanties-pct": 3.4
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-housing-units": 376352.0,
+      "huts-and-shanties": 2388.0,
+      "huts-and-shanties-pct": 0.6
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-housing-units": 174737.0,
+      "huts-and-shanties": 4919.0,
+      "huts-and-shanties-pct": 2.8
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-housing-units": 186697.0,
+      "huts-and-shanties": 852.0,
+      "huts-and-shanties-pct": 0.5
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-housing-units": 90999.0,
+      "huts-and-shanties": 503.0,
+      "huts-and-shanties-pct": 0.6
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-housing-units": 185268.0,
+      "huts-and-shanties": 783.0,
+      "huts-and-shanties-pct": 0.4
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-housing-units": 95966.0,
+      "huts-and-shanties": 743.0,
+      "huts-and-shanties-pct": 0.8
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-housing-units": 242882.0,
+      "huts-and-shanties": 745.0,
+      "huts-and-shanties-pct": 0.3
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-housing-units": 193578.0,
+      "huts-and-shanties": 836.0,
+      "huts-and-shanties-pct": 0.4
+    }
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "population-aged-5-years-and-over": 15489928.0,
+      "completed-primary-education-passed-year-1-5-pct": 22.2,
+      "completed-lower-secondary-passed-year-6-8-pct": 18.6,
+      "completed-upper-secondary-passed-year-9-11-pct": 39.8,
+      "completed-tertiary-education-passed-gce-al-above-pct": 10.6
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "population-aged-5-years-and-over": 2084770.0,
+      "completed-primary-education-passed-year-1-5-pct": 15.0,
+      "completed-lower-secondary-passed-year-6-8-pct": 15.3,
+      "completed-upper-secondary-passed-year-9-11-pct": 44.3,
+      "completed-tertiary-education-passed-gce-al-above-pct": 17.7
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "population-aged-5-years-and-over": 1898061.0,
+      "completed-primary-education-passed-year-1-5-pct": 15.9,
+      "completed-lower-secondary-passed-year-6-8-pct": 16.9,
+      "completed-upper-secondary-passed-year-9-11-pct": 48.6,
+      "completed-tertiary-education-passed-gce-al-above-pct": 13.3
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "population-aged-5-years-and-over": 977738.0,
+      "completed-primary-education-passed-year-1-5-pct": 19.5,
+      "completed-lower-secondary-passed-year-6-8-pct": 18.3,
+      "completed-upper-secondary-passed-year-9-11-pct": 43.6,
+      "completed-tertiary-education-passed-gce-al-above-pct": 11.4
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "population-aged-5-years-and-over": 1169643.0,
+      "completed-primary-education-passed-year-1-5-pct": 21.6,
+      "completed-lower-secondary-passed-year-6-8-pct": 17.9,
+      "completed-upper-secondary-passed-year-9-11-pct": 39.4,
+      "completed-tertiary-education-passed-gce-al-above-pct": 12.1
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "population-aged-5-years-and-over": 402289.0,
+      "completed-primary-education-passed-year-1-5-pct": 25.2,
+      "completed-lower-secondary-passed-year-6-8-pct": 19.7,
+      "completed-upper-secondary-passed-year-9-11-pct": 37.8,
+      "completed-tertiary-education-passed-gce-al-above-pct": 8.4
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "population-aged-5-years-and-over": 638168.0,
+      "completed-primary-education-passed-year-1-5-pct": 29.8,
+      "completed-lower-secondary-passed-year-6-8-pct": 19.6,
+      "completed-upper-secondary-passed-year-9-11-pct": 27.9,
+      "completed-tertiary-education-passed-gce-al-above-pct": 5.0
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "population-aged-5-years-and-over": 904949.0,
+      "completed-primary-education-passed-year-1-5-pct": 22.5,
+      "completed-lower-secondary-passed-year-6-8-pct": 19.3,
+      "completed-upper-secondary-passed-year-9-11-pct": 40.5,
+      "completed-tertiary-education-passed-gce-al-above-pct": 10.4
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "population-aged-5-years-and-over": 695785.0,
+      "completed-primary-education-passed-year-1-5-pct": 23.9,
+      "completed-lower-secondary-passed-year-6-8-pct": 18.8,
+      "completed-upper-secondary-passed-year-9-11-pct": 38.5,
+      "completed-tertiary-education-passed-gce-al-above-pct": 10.2
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "population-aged-5-years-and-over": 480166.0,
+      "completed-primary-education-passed-year-1-5-pct": 26.7,
+      "completed-lower-secondary-passed-year-6-8-pct": 19.6,
+      "completed-upper-secondary-passed-year-9-11-pct": 36.9,
+      "completed-tertiary-education-passed-gce-al-above-pct": 7.6
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "population-aged-5-years-and-over": 530936.0,
+      "completed-primary-education-passed-year-1-5-pct": 31.0,
+      "completed-lower-secondary-passed-year-6-8-pct": 19.8,
+      "completed-upper-secondary-passed-year-9-11-pct": 29.6,
+      "completed-tertiary-education-passed-gce-al-above-pct": 7.3
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "population-aged-5-years-and-over": 1342047.0,
+      "completed-primary-education-passed-year-1-5-pct": 22.6,
+      "completed-lower-secondary-passed-year-6-8-pct": 19.8,
+      "completed-upper-secondary-passed-year-9-11-pct": 40.4,
+      "completed-tertiary-education-passed-gce-al-above-pct": 10.1
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "population-aged-5-years-and-over": 639836.0,
+      "completed-primary-education-passed-year-1-5-pct": 27.3,
+      "completed-lower-secondary-passed-year-6-8-pct": 23.6,
+      "completed-upper-secondary-passed-year-9-11-pct": 34.1,
+      "completed-tertiary-education-passed-gce-al-above-pct": 6.8
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "population-aged-5-years-and-over": 677088.0,
+      "completed-primary-education-passed-year-1-5-pct": 25.5,
+      "completed-lower-secondary-passed-year-6-8-pct": 20.5,
+      "completed-upper-secondary-passed-year-9-11-pct": 39.0,
+      "completed-tertiary-education-passed-gce-al-above-pct": 7.2
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "population-aged-5-years-and-over": 327710.0,
+      "completed-primary-education-passed-year-1-5-pct": 27.9,
+      "completed-lower-secondary-passed-year-6-8-pct": 20.5,
+      "completed-upper-secondary-passed-year-9-11-pct": 36.8,
+      "completed-tertiary-education-passed-gce-al-above-pct": 6.5
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "population-aged-5-years-and-over": 706552.0,
+      "completed-primary-education-passed-year-1-5-pct": 26.3,
+      "completed-lower-secondary-passed-year-6-8-pct": 18.9,
+      "completed-upper-secondary-passed-year-9-11-pct": 33.5,
+      "completed-tertiary-education-passed-gce-al-above-pct": 7.7
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "population-aged-5-years-and-over": 360308.0,
+      "completed-primary-education-passed-year-1-5-pct": 28.5,
+      "completed-lower-secondary-passed-year-6-8-pct": 20.2,
+      "completed-upper-secondary-passed-year-9-11-pct": 34.7,
+      "completed-tertiary-education-passed-gce-al-above-pct": 5.9
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "population-aged-5-years-and-over": 933061.0,
+      "completed-primary-education-passed-year-1-5-pct": 25.9,
+      "completed-lower-secondary-passed-year-6-8-pct": 19.6,
+      "completed-upper-secondary-passed-year-9-11-pct": 36.0,
+      "completed-tertiary-education-passed-gce-al-above-pct": 7.6
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "population-aged-5-years-and-over": 720821.0,
+      "completed-primary-education-passed-year-1-5-pct": 22.0,
+      "completed-lower-secondary-passed-year-6-8-pct": 18.4,
+      "completed-upper-secondary-passed-year-9-11-pct": 41.0,
+      "completed-tertiary-education-passed-gce-al-above-pct": 10.1
+    }
+  }
+]

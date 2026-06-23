@@ -1,0 +1,382 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-population": 16929689.0,
+      "total-population-pct": 100.0,
+      "buddhist": 12986548.0,
+      "buddhist-pct": 76.7,
+      "hindu": 1312970.0,
+      "hindu-pct": 7.8,
+      "islam": 1435896.0,
+      "islam-pct": 8.5,
+      "roman-catholic": 1035740.0,
+      "roman-catholic-pct": 6.1,
+      "other-christian": 150182.0,
+      "other-christian-pct": 0.9,
+      "other": 8353.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-population": 2251274.0,
+      "total-population-pct": 100.0,
+      "buddhist": 1578246.0,
+      "buddhist-pct": 70.1,
+      "hindu": 194743.0,
+      "hindu-pct": 8.7,
+      "islam": 241944.0,
+      "islam-pct": 10.7,
+      "roman-catholic": 181920.0,
+      "roman-catholic-pct": 8.1,
+      "other-christian": 51334.0,
+      "other-christian-pct": 2.3,
+      "other": 3087.0,
+      "other-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-population": 2063684.0,
+      "total-population-pct": 100.0,
+      "buddhist": 1479955.0,
+      "buddhist-pct": 71.7,
+      "hindu": 42356.0,
+      "hindu-pct": 2.1,
+      "islam": 93496.0,
+      "islam-pct": 4.5,
+      "roman-catholic": 418286.0,
+      "roman-catholic-pct": 20.3,
+      "other-christian": 28361.0,
+      "other-christian-pct": 1.4,
+      "other": 1230.0,
+      "other-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-population": 1066239.0,
+      "total-population-pct": 100.0,
+      "buddhist": 883968.0,
+      "buddhist-pct": 82.9,
+      "hindu": 34678.0,
+      "hindu-pct": 3.3,
+      "islam": 105957.0,
+      "islam-pct": 9.9,
+      "roman-catholic": 36176.0,
+      "roman-catholic-pct": 3.4,
+      "other-christian": 5038.0,
+      "other-christian-pct": 0.5,
+      "other": 422.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-population": 1279028.0,
+      "total-population-pct": 100.0,
+      "buddhist": 937001.0,
+      "buddhist-pct": 73.3,
+      "hindu": 134438.0,
+      "hindu-pct": 10.5,
+      "islam": 173590.0,
+      "islam-pct": 13.6,
+      "roman-catholic": 23232.0,
+      "roman-catholic-pct": 1.8,
+      "other-christian": 10330.0,
+      "other-christian-pct": 0.8,
+      "other": 437.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-population": 441328.0,
+      "total-population-pct": 100.0,
+      "buddhist": 348762.0,
+      "buddhist-pct": 79.0,
+      "hindu": 42433.0,
+      "hindu-pct": 9.6,
+      "islam": 39980.0,
+      "islam-pct": 9.1,
+      "roman-catholic": 8400.0,
+      "roman-catholic-pct": 1.9,
+      "other-christian": 1703.0,
+      "other-christian-pct": 0.4,
+      "other": 50.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-population": 703610.0,
+      "total-population-pct": 100.0,
+      "buddhist": 279139.0,
+      "buddhist-pct": 39.7,
+      "hindu": 359135.0,
+      "hindu-pct": 51.0,
+      "islam": 19099.0,
+      "islam-pct": 2.7,
+      "roman-catholic": 35008.0,
+      "roman-catholic-pct": 5.0,
+      "other-christian": 10741.0,
+      "other-christian-pct": 1.5,
+      "other": 488.0,
+      "other-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-population": 990487.0,
+      "total-population-pct": 100.0,
+      "buddhist": 932331.0,
+      "buddhist-pct": 94.1,
+      "hindu": 14934.0,
+      "hindu-pct": 1.5,
+      "islam": 35100.0,
+      "islam-pct": 3.5,
+      "roman-catholic": 4568.0,
+      "roman-catholic-pct": 0.5,
+      "other-christian": 3378.0,
+      "other-christian-pct": 0.3,
+      "other": 176.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-population": 761370.0,
+      "total-population-pct": 100.0,
+      "buddhist": 716710.0,
+      "buddhist-pct": 94.1,
+      "hindu": 17339.0,
+      "hindu-pct": 2.3,
+      "islam": 22481.0,
+      "islam-pct": 3.0,
+      "roman-catholic": 2703.0,
+      "roman-catholic-pct": 0.4,
+      "other-christian": 2001.0,
+      "other-christian-pct": 0.3,
+      "other": 136.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-population": 526414.0,
+      "total-population-pct": 100.0,
+      "buddhist": 509987.0,
+      "buddhist-pct": 96.9,
+      "hindu": 1369.0,
+      "hindu-pct": 0.3,
+      "islam": 13076.0,
+      "islam-pct": 2.5,
+      "roman-catholic": 924.0,
+      "roman-catholic-pct": 0.2,
+      "other-christian": 949.0,
+      "other-christian-pct": 0.2,
+      "other": 109.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-population": 592997.0,
+      "total-population-pct": 100.0,
+      "buddhist": 235652.0,
+      "buddhist-pct": 39.7,
+      "hindu": 100213.0,
+      "hindu-pct": 16.9,
+      "islam": 245179.0,
+      "islam-pct": 41.3,
+      "roman-catholic": 7816.0,
+      "roman-catholic-pct": 1.3,
+      "other-christian": 3969.0,
+      "other-christian-pct": 0.7,
+      "other": 168.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-population": 1460215.0,
+      "total-population-pct": 100.0,
+      "buddhist": 1300539.0,
+      "buddhist-pct": 89.1,
+      "hindu": 13303.0,
+      "hindu-pct": 0.9,
+      "islam": 98223.0,
+      "islam-pct": 6.7,
+      "roman-catholic": 40680.0,
+      "roman-catholic-pct": 2.8,
+      "other-christian": 6960.0,
+      "other-christian-pct": 0.5,
+      "other": 510.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-population": 709677.0,
+      "total-population-pct": 100.0,
+      "buddhist": 308273.0,
+      "buddhist-pct": 43.4,
+      "hindu": 29482.0,
+      "hindu-pct": 4.2,
+      "islam": 134643.0,
+      "islam-pct": 19.0,
+      "roman-catholic": 229966.0,
+      "roman-catholic-pct": 32.4,
+      "other-christian": 6830.0,
+      "other-christian-pct": 1.0,
+      "other": 483.0,
+      "other-pct": 0.1
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-population": 745693.0,
+      "total-population-pct": 100.0,
+      "buddhist": 670963.0,
+      "buddhist-pct": 90.0,
+      "hindu": 3459.0,
+      "hindu-pct": 0.5,
+      "islam": 62797.0,
+      "islam-pct": 8.4,
+      "roman-catholic": 6266.0,
+      "roman-catholic-pct": 0.8,
+      "other-christian": 2073.0,
+      "other-christian-pct": 0.3,
+      "other": 135.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-population": 358984.0,
+      "total-population-pct": 100.0,
+      "buddhist": 320491.0,
+      "buddhist-pct": 89.3,
+      "hindu": 6592.0,
+      "hindu-pct": 1.8,
+      "islam": 27225.0,
+      "islam-pct": 7.6,
+      "roman-catholic": 3883.0,
+      "roman-catholic-pct": 1.1,
+      "other-christian": 691.0,
+      "other-christian-pct": 0.2,
+      "other": 102.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-population": 779983.0,
+      "total-population-pct": 100.0,
+      "buddhist": 561510.0,
+      "buddhist-pct": 72.0,
+      "hindu": 158473.0,
+      "hindu-pct": 20.3,
+      "islam": 41347.0,
+      "islam-pct": 5.3,
+      "roman-catholic": 13236.0,
+      "roman-catholic-pct": 1.7,
+      "other-christian": 5242.0,
+      "other-christian-pct": 0.7,
+      "other": 175.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-population": 397375.0,
+      "total-population-pct": 100.0,
+      "buddhist": 375252.0,
+      "buddhist-pct": 94.4,
+      "hindu": 11623.0,
+      "hindu-pct": 2.9,
+      "islam": 8183.0,
+      "islam-pct": 2.1,
+      "roman-catholic": 1583.0,
+      "roman-catholic-pct": 0.4,
+      "other-christian": 681.0,
+      "other-christian-pct": 0.2,
+      "other": 53.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-population": 1015807.0,
+      "total-population-pct": 100.0,
+      "buddhist": 880151.0,
+      "buddhist-pct": 86.6,
+      "hindu": 96738.0,
+      "hindu-pct": 9.5,
+      "islam": 21901.0,
+      "islam-pct": 2.2,
+      "roman-catholic": 11728.0,
+      "roman-catholic-pct": 1.2,
+      "other-christian": 4924.0,
+      "other-christian-pct": 0.5,
+      "other": 365.0,
+      "other-pct": 0.0
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-population": 785524.0,
+      "total-population-pct": 100.0,
+      "buddhist": 667618.0,
+      "buddhist-pct": 85.0,
+      "hindu": 51662.0,
+      "hindu-pct": 6.6,
+      "islam": 51675.0,
+      "islam-pct": 6.6,
+      "roman-catholic": 9365.0,
+      "roman-catholic-pct": 1.2,
+      "other-christian": 4977.0,
+      "other-christian-pct": 0.6,
+      "other": 227.0,
+      "other-pct": 0.0
+    }
+  }
+]

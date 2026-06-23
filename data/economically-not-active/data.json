@@ -1,0 +1,230 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 7413175.0,
+      "students-pct": 34.2,
+      "unable-or-too-old-to-work-pct": 8.2,
+      "pension-recipients-and-pensioners-pct": 3.7,
+      "household-work-pct": 44.7,
+      "others-pct": 9.3
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 974012.0,
+      "students-pct": 29.1,
+      "unable-or-too-old-to-work-pct": 6.5,
+      "pension-recipients-and-pensioners-pct": 5.8,
+      "household-work-pct": 47.8,
+      "others-pct": 10.7
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 903634.0,
+      "students-pct": 29.1,
+      "unable-or-too-old-to-work-pct": 7.2,
+      "pension-recipients-and-pensioners-pct": 5.2,
+      "household-work-pct": 49.2,
+      "others-pct": 9.3
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 485711.0,
+      "students-pct": 30.4,
+      "unable-or-too-old-to-work-pct": 8.8,
+      "pension-recipients-and-pensioners-pct": 4.2,
+      "household-work-pct": 46.7,
+      "others-pct": 9.9
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 598478.0,
+      "students-pct": 35.6,
+      "unable-or-too-old-to-work-pct": 7.6,
+      "pension-recipients-and-pensioners-pct": 4.1,
+      "household-work-pct": 43.7,
+      "others-pct": 9.0
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 192017.0,
+      "students-pct": 35.7,
+      "unable-or-too-old-to-work-pct": 8.6,
+      "pension-recipients-and-pensioners-pct": 3.1,
+      "household-work-pct": 44.7,
+      "others-pct": 7.9
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 265316.0,
+      "students-pct": 40.1,
+      "unable-or-too-old-to-work-pct": 12.0,
+      "pension-recipients-and-pensioners-pct": 3.8,
+      "household-work-pct": 32.2,
+      "others-pct": 11.8
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 454606.0,
+      "students-pct": 34.0,
+      "unable-or-too-old-to-work-pct": 9.2,
+      "pension-recipients-and-pensioners-pct": 3.6,
+      "household-work-pct": 43.7,
+      "others-pct": 9.4
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 350275.0,
+      "students-pct": 37.0,
+      "unable-or-too-old-to-work-pct": 9.7,
+      "pension-recipients-and-pensioners-pct": 3.0,
+      "household-work-pct": 42.9,
+      "others-pct": 7.4
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 240681.0,
+      "students-pct": 38.3,
+      "unable-or-too-old-to-work-pct": 8.8,
+      "pension-recipients-and-pensioners-pct": 1.8,
+      "household-work-pct": 43.1,
+      "others-pct": 8.1
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 279542.0,
+      "students-pct": 35.7,
+      "unable-or-too-old-to-work-pct": 7.1,
+      "pension-recipients-and-pensioners-pct": 1.3,
+      "household-work-pct": 46.9,
+      "others-pct": 9.0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 651584.0,
+      "students-pct": 34.7,
+      "unable-or-too-old-to-work-pct": 8.7,
+      "pension-recipients-and-pensioners-pct": 2.9,
+      "household-work-pct": 45.8,
+      "others-pct": 7.8
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 317413.0,
+      "students-pct": 31.2,
+      "unable-or-too-old-to-work-pct": 7.7,
+      "pension-recipients-and-pensioners-pct": 2.4,
+      "household-work-pct": 49.3,
+      "others-pct": 9.4
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 298176.0,
+      "students-pct": 39.6,
+      "unable-or-too-old-to-work-pct": 7.4,
+      "pension-recipients-and-pensioners-pct": 2.5,
+      "household-work-pct": 41.7,
+      "others-pct": 8.8
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 145059.0,
+      "students-pct": 36.9,
+      "unable-or-too-old-to-work-pct": 6.2,
+      "pension-recipients-and-pensioners-pct": 2.0,
+      "household-work-pct": 45.9,
+      "others-pct": 9.1
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 307311.0,
+      "students-pct": 41.8,
+      "unable-or-too-old-to-work-pct": 9.3,
+      "pension-recipients-and-pensioners-pct": 3.4,
+      "household-work-pct": 35.7,
+      "others-pct": 9.8
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 159918.0,
+      "students-pct": 44.2,
+      "unable-or-too-old-to-work-pct": 7.9,
+      "pension-recipients-and-pensioners-pct": 1.5,
+      "household-work-pct": 37.7,
+      "others-pct": 8.7
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 427657.0,
+      "students-pct": 37.1,
+      "unable-or-too-old-to-work-pct": 9.0,
+      "pension-recipients-and-pensioners-pct": 2.2,
+      "household-work-pct": 41.5,
+      "others-pct": 10.1
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "usually-not-economically-active-population-aged-10-years-and-over": 361785.0,
+      "students-pct": 32.7,
+      "unable-or-too-old-to-work-pct": 9.4,
+      "pension-recipients-and-pensioners-pct": 3.3,
+      "household-work-pct": 45.2,
+      "others-pct": 9.4
+    }
+  }
+]

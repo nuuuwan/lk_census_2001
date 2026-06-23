@@ -67,15 +67,23 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
     def parse_raw_data_row(self, data, headers) -> dict:
         values = {}
         region_id, region_name = None, None
+        row_id = None
         for i_header, header in enumerate(headers):
             if header == "district":
                 region_id, region_name = RegionUtils.parse(data[i_header])
+                continue
+
+            if i_header == 0:
+                row_id = str(data[i_header]).strip().lower()
                 continue
 
             value = data[i_header]
             values[header] = self.parse_float(value)
 
         if len(headers) != len(values.keys()) + 1:
+            log.error(f"{headers=}")
+            log.error(f"value.keys()={values.keys()}")
+            log.error(f"{values=}")
             raise ValueError(
                 f"Header/data length mismatch: {len(headers)} headers vs "
                 + f"{len(values.keys())} values"
@@ -85,6 +93,13 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
             data = dict(
                 region_id=region_id,
                 region_name=region_name,
+                values=values,
+            )
+            return data
+
+        if row_id:
+            data = dict(
+                row_id=row_id,
                 values=values,
             )
             return data
@@ -100,7 +115,6 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
         headers = self.get_custom_headers() or self.build_headers(
             raw_header_rows
         )
-        log.debug(f"{headers=}")
 
         if len(headers) == 0:
             log.warning(f"No header rows found in raw data for {self.doc_id}")
@@ -112,9 +126,8 @@ class OriginalDocDataMixin(OriginalDocDataConstanstsMixin):
             if data:
                 data_list.append(data)
 
-        if len(data_list) == 0:
-            log.warning(f"No data rows parsed for {self.doc_id}")
-            return
+        if len(data_list) < 10:
+            raise ValueError(f"Not enough rows in data: {len(data_list)}")
 
         data_file = JSONFile(self.data_file_path)
         data_file.write(data_list)

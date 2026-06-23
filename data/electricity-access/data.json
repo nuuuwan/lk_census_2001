@@ -1,0 +1,287 @@
+[
+  {
+    "region_id": "total",
+    "region_name": "District-Total",
+    "values": {
+      "total-occupied-housing-units": 4054186.0,
+      "using-electricity": 2578119.0,
+      "using-electricity-pct": 63.6,
+      "urban": 436341.0,
+      "urban-pct": 85.3,
+      "rural": 2057529.0,
+      "rural-pct": 62.0,
+      "estate": 84249.0,
+      "estate-pct": 37.9
+    }
+  },
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "values": {
+      "total-occupied-housing-units": 493085.0,
+      "using-electricity": 423904.0,
+      "using-electricity-pct": 86.0,
+      "urban": 216179.0,
+      "urban-pct": 84.9,
+      "rural": 207059.0,
+      "rural-pct": 87.5,
+      "estate": 666.0,
+      "estate-pct": 35.8
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "values": {
+      "total-occupied-housing-units": 487184.0,
+      "using-electricity": 404326.0,
+      "using-electricity-pct": 83.0,
+      "urban": 55514.0,
+      "urban-pct": 86.4,
+      "rural": 348772.0,
+      "rural-pct": 82.5,
+      "estate": 40.0,
+      "estate-pct": 19.2
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "values": {
+      "total-occupied-housing-units": 250939.0,
+      "using-electricity": 180218.0,
+      "using-electricity-pct": 71.8,
+      "urban": 19544.0,
+      "urban-pct": 88.8,
+      "rural": 158303.0,
+      "rural-pct": 72.2,
+      "estate": 2371.0,
+      "estate-pct": 24.7
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "values": {
+      "total-occupied-housing-units": 299870.0,
+      "using-electricity": 211288.0,
+      "using-electricity-pct": 70.5,
+      "urban": 28068.0,
+      "urban-pct": 88.6,
+      "rural": 176395.0,
+      "rural-pct": 72.0,
+      "estate": 6825.0,
+      "estate-pct": 29.4
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "values": {
+      "total-occupied-housing-units": 110886.0,
+      "using-electricity": 56044.0,
+      "using-electricity-pct": 50.5,
+      "urban": 6492.0,
+      "urban-pct": 87.0,
+      "rural": 48222.0,
+      "rural-pct": 49.3,
+      "estate": 1330.0,
+      "estate-pct": 23.5
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "values": {
+      "total-occupied-housing-units": 169540.0,
+      "using-electricity": 91011.0,
+      "using-electricity-pct": 53.7,
+      "urban": 7823.0,
+      "urban-pct": 82.0,
+      "rural": 42723.0,
+      "rural-pct": 59.8,
+      "estate": 40465.0,
+      "estate-pct": 45.7
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "values": {
+      "total-occupied-housing-units": 233027.0,
+      "using-electricity": 169169.0,
+      "using-electricity-pct": 72.6,
+      "urban": 18775.0,
+      "urban-pct": 88.3,
+      "rural": 148906.0,
+      "rural-pct": 71.8,
+      "estate": 1488.0,
+      "estate-pct": 34.4
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "values": {
+      "total-occupied-housing-units": 177613.0,
+      "using-electricity": 127062.0,
+      "using-electricity-pct": 71.5,
+      "urban": 12054.0,
+      "urban-pct": 91.5,
+      "rural": 113638.0,
+      "rural-pct": 71.1,
+      "estate": 1370.0,
+      "estate-pct": 29.0
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "values": {
+      "total-occupied-housing-units": 128008.0,
+      "using-electricity": 62187.0,
+      "using-electricity-pct": 48.6,
+      "urban": 3932.0,
+      "urban-pct": 86.9,
+      "rural": 58175.0,
+      "rural-pct": 47.1,
+      "estate": 80.0,
+      "estate-pct": 92.0
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "values": {
+      "total-occupied-housing-units": 137741.0,
+      "using-electricity": 68666.0,
+      "using-electricity-pct": 49.9,
+      "urban": 18908.0,
+      "urban-pct": 75.3,
+      "rural": 49758.0,
+      "rural-pct": 44.2,
+      "estate": 0,
+      "estate-pct": 0
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "values": {
+      "total-occupied-housing-units": 380213.0,
+      "using-electricity": 193960.0,
+      "using-electricity-pct": 51.0,
+      "urban": 5557.0,
+      "urban-pct": 85.3,
+      "rural": 187929.0,
+      "rural-pct": 50.5,
+      "estate": 474.0,
+      "estate-pct": 26.4
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "values": {
+      "total-occupied-housing-units": 176544.0,
+      "using-electricity": 92427.0,
+      "using-electricity-pct": 52.4,
+      "urban": 11060.0,
+      "urban-pct": 77.8,
+      "rural": 81021.0,
+      "rural-pct": 50.1,
+      "estate": 346.0,
+      "estate-pct": 55.5
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "values": {
+      "total-occupied-housing-units": 189699.0,
+      "using-electricity": 92148.0,
+      "using-electricity-pct": 48.6,
+      "urban": 9458.0,
+      "urban-pct": 85.7,
+      "rural": 82492.0,
+      "rural-pct": 46.2,
+      "estate": 198.0,
+      "estate-pct": 81.8
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "values": {
+      "total-occupied-housing-units": 91718.0,
+      "using-electricity": 41399.0,
+      "using-electricity-pct": 45.1,
+      "urban": 0,
+      "urban-pct": 0,
+      "rural": 41308.0,
+      "rural-pct": 45.1,
+      "estate": 91.0,
+      "estate-pct": 92.9
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "values": {
+      "total-occupied-housing-units": 189925.0,
+      "using-electricity": 111962.0,
+      "using-electricity-pct": 59.0,
+      "urban": 9616.0,
+      "urban-pct": 88.6,
+      "rural": 83170.0,
+      "rural-pct": 59.6,
+      "estate": 19176.0,
+      "estate-pct": 48.5
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Moneragala",
+    "values": {
+      "total-occupied-housing-units": 96598.0,
+      "using-electricity": 30511.0,
+      "using-electricity-pct": 31.6,
+      "urban": 0,
+      "urban-pct": 0,
+      "rural": 29836.0,
+      "rural-pct": 31.6,
+      "estate": 675.0,
+      "estate-pct": 29.3
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "values": {
+      "total-occupied-housing-units": 245743.0,
+      "using-electricity": 110948.0,
+      "using-electricity-pct": 45.1,
+      "urban": 10334.0,
+      "urban-pct": 85.7,
+      "rural": 95129.0,
+      "rural-pct": 45.7,
+      "estate": 5485.0,
+      "estate-pct": 21.4
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "values": {
+      "total-occupied-housing-units": 195853.0,
+      "using-electricity": 110889.0,
+      "using-electricity-pct": 56.6,
+      "urban": 3027.0,
+      "urban-pct": 87.6,
+      "rural": 104693.0,
+      "rural-pct": 58.7,
+      "estate": 3169.0,
+      "estate-pct": 22.7
+    }
+  }
+]
