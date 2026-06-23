@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/housing-density/data.json)
-- [📄 TSV Data](../../data/housing-density/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/housing-density/raw_data.json)
-- [📜 Original PDF](../../data/housing-density/original.pdf)
+- [📄 JSON Data](../../data/room-count/data.json)
+- [📄 TSV Data](../../data/room-count/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/room-count/raw_data.json)
+- [📜 Original PDF](../../data/room-count/original.pdf)
 
 ## Example JSON Row
 

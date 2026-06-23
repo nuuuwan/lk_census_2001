@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/industry-employment/data.json)
-- [📄 TSV Data](../../data/industry-employment/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/industry-employment/raw_data.json)
-- [📜 Original PDF](../../data/industry-employment/original.pdf)
+- [📄 JSON Data](../../data/employment-by-industry/data.json)
+- [📄 TSV Data](../../data/employment-by-industry/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/employment-by-industry/raw_data.json)
+- [📜 Original PDF](../../data/employment-by-industry/original.pdf)
 
 ## Example JSON Row
 

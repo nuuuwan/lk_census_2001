@@ -4,10 +4,10 @@
 
 ## File Formats
 
-- [📄 JSON Data](../../data/inactive-population/data.json)
-- [📄 TSV Data](../../data/inactive-population/data.tsv)
-- [📄 Raw JSON Data from Original](../../data/inactive-population/raw_data.json)
-- [📜 Original PDF](../../data/inactive-population/original.pdf)
+- [📄 JSON Data](../../data/economically-not-active/data.json)
+- [📄 TSV Data](../../data/economically-not-active/data.tsv)
+- [📄 Raw JSON Data from Original](../../data/economically-not-active/raw_data.json)
+- [📜 Original PDF](../../data/economically-not-active/original.pdf)
 
 ## Example JSON Row
 

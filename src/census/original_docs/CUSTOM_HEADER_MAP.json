@@ -236,7 +236,7 @@
     "female-headed-households",
     "female-headed-households-pct"
   ],
-  "housing-density": [
+  "room-count": [
     "district",
     "total-occupied-housing-units",
     "permanent",
@@ -259,11 +259,11 @@
     "district",
     "total-occupied-housing-units",
     "permanent",
-    "permanent",
+    "permanent-pct",
     "semi-permanent",
-    "semi-permanent",
+    "semi-permanent-pct",
     "improvised",
-    "improvised"
+    "improvised-pct"
   ],
   "housing-units": [
     "district",
@@ -272,16 +272,16 @@
     "rural",
     "estate"
   ],
-  "inactive-population": [
+  "economically-not-active": [
     "district",
-    "aged-10-years-and-over",
-    "students",
-    "unable-to-work",
-    "pension-recipients-and-pensioners",
-    "household-work",
-    "others"
+    "usually-not-economically-active-population-aged-10-years-and-over",
+    "students-pct",
+    "unable-or-too-old-to-work-pct",
+    "pension-recipients-and-pensioners-pct",
+    "household-work-pct",
+    "others-pct"
   ],
-  "industry-employment": [
+  "employment-by-industry": [
     "district",
     "total-employed-population",
     "agriculture-and-forestry",
@@ -300,9 +300,9 @@
     "health-and-social-work",
     "other-community-social-and-personal-service-activities",
     "private-households-with-employed-persons",
-    "activities-of-extraterritorial-organisations",
-    "not-classified",
-    "not-stated"
+    "activitextraterritorial-organisations-and-bodies",
+    "industry-in-elementary-occupations-unidentifiable-or-inadequate",
+    "works-reporting-industry-unidentifiable-or-inadequate"
   ],
   "informal-housing": [
     "district",
